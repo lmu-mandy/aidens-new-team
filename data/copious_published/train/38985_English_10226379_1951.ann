@@ -1,0 +1,30 @@
+T1	GeographicalLocation 75 90	South China Sea
+T2	Taxon 2164 2179	Formosan waters
+T3	GeographicalLocation 2185 2200	South China Sea
+T4	TemporalExpression 2265 2268	May
+T5	TemporalExpression 2299 2303	19A3
+T6	GeographicalLocation 2524 2544	East Philippines Sea
+T7	TemporalExpression 2810 2815	April
+T8	TemporalExpression 2820 2823	May
+T9	GeographicalLocation 2841 2846	Annam
+T10	GeographicalLocation 2984 3001	Greater East Asia
+T11	Taxon 20 28	sailfish
+T12	GeographicalLocation 59 66	Pacific
+T13	Taxon 2901 2906	tunas
+T14	Taxon 2911 2922	spearfishes
+T15	GeographicalLocation 2850 2859	Hainan lo
+T16	TemporalExpression 136 140	June
+T17	Taxon 429 437	goldfish
+T18	Taxon 503 510	herring
+T19	Taxon 512 524	lith herring
+T20	Taxon 664 671	herring
+T21	Habitat 708 715	pelagic
+T22	Taxon 816 827	spearfishes
+T23	Taxon 1994 2005	true marlin
+T24	TemporalExpression 2452 2455	May
+T25	Taxon 2465 2477	black marlin
+T26	Taxon 2480 2486	mazara
+T27	Taxon 2636 2648	white marlin
+T28	Taxon 2650 2660	M. marlina
+T29	Taxon 2006 2019	Mo mitsukurii
+T30	GeographicalLocation 2244 2261	Takao fish market

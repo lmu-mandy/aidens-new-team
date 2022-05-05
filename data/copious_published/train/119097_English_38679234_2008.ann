@@ -1,0 +1,43 @@
+T1	GeographicalLocation 220 234	Southeast Asia
+T2	GeographicalLocation 691 706	South-east Asia
+T3	GeographicalLocation 1020 1034	Southeast Asia
+T4	GeographicalLocation 1142 1156	Southeast Asia
+T5	GeographicalLocation 1588 1602	Southeast Asia
+T6	GeographicalLocation 2551 2559	Sulawesi
+T7	GeographicalLocation 2626 2637	celebes Sea
+T8	GeographicalLocation 2677 2686	Indonesia
+T9	GeographicalLocation 2688 2696	Malaysia
+T10	GeographicalLocation 2705 2716	Philippines
+T11	GeographicalLocation 3038 3042	Sulu
+T12	GeographicalLocation 3043 3051	Sulawesi
+T13	GeographicalLocation 3170 3179	Indonesia
+T14	GeographicalLocation 3181 3189	Malaysia
+T15	GeographicalLocation 3198 3209	Philippines
+T16	GeographicalLocation 3487 3500	Cagayan Ridge
+T17	GeographicalLocation 3506 3520	Balabac Strait
+T18	TemporalExpression 51 55	2002
+T19	GeographicalLocation 21 35	SOUTHEAST ASIA
+T20	TemporalExpression 235 239	2002
+T21	TemporalExpression 240 244	2012
+T22	Habitat 3793 3800	Coastal
+T23	Habitat 3805 3811	Marine
+T24	TemporalExpression 3119 3123	2004
+T25	GeographicalLocation 621 625	Bali
+T26	TemporalExpression 816 820	2008
+T27	GeographicalLocation 837 841	Bali
+T28	TemporalExpression 1497 1501	2012
+T29	Habitat 1753 1760	coastal
+T30	Habitat 1765 1772	oceanic
+T31	Taxon 2086 2095	cetaceans
+T32	GeographicalLocation 2448 2452	SULU
+T33	GeographicalLocation 2453 2461	SUUWUESI
+T34	GeographicalLocation 2546 2550	Sulu
+T35	GeographicalLocation 2621 2625	Sulu
+T36	TemporalExpression 2854 2858	2003
+T37	GeographicalLocation 2867 2878	Philippines
+T38	TemporalExpression 2884 2888	2003
+T39	TemporalExpression 3109 3113	2004
+T40	GeographicalLocation 3450 3481	Trinational Sea Turtle Corridor
+T41	GeographicalLocation 3530 3550	Verde Island Passage
+T42	GeographicalLocation 4101 4119	Great Barrier Reef
+T43	GeographicalLocation 4123 4132	Australia

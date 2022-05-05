@@ -1,0 +1,52 @@
+T1	Taxon 0 6	Shorea
+T2	Taxon 14 30	DIPTEROCARPACEAE
+T3	Taxon 967 977	S. robusta
+T4	Taxon 967 986	S. robusta, Gaertn.
+T5	Taxon 1065 1068	Sal
+T6	Taxon 1065 1068	Sal
+T7	Taxon 1086 1091	sakhu
+T8	Taxon 1099 1104	Koroh
+T9	Taxon 1112 1117	Sarei
+T10	Taxon 1119 1125	rinjal
+T11	Taxon 1134 1140	Sarjom
+T12	Taxon 1147 1152	Salwa
+T13	Taxon 1154 1162	soringhi
+T14	Taxon 1172 1177	Gugal
+T15	Taxon 1962 1965	Sal
+T16	GeographicalLocation 2034 2048	Gangetic plain
+T17	Habitat 2066 2083	subhimalayan belt
+T18	GeographicalLocation 2101 2114	Kangra valley
+T19	GeographicalLocation 2122 2128	Punjab
+T20	GeographicalLocation 2136 2143	Darrang
+T21	GeographicalLocation 2148 2155	Nowgong
+T22	GeographicalLocation 2169 2174	Assam
+T23	GeographicalLocation 2252 2270	Brahmaputra valley
+T24	GeographicalLocation 2333 2346	Central India
+T25	GeographicalLocation 2369 2379	Coromandel
+T26	Habitat 2380 2385	coast
+T27	GeographicalLocation 2398 2407	Pachmarhi
+T28	Habitat 2408 2423	sandstone hills
+T29	GeographicalLocation 2442 2456	Godavari river
+T30	TemporalExpression 2509 2514	March
+T31	TemporalExpression 2552 2556	June
+T32	Taxon 2624 2637	S. Tumbuggaia
+T33	Taxon 2624 2644	S. Tumbuggaia, Roxb.
+T34	Taxon 2675 2692	Vatica Tumbuggaia
+T35	Taxon 2675 2707	Vatica Tumbuggaia, Wight et Arn.
+T36	Taxon 2732 2737	Tamba
+T37	Taxon 2739 2745	Jalari
+T38	Habitat 2752 2757	Hills
+T39	GeographicalLocation 2761 2769	Cuddapah
+T40	GeographicalLocation 2774 2785	North Arcot
+T41	Taxon 2900 2909	S. obtusa
+T42	Taxon 2900 2916	S. obtusa, Wall.
+T43	Taxon 2980 2986	Thitya
+T44	Taxon 3037 3040	Sal
+T45	GeographicalLocation 3173 3190	Eastern Peninsula
+T46	GeographicalLocation 3211 3222	20Â° N. Lat.
+T47	Taxon 3250 3276	Dipterocarpus tuberculatus
+T48	GeographicalLocation 3281 3289	Cambodia
+T49	Person 3304 3310	Pierre
+T50	Habitat 3320 3332	pure forests
+T51	Taxon 3551 3564	Shorea obtusa
+T52	Taxon 3551 3571	Shorea obtusa, Wall.

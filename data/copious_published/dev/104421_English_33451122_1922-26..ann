@@ -1,0 +1,69 @@
+T1	Taxon 41 60	ANDROPOGON SERICEUS
+T2	Taxon 405 426	Andropogon tenuiculus
+T3	Taxon 405 432	Andropogon tenuiculus Steud
+T4	Taxon 463 485	Heteropogon tenuiculus
+T5	Taxon 463 489	Heteropogon tenuiculus Miq
+T6	GeographicalLocation 551 556	Luzon
+T7	GeographicalLocation 558 565	Benguet
+T8	GeographicalLocation 567 578	Nueva Ecija
+T9	GeographicalLocation 580 590	Pangasinan
+T10	GeographicalLocation 592 597	Rizal
+T11	Habitat 662 677	open grasslands
+T12	Taxon 2585 2605	Heteropogon insignis
+T13	Taxon 2585 2614	Heteropogon insignis Thwaites
+T14	Taxon 2495 2519	Heteropogon ischyranthus
+T15	Taxon 2495 2523	Heteropogon ischyranthus Miq
+T16	Taxon 2436 2465	Andropogon ischyranthus Steud
+T17	Taxon 2436 2459	Andropogon ischyranthus
+T18	Taxon 2299 2319	ANDROPOGON TRITICEUS
+T19	Taxon 2209 2214	Bakau
+T20	Taxon 2223 2228	batan
+T21	Taxon 2246 2251	batan
+T22	Taxon 2259 2266	bukakau
+T23	Taxon 2274 2277	gau
+T24	Taxon 2284 2291	layagan
+T25	GeographicalLocation 2133 2137	Asia
+T26	GeographicalLocation 2141 2147	Africa
+T27	Habitat 2171 2185	warm countries
+T28	GeographicalLocation 2082 2093	Philippines
+T29	Taxon 2052 2059	sorghum
+T30	Taxon 1919 1937	Andropogon sorghum
+T31	Taxon 1919 1963	Andropogon sorghum Brot. subsp. sativus Hack
+T32	Taxon 1919 1942	Andropogon sorghum Brot
+T33	Taxon 1919 1986	Andropogon sorghum Brot. subsp. sativus Hack. var. saccharatus Hack
+T34	Taxon 1845 1860	Sorghum vulgare
+T35	Taxon 1845 1865	Sorghum vulgare Pers
+T36	Taxon 1728 1747	Sorghum saccharatum
+T37	Taxon 1728 1752	Sorghum saccharatum Pers
+T38	Taxon 1608 1626	Holcus saccharatus
+T39	Taxon 1608 1631	Holcus saccharatus Linn
+T40	Taxon 1566 1580	Holcus sorghum
+T41	Taxon 1566 1585	Holcus sorghum Linn
+T42	Taxon 1392 1402;1419 1432	Blancoanae vulgaris Hack
+T43	Taxon 1260 1278	ANDROPOGON SORGHUM
+T44	Taxon 1392 1402	Blancoanae
+T45	Taxon 1223 1228	Girun
+T46	Taxon 1236 1240	taal
+T47	Taxon 1248 1252	tiga
+T48	GeographicalLocation 1165 1170	Japan
+T49	GeographicalLocation 1175 1180	China
+T50	GeographicalLocation 1189 1195	Malaya
+T51	GeographicalLocation 1199 1208	Australia
+T52	Habitat 1120 1135	open grasslands
+T53	GeographicalLocation 967 972	Luzon
+T54	GeographicalLocation 974 980	Bontoc
+T55	GeographicalLocation 982 989	Benguet
+T56	GeographicalLocation 991 996	Rizal
+T57	GeographicalLocation 999 1007	Mindanao
+T58	GeographicalLocation 1009 1014	Lanao
+T59	GeographicalLocation 1016 1021	Davao
+T60	GeographicalLocation 1023 1031	Bukidnon
+T61	Taxon 893 907	Sorghum fulvum
+T62	Taxon 893 913	Sorghum fulvum Beauv
+T63	GeographicalLocation 875 881	Manila
+T64	Taxon 734 753	ANDROPOGON SERRATUS
+T65	Taxon 734 759	ANDROPOGON SERRATUS Thunb
+T66	GeographicalLocation 696 706	New Guinea
+T67	GeographicalLocation 708 721	New Caledonia
+T68	GeographicalLocation 723 732	Australia
+T69	Taxon 1260 1285	ANDROPOGON SORGHUM (Linn)

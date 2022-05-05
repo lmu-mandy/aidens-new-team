@@ -1,0 +1,56 @@
+T1	Taxon 4 23	Polygala acicularis
+T2	Taxon 4 29	Polygala acicularis, Oliv
+T3	Habitat 79 85	Plains
+T4	GeographicalLocation 94 100	Hepham
+T5	GeographicalLocation 105 109	Ropp
+T6	TemporalExpression 121 127	5 July
+T7	GeographicalLocation 228 239	West Africa
+T8	GeographicalLocation 245 255	N. Nigeria
+T9	GeographicalLocation 259 265	Angola
+T10	GeographicalLocation 274 280	Uganda
+T11	Taxon 284 296	Hypebicaceae
+T12	Taxon 298 316	Haronga paniculata
+T13	Taxon 298 332	Haronga paniculata, Lodd. ex Steud
+T14	Taxon 355 374	Arungana paniculata
+T15	Taxon 355 380	Arungana paniculata, Pers
+T16	Taxon 405 437	Haronga madugascariensis, Choisy
+T17	Taxon 405 429	Haronga madugascariensis
+T18	GeographicalLocation 485 492	Holland
+T19	GeographicalLocation 498 506	Naraguta
+T20	TemporalExpression 508 514	5 Aug.
+T21	GeographicalLocation 714 731	Mascarene Islands
+T22	Taxon 735 748	PORTULACACEAE
+T23	Taxon 750 768	Portulaca oleracea
+T24	GeographicalLocation 792 799	Holland
+T25	GeographicalLocation 805 810	Taura
+T26	TemporalExpression 812 817	6 May
+T27	Taxon 875 891	DiPTEROCARPACEAE
+T28	Taxon 894 912	Monotes caloneurus
+T29	Taxon 894 918	Monotes caloneurus, Gilg
+T30	GeographicalLocation 960 968	Naraguta
+T31	TemporalExpression 979 985	8 Aug.
+T32	GeographicalLocation 1022 1041	South Eastern Sudan
+T33	GeographicalLocation 1049 1055	Angola
+T34	Taxon 1059 1068	Malvaceae
+T35	Taxon 1070 1084	Sida linifolia
+T36	Taxon 1070 1089	Sida linifolia, Cav
+T37	GeographicalLocation 1108 1116	Naraguta
+T38	TemporalExpression 1118 1125	20 June
+T39	Person 1243 1250	Dalziel
+T40	Person 1255 1262	Parsons
+T41	GeographicalLocation 1328 1339	West Africa
+T42	GeographicalLocation 1343 1349	Angola
+T43	GeographicalLocation 1366 1377	West Indies
+T44	GeographicalLocation 1386 1416	north east coast of S. America
+T45	Taxon 1418 1430	Sida spinosa
+T46	Taxon 1418 1436	Sida spinosa, Linn
+T47	GeographicalLocation 1453 1458	Lemme
+T48	Taxon 1487 1502	Sida cordifolia
+T49	Taxon 1487 1508	Sida cordifolia, Linn
+T50	GeographicalLocation 1525 1531	Panyam
+T51	TemporalExpression 1543 1550	17 July
+T52	Taxon 1596 1608	Urena lobata
+T53	Taxon 1596 1614	Urena lobata, Linn
+T54	GeographicalLocation 1633 1640	Holland
+T55	GeographicalLocation 1645 1656	Ringim Mukr
+T56	TemporalExpression 1668 1674	22 May

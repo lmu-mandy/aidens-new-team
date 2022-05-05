@@ -1,0 +1,40 @@
+T1	GeographicalLocation 13 27	Sibuyan Island
+T2	GeographicalLocation 29 45	Romblon Province
+T3	GeographicalLocation 47 58	Philippines
+T4	Person 143 160	Steven M. Goodman
+T5	Person 161 177	David E. Willard
+T6	Person 178 195	Pedro C. Gonzales
+T7	GeographicalLocation 205 219	Sibuyan Island
+T8	GeographicalLocation 439 444	Luzon
+T9	GeographicalLocation 465 472	Mindoro
+T10	GeographicalLocation 497 502	Panay
+T11	Habitat 581 595	lowland forest
+T12	GeographicalLocation 613 620	Sibuyan
+T13	TemporalExpression 667 683	late Pleistocene
+T14	TemporalExpression 657 663;672 683	middle Pleistocene
+T15	GeographicalLocation 760 771	Philippines
+T16	TemporalExpression 867 878	Pleistocene
+T17	Habitat 906 914	avifauna
+T18	GeographicalLocation 918 925	Sibuyan
+T19	TemporalExpression 1126 1137	Pleistocene
+T20	GeographicalLocation 1210 1217	Sibuyan
+T21	TemporalExpression 1346 1350	1989
+T22	TemporalExpression 1355 1359	1992
+T23	GeographicalLocation 1544 1551	Sibuyan
+T24	Habitat 1908 1923	lowland forests
+T25	Habitat 1954 1972	agricultural areas
+T26	GeographicalLocation 2083 2090	Sibuyan
+T27	GeographicalLocation 2213 2220	Sibuyan
+T28	GeographicalLocation 2249 2268	islands of Mindanao
+T29	GeographicalLocation 2270 2275	Luzon
+T30	GeographicalLocation 2277 2284	Mindoro
+T31	GeographicalLocation 2290 2295	Panay
+T32	GeographicalLocation 2362 2376	Palawan Island
+T33	GeographicalLocation 2380 2387	Sibuyan
+T34	GeographicalLocation 2427 2438	Philippines
+T35	Habitat 2472 2478	forest
+T36	GeographicalLocation 2715 2721	Manila
+T37	Habitat 2875 2890	lowland forests
+T38	GeographicalLocation 2943 2954	Philippines
+T39	GeographicalLocation 290 333	24 km north to south and 28 km east to west
+T40	TemporalExpression 1626 1635	100 years

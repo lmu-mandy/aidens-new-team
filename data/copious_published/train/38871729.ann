@@ -1,0 +1,51 @@
+T1	Taxon 28 33	Hopea
+T2	Taxon 48 54	Shorea
+T3	Taxon 142 155	Hopea plagata
+T4	Taxon 142 169	Hopea plagata (Blanco) Vid.
+T5	GeographicalLocation 197 212	Bataan Province
+T6	GeographicalLocation 214 219	Luzon
+T7	TemporalExpression 221 231	June, 1914
+T8	Taxon 273 284	ELATINACEAE
+T9	Taxon 285 291	BERGIA
+T10	Taxon 285 300	BERGIA Linnaeus
+T11	Taxon 301 316	Tillaea rubella
+T12	Taxon 301 323	Tillaea rubella Blanco
+T13	Taxon 396 415	BERGIA AMMANNIOIDES
+T14	Taxon 396 421	BERGIA AMMANNIOIDES Roxb.
+T15	GeographicalLocation 600 611	Philippines
+T16	Habitat 634 648	old rice lands
+T17	GeographicalLocation 669 674	Luzon
+T18	Taxon 693 707	Bergia serrata
+T19	Taxon 693 714	Bergia serrata Blanco
+T20	Taxon 716 729	B. glandulosa
+T21	Taxon 716 736	B. glandulosa Turcz.
+T22	GeographicalLocation 906 914	Antipolo
+T23	GeographicalLocation 916 930	Rizal Province
+T24	GeographicalLocation 932 937	Luzon
+T25	TemporalExpression 939 950	March, 1915
+T26	TemporalExpression 952 962	June, 1916
+T27	Taxon 1008 1022	BERGIA SERRATA
+T28	Taxon 1008 1029	BERGIA SERRATA Blanco
+T29	Taxon 1065 1081	Spergula serrata
+T30	Taxon 1065 1088	Spergula serrata Blanco
+T31	Taxon 1220 1237	Bergia glandulosa
+T32	Taxon 1220 1243	Bergia glandulosa Turcz
+T33	Person 1272 1278	Cuming
+T34	GeographicalLocation 1289 1294	Luzon
+T35	Taxon 1312 1331	Bergia ammannioides
+T36	Taxon 1312 1337	Bergia ammannioides Roxb.
+T37	Person 1458 1464	Blanco
+T38	Person 1458 1464	Blanco
+T39	Person 1778 1794	Fernandez-Villar
+T40	Taxon 1798 1817	Bergia verticillata
+T41	Taxon 1798 1823	Bergia verticillata Willd
+T42	Taxon 1826 1837	B. capensis
+T43	Taxon 1826 1843	B. capensis Linn.
+T44	GeographicalLocation 1872 1883	Philippines
+T45	GeographicalLocation 1975 1980	Luzon
+T46	Habitat 2050 2072	dried out rice paddies
+T47	GeographicalLocation 2132 2137	Pasig
+T48	GeographicalLocation 2139 2153	Rizal Province
+T49	GeographicalLocation 2155 2160	Luzon
+T50	Habitat 2186 2208	dried out rice paddies
+T51	TemporalExpression 2210 2224	December, 1914

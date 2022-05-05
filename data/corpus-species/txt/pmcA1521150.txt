@@ -1,0 +1,272 @@
+Peculiarities of carcinogenesis under simultaneous oral administration of benzo(a)pyrene and o-cresol in mice.
+Abstract
+A modifying influence of ortho-cresol (o-cresol) on the carcinogenic effect of benzo(a)pyrene (BaP) with combined oral administration to CC57Br mice had been found. During simultaneous administration of o-cresol (1 mg) and BaP (1 mg), the incidence of tumors, the multiplicity of tumors, and the degree of malignancy all increased, but the latency was shortened. When o-cresol was administered before or after BaP (in identical doses), the carcinogenic effect was weakened. When o-cresol (10 mg) and BaP (5 mg) were administered simultaneously, the incidence of malignant tumors was similar to controls receiving BaP only (13.8%), indicating inhibition of carcinogenesis.
+
+
+
+
+ Environnmental Health Perspectives Supplements Vol. 101 (Suppl. 3): 341-344 (1993) 
+
+ Peculiarities of Carcinogenesis under Simultaneous Oral Administration of 
+
+ Benzo(a)Pyrene and o-Cresol in Mice 
+
+ by N. Ya. Yanysheva,' N. V. Balenko, 1. A. Chernichenko,1 and V. F. Babiy' 
+
+ A modifying influence of ortho-cresol (o-cresol) on the carcinogenic effect of benzo(a)pyrene (BaP) with combined oral administration to CC57Br mice had been found. During simultaneous administration of o-cresol (1 mg) and BaP (1 mg), the incidence of tumors, the multiplicity of tumors, and the degree of malignancy all increased, but the latency was shortened. When o-cresol was administered before or after BaP (in identical doses), the carcinogenic effect was weakened. When o-cresol (10 mg) and BaP (5 mg) were administered simultaneously, the incidence of malignant tumors was similar to controls receiving BaP only (13.8%), indicating inhibition of carcinogenesis. 
+
+ Introduction 
+
+ Numerous experiments have shown a modifying influence of different chemicals on benzo(a)pyrene (BaP)induced carcinogenic effects. Both enhancing or weakening effects have been seen (1-12). In some experiments ubiquitious environmental carcinogenic and toxic chemical pollutants were used (13-17). 
+
+ The stimulating effect of phenol, nitrogen oxides, and sulfur dioxide upon BaP's blastogenic action on the respiratory tract and phenol on the digestive tract (forestomach) have been reported (12-18). We have established the relationship between the doses of carcinogenic and toxic agents and their modifying effects (17,18). The maximal enhancing effect was observed after BaP (2.5 mg) and NO2 (0.87 mg/m3) were exposed to rat respiratory tract. The effect weakened with decreasing dose. At concentrations at the MPC level (MPC BaP, 1 ng/m3, MPC NO2, 0.04 mg/m3) no effect was seen. Phenol at 1 mg orally to CC57Br mice enhanced the BaP (1 mg) effect, but no effect was seen at 0.02 mg. Phenolic compounds showed either enhancing or inhibiting effects on carcinogenesis depending on their chemical structure (16,18-25). 
+
+ This report presents the results of combined oral administration of BaP and artho-cresol (o-cresol) in mice, 
+
+ 'Ukrainian State Medical Center for Environmental Health, Kiev, Ukraine. 
+
+ Address reprint requests to N. Y. Yanysheva, Ukrainian State Medical Center for Environmental Health, Popudrenko St. 50, 253660 Kiev-94, Ukraine. 
+
+ chemicals commonly found in ambient water because of their industrial use (coke chemistry, oil processing, shale processing, and other industries) (27-30). 
+
+ Materials and Methods 
+
+ The experiment was conducted on CC57Br female mice weighing 12-14 g. Animals were divided in 15 groups. This experiment included three types of sequential combinations for the introduction of compounds: a) simultaneous BaP and o-cresol administration; b) BaP after o-cresol (stage 1); and c) BaP before o-cresol (stage 2). Appropriate controls were included (Table 1). 
+
+ The chemicals were administered twice per week (for a total of 10, 20, and 40 doses) using a syringe and a needle with a soldered olive on its tip. BaP (1 or 5 mg) or o-cresol (0.02, 1, or 10 mg) was placed in triethylene glycol (TEG) and administered as 0.1-mL water solutions. The evaluation of o-cresol's modifying effect on the incidence of tumors, especially malignant tumors, the tumor latency period (tl), and the average time (ta) of the appearance of tumors, as well as the multiplicity index, M (the average number of tumors per animal for tumor-bearing animals) was recorded. Because the M could be identified at the initial stage of carcinogenesis by the third month after the beginning of the trial when neoplasms began to emerge, moribund animals were killed by ether inhalation if they did not die spontaneously. 
+
+ The experiments with large chemical doses (BaP, 5 mg; o-cresol, 10 mg) lasted for 30 weeks. Some animals were killed after the 1st, 3rd, 5th, and 10th procedures for the 
+
+ YANYSHEVA ET AL. 
+
+ evaluation of initial stages of carcinogenesis; others were killed at 26 and 30 weeks. The stomachs were distended with formalin solution and the mucosa examined macroscopically. All tumors > 1 mm in diameter were recorded. Organs and tissues were fised in 10% neutral formalin solution, embedded in paraffin and routine histological slides prepared. Microscopic data were processed according to Mostkovoy (30). 
+
+ Results 
+
+ The data from this study demonstrate the modifying influence of o-cresol on BaP-induced carcinogenesis with combined oral exposure. The combined exposure and BaP alone caused benign and malignant epithelial tumors of the forestomach. The benign neoplasms were papillomas, and the malignant neoplasms were invasive carcinomas. 
+
+ The combined administration of BaP and o-cresol showed different results depending on doses and sequential combinations of both chemicals. As shown in Table 2, the simultaneous administration of BaP (1 mg) and o-cresol (1 mg) affected all parameters of carcinogenesis that were measured. This included a significant increase in the incidence of tumors, shortening of the time to the appearance of the first tumor, and the mean time of tumor 
+
+ development as compared to animals that received 1 mg of BaP alone and had tumors. One hundred percent of the mice that received 5 mg of BaP alone had tumors. 
+
+ Shortening of the time to appearance of malignant tumors was also observed: the mice with forestomach cancer died between 23 and 26.2 weeks after the beginning of experiment, but the controls survived to 58.5 weeks. Muliple small metastases in the lungs and mediastinum were found in 42.8% of mice, which signifies a high degree of malignancy. 
+
+ o-Cresol at 0.02 mg did not modify carcinogenesis in comparison to the control. o-Cresol administration before or after BaP did not modify tumor incidence or the multiplicity index as compared to control, but the latency period was longer (Table 2). When o-cresol was administered after BaP (stage 2), there was an absence of malignant tumors. 
+
+ Besides the quantitative aspects, other peculiarities of carcinogenesis in mice simultaneously administered BaP and o-cresol should be noted. The combined chemical administration resulted in diffuse verrucosa vegetations over the forestomach surface, especially near the greater curvature. Highly aggressive malignant neoplasms developed earlier with more metastases as compared to control. 
+
+ Many mice were emaciated, and the tumors could be 
+
+ Table 1. Scheme of BaP and o-cresol combined action under different regimes of oral administration. 
+
+ Theatmenta 
+
+ No. of mice                        Stage 1                                            Stage 2 
+
+ Groups of        in each                                             No. of                                           No. of 
+
+ animals          group        Substances           Dose, mg      applications    Substances         Dose, mg       applications 
+
+ 1              55         BaP, o-cresol          5 +10            10          -                     -               2              45          BaP                     5              10          -                     -               3              40          TEG                     la             10          -                     -               4              45          TEG, o-cresol        1b + 10           10          -                     -               5              30          BaP, o-cresol         1+1              20          -                     -               6              30          BaP, o-cresol        1 + 0.02          20          -                     -               7              30          o-Cresol                1              20          BaP                   1               20 8              30          BaP                     1              20          o-Cresol              1               20 9              30          BaP                     1              20                                -               10              30          -                       -              -           BaP                   1               20 11              30         o-Cresol                 1              20                                -               12              30          -                      -               -           o-Cresol              1               20 13              30         o-Cresol + TEG         1+2'             20                                -               14              30         o-Cresol + TEG        0.02 +2b          20 
+
+ 15              30         TEG                     2b              20          -                     -               Abbreviations: BaP, benzo[a]pyrene; TEG, triethylene glycol. 
+
+ Table 2. Occurrence of forestomach tumors in CC57Br mice after combined oral administration of BaP and o-cresol. 
+
+ Number of animals with forestomach tumors 
+
+ Order of administration of substances             Total                         Benign                       Malignant 
+
+ (dose, mg)                             Absolute       %        %        M         t,         ta         %        t,        ta BaP (5), o-cresol (10)                    29       100.0     86.2       ND        ND        ND        13.8      ND        ND BaP (1), o-cresol (1)                     19        95.0     60.0       9.6       10.7      16.3      35.0      23.0      25.2 BaP (1), o-cresol (0.02)                   7        35.0     30.0       1.6       13.5      19.8       5.0      56.8      56.8 BaP (1), stage 1, o-cresol (1), stage 2    7        31.8     31.8       1.4       16.2      31.1       0         0         0 
+
+ BaP (1), stage 2                           6        35.3     29.4       2.8       15.8      41.2       5.9      24.8      24.8 BaP (5), stage 1                          18       100.0     50.0       ND        ND        ND        50.0      ND        ND BaP (1), stage 1                          8         33.3     28.7       1.4       14.0      21.3       4.6      58.5      58.5 BaP (1), stage 2                           7        36.8     31.6       2.8       10.0      13.3       5.2      55.7      55.7 
+
+ Abbreviations: BaP, benzo[a]pyrene; 0, not observed; ND, not determined; t1, time of the first tumor appearance in weeks; ta, mean time of tumor development in weeks; M, multiplicity. 
+
+ 342 
+
+ CARCINOGENESIS OF BaP AND o-CRESOL                           343 
+
+ palpated through the abdominal wall. At autopsy, enlargement of the stomach with tuberculous white superficial vegetations were observed. The forestomach and glandular part of the stomach was often obliterated by tumor masses. 
+
+ The stomach was often adhered to the pancreas, liver, and mesentery. Hemmorrhage and inflammation were found in tumors foci. When o-cresol was introduced before BaP, the tumors were more frequently found closer to the small curvature of the stomach between the forestomach and esophageal entrance. Over the large curvature less prominent mucosal folds were observed. Microscopically, a decrease in mucosa papillae, epithelial atrophy (one to two cullular layers), decreased keratonization, and nuclear pycnosis were observed. With the simultaneous administration of large doses of o-cresol and BaP, the final carcinogenic effect (30 weeks after the first dose) was similar to BaP alone but differences were observed at the earlier stages (after the 1st, 3rd, 5th, and 10th exposures). 
+
+ In the BaP control, multiple forestomach epithelial proliferative and hyperplastic changes were found after the third dose. Multiple papillomas occurred (9-15 in each mouse). The stomach's mucosal folds appeared thickened diffusely, then papillomas appeared and finally merged together. 
+
+ Approximately half of the tumors were malignant. The neoplasms filled almost the whole forestomach cavity and infiltrated the wall with tuberculous vegetations, which were visible on the serosal surface. Thmor infiltration in the liver, pancreas, and wide dissemination of peritoneum were also observed. In mice simultaneously administered BaP and o-cresol, the proliferative alterations of forestomach epithelium were seen after the third dose. However, they occurred as the single foci at damaged mucosa and even in the later stages were not diffuse. Adjacent to the hyperplastic foci, the mucosa was atrophied with decreased keratonization. The epithelial cells also showed cytoplasm coagulation and nuclear pycnosis. Edema, inflammation of the mucosa, submucosa microabscesses, and erosion were seen. There were fewer papillomas per mouse (four to eight in each mouse) than in the control group. Even in the late stages the papillomas were isolated and elevated on the atrophied mucosal folds. 
+
+ In the final experiment the papillomas prevailed as compared to the previous experiments. Only 4 out of 29 mice (13.8%) developed malignant tumors. Neoplasms were smaller and appeared as single verrucosa vegetations 5-10 mm in diameter. Thus, the toxic dose of o-cresol inhibits the carcinogenic process of induced forestomach tumors by decreasing multiplicity, frequency, and percentage of malignant tumors. 
+
+ Discussion 
+
+ Our results and the literature suggest a hypothesis on modifying carcinogenesis mechanisms. The primary effect of the toxic agents, including carcinogenic agents, may relate to cellular membrane damage with the subsequent increased permeability (31-35), which may be the mechanism of the o-cresol. 
+
+ With simultaneous introduction of o-cresol at low toxic doses and BaP there may be increased carcinogen penetration to the target cells. In addition, membrane damage may alter other cellular systems responsible for energy and xenobiotic detoxication. Damage of these processes may activate free-radical reactions, glycolysis, or alter carcinogenic metabolism, which promotes the oncogenic effect. The o-cresol effect on these systems was confirmed by our previous investigations on cytochrome P450, ferrosulfuric nonhemic proteins, and semiquinon radical content affected by the combined action of BaP and o-cresol (36). 
+
+ Another effect was obtained with BaP exposure after o-cresol. The atrophic alterations in the stomach induced by 2.5 months of o-cresol administration might decrease the natural conditions of retention (muscosal folds, frontier torn), and thus shorten the contact of BaP with the forestomach. In our opinion, this explains the decreased carcinogenic effect seen after o-cresol exposure. 
+
+ Considering the toxic effect of o-cresol at low toxic doses (1 mg) after BaP and the effect of a super toxic dose (10 mg) simultaneously with BaP administration, it is possible that the inhibition of carcinogenesis in both trials was related to the toxic effects of o-cresol. Cytotoxicity may not only hamper tumor growth, but also promote the regression of inducible and spontaneous neoplasms (37-39). There is also a possibility that BaP damages metabolic systems and decreases resistance to carcinogenesis. 
+
+ Conclusions 
+
+ The data obtained demonstrate that simultaneous administration of BaP modifies the induced carcinogenesis depending on the dose and the sequence of administration. Administered with BaP (1 mg), a low toxic o-cresol dose (about minimally effective) produces an enhanced cocarcinogenic effect reflected in the incidence, frequency, multiplicity, and degree of malignancy of forestomach tumors. 
+
+ o-Cresol administration at low toxic doses before or after BaP at the same dose level (1 mg) and its administration at super toxic doses (10 mg) with the BaP optimal dose (5 mg) may inhibit carcinogenesis. Simultaneous introduction of a noneffective o-cresol dose (0.02 mg) with the BaP (1 mg) does not change its carcinogenic activity. Controlling both chemicals in the environment is the most effective measure of preventing potential risk and is undoubtedly of paramount significance. 
+
+ REFERENCES 
+
+ 1. Bingham, E., and Falk, H. L. Environmental carcinogenesis. The 
+
+ modifying effect of cocarcinogens on the threshold response. Arch. Environ. Health 19: 779-783 (1969). 
+
+ 2. Goldschmidt, B. M., Katz, C., and Van Duuren, B. L. The cocar
+
+ cinogenic activity of non-carcinogenic aromatic hydrocarbons. Proc. Am. Assoc. Cancer Res. 17: 84 (1973). 
+
+ 3. Kaufman, D. C., and Madison, R. M. Synergistic effects of 
+
+ benzo(a)pyrene and N-methyl-N-nitrosourea respirators carcinogenesis in Syrian golden hamsters. In: Proceedings of the Sym
+
+ 344                                     YANYSHEVA ET AL. 
+
+ posium on Epithelial Respiratory Carcinogenesis and Bioassays. Batelle Seattle Research Center, Seattle, WA, 1974, p. 17. 
+
+ 4. Montesano, R., Saffiotti, U, Ferrero, A, and Kaufman, D. Synergistic 
+
+ effects of benzo(a)pyrene and diethylnitrosamine on respiratory carcinogenesis in hamsters. J. Natl. Cancer. Inst. 5: 1395-1397 (1974). 5. Pfeiffer, E. H. Investigations of the carcinogenic burden by air 
+
+ pollution in man. VII. Studies on the ontogenetic interaction of polycyclic aromatic hydrocarbons. Zbl. Bakteriol. Parasitenk. Infektion. Hyg. Abt. B 158(1): 69-83 (1973). 
+
+ 6. Slaga, T. J., Jecker, L., Bracken, W. M., and Weeks, C. E. The effects of 
+
+ weak or non-carcinogenic polycyclic hydrocarbons on 7,12-dimethylbenz(a)anthracene and benzo(a)pyrene skin tumor-initiation. Cancer Lett. 7: 51-59 (1979). 
+
+ 7. Topping, D. C., Martin, D. H., and Nettesheim, P. Determination of 
+
+ cocarcinogenic activity of benzo(a)pyrene for respiratory tract mucosa. Cancer Lett. 11: 315-321 (1981). 
+
+ 8. Ilnitsky, A. P., Voronin, V. M., and Solenova, M. G. Carcinogenic effect 
+
+ of benzo(a)pyrene and its combinations with other carbohydrates at their oral intake [in Russian]. Voprosy Onkol. 10: 71-75 (1974). 
+
+ 9. Kurljandsky, B. A., Medvedovsky, A. G., and Mashbits, F. D. On 
+
+ cocarcinogenic effect of toxic factors of low intensity [in Russian]. Gig. Sanit. 10: 83-85 (1972). 
+
+ 10. Thrusov, V. S., and Andrianov, L. A. On combined effect on the skin of 
+
+ single application of 7,12-dimethylbenz(a)anthracene and repeated applications of benz(a)pyrene [in Russian]. Bull. Eksper. Biol. Med. 3: 80-83 (1972). 
+
+ 11. Yanysheva, N. Ya., Chernichenko, I. A., Balenko, N. V, and Kireeva, 
+
+ I. S. Carcinogenic substances and their hygienic standardization in the environment [in Russian]. Zdorovja, Kiev, 1977. 
+
+ 12. Laskin, S., Kushner, M., and Drew, R. T. Studies in pulmonary 
+
+ careinogenesis. In: Inhalation Carcinogenesis (M. G. Hanna, P. Nettesheim, and J. R. Gillbert, Eds.) U.S. Atomic Energy Commission Symposium, Series 18, 1970, p. 321. 
+
+ 13. Laskin, S., Kuschner, M., and Drew, R. T. Inhalation exposure to 
+
+ sulphur dioxide and benzo(a)pyrene. Oak Ridge National Laboratory, Gatlinburg, TN, 1970, pp. 322-351. 
+
+ 14. Kuschner, M., and Laskin, S. Experimental models in environmental 
+
+ carcinogenesis. Am. J. Pathol. 1: 183-196 (1971). 
+
+ 15. Komine, T. Influences of sulfur dioxide and 3,4-benzpyrene on the 
+
+ respiratory organ of rats. Hokkaido Igaku Zasshi 3: 189-203 (1977). 16. Skvortsova, N. N. Role of some common atmospheric pollutions in 
+
+ lung blastomogenesis [in Russian]. In: Handbook of Hygiene of Atmospheric Air (K. A. Bushtueva, Ed.), Meditsina, Moscow, 1976, pp. 384-391. 
+
+ 17. Yanysheva, N. Ya., Balenko, N. V, Chernichenko, I. A, and Babiy, V. F. 
+
+ Quantitation of modified effects of nitrogen oxides on carcinogenicity of benz(a)pyrene effect [in Rusian]. Gig. Sanit. 7: 7-9 (1986). 
+
+ 18. Yanysheva, N. Ya., Balenko, N. V., Chernichenko, I. A., Babiy, V. F., 
+
+ Bakanova, G. N., and Lemeshko, L. P. Peculiarities of manifestation of carcinogenesis at combined effect of benz(a)pyrene and phenol depending on regimen of intake into the organism [in Russian]. Gig. Sanit. 4: 29-33 (1988). 
+
+ 19. Van Duuren, B. L., Katz, C., and Goldschmidt, B. M. Brief communica
+
+ tion: cocarcinogenic agents in tobacco carcinogenesis. J. Natl. Cancer Inst. 51: 703-705 (1973). 
+
+ 20. Van Duuren, B. L., and Goldschmidt, B. M. Cocarcinogenic and 
+
+ tumor-promoting agents in tobacco carcinogenesis. J. Natl. Cancer Inst. 56: 1237-1242 (1976). 
+
+ 21. Wattenberg, L. W., Coccia, J. B., and Lam, L. K. Inhibitory effects of 
+
+ phenolic compounds on benzo(a)pyrene-induced neoplasia. Cancer Res. 8: 2820-2823 (1980). 
+
+ 22. Bogovski, P. A, and Mirme, H. Yu. Cocarcinogenicity of phenols from 
+
+ Estonian shale tars (oils). Environ. Health Perspect. 30: 177-178 (1979). 
+
+ 23. Gubergritz, M. Ya., and Kirso, U. E. Carcinogenic properties, struc
+
+ ture and reactive capacity of phenols [in Russian]. Voprosy Onkol. 8: 96-100 (1970). 
+
+ 24. Mirme, H. Yu. Modifying effect of water-soluble shale phenols upon 
+
+ carcinogenesis [in Russian]. In: Problems of Prevention of Pollution of Environment by Carcinogenic Substances (M. M. Shabad, Ed.), Tallinn, Valgus, 1972, pp. 16-18. 
+
+ 25. Kirso, U. E., Pashin, Yu. V., Bakhitova, L. M., and Kjung, A. I. Effect 
+
+ of antioxidants on carcinogenic and mutagenic activity of benzo(a)pyrene [in Russian]. Voprosy Onkol. 4: 70-75 (1985). 
+
+ 26. Veldre, I. A. Comparative assessment of toxic effect of some water
+
+ soluble phenols [in Russian]. In: Proceedings of the Scientific Conference on Urgent Problems Related with Decrease of Infectious Diseases Morbidity and with Hygienic Problems. Tallinn, 1968, pp. 200-202. 
+
+ 27. Substances possessing cocarcinogenic effect. In: Carcinogenic Sub
+
+ stances in the Environment of Man (L. M. Shabad and A. P. Ilnitsky, Eds.), Budapest, 1979, pp. 111-113. 
+
+ 28. Djatlovitskaya, F. G., and Maktas, E. D. Separate determination of fly 
+
+ phenols in water using thin-layer chromatography [in Russian]. Gig. Sanit. 6: 60-63 (1965). 
+
+ 29. Kostovetsky, Ya. I., and Zholdakova, Z. I. About hygienic rate setting 
+
+ of phenol in the water of waterpools [in Russian]. Gig. Sanit. 7: 7-10 (1971). 
+
+ 30. Mostkovoy, M. I. Practicum on variational-statistical processing of 
+
+ clinical material [in Russian]. Ashkhabad, 1954, p. 132. 
+
+ 31. Weinstein, I. B. The scientific basis for carcinogen detection and 
+
+ primary cancer prevention. Cancer 47: 1133-1141 (1981). 
+
+ 32. Merkulov, A. I, and Skvortsova, R. I. About toxic effect of phenol [in 
+
+ Russian]. Gig. Sanit. 1: 79-80 (1984). 
+
+ 33. Weinstein, I. B., Mufson, R. A., Lee, L. S., et al. Membrane and other 
+
+ biochemical effects of the phorbol esters and their relevance to tumor promotion. In: Carcinogenesis. Fundamental Mechanisms and Environmental Effects. London, 1980, pp. 543-563. 
+
+ 34. Yamasaki, H., and Weinstein, I. B. Cellular and molecular mecha
+
+ nisms of tumor promotion and their implications for risk assessment. In: Methods for Estimating Risk of Chemical Injury: Human and Non-human Biota and Ecosystems (V. B. Vouk, G. C. Butler, D. G. Hoel, and D. B. Peakall, Eds.), SCOPE, 1985, pp. 155-180. 
+
+ 35. Karu, T, Kirso, U. E., and Andrianov, L. A. Dynamics of resorption of 
+
+ 3,4-benzpyrene with phenols from mouse skin [in Russian]. Voprosy Onkol. 5: 80-84 (1973). 
+
+ 36. Yanysheva, N. Ya., Yurkovskaya, T. N., Beregovskaya, N. N., et al. 
+
+ Metalloenzymic complexes of energetic and detoxicating systems of cell during benz(a)pyrene-induced carcinogenesis. In: Proceedings of the 4th National Congress of Oncology with International Participation. Sofia, 1985, p. 102. 
+
+ 37. Mizell, M. Anuran (Lucke) tumor breakdown in regenerating anuran 
+
+ tadpole tails. Anat. Res. 137: 382-383 (1960). 
+
+ 38. Sheremetieva, E. N. Spontaneous melanoma in regenerating tails of 
+
+ axolotis. J. Exp. Zool. 158: 101-122 (1965). 
+
+ 39. Tsonis, P. A, and Eguchi, G. Carcinogens on regeneration. Effects on 
+
+ N-methyl-N-nitro-N-nitrosoguanidine and 4-nitrogninoline-1-oxide on limb regeneration in adult newts. Differentiation 20: 52-60 (1981). 

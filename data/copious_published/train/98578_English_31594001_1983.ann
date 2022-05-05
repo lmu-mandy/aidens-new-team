@@ -1,0 +1,14 @@
+T1	GeographicalLocation 130 143	North America
+T2	GeographicalLocation 427 438	Philippines
+T3	GeographicalLocation 443 459	Papua New Guinea
+T4	TemporalExpression 2284 2295	1 June 1982
+T5	GeographicalLocation 2432 2449	Mediterranean Sea
+T6	Habitat 3465 3480	disturbed areas
+T7	GeographicalLocation 160 166	Europe
+T8	GeographicalLocation 175 179	U.K.
+T9	TemporalExpression 2380 2384	1978
+T10	TemporalExpression 2476 2480	1971
+T11	GeographicalLocation 3002 3006	U.K.
+T12	GeographicalLocation 3011 3017	U.S.A.
+T13	Habitat 3447 3461;3475 3480	over-exploited areas
+T14	Habitat 3565 3577	marine areas

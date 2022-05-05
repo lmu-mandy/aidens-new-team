@@ -1,0 +1,29 @@
+T1	GeographicalLocation 9 17	Sulu Sea
+T2	GeographicalLocation 23 34	Celebes Sea
+T3	GeographicalLocation 83 88	Papua
+T4	TemporalExpression 215 218	May
+T5	TemporalExpression 223 231	November
+T6	GeographicalLocation 1335 1355	East Philippines Sea
+T7	GeographicalLocation 1799 1810	Celebes Sea
+T8	GeographicalLocation 2035 2046	Celebes Sea
+T9	GeographicalLocation 97 105	Solomons
+T10	GeographicalLocation 52 59	Equator
+T11	GeographicalLocation 467 485	between 0Â° and 10N
+T12	GeographicalLocation 552 600	north and south of the line of 5Â° north latitude
+T13	GeographicalLocation 815 836	North and South of 5N
+T14	Taxon 1095 1104	yellowfin
+T15	GeographicalLocation 1207 1218	south of 5N
+T16	Taxon 1224 1233	yellowfin
+T17	Taxon 1318 1327	yellowfin
+T18	Taxon 1412 1424	black marlin
+T19	Taxon 1433 1441	sailfish
+T20	GeographicalLocation 1478 1486	Sulu Sea
+T21	GeographicalLocation 1722 1733	Celebes Sea
+T22	Taxon 1734 1745	Spearfishes
+T23	GeographicalLocation 1811 1824	west of 125 E
+T24	GeographicalLocation 1833 1844	eastern sea
+T25	Taxon 1921 1930	yellowfin
+T26	GeographicalLocation 1850 1861	around 130E
+T27	Taxon 1974 1985	spearfishes
+T28	Taxon 1664 1673	yellowfin
+T29	Taxon 1694 1706	black marlin

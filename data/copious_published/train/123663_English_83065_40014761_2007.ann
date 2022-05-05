@@ -1,0 +1,45 @@
+T1	TemporalExpression 426 430	1990
+T2	TemporalExpression 487 491	1991
+T3	GeographicalLocation 1026 1038	Indian Ocean
+T4	GeographicalLocation 1112 1129	Andaman Sea coast
+T5	GeographicalLocation 1711 1732	Philippine Fault Zone
+T6	TemporalExpression 1752 1756	1992
+T7	GeographicalLocation 2004 2017	Ko Taphao Noi
+T8	TemporalExpression 2604 2617	December 2004
+T9	GeographicalLocation 2703 2710	Sumatra
+T10	GeographicalLocation 2785 2793	Thailand
+T11	Taxon 2963 2979	branching corals
+T12	Taxon 3175 3192	Acropora palifera
+T13	TemporalExpression 221 225	2005
+T14	TemporalExpression 46 50	2005
+T15	TemporalExpression 178 182	2003
+T16	Habitat 31 42	coral cover
+T17	Habitat 195 206	coral cover
+T18	TemporalExpression 275 279	1989
+T19	TemporalExpression 435 439	1991
+T20	Habitat 590 601	coral cover
+T21	TemporalExpression 616 620	1997
+T22	TemporalExpression 621 623	98
+T23	Habitat 798 809	coral-cover
+T24	TemporalExpression 820 824	2005
+T25	TemporalExpression 1050 1054	2004
+T26	Habitat 1093 1104	coral reefs
+T27	GeographicalLocation 1133 1141	Thailand
+T28	Habitat 1220 1231	coral reefs
+T29	GeographicalLocation 1296 1315	Indo-pacific region
+T30	GeographicalLocation 1394 1416	Indonesian archipelago
+T31	TemporalExpression 1447 1451	1833
+T32	GeographicalLocation 1543 1554	Car Nicobar
+T33	TemporalExpression 1558 1562	1881
+T34	GeographicalLocation 1574 1582	Andamans
+T35	TemporalExpression 1586 1590	1941
+T36	Habitat 1613 1624	Coral reefs
+T37	GeographicalLocation 1736 1748	S.E Mindanao
+T38	GeographicalLocation 2019 2025	Harada
+T39	TemporalExpression 2027 2031	2005
+T40	TemporalExpression 2231 2247	within four days
+T41	Habitat 2285 2295	Coral reef
+T42	GeographicalLocation 2584 2600	northern Sumatra
+T43	Habitat 2569 2580	coral reefs
+T44	Habitat 2763 2775	shallow reef
+T45	GeographicalLocation 2863 2877	Thai coastline

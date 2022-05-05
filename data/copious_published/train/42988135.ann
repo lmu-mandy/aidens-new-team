@@ -1,0 +1,33 @@
+T1	Taxon 7 23	TERNSTROEMIACEAE
+T2	GeographicalLocation 116 132	Eastern Himalaya
+T3	GeographicalLocation 135 141	Sikkim
+T4	GeographicalLocation 164 180	Khasia Mountains
+T5	GeographicalLocation 201 203	E.
+T6	GeographicalLocation 208 221	W. Peninsulas
+T7	GeographicalLocation 226 232	Ceylon
+T8	Person 258 265	Beddome
+T9	GeographicalLocation 323 340	Madras Presidency
+T10	GeographicalLocation 365 380	Bababudon Hills
+T11	GeographicalLocation 384 390	Mysore
+T12	GeographicalLocation 460 477	Bombay Presidency
+T13	Person 499 505	Lisboa
+T14	GeographicalLocation 591 597	Mysore
+T15	TemporalExpression 605 613	November
+T16	TemporalExpression 624 631	January
+T17	Taxon 695 710	GORDONIA, Ellis
+T18	Taxon 695 703	GORDONIA
+T19	Taxon 1167 1183	G. obtusa, Wall.
+T20	GeographicalLocation 1238 1255	Western Peninsula
+T21	GeographicalLocation 1265 1271	Konkan
+T22	GeographicalLocation 1332 1340	Nilgiris
+T23	GeographicalLocation 1365 1380	Bababuden Hills
+T24	GeographicalLocation 1384 1390	Mysore
+T25	Habitat 1399 1415	evergreen sholas
+T26	GeographicalLocation 1483 1500	Bombay Presidency
+T27	Person 1519 1525	Lisboa
+T28	Taxon 1588 1602	Eurya japonica
+T29	TemporalExpression 1652 1655	May
+T30	TemporalExpression 1656 1660	June
+T31	TemporalExpression 1666 1670	Nov.
+T32	TemporalExpression 1672 1676	Jan.
+T33	Taxon 1687 1701	DIPTEROCARPEAE

@@ -1,0 +1,17 @@
+T1	GeographicalLocation 204 214	Chittagong
+T2	Taxon 300 310	D. incanus
+T3	Taxon 300 319	D. incanus. (Roxb.)
+T4	GeographicalLocation 539 549	Chittagong
+T5	TemporalExpression 564 572	November
+T6	Person 651 659	Roxburgh
+T7	Taxon 686 701	D. tuberculatus
+T8	GeographicalLocation 720 730	Chittagong
+T9	Taxon 793 798	HOPEA
+T10	Taxon 1310 1322	H. wightiana
+T11	Taxon 1310 1331	H. wightiana. (Wall.)
+T12	GeographicalLocation 1548 1557	Peninsula
+T13	GeographicalLocation 1559 1569	Travancore
+T14	Taxon 1575 1585	H. odorata
+T15	Taxon 1575 1594	H. odorata. (Roxb.)
+T16	GeographicalLocation 1805 1815	Chittagong
+T17	TemporalExpression 1830 1835	March

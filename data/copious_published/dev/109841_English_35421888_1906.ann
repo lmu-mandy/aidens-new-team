@@ -1,0 +1,28 @@
+T1	GeographicalLocation 175 180	Japan
+T2	GeographicalLocation 338 344	Oshima
+T3	GeographicalLocation 1463 1477	Riukiu Islands
+T4	GeographicalLocation 102 107	Tokyo
+T5	GeographicalLocation 109 114	Japan
+T6	GeographicalLocation 199 205	Nippon
+T7	GeographicalLocation 209 214	Hondo
+T8	Taxon 264 291	Trigonocephalies Bromlioffi
+T9	GeographicalLocation 309 315	Eiukiu
+T10	GeographicalLocation 331 336	Amami
+T11	GeographicalLocation 317 325	Loo Choo
+T12	Taxon 373 378	snake
+T13	Taxon 387 391	habu
+T14	Taxon 646 653	serpent
+T15	Taxon 655 659	habu
+T16	TemporalExpression 666 678	I89S to 1906
+T17	Taxon 1254 1261	serpent
+T18	TemporalExpression 1588 1605	February 2S, 1908
+T19	Taxon 4 8	HABU
+T20	Person 42 53	T. Kitajima
+T21	TemporalExpression 766 770	1898
+T22	TemporalExpression 771 775	1899
+T23	TemporalExpression 776 780	1900
+T24	TemporalExpression 781 785	1901
+T25	TemporalExpression 786 790	1902
+T26	TemporalExpression 791 795	1903
+T27	TemporalExpression 804 808	1905
+T28	TemporalExpression 809 813	1906

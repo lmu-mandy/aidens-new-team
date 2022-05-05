@@ -1,0 +1,50 @@
+T1	Person 45 51	Curran
+T2	GeographicalLocation 53 61	MINDANAO
+T3	GeographicalLocation 63 82	Province of Misamis
+T4	Person 99 109	Hutchinson
+T5	Person 127 131	Pray
+T6	GeographicalLocation 133 150	District of Davao
+T7	Person 175 183	Whitford
+T8	GeographicalLocation 185 205	District of Cotabato
+T9	Person 223 227	Pray
+T10	GeographicalLocation 229 250	District of Zamboanga
+T11	Person 273 281	Whitford
+T12	Person 284 294	Hutchinson
+T13	GeographicalLocation 296 303	BASILAN
+T14	Person 321 331	Hutchinson
+T15	Person 333 338	Ahern
+T16	Person 343 350	Sherman
+T17	GeographicalLocation 365 373	Mindanao
+T18	TemporalExpression 377 381	1901
+T19	Person 401 408	Merrill
+T20	Taxon 450 465	S. scrobiculata
+T21	Taxon 492 500	S. guiso
+T22	Taxon 992 997	guijo
+T23	Taxon 999 1004	betik
+T24	Taxon 1013 1019	guisoc
+T25	Taxon 1032 1037	sarai
+T26	Taxon 1045 1051	yamban
+T27	Taxon 1063 1069	Shorea
+T28	Taxon 1098 1106	S. guiso
+T29	Taxon 1301 1310	S. eximia
+T30	Taxon 1312 1323	S. squamata
+T31	Taxon 1328 1345	S. philippinensis
+T32	Taxon 1389 1397	S. guiso
+T33	Taxon 1487 1492	guijo
+T34	GeographicalLocation 1494 1499	LUZON
+T35	GeographicalLocation 1501 1519	Province of Bataan
+T36	Person 1537 1542	Meyer
+T37	Person 1566 1572	Curran
+T38	Person 1590 1599	Foxworthy
+T39	GeographicalLocation 1601 1621	Province of Zambales
+T40	Person 1644 1650	Curran
+T41	Person 1667 1674	Aguilar
+T42	GeographicalLocation 1676 1696	Province of Pampanga
+T43	Person 1714 1720	Curran
+T44	GeographicalLocation 1722 1743	Province of La Laguna
+T45	Person 1761 1767	Curran
+T46	Person 1785 1795	Rosenbluth
+T47	Person 1798 1805	Tamesis
+T48	Taxon 1811 1829	Shorea negrosensis
+T49	Taxon 2727 2732	almon
+T50	Taxon 2734 2743	S. eximia

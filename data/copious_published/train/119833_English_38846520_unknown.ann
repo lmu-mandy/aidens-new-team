@@ -1,0 +1,52 @@
+T1	GeographicalLocation 93 107	north of Luzon
+T2	GeographicalLocation 151 160	Babuyanes
+T3	GeographicalLocation 237 248	Fuga Island
+T4	TemporalExpression 336 342	August
+T5	GeographicalLocation 461 476	Islands of Fuga
+T6	GeographicalLocation 481 488	Calayan
+T7	GeographicalLocation 496 505	Babuyanes
+T8	GeographicalLocation 527 535	Camiguin
+T9	GeographicalLocation 705 712	Calayan
+T10	GeographicalLocation 742 747	Luzon
+T11	GeographicalLocation 827 832	Ticao
+T12	GeographicalLocation 846 852	Lubang
+T13	Taxon 1098 1107	Salangana
+T14	Taxon 1133 1142	Couocalia
+T15	Person 1272 1291	Charles W. Richmond
+T16	Taxon 1468 1484	Macropygia phaea
+T17	Taxon 1486 1506	Zosterops flavissima
+T18	Taxon 1508 1521	Otus cuyensis
+T19	Taxon 1541 1556	Otus calayensis
+T20	GeographicalLocation 1593 1604	Philippines
+T21	Taxon 1606 1626	Sphenocercus formosa
+T22	Taxon 1628 1652	Acrocephalus sorgophilus
+T23	Taxon 1694 1712	Sterna fluviatilis
+T24	Taxon 1714 1731	Clivicola riparia
+T25	Taxon 1733 1755	Polionetta zonorhyncha
+T26	Taxon 1775 1790	Mareca penelope
+T27	Taxon 1792 1807	Turdus pallidus
+T28	Taxon 1809 1828	Spodiopsar sericeus
+T29	Taxon 1848 1867	Chrysomitris spinus
+T30	Taxon 1869 1893	Fringilla montifringilla
+T31	GeographicalLocation 13 20	CALAYAN
+T32	GeographicalLocation 25 29	PUGA
+T33	GeographicalLocation 31 38	BABUYAN
+T34	Person 49 68	Richard C. Mcgregor
+T35	GeographicalLocation 194 201	Batanes
+T36	Person 256 270	John Whitehead
+T37	TemporalExpression 344 348	1903
+T38	GeographicalLocation 371 377	Aparri
+T39	GeographicalLocation 382 393	north Luzon
+T40	GeographicalLocation 717 721	Fuga
+T41	Person 1051 1057	Sharpe
+T42	Taxon 1148 1152	Otus
+T43	Taxon 1157 1162	Scops
+T44	Person 1195 1204	Worcester
+T45	Taxon 1431 1448	Turnix worcesteri
+T46	Taxon 1450 1466	Eudynamis frater
+T47	Taxon 1523 1539	Hyloterpe fallax
+T48	Taxon 1654 1665	Oceanodroma
+T49	Taxon 1676 1692	Chelidon dasypus
+T50	Taxon 1757 1773	Astur cuculoides
+T51	Taxon 1830 1846	Antigone sharpei
+T52	Taxon 1895 1912	Saxicola oenanthe

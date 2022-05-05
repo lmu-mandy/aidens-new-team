@@ -1,0 +1,30 @@
+T1	Taxon 19 40	Shorea philippinensis
+T2	Taxon 19 48	Shorea philippinensis Brandis
+T3	GeographicalLocation 531 537	LUZON,
+T4	GeographicalLocation 538 557	Province of Bulacan
+T5	Person 559 564	Vidal
+T6	GeographicalLocation 570 588	Province of Bataan
+T7	Person 604 610	Borden
+T8	GeographicalLocation 612 631	Province of Tayabas
+T9	Person 648 653	Kobbe
+T10	GeographicalLocation 655 660	TICAO
+T11	Person 678 688	Rosenbluth
+T12	GeographicalLocation 690 695	LEYTE
+T13	Person 713 723	Rosenbluth
+T14	Taxon 990 1005	Shorea sp. aff.
+T15	Taxon 1006 1018	S. harmandii
+T16	Taxon 1006 1025	S. harmandii Pierre
+T17	Taxon 1244 1252	Pentacme
+T18	GeographicalLocation 2184 2190	LUZON,
+T19	GeographicalLocation 2191 2210	Province of Cagayan
+T20	Person 2228 2234	Curran
+T21	TemporalExpression 2236 2245	Mar. 1909
+T22	Person 2272 2278	Klemme
+T23	GeographicalLocation 2280 2301	Province of La Laguna
+T24	Person 2319 2325	Curran
+T25	Taxon 2341 2346	stray
+T26	Taxon 2354 2360	danlig
+T27	Taxon 2364 2376	white tiaong
+T28	Taxon 2385 2392	canacan
+T29	Taxon 2405 2417	Shorea guiso
+T30	Taxon 2405 2432	Shorea guiso (Blanco) Blume

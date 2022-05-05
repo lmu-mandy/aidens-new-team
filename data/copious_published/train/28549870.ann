@@ -1,0 +1,36 @@
+T1	Person 44 52	Bernardi
+T2	GeographicalLocation 65 71	Carney
+T3	GeographicalLocation 75 86	Adam's Peak
+T4	TemporalExpression 88 92	Dec.
+T5	Person 110 118	Thwaites
+T6	GeographicalLocation 130 137	Gongals
+T7	GeographicalLocation 143 154	Adam's Peak
+T8	TemporalExpression 156 167	March 18.12
+T9	Person 180 186	Trimen
+T10	GeographicalLocation 193 202	Maskeliva
+T11	TemporalExpression 204 209	March
+T12	Person 223 230	Gardner
+T13	GeographicalLocation 248 259	Adam's Peak
+T14	Person 279 292	Sohmer A Wans
+T15	GeographicalLocation 307 323	Sinharaja forest
+T16	GeographicalLocation 325 338	N. Enselwatte
+T17	GeographicalLocation 346 361	Madaelle stream
+T18	GeographicalLocation 376 386	Army Camp,
+T19	TemporalExpression 387 391	Nov.
+T20	Person 416 420	Wans
+T21	TemporalExpression 434 439	Febr.
+T22	Person 458 463	Huber
+T23	TemporalExpression 476 480	Nov.
+T24	Taxon 509 545	Stemonoporus canaliculatus Thwaites.
+T25	Taxon 509 535	Stemonoporus canaliculatus
+T26	Taxon 614 634	Valeria canaliculata
+T27	Taxon 614 640	Valeria canaliculata Benth
+T28	Taxon 694 713	Vatica canaliculata
+T29	Taxon 783 803	Valeria canaliculata
+T30	Taxon 1104 1124	Vateria canaliculata
+T31	Taxon 1104 1145	Vateria canaliculata (Thw.) Benth. ex Thw
+T32	Taxon 1238 1263	Stemonoporus canaliculata
+T33	Taxon 1300 1319	Vatica canaliculata
+T34	GeographicalLocation 1409 1423	Hinidoon Korle
+T35	GeographicalLocation 1427 1442	Hiniduma Korale
+T36	TemporalExpression 1445 1455	April 1855

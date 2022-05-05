@@ -1,0 +1,116 @@
+T1	Habitat 41 73	primary forests at low altitudes
+T2	Person 204 211	Everett
+T3	Person 225 233	McGregor
+T4	Taxon 281 286	Aruas
+T5	Taxon 296 306	babanganon
+T6	Taxon 316 325	bangobang
+T7	Taxon 337 347	balakbakan
+T8	Taxon 360 365	buhga
+T9	Taxon 375 382	chapiii
+T10	Taxon 395 403	damilang
+T11	Taxon 413 422	hinlagasi
+T12	Taxon 435 443	illagasi
+T13	Taxon 456 463	kaliaan
+T14	Taxon 472 476	kila
+T15	Taxon 488 495	kuliaan
+T16	Taxon 505 519	lauan-kolorado
+T17	Taxon 532 541	magaboung
+T18	Taxon 551 561	malagangau
+T19	Taxon 570 580	malasinoro
+T20	Taxon 589 598	malatbang
+T21	Taxon 607 619	manggachapui
+T22	Taxon 631 643	manggasinoro
+T23	Taxon 652 658	saplig
+T24	Taxon 667 673	ubanan
+T25	Taxon 682 713	SHOREA PALOSAPIS (Blanco) Merr.
+T26	Taxon 682 698	SHOREA PALOSAPIS
+T27	Taxon 741 764	Dipterocarpus palosapis
+T28	Taxon 741 771	Dipterocarpus palosapis Blanco
+T29	Taxon 888 902	Hopea squamata
+T30	Taxon 888 907	Hopea squamata Dyer
+T31	Taxon 1013 1028	Shorea squamata
+T32	Taxon 1013 1042	Shorea squamata Dyer ex Vidal
+T33	Taxon 1333 1350	Shorea floribunda
+T34	Taxon 1333 1359	Shorea floribunda F.-Vill.
+T35	Taxon 1394 1407	Shorea rugosa
+T36	Taxon 1394 1413	Shorea rugosa Foxw.
+T37	GeographicalLocation 1467 1472	Luzon
+T38	GeographicalLocation 1474 1481	Cagayan
+T39	GeographicalLocation 1483 1495	Ilocos Norte
+T40	GeographicalLocation 1497 1504	Isabela
+T41	GeographicalLocation 1506 1517	Nueva Ecija
+T42	GeographicalLocation 1519 1526	Bulacan
+T43	GeographicalLocation 1528 1534	Laguna
+T44	GeographicalLocation 1536 1543	Tayabas
+T45	GeographicalLocation 1545 1554	Camarines
+T46	GeographicalLocation 1556 1561	Albay
+T47	GeographicalLocation 1563 1571	Sorsogon
+T48	GeographicalLocation 1574 1581	Mindoro
+T49	GeographicalLocation 1583 1588	Samar
+T50	GeographicalLocation 1590 1595	Leyte
+T51	GeographicalLocation 1597 1605	Mindanao
+T52	Habitat 1610 1642	primary forests at low altitudes
+T53	GeographicalLocation 1647 1655	Mindanao
+T54	GeographicalLocation 1704 1710	Borneo
+T55	Taxon 1725 1729	Alam
+T56	Taxon 1746 1754	alintobo
+T57	Taxon 1763 1768	apnit
+T58	Taxon 1777 1787	balakbakan
+T59	Taxon 1797 1804	balabak
+T60	Taxon 1814 1821	baiukan
+T61	Taxon 1831 1838	bayukan
+T62	Taxon 1848 1853	bonga
+T63	Taxon 1863 1866	daa
+T64	Taxon 1879 1887	damilang
+T65	Taxon 1897 1909	danlig-tabak
+T66	Taxon 1919 1926	galunti
+T67	Taxon 1936 1944	gugumkun
+T68	Taxon 1953 1961	kalauaan
+T69	Taxon 1973 1981	kalayaan
+T70	Taxon 1990 1997	kaliaan
+T71	Taxon 2007 2013	kalian
+T72	Taxon 2023 2037	lauan-kolorado
+T73	Taxon 2048 2061	lauan-magsino
+T74	Taxon 2077 2088	lauang-pula
+T75	Taxon 2098 2103	lobok
+T76	Taxon 2113 2122	magsinoyo
+T77	Taxon 2132 2144	malabalabang
+T78	Taxon 2153 2162	malakayan
+T79	Taxon 2171 2181	malasinoro
+T80	Taxon 2196 2205	mandaraua
+T81	Taxon 2215 2222	mayapis
+T82	Taxon 2232 2239	oghayan
+T83	Taxon 2256 2260	pura
+T84	Taxon 2270 2275	tabak
+T85	Taxon 2285 2292	tabakor
+T86	Taxon 2301 2307	tengag
+T87	Taxon 2316 2322	ubanan
+T88	Taxon 2331 2339	ugayauan
+T89	Taxon 2354 2383	SHOREA PHILIPPINENSIS Brandis
+T90	Taxon 2354 2375	SHOREA PHILIPPINENSIS
+T91	Taxon 2492 2506	Shorea pallida
+T92	Taxon 2492 2512	Shorea pallida Foxw.
+T93	GeographicalLocation 2556 2561	Luzon
+T94	GeographicalLocation 2563 2570	Cagayan
+T95	GeographicalLocation 2572 2579	Bulacan
+T96	GeographicalLocation 2581 2588	Tayabas
+T97	GeographicalLocation 2591 2596	Leyte
+T98	GeographicalLocation 2598 2603	Ticao
+T99	GeographicalLocation 2605 2612	Basilan
+T100	Person 2614 2619	Vidal
+T101	Person 2637 2645	Bernardo
+T102	Person 2653 2660	Velasco
+T103	Person 2668 2674	Curran
+T104	Person 2682 2690	Villamil
+T105	Person 2698 2702	Cruz
+T106	Person 2710 2717	Miranda
+T107	Person 2732 2738	Reillo
+T108	Habitat 2743 2775	primary forests at low altitudes
+T109	Taxon 2799 2804	Bonga
+T110	Taxon 2813 2819	danlig
+T111	Taxon 2828 2838	gagil-bato
+T112	Taxon 2847 2854	kanakan
+T113	Taxon 2864 2870	sarrai
+T114	Taxon 2879 2884	siyau
+T115	Taxon 2896 2915	SHOREA POLITA Vidal
+T116	Taxon 2896 2909	SHOREA POLITA

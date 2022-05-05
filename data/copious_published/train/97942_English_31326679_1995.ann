@@ -1,0 +1,203 @@
+T1	GeographicalLocation 99 111	Indian Ocean
+T2	GeographicalLocation 139 157	Mergui Archipelago
+T3	GeographicalLocation 310 324	southern Japan
+T4	GeographicalLocation 384 400	Marshall Islands
+T5	GeographicalLocation 405 424	Tuamotu Archipelago
+T6	GeographicalLocation 625 641	Christmas Island
+T7	GeographicalLocation 746 756	Micronesia
+T8	GeographicalLocation 815 824	Indonesia
+T9	GeographicalLocation 842 850	Kiribati
+T10	GeographicalLocation 1014 1031	Northern Marianas
+T11	GeographicalLocation 1070 1081	Philippines
+T12	GeographicalLocation 1124 1136	Saudi Arabia
+T13	GeographicalLocation 1161 1170	Singapore
+T14	GeographicalLocation 1172 1187	Solomon Islands
+T15	Taxon 1548 1569	Stylocoeniella armata
+T16	Taxon 1598 1623	Stylocoeniella cocosensis
+T17	Taxon 1635 1659	Stylocoeniella guentheri
+T18	GeographicalLocation 1859 1868	Caribbean
+T19	GeographicalLocation 1961 1973	Persian Gulf
+T20	GeographicalLocation 1975 1987	Arabian Gulf
+T21	GeographicalLocation 2003 2017	Pacific Oceans
+T22	GeographicalLocation 2043 2060	Galapagos Islands
+T23	GeographicalLocation 2065 2089	Pacific coast of America
+T24	GeographicalLocation 2336 2350	Cayman Islands
+T25	GeographicalLocation 2373 2383	Costa Rica
+T26	GeographicalLocation 2403 2411	Dominica
+T27	GeographicalLocation 2473 2490	Equatorial Guinea
+T28	GeographicalLocation 2594 2603	Indonesia
+T29	GeographicalLocation 2848 2864	Papua New Guinea
+T30	GeographicalLocation 2866 2877	Philippines
+T31	GeographicalLocation 2995 3004	Singapore
+T32	GeographicalLocation 3160 3169	Caribbean
+T33	Taxon 3313 3322	M. kirbyi
+T34	GeographicalLocation 3340 3346	Taiwan
+T35	GeographicalLocation 3395 3401	Borneo
+T36	GeographicalLocation 3403 3411	Sulawesi
+T37	GeographicalLocation 3413 3421	Moluccas
+T38	GeographicalLocation 3423 3433	New Guinea
+T39	Taxon 3541 3560	Madracis kauaiensis
+T40	Taxon 3798 3819	Madracis brueggemanni
+T41	Taxon 0 14	Astrocoeniidae
+T42	Taxon 15 52	Stylocoeniella Yabe and Sugiyama 1935
+T43	Taxon 56 67	Thorn coral
+T44	GeographicalLocation 69 76	Red Sea
+T45	GeographicalLocation 82 93	East Africa
+T46	GeographicalLocation 121 129	Maldives
+T47	GeographicalLocation 168 178	Madagascar
+T48	GeographicalLocation 184 207	Cocos (Keeling) Islands
+T49	Taxon 217 241	Houtman Abrolhos Islands
+T50	GeographicalLocation 246 263	western Australia
+T51	GeographicalLocation 269 284	South-east Asia
+T52	GeographicalLocation 286 299	Pacific Ocean
+T53	GeographicalLocation 301 306;319 324	north Japan
+T54	GeographicalLocation 330 355	south to Lord Howe Island
+T55	GeographicalLocation 374 382	Marianas
+T56	GeographicalLocation 531 545	American Samoa
+T57	GeographicalLocation 551 560	Australia
+T58	GeographicalLocation 562 569	Bahrain
+T59	GeographicalLocation 577 607	British Indian Ocean Territory
+T60	GeographicalLocation 617 623	Brunei
+T61	GeographicalLocation 643 666	Cocos (Keeling) Islands
+T62	GeographicalLocation 672 679	Comoros
+T63	GeographicalLocation 681 693	Cook Islands
+T64	GeographicalLocation 695 703	Djibouti
+T65	GeographicalLocation 705 710	Egypt
+T66	GeographicalLocation 716 724	Ethiopia
+T67	GeographicalLocation 758 762	Fiji
+T68	GeographicalLocation 764 780	French Polynesia
+T69	GeographicalLocation 794 798	Guam
+T70	GeographicalLocation 800 809	Hong Kong
+T71	TemporalExpression 826 829	Jan
+T72	GeographicalLocation 835 840	Kenya
+T73	GeographicalLocation 852 862	Madagascar
+T74	GeographicalLocation 872 880	Malaysia
+T75	GeographicalLocation 896 901	Sabah
+T76	GeographicalLocation 907 915	Maldives
+T77	GeographicalLocation 925 941	Marshall Islands
+T78	GeographicalLocation 947 956	Mauritius
+T79	GeographicalLocation 958 968	Mozambique
+T80	GeographicalLocation 973 980	Myanmar
+T81	GeographicalLocation 982 987	Nauru
+T82	GeographicalLocation 989 1002	New Caledonia
+T83	GeographicalLocation 1008 1012	Niue
+T84	GeographicalLocation 1033 1037	Oman
+T85	GeographicalLocation 1043 1048	Palau
+T86	GeographicalLocation 1054 1068	Pua New Guinea
+T87	GeographicalLocation 1087 1102	Pitcaim Islands
+T88	GeographicalLocation 1108 1115	Reunion
+T89	GeographicalLocation 1117 1122	Samoa
+T90	GeographicalLocation 1141 1151	Seychelles
+T91	GeographicalLocation 1193 1200	Somalia
+T92	GeographicalLocation 1202 1207	Sudan
+T93	GeographicalLocation 1213 1219	Taiwan
+T94	GeographicalLocation 1225 1233	Tanzania
+T95	GeographicalLocation 1235 1243	Thailand
+T96	GeographicalLocation 1253 1260	Tokelau
+T97	GeographicalLocation 1262 1267	Tonga
+T98	GeographicalLocation 1269 1275	Tuvalu
+T99	GeographicalLocation 1277 1284	Vanuatu
+T100	Person 1290 1296	Wallis
+T101	Person 1301 1307	Futuna
+T102	Taxon 1308 1322	Stylocoeniella
+T103	Habitat 1374 1389	temperate reefs
+T104	GeographicalLocation 1395 1413	southern Australia
+T105	Habitat 1434 1444	coral reef
+T106	Habitat 1462 1476	tropical reefs
+T107	Taxon 1548 1597	Stylocoeniella armata (Hemprich & Ehrenberg 1834)
+T108	Taxon 1598 1634	Stylocoeniella cocosensis Veron 1990
+T109	Taxon 1635 1680	Stylocoeniella guentheri (Bassett-smith 1890)
+T110	Taxon 1688 1702	POCILLOPORIDAE
+T111	Taxon 1688 1712	POCILLOPORIDAE Gray 1842
+T112	Taxon 1713 1721	Madracis
+T113	Taxon 1713 1748	Madracis Milne Edwards & Haime 1849
+T114	Habitat 1802 1811;1825 1829	temperate seas
+T115	Habitat 1816 1829	tropical seas
+T116	GeographicalLocation 1841 1857	Western Atlantic
+T117	GeographicalLocation 1885 1891	Brazil
+T118	GeographicalLocation 1893 1899	Azores
+T119	GeographicalLocation 1901 1911	Cape Verde
+T120	GeographicalLocation 1913 1927	Gulf of Guinea
+T121	GeographicalLocation 1933 1946	Mediterranean
+T122	GeographicalLocation 1948 1955	Red Sea
+T123	GeographicalLocation 1992 1998;2011 2017	Indian Oceans
+T124	GeographicalLocation 2021 2037	Hawaiian Islands
+T125	GeographicalLocation 2095 2103	Anguilla
+T126	GeographicalLocation 2105 2112	Antigua
+T127	GeographicalLocation 2117 2124	Barbuda
+T128	GeographicalLocation 2292 2298	Brunei
+T129	GeographicalLocation 2300 2314	Canary Islands
+T130	GeographicalLocation 2126 2135	Australia
+T131	GeographicalLocation 2320 2330	Cape Verde
+T132	GeographicalLocation 2137 2143	Azores
+T133	GeographicalLocation 2149 2156	Bahamas
+T134	GeographicalLocation 2352 2357	Chile
+T135	GeographicalLocation 2162 2169	Bahrain
+T136	GeographicalLocation 2359 2367	Colombia
+T137	GeographicalLocation 2177 2185	Barbados
+T138	GeographicalLocation 2191 2197	Belize
+T139	GeographicalLocation 2203 2210	Bermuda
+T140	GeographicalLocation 2212 2218	Brazil
+T141	GeographicalLocation 2224 2254	British Indian Ocean Territory
+T142	GeographicalLocation 2264 2286	British Virgin Islands
+T143	GeographicalLocation 2389 2393	Cuba
+T144	GeographicalLocation 2417 2435	Dominican Republic
+T145	GeographicalLocation 2437 2444	Ecuador
+T146	GeographicalLocation 2446 2463	Galapagos Islands
+T147	GeographicalLocation 2492 2498	Pagalu
+T148	GeographicalLocation 2504 2520	French Polynesia
+T149	GeographicalLocation 2526 2533	Grenada
+T150	GeographicalLocation 2539 2549	Guadeloupe
+T151	GeographicalLocation 2555 2560	Haiti
+T152	GeographicalLocation 2562 2578	Hawaiian Islands
+T153	GeographicalLocation 2584 2592	Honduras
+T154	GeographicalLocation 2605 2611	Israel
+T155	GeographicalLocation 2617 2624	Jamaica
+T156	GeographicalLocation 2630 2635	Japan
+T157	GeographicalLocation 2641 2651	Madagascar
+T158	GeographicalLocation 2661 2668	Madeira
+T159	GeographicalLocation 2674 2682	Malaysia
+T160	GeographicalLocation 2684 2689	Sabah
+T161	GeographicalLocation 2695 2711	Marshall Islands
+T162	GeographicalLocation 2721 2731	Martinique
+T163	GeographicalLocation 2736 2742	Mexico
+T164	GeographicalLocation 2748 2758	Montserrat
+T165	GeographicalLocation 2764 2774	Mozambique
+T166	GeographicalLocation 2780 2787	Myanmar
+T167	GeographicalLocation 2789 2809	Netherlands Antilles
+T168	GeographicalLocation 2815 2824	Nicaragua
+T169	GeographicalLocation 2826 2830	Oman
+T170	GeographicalLocation 2836 2842	Panama
+T171	GeographicalLocation 2883 2898	Pitcaim Islands
+T172	GeographicalLocation 2904 2915	Puerto Rico
+T173	GeographicalLocation 2917 2928	Saint Kitts
+T174	GeographicalLocation 2933 2938	Nevis
+T175	GeographicalLocation 2944 2955	Saint Lucia
+T176	GeographicalLocation 2957 2970	Saint Vincent
+T177	GeographicalLocation 2979 2989	Grenadines
+T178	GeographicalLocation 3006 3014	Thailand
+T179	GeographicalLocation 3024 3032	Trinidad
+T180	GeographicalLocation 3037 3043	Tobago
+T181	GeographicalLocation 3045 3050	Turks
+T182	GeographicalLocation 3055 3061	Caicos
+T183	GeographicalLocation 3063 3066	USA
+T184	GeographicalLocation 3068 3075	Florida
+T185	GeographicalLocation 3077 3112	Virgin Islands of the United States
+T186	GeographicalLocation 3114 3123	Venezuela
+T187	Taxon 3177 3185	Madracis
+T188	GeographicalLocation 3250 3262	Indo-pacific
+T189	GeographicalLocation 3360 3371	Philippines
+T190	GeographicalLocation 3377 3385	Thailand
+T191	GeographicalLocation 3438 3447	Australia
+T192	GeographicalLocation 3449 3467	Great Barrier Reef
+T193	GeographicalLocation 3579 3595	Hawaiian Islands
+T194	Taxon 3659 3667	Madracis
+T195	Habitat 3683 3699	temperate waters
+T196	Taxon 3716 3731	Madracis asanoi
+T197	Taxon 3716 3752	Madracis asanoi Yabe & Sugiyama 1936
+T198	Taxon 3753 3770	Madracis asperula
+T199	Taxon 3753 3797	Madracis asperula Milne Edwards & Haime 1850
+T200	Taxon 3798 3833	Madracis brueggemanni (Ridley 1881)
+T201	Taxon 3834 3851	Madracis decactis
+T202	Taxon 3834 3864	Madracis decactis (Lyman 1859)
+T203	Taxon 3865 3883	Green Cactus Coral

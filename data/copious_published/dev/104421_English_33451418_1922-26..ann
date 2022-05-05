@@ -1,0 +1,82 @@
+T1	GeographicalLocation 495 500	Leyte
+T2	Habitat 580 586	forest
+T3	Taxon 879 897	Liparis caespitosa
+T4	Taxon 912 931	Malaxis aporophylla
+T5	Taxon 971 991	Oberonia aporophylla
+T6	Taxon 1155 1173	Liparis caespitosa
+T7	Taxon 1240 1257	Liparis compressa
+T8	Taxon 1331 1350	Oberonia cylindrica
+T9	Taxon 1412 1428	Liparis disticha
+T10	Taxon 1596 1615	Oberonia iridifolia
+T11	Taxon 1673 1690	Liparis latifolia
+T12	Taxon 1878 1894	Oberonia miniata
+T13	TemporalExpression 1476 1480	1908
+T14	TemporalExpression 1490 1494	1915
+T15	Taxon 1538 1563	Malaxis iridifolia Reichb
+T16	Taxon 1538 1556	Malaxis iridifolia
+T17	Taxon 1878 1901	Oberonia miniata Lindl.
+T18	Taxon 1596 1629	Oberonia iridifolia (Roxb) Lindl.
+T19	Taxon 1673 1704	Liparis latifolia (Blume) Lindl
+T20	Taxon 1797 1821	Malaxis macgregorii Ames
+T21	Taxon 1797 1816	Malaxis macgregorii
+T22	Taxon 1706 1730	Malaxis longipedunculata
+T23	Taxon 1706 1735	Malaxis longipedunculata Ames
+T24	Taxon 42 60	MALAXIS RIZALENSIS
+T25	GeographicalLocation 126 131	Luzon
+T26	TemporalExpression 92 96	1911
+T27	TemporalExpression 116 120	1915
+T28	GeographicalLocation 133 138	Rizal
+T29	Taxon 183 203	MALAXIS TAYLORI Ames
+T30	Taxon 183 198	MALAXIS TAYLORI
+T31	Taxon 42 65	MALAXIS RIZALENSIS Ames
+T32	GeographicalLocation 224 232	Mindanao
+T33	Taxon 269 288	MALAXIS UNCATA Ames
+T34	GeographicalLocation 234 240	Agusan
+T35	Taxon 269 283	MALAXIS UNCATA
+T36	GeographicalLocation 349 354	Luzon
+T37	GeographicalLocation 356 362	Laguna
+T38	TemporalExpression 315 319	1911
+T39	Taxon 397 418	MALAXIS WENZELII Ames
+T40	Taxon 397 413	MALAXIS WENZELII
+T41	GeographicalLocation 480 485	Panay
+T42	GeographicalLocation 487 492	Capiz
+T43	TemporalExpression 445 449	1913
+T44	Taxon 612 635	MALAXIS WILLIAMSII Ames
+T45	Taxon 612 630	MALAXIS WILLIAMSII
+T46	TemporalExpression 645 649	1908
+T47	GeographicalLocation 679 684	Luzon
+T48	GeographicalLocation 686 693	Benguet
+T49	GeographicalLocation 717 723	Baguio
+T50	Taxon 756 777	Malaxis anceps Reichb
+T51	Taxon 756 770	Malaxis anceps
+T52	TemporalExpression 799 803	1861
+T53	Taxon 833 859	Malaxis angustifolia Blume
+T54	Taxon 833 853	Malaxis angustifolia
+T55	Taxon 879 910	Liparis caespitosa (Thou) Lindl
+T56	Taxon 912 938	Malaxis aporophylla Reichb
+T57	Taxon 971 999	Oberonia aporophylla Reichb.
+T58	Taxon 809 831	 Oberonia anceps Lindl
+T59	Taxon 810 825	Oberonia anceps
+T60	Taxon 1002 1021	Malaxis biloba Ames
+T61	Taxon 1002 1016	Malaxis biloba
+T62	TemporalExpression 960 964	1861
+T63	TemporalExpression 1031 1035	1908
+T64	TemporalExpression 1045 1049	1915
+T65	Taxon 1099 1122	Malaxis caespitosa Thou
+T66	Taxon 1099 1117	Malaxis caespitosa
+T67	Taxon 1155 1186	Liparis caespitosa (Thou) Lindl
+T68	Taxon 1188 1211	Malaxis compressa Blume
+T69	Taxon 1188 1205	Malaxis compressa
+T70	Taxon 1273 1299	Malaxis cylindrica Reichb.
+T71	Taxon 1273 1291	Malaxis cylindrica
+T72	Taxon 1240 1272	Liparis compressa (Blume) Lindl.
+T73	Taxon 1331 1356	Oberonia cylindrica Lindl
+T74	Taxon 1358 1379	Malaxis disticha Thou
+T75	Taxon 1358 1374	Malaxis disticha
+T76	Taxon 1412 1441	Liparis disticha (Thou) Lindl
+T77	Taxon 1443 1466	Malaxis flavescens Ames
+T78	Taxon 1443 1461	Malaxis flavescens
+T79	Taxon 1512 1536	Malaxis bataanensis Ames
+T80	Taxon 1512 1531	Malaxis bataanensis
+T81	Taxon 1823 1846	Malaxis miniata Reichb.
+T82	Taxon 1823 1838	Malaxis miniata

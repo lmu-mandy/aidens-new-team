@@ -1,0 +1,73 @@
+T1	Taxon 262 282	Antipathes dichotoma
+T2	GeographicalLocation 344 351	Red Sea
+T3	Taxon 357 368	A. japonica
+T4	GeographicalLocation 404 410	Taiwan
+T5	Taxon 429 450	Cirrhipathes spiralis
+T6	Taxon 455 465	C. anguina
+T7	Taxon 591 600	A. aperta
+T8	GeographicalLocation 631 665	west coast of southern New Zealand
+T9	Taxon 672 685	A. panamensis
+T10	GeographicalLocation 700 706	Panama
+T11	GeographicalLocation 708 716	Colombia
+T12	GeographicalLocation 734 743	Galapagos
+T13	Taxon 748 763	A. galapagensis
+T14	GeographicalLocation 1043 1052	Caribbean
+T15	GeographicalLocation 2070 2079	Galapagos
+T16	Taxon 2081 2094	A. panamensis
+T17	Taxon 2099 2114	A. galapagensis
+T18	Taxon 2357 2370	A. panamensis
+T19	Taxon 2507 2522	A. galapagensis
+T20	Taxon 2592 2605	A. panamensis
+T21	Taxon 2629 2644	A. galapagensis
+T22	Taxon 2772 2782	A. grandis
+T23	Taxon 2980 2992	A. dichotoma
+T24	TemporalExpression 3028 3037	125 years
+T25	GeographicalLocation 3586 3598	Persian Gulf
+T26	GeographicalLocation 3629 3634	India
+T27	TemporalExpression 3968 3977	June 1982
+T28	GeographicalLocation 4042 4048	Taiwan
+T29	GeographicalLocation 4073 4084	Philippines
+T30	TemporalExpression 4094 4098	1981
+T31	Taxon 4111 4123	A. dichotoma
+T32	Habitat 112 126	shallow waters
+T33	Habitat 23 31;48 54	tropical waters
+T34	Habitat 36 54	subtropical waters
+T35	GeographicalLocation 305 332	Indo-pacific in deep waters
+T36	GeographicalLocation 414 427	central Japan
+T37	Taxon 467 478	whip corals
+T38	GeographicalLocation 515 532	Indo-west Pacific
+T39	GeographicalLocation 718 725	Ecuador
+T40	GeographicalLocation 782 794	Galapagos Is
+T41	Habitat 914 924	deep water
+T42	GeographicalLocation 1102 1108	Hawaii
+T43	GeographicalLocation 1308 1319	New Zealand
+T44	Taxon 1321 1330	A. aperta
+T45	Habitat 1343 1350;1357 1363	shallow waters
+T46	Habitat 1352 1363	cold waters
+T47	Habitat 1372 1398	steep rock walls of fiords
+T48	Taxon 1476 1486	A. grandis
+T49	GeographicalLocation 1495 1510	coast of Hawaii
+T50	Habitat 1853 1865	turbid water
+T51	Habitat 1872 1884	shaded areas
+T52	GeographicalLocation 1894 1901	Curasao
+T53	Taxon 1903 1915	Black Corals
+T54	Habitat 1956 1970	shade of rocks
+T55	Habitat 2168 2194	steep vertical rocky walls
+T56	Habitat 2302 2313	cool waters
+T57	GeographicalLocation 2330 2339	Galapagos
+T58	Taxon 2382 2394	black corals
+T59	Habitat 2422 2432	dark areas
+T60	Habitat 2434 2439	caves
+T61	Habitat 2441 2451	underhangs
+T62	Taxon 2651 2663	Black Corals
+T63	Habitat 2684 2708	sediment covers terraces
+T64	Taxon 2864 2875	nematocysts
+T65	TemporalExpression 3021 3023;3032 3037	10 years
+T66	TemporalExpression 3189 3197	70 years
+T67	Taxon 3244 3258	Antipatharians
+T68	Taxon 3328 3338	anthozoans
+T69	Taxon 3457 3463;3472 3488	Middle East Black Coral
+T70	Taxon 3468 3488	Far East Black Coral
+T71	Taxon 3814 3825	Black Coral
+T72	GeographicalLocation 3982 3987	U.S.A
+T73	Taxon 4015 4026	Black Coral

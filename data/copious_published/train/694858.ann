@@ -1,0 +1,157 @@
+T1	Taxon 32 49	Dipteroqp,rpaceae
+T2	GeographicalLocation 331 336	Luzon
+T3	GeographicalLocation 338 354	Cagayan Province
+T4	Habitat 359 369	river bank
+T5	GeographicalLocation 373 382	Missionis
+T6	Habitat 392 397	coast
+T7	Person 415 421	Curran
+T8	TemporalExpression 423 434	March, 1909
+T9	Taxon 455 460	saray
+T10	Person 497 503	Curran
+T11	GeographicalLocation 505 511	Laguna
+T12	TemporalExpression 513 527	February, 1910
+T13	Person 556 562	Curran
+T14	GeographicalLocation 564 571	Cagayan
+T15	TemporalExpression 573 587	February, 1912
+T16	Person 647 655	Bernardo
+T17	GeographicalLocation 657 664	Cagayan
+T18	TemporalExpression 666 676	July, 1911
+T19	Person 705 711	Klemme
+T20	GeographicalLocation 713 720	Cagayan
+T21	TemporalExpression 722 731	May, 1907
+T22	Taxon 781 808	SHOREA GUISO (Blanco) Blume
+T23	Taxon 781 793	SHOREA GUISO
+T24	GeographicalLocation 810 815	Luzon
+T25	GeographicalLocation 817 824	Cagayan
+T26	GeographicalLocation 826 833	Isabela
+T27	GeographicalLocation 835 841	Bontoc
+T28	GeographicalLocation 843 855	Ilocos Norte
+T29	GeographicalLocation 857 867	Ilocos Sur
+T30	GeographicalLocation 869 873	Abra
+T31	GeographicalLocation 875 880	Union
+T32	GeographicalLocation 882 895	Nueva Vizcaya
+T33	GeographicalLocation 897 908	Nueva Ecija
+T34	GeographicalLocation 910 920	Pangasinan
+T35	GeographicalLocation 922 928	Tarlac
+T36	GeographicalLocation 930 938	Zambales
+T37	GeographicalLocation 940 946	Bataan
+T38	GeographicalLocation 948 956	Pampanga
+T39	GeographicalLocation 958 965	Bulacan
+T40	GeographicalLocation 967 972	Rizal
+T41	GeographicalLocation 974 980	Laguna
+T42	GeographicalLocation 982 990	Batangas
+T43	GeographicalLocation 992 999	Tayabas
+T44	GeographicalLocation 1001 1010	Camarines
+T45	GeographicalLocation 1012 1017	Albay
+T46	GeographicalLocation 1019 1027	Sorsogon
+T47	GeographicalLocation 1029 1039	Marinduque
+T48	GeographicalLocation 1041 1046	Ticao
+T49	GeographicalLocation 1048 1055	Mindoro
+T50	GeographicalLocation 1057 1064	Masbate
+T51	GeographicalLocation 1066 1071	Samar
+T52	GeographicalLocation 1073 1078	Leyte
+T53	GeographicalLocation 1080 1086	Negros
+T54	GeographicalLocation 1088 1093	Panay
+T55	GeographicalLocation 1095 1100	Capiz
+T56	GeographicalLocation 1102 1110	Mindanao
+T57	GeographicalLocation 1112 1118	Agusan
+T58	GeographicalLocation 1120 1127	Misamis
+T59	GeographicalLocation 1129 1134	Davao
+T60	GeographicalLocation 1136 1144	Cotabato
+T61	GeographicalLocation 1146 1155	Zamboanga
+T62	Taxon 1161 1170	SHOREA sp
+T63	Taxon 1183 1188	guijo
+T64	GeographicalLocation 1191 1196	Luzon
+T65	GeographicalLocation 1198 1204	Bataan
+T66	GeographicalLocation 1206 1214	Zambales
+T67	GeographicalLocation 1216 1224	Pampanga
+T68	GeographicalLocation 1226 1232	Laguna
+T69	Taxon 1238 1268	SHOREA SQUAMATA (Turcz.) Dyer.
+T70	Taxon 1238 1253	SHOREA SQUAMATA
+T71	GeographicalLocation 1269 1274	Luzon
+T72	GeographicalLocation 1276 1283	Cagayan
+T73	GeographicalLocation 1285 1292	Isabela
+T74	GeographicalLocation 1294 1306	Ilocos Norte
+T75	GeographicalLocation 1308 1319	Nueva Ecija
+T76	GeographicalLocation 1321 1328	Bulacan
+T77	GeographicalLocation 1330 1335	Rizal
+T78	GeographicalLocation 1337 1343	Laguna
+T79	GeographicalLocation 1345 1352	Tayabas
+T80	GeographicalLocation 1354 1363	Camarines
+T81	GeographicalLocation 1365 1370	Albay
+T82	GeographicalLocation 1372 1380	Sorsogon
+T83	GeographicalLocation 1382 1389	Polillo
+T84	GeographicalLocation 1391 1401	Marinduque
+T85	GeographicalLocation 1403 1410	Mindoro
+T86	GeographicalLocation 1412 1417	Samar
+T87	GeographicalLocation 1419 1424	Leyte
+T88	GeographicalLocation 1426 1431	Bohol
+T89	GeographicalLocation 1433 1440	Biliran
+T90	GeographicalLocation 1442 1449	Basilan
+T91	GeographicalLocation 1451 1459	Mindanao
+T92	GeographicalLocation 1461 1468	Surigao
+T93	GeographicalLocation 1470 1476	Agusan
+T94	GeographicalLocation 1478 1485	Misamis
+T95	GeographicalLocation 1487 1492	Davao
+T96	GeographicalLocation 1494 1499	Lanao
+T97	GeographicalLocation 1501 1510	Zamboanga
+T98	Taxon 1518 1537	SHOREA RUGOSA Heim.
+T99	Taxon 1518 1531	SHOREA RUGOSA
+T100	GeographicalLocation 1538 1546	Mindanao
+T101	GeographicalLocation 1548 1557	Zamboanga
+T102	Person 1575 1584	Foxworthy
+T103	Person 1586 1593	De Mesa
+T104	Person 1596 1604	Villamil
+T105	TemporalExpression 1616 1628	May 17, 1912
+T106	GeographicalLocation 1666 1672	Borneo
+T107	Taxon 1687 1700	Shorea eximia
+T108	Taxon 1791 1800	red lauan
+T109	Taxon 1806 1818	SHORA EXIMIA
+T110	Taxon 1806 1835	SHORA EXIMIA (Miq.) Scheffer.
+T111	GeographicalLocation 1836 1841	Luzon
+T112	GeographicalLocation 1843 1850	Tayabas
+T113	GeographicalLocation 1852 1861	Camarines
+T114	GeographicalLocation 1863 1868	Albay
+T115	GeographicalLocation 1870 1878	Sorsogon
+T116	GeographicalLocation 1880 1885	Samar
+T117	GeographicalLocation 1887 1893	Negros
+T118	GeographicalLocation 1895 1902	Basilan
+T119	GeographicalLocation 1904 1912	Mindanao
+T120	GeographicalLocation 1914 1920	Agusan
+T121	GeographicalLocation 1922 1927	Lanao
+T122	GeographicalLocation 1929 1938	Zamboanga
+T123	Taxon 1944 1961	SHOREA POLYSPERMA
+T124	Taxon 1944 1976	SHOREA POLYSPERMA (Blanco) Merr.
+T125	GeographicalLocation 1977 1982	Luzon
+T126	GeographicalLocation 1984 1991	Cagayan
+T127	GeographicalLocation 1993 2000	Isabela
+T128	GeographicalLocation 2002 2014	Ilocos Norte
+T129	GeographicalLocation 2016 2026	Pangasinan
+T130	GeographicalLocation 2028 2039	Nueva Ecija
+T131	GeographicalLocation 2041 2048	Bulacan
+T132	GeographicalLocation 2050 2058	Zambales
+T133	GeographicalLocation 2060 2066	Bataan
+T134	GeographicalLocation 2068 2074	Laguna
+T135	GeographicalLocation 2076 2083	Tayabas
+T136	GeographicalLocation 2085 2094	Camarines
+T137	GeographicalLocation 2096 2101	Albay
+T138	GeographicalLocation 2103 2111	Sorsogon
+T139	GeographicalLocation 2113 2123	Marinduque
+T140	GeographicalLocation 2125 2130	Samar
+T141	GeographicalLocation 2132 2137	Leyte
+T142	GeographicalLocation 2139 2143	Cebu
+T143	GeographicalLocation 2145 2152	Mindoro
+T144	GeographicalLocation 2154 2160	Negros
+T145	GeographicalLocation 2162 2167	Panay
+T146	GeographicalLocation 2169 2174	Capiz
+T147	GeographicalLocation 2176 2183	Biliran
+T148	GeographicalLocation 2185 2192	Basilan
+T149	GeographicalLocation 2194 2202	Mindanao
+T150	GeographicalLocation 2204 2211	Surigao
+T151	GeographicalLocation 2213 2221	Cotabato
+T152	Taxon 2287 2303	SHOREA WARBURGII
+T153	Taxon 2287 2308	SHOREA WARBURGII Gilg
+T154	Taxon 2340 2358	Shorea polyspermia
+T155	GeographicalLocation 2472 2488	Cagayan Province
+T156	GeographicalLocation 2490 2495	Luzon
+T157	GeographicalLocation 2506 2511	Samar

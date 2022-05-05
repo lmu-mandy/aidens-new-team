@@ -1,0 +1,123 @@
+T1	GeographicalLocation 10 23	SEDILI RIVERS
+T2	TemporalExpression 24 32	February
+T3	TemporalExpression 74 79	March
+T4	Taxon 105 122	Buchanania lucida
+T5	TemporalExpression 133 139	August
+T6	Taxon 142 154	Campnosperma
+T7	Taxon 156 174	Croton laevifolius
+T8	TemporalExpression 212 215	May
+T9	Taxon 218 230	Eugenia spp.
+T10	Taxon 232 248	Lithocarpus spp.
+T11	Taxon 258 267	Lauraceae
+T12	Taxon 272 285	Myristicaceae
+T13	Taxon 287 311	Macaranga baccaureifolia
+T14	TemporalExpression 349 353	June
+T15	Taxon 356 362	Neesia
+T16	Taxon 364 371	Pometia
+T17	Taxon 373 393	Kopsia singapurensis
+T18	Taxon 414 419	Ixora
+T19	Taxon 433 449	Calophyllum spp.
+T20	TemporalExpression 479 483	Oct.
+T21	TemporalExpression 485 489	Nov.
+T22	Taxon 492 508	Connarus grandis
+T23	Taxon 524 535	Shorea spp.
+T24	Taxon 537 553	Sindora coriacea
+T25	Taxon 567 591	Macaranga baccaureijolia
+T26	TemporalExpression 606 611	March
+T27	Taxon 729 748	Cratoxylon formosum
+T28	Habitat 894 906	swamp-forest
+T29	Taxon 1034 1050	Castanopsis spp.
+T30	Taxon 1052 1067	Cerbera odollam
+T31	Taxon 1069 1086	Crateva religiosa
+T32	Taxon 1088 1104	Elaeocarpus spp.
+T33	Taxon 1106 1125	Entada phaseoloides
+T34	Taxon 1127 1142	Eugenia spicata
+T35	Taxon 1144 1155	Flagellaria
+T36	Taxon 1157 1174	Gardenia tubifera
+T37	Taxon 1176 1190	Gluta velutina
+T38	TemporalExpression 1222 1226	June
+T39	TemporalExpression 1230 1234	July
+T40	Taxon 1237 1255	Goniothalamus spp.
+T41	Taxon 1257 1273	Horsfieldia irya
+T42	Taxon 1275 1294	Poikilospermum spp.
+T43	Taxon 1296 1311	Vitex clarkeana
+T44	Taxon 1326 1342	Mesua ferruginea
+T45	Taxon 1344 1363	Myristica elliptica
+T46	Taxon 1365 1389	Neoscortechinia forbesii
+T47	Taxon 1391 1408	Nephelium glabrum
+T48	Taxon 1410 1426	Vatica wallichii
+T49	Taxon 1442 1460	Dalbergia beccarii
+T50	Taxon 1482 1504	Koompassia malaccensis
+T51	Taxon 1506 1537	Pongamia pinnata var. xerocarpa
+T52	Taxon 1506 1522	Pongamia pinnata
+T53	Taxon 1539 1562	Polyalthia sclerophylla
+T54	Taxon 1637 1662	Calophyllum sclerophyllum
+T55	TemporalExpression 1712 1716	July
+T56	TemporalExpression 1748 1756	February
+T57	TemporalExpression 1778 1783	April
+T58	Taxon 1795 1817	Koompassia malaccensis
+T59	Person 1819 1825	Medway
+T60	TemporalExpression 1977 1981	1963
+T61	TemporalExpression 1982 1986	1969
+T62	TemporalExpression 1989 1994	April
+T63	TemporalExpression 1996 1999	May
+T64	Taxon 2025 2048	Barringtonia filirachis
+T65	Taxon 2050 2070	Chisocheton amabilis
+T66	Taxon 2072 2094	Cratoxylon arborescens
+T67	Taxon 2096 2112	Dillenia excelsa
+T68	Taxon 2114 2136	Elaeocarpus macrocerus
+T69	Taxon 2138 2153	Eugenia spicata
+T70	Taxon 2155 2171	Garcinia bancana
+T71	Taxon 2173 2190	Gardenia tubifera
+T72	Taxon 2192 2208	Horsfieldia irya
+T73	Taxon 2210 2216	Jackia
+T74	Taxon 2218 2243	Lophopetalum multinervium
+T75	Taxon 2245 2258	Mussaendopsis
+T76	Taxon 2260 2279	Myristica elliptica
+T77	Taxon 2281 2303	Palaquium xanthochymum
+T78	Taxon 2305 2323	Pandanus helicopus
+T79	TemporalExpression 2340 2346	August
+T80	TemporalExpression 2350 2359	September
+T81	Taxon 2362 2385	Pentaspadon officinalis
+T82	TemporalExpression 2396 2403	October
+T83	Taxon 2406 2429	Polyalthia sclerophylla
+T84	Taxon 2431 2449	Premna trichostoma
+T85	Taxon 2471 2493	Pterospermum javanicum
+T86	Taxon 2495 2506	Shorea spp.
+T87	Taxon 2508 2525	Sterculia bicolor
+T88	Taxon 2527 2541	Vitex peralata
+T89	Taxon 2543 2557	Ixora congesta
+T90	Taxon 2562 2571	I. lobbii
+T91	Taxon 2643 2651	Barclaya
+T92	Taxon 2653 2670	Cryptocoryne spp.
+T93	Taxon 2683 2699	Bhesa paniculata
+T94	Taxon 2701 2717	Connarus grandis
+T95	Taxon 2719 2750	Gnetum gnemon, var. brunonianum
+T96	Taxon 2719 2732	Gnetum gnemon
+T97	Taxon 2764 2786	Podocarpus neriifolius
+T98	TemporalExpression 2791 2799	May 1935
+T99	Taxon 2839 2851	dipterocarps
+T100	Taxon 2867 2886	Scaphium macropodum
+T101	GeographicalLocation 3003 3012	Singapore
+T102	TemporalExpression 3016 3029	November 1935
+T103	TemporalExpression 3108 3120	January 1936
+T104	Person 3122 3128	Medway
+T105	Taxon 3162 3175	S. macropodum
+T106	Taxon 3180 3189	S. affine
+T107	TemporalExpression 3208 3212	1963
+T108	TemporalExpression 3213 3217	1969
+T109	Taxon 3219 3236	Sterculia bicolor
+T110	TemporalExpression 3286 3291	March
+T111	TemporalExpression 3292 3297	April
+T112	GeographicalLocation 3308 3320	Sedili Besar
+T113	TemporalExpression 3343 3346	May
+T114	TemporalExpression 3348 3352	June
+T115	TemporalExpression 3354 3358	July
+T116	Taxon 3384 3400	Connarus grandis
+T117	Taxon 3402 3418	Elaeocarpus spp.
+T118	Taxon 3420 3434	Eugenia cerina
+T119	Taxon 3436 3452	Fagraea racemosa
+T120	Taxon 3454 3473	Nephelium rubescens
+T121	Taxon 3475 3494	Tristania sumatrana
+T122	Taxon 3515 3530	Vitex clarkeana
+T123	TemporalExpression 3536 3541	March

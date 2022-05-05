@@ -1,0 +1,21 @@
+T1	Person 270 287	Tapparone-canefri
+T2	GeographicalLocation 329 334	Papua
+T3	GeographicalLocation 485 499	Port Essington
+T4	GeographicalLocation 501 515	Torres Straits
+T5	GeographicalLocation 534 544	Queensland
+T6	GeographicalLocation 673 683	Swan River
+T7	GeographicalLocation 729 738	Mauritius
+T8	Taxon 943 960	Octopus polyzenia
+T9	GeographicalLocation 2094 2109	New South Wales
+T10	Taxon 3 11	MOLLUSCA
+T11	Person 58 70	John Brazier
+T12	Taxon 87 95	Mollusca
+T13	GeographicalLocation 104 113	Chevert  
+T14	GeographicalLocation 231 236;255 264	North Australia
+T15	GeographicalLocation 241 264	North-eastern Australia
+T16	Person 453 458	Adams
+T17	Person 460 466	Watson
+T18	Person 443 451	Reeve, A
+T19	GeographicalLocation 637 655	Philippine Islands
+T20	GeographicalLocation 714 720	Ceylon
+T21	Taxon 927 938	CEPHALOPODA

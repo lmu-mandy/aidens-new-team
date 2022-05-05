@@ -1,0 +1,66 @@
+T1	Taxon 11 27	DIPTEROCARPACEAE
+T2	TemporalExpression 529 535	August
+T3	Taxon 860 865	almon
+T4	GeographicalLocation 867 872	LUZON
+T5	GeographicalLocation 874 892	Province of Bataan
+T6	Person 894 901	Merrill
+T7	Person 907 913	Garcia
+T8	GeographicalLocation 915 934	Province of Tayabas
+T9	Person 952 960	Whitford
+T10	GeographicalLocation 962 983	Province of Camarines
+T11	Person 1001 1007	Curran
+T12	GeographicalLocation 1009 1026	Province of Albay
+T13	Person 1028 1034	Cuming
+T14	Person 1067 1073	Curran
+T15	Person 1091 1101	Rosenbluth
+T16	GeographicalLocation 1103 1123	Province of Sorsogon
+T17	Person 1155 1161	Curran
+T18	GeographicalLocation 1163 1169	NEGROS
+T19	GeographicalLocation 1171 1200	Province of Negros Occidental
+T20	Person 1202 1210	Whitford
+T21	Person 1232 1239	Everett
+T22	GeographicalLocation 1257 1262	Danao
+T23	Person 1280 1288	Whitford
+T24	TemporalExpression 1290 1300	April 1909
+T25	Person 1329 1334	Meyer
+T26	Person 1337 1346	Foxworthy
+T27	TemporalExpression 1348 1358	Sept. 1909
+T28	Person 1411 1417	Curran
+T29	Person 1435 1445	Rosenbluth
+T30	TemporalExpression 1447 1456	Aug. 1909
+T31	GeographicalLocation 1465 1473	MINDANAO
+T32	GeographicalLocation 1475 1494	Province of Surigao
+T33	Person 1511 1516	Stone
+T34	Person 1534 1544	Hutchinson
+T35	GeographicalLocation 1546 1565	Province of Misamis
+T36	Person 1583 1589	Klemme
+T37	GeographicalLocation 1591 1612	District of Zamboanga
+T38	Person 1635 1643	Whitford
+T39	Person 1648 1658	Hutchinson
+T40	Person 1683 1693	Hutchinson
+T41	GeographicalLocation 1695 1702	BASILAN
+T42	Person 1725 1735	Hutchinson
+T43	Taxon 1751 1756	almon
+T44	Taxon 1758 1769	white lauan
+T45	GeographicalLocation 1785 1792	Malacca
+T46	GeographicalLocation 1794 1803	Singapore
+T47	GeographicalLocation 1805 1812	Sumatra
+T48	GeographicalLocation 1814 1820	Bangka
+T49	GeographicalLocation 1822 1829	Dindang
+T50	GeographicalLocation 1831 1838	Bintang
+T51	GeographicalLocation 1840 1846	Borneo
+T52	Person 1848 1857	Foxworthy
+T53	GeographicalLocation 1896 1903	Sarawak
+T54	TemporalExpression 1907 1915	May 1909
+T55	GeographicalLocation 1922 1933	Philippines
+T56	Taxon 1941 1975	Shorea polysperma (Blanco) Merrill
+T57	Taxon 1941 1958	Shorea polysperma
+T58	Taxon 2399 2418	Mocanera polysperma
+T59	Taxon 2399 2425	Mocanera polysperma Blanco
+T60	Taxon 2455 2480	Dipterocarpus polyspermus
+T61	Taxon 2455 2487	Dipterocarpus polyspermus Blanco
+T62	Taxon 2548 2561	Hopea tagnili
+T63	Taxon 2548 2567	Hopea tagnili Blume
+T64	Taxon 2633 2646	Shorea talura
+T65	Taxon 2633 2655	Shorea talura F.-Vill.
+T66	Habitat 2738 2750	hill forests

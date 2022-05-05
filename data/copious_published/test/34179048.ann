@@ -1,0 +1,52 @@
+T1	Taxon 9 23	DIPTEROCARPACE
+T2	Taxon 26 32	Shorea
+T3	Taxon 36 45	S. Talura
+T4	Taxon 36 52	S. Talura, Roxb.
+T5	Taxon 59 71	S. laccifera
+T6	Taxon 59 78	S. laccifera, Heyne
+T7	Taxon 103 119	Vatica laccifera
+T8	Taxon 103 126	Vatica laccifera, Wight
+T9	Taxon 145 151	Talura
+T10	Taxon 153 159	talari
+T11	Taxon 167 173	Jalari
+T12	Taxon 181 187	Jhalli
+T13	Habitat 791 796	Hills
+T14	GeographicalLocation 804 819	southern Deccan
+T15	Habitat 847 864	evergreen forests
+T16	GeographicalLocation 871 883	North Kanara
+T17	Taxon 965 978	S. floribunda
+T18	Taxon 965 984	S. floribunda, Kurz
+T19	GeographicalLocation 1001 1011	Tenasserim
+T20	Taxon 1039 1050	S. assamica
+T21	Taxon 1039 1057	S. assamica, Dyer.
+T22	Taxon 1064 1069	Makai
+T23	GeographicalLocation 1071 1076	Assam
+T24	GeographicalLocation 1461 1472	Upper Assam
+T25	Habitat 1474 1481	forests
+T26	GeographicalLocation 1501 1511	Naga hills
+T27	GeographicalLocation 1516 1524	Sibsagar
+T28	GeographicalLocation 1529 1538	Lakhimpur
+T29	TemporalExpression 1554 1563	September
+T30	Taxon 1568 1581	S. gratissima
+T31	Taxon 1568 1587	S. gratissima, Dyer
+T32	GeographicalLocation 1589 1599	Tenasserim
+T33	GeographicalLocation 1601 1610	Singapore
+T34	Taxon 1843 1853	PARASHOREA
+T35	Taxon 1843 1859	PARASHOREA, Kurz
+T36	GeographicalLocation 1892 1899	Sumatra
+T37	GeographicalLocation 1910 1928	Philippine Islands
+T38	Taxon 1933 1944	P. stellata
+T39	Taxon 1933 1950	P. stellata, Kurz
+T40	Taxon 1995 2010	Shorea stellata
+T41	Taxon 1995 2016	Shorea stellata, Dyer
+T42	Taxon 2047 2055	Kaunghmu
+T43	GeographicalLocation 2714 2722	Martaban
+T44	GeographicalLocation 2727 2737	Tenasserim
+T45	GeographicalLocation 2744 2759	Malay Peninsula
+T46	GeographicalLocation 2775 2808	southern portion of the Pegu Yoma
+T47	TemporalExpression 2814 2819	March
+T48	TemporalExpression 2821 2826	April
+T49	Taxon 2837 2856	Parashorea stellata
+T50	Taxon 2837 2862	Parashorea stellata, Kurz
+T51	Taxon 2872 2884	BALANOCARPUS
+T52	Taxon 2872 2893	BALANOCARPUS, Beddome

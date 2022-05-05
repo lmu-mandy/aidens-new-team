@@ -1,0 +1,22 @@
+T1	Person 11 15	King
+T2	GeographicalLocation 47 64	Malayan Peninsula
+T3	GeographicalLocation 485 492	Langani
+T4	Person 494 500	Curtis
+T5	GeographicalLocation 522 527	Kedah
+T6	Person 529 535	Curtis
+T7	Taxon 741 756	Vatica Curtisii
+T8	Taxon 741 762	Vatica Curtisii, King
+T9	GeographicalLocation 1634 1640	Penang
+T10	Person 1642 1648	Curtis
+T11	Taxon 1663 1677	Vatica faginea
+T12	Taxon 1663 1683	Vatica faginea, Dyer
+T13	Taxon 2614 2627	Hopea faginea
+T14	Taxon 2614 2634	Hopea faginea, Wall.
+T15	Taxon 2644 2661	Shorea pinangiana
+T16	Taxon 2644 2668	Shorea pinangiana, Wall.
+T17	Taxon 2683 2699	Synaptea faginea
+T18	Taxon 2683 2707	Synaptea faginea, Pierre
+T19	GeographicalLocation 2741 2747	Penang
+T20	Person 2749 2756	Wallich
+T21	GeographicalLocation 2758 2763	Perak
+T22	Person 2765 2781	King.s Collector

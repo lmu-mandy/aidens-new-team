@@ -1,0 +1,68 @@
+T1	Taxon 56 66	S. robusta
+T2	Taxon 56 75	S. robusta, Gaertn.
+T3	GeographicalLocation 202 212	Tenasserim
+T4	GeographicalLocation 214 220	Mergui
+T5	Person 222 228	Griff.
+T6	Taxon 289 295	Shorea
+T7	Taxon 332 348	Durio Ox-leyanus
+T8	GeographicalLocation 354 364	Tenasserim
+T9	GeographicalLocation 366 374	Moulmein
+T10	Person 376 381	Falc.
+T11	Taxon 407 420	Sh. leprosula
+T12	Taxon 531 545	Sh. floribunda
+T13	Taxon 531 551	Sh. floribunda, Kurz
+T14	GeographicalLocation 612 622	Tenasserim
+T15	GeographicalLocation 624 629	Tavoy
+T16	TemporalExpression 635 639	Decb
+T17	Taxon 641 649	pentacme
+T18	Taxon 641 654	pentacme, DC.
+T19	Taxon 658 670	P. siamensis
+T20	Taxon 658 676	P. siamensis, Kurz
+T21	Taxon 713 729	Shorea Siamensis
+T22	Taxon 713 735	Shorea Siamensis, Miq.
+T23	Habitat 821 832	dry forests
+T24	GeographicalLocation 852 855	Ava
+T25	GeographicalLocation 860 865	Prome
+T26	GeographicalLocation 895 899	Pegu
+T27	GeographicalLocation 904 912	Martaban
+T28	GeographicalLocation 921 931	Tenasserim
+T29	TemporalExpression 937 942	March
+T30	TemporalExpression 948 951	Apr
+T31	TemporalExpression 953 956	May
+T32	Taxon 1059 1064	Hopea
+T33	Taxon 1059 1071	Hopea, Roxb.
+T34	Taxon 1192 1202	H. odorata
+T35	Taxon 1235 1246	H. scaphula
+T36	Taxon 1369 1382	H. gratissima
+T37	Taxon 1432 1445	H. Griffithii
+T38	Taxon 1450 1460	H. odorata
+T39	Taxon 1450 1467	H. odorata, Roxb.
+T40	Taxon 1535 1543	H. vasta
+T41	Taxon 1535 1550	H. vasta, Wall.
+T42	Habitat 1595 1611	tropical forests
+T43	GeographicalLocation 1621 1626	Burma
+T44	GeographicalLocation 1632 1642	Chittagong
+T45	GeographicalLocation 1647 1655	Martaban
+T46	GeographicalLocation 1664 1674	Tenasserim
+T47	TemporalExpression 1680 1685	March
+T48	TemporalExpression 1687 1690	Apr
+T49	TemporalExpression 1697 1700	May
+T50	TemporalExpression 1702 1706	June
+T51	Taxon 1712 1729	Hopea eglandulosa
+T52	Taxon 1712 1736	Hopea eglandulosa, Roxb.
+T53	Taxon 1742 1753	Cyclostemon
+T54	Person 1811 1819	Roxburgh
+T55	Taxon 1832 1843	H. scaphula
+T56	Taxon 1832 1850	H. scaphula, Roxb.
+T57	Taxon 1890 1905	Vatica scaphula
+T58	Taxon 1890 1911	Vatica scaphula, Dyer
+T59	GeographicalLocation 1942 1952	Chittagong
+T60	GeographicalLocation 1957 1970	Mascal Island
+T61	Person 1972 1977	Roxb.
+T62	TemporalExpression 1984 1987	Jan
+T63	Taxon 1992 2005	H. gratissima
+T64	Taxon 1992 2012	H. gratissima, Wall.
+T65	Taxon 2064 2079	H. oblongifolia
+T66	Taxon 2064 2085	H. oblongifolia, Dyer
+T67	Taxon 2111 2128	Shorea gratissima
+T68	Taxon 2111 2134	Shorea gratissima, Dyer

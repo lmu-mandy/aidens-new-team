@@ -1,0 +1,46 @@
+T1	GeographicalLocation 25 36	PHILIPPINES
+T2	GeographicalLocation 348 355	Sitanki
+T3	GeographicalLocation 529 536	Malabon
+T4	GeographicalLocation 562 568	Manila
+T5	TemporalExpression 1051 1056	April
+T6	TemporalExpression 1073 1077	July
+T7	Habitat 1280 1287	beaches
+T8	GeographicalLocation 1311 1318	Mindoro
+T9	GeographicalLocation 1320 1330	Marinduque
+T10	Person 2525 2540	W. D. Carpenter
+T11	Taxon 49 59	MILKFISHES
+T12	Taxon 68 74	Chanid
+T13	Taxon 89 93	five
+T14	Taxon 97 105	milkfish
+T15	Taxon 106 119	Chanos chanos
+T16	Taxon 106 129	Chanos chanos (Forskal)
+T17	Taxon 138 145	baitgos
+T18	Taxon 147 154	haiigod
+T19	Taxon 156 168	kaivag-hawag
+T20	Taxon 174 183	iumulocso
+T21	Taxon 205 214	iangellus
+T22	GeographicalLocation 339 344	Luzon
+T23	Habitat 515 525	fish ponds
+T24	Taxon 734 740	bangos
+T25	Taxon 897 903	bangos
+T26	Taxon 769 775	mullet
+T27	Taxon 873 879	bangos
+T28	Taxon 967 976	Iumulocso
+T29	Habitat 1008 1011	sea
+T30	TemporalExpression 1063 1067	June
+T31	TemporalExpression 1058 1061	Maj
+T32	Taxon 1093 1105	kawag-kaivag
+T33	GeographicalLocation 1291 1299	Zambales
+T34	GeographicalLocation 1301 1309	Batangas
+T35	Habitat 1502 1512	fish ponds
+T36	Taxon 1612 1620	biiitgos
+T37	Habitat 1729 1733	pond
+T38	Habitat 1807 1812	ponds
+T39	Taxon 1901 1907	bangos
+T40	Habitat 2149 2159	FISH PONDS
+T41	Habitat 2225 2234	fish pond
+T42	Habitat 2249 2264	near salt water
+T43	Taxon 2314 2320	bangos
+T44	Habitat 2397 2402	ponds
+T45	GeographicalLocation 2544 2551	Malabon
+T46	Habitat 2590 2600	fish ponds

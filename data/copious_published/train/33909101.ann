@@ -1,0 +1,33 @@
+T1	Taxon 45 55	Sapotaceae
+T2	TemporalExpression 79 83	July
+T3	Taxon 206 219	niatto durian
+T4	GeographicalLocation 263 270	Sarawak
+T5	Habitat 373 379	slopes
+T6	GeographicalLocation 383 390	Mattang
+T7	Habitat 403 409	forest
+T8	GeographicalLocation 425 432	Kuching
+T9	GeographicalLocation 425 432	Kuching
+T10	Habitat 781 787	forest
+T11	Taxon 943 960	Palaquium optimum
+T12	Taxon 980 994	Dipterocarpeae
+T13	TemporalExpression 1026 1035	September
+T14	TemporalExpression 1044 1052	December
+T15	Habitat 1153 1159	forest
+T16	Taxon 1590 1603	Dipterocarpus
+T17	Taxon 1610 1616	Shorea
+T18	Taxon 1760 1772	Dipterocarps
+T19	Taxon 1888 1901	Dipterocarpus
+T20	Taxon 1912 1917	Hopea
+T21	Taxon 1927 1933	Shorea
+T22	Taxon 1940 1952	Balanocarpus
+T23	Taxon 1958 1970	Cotylelobium
+T24	Taxon 1976 1988	Dryobalanops
+T25	Taxon 1998 2004	Vatica
+T26	GeographicalLocation 2114 2120	Bangka
+T27	GeographicalLocation 2125 2132	Blitong
+T28	GeographicalLocation 2181 2187	Borneo
+T29	Taxon 2203 2217	Dipterocarpeae
+T30	GeographicalLocation 2279 2286	Sumatra
+T31	GeographicalLocation 2298 2313	Malay Peninsula
+T32	GeographicalLocation 2462 2475	Mount Mattang
+T33	Taxon 2536 2550	Dipterocarpeae

@@ -1,0 +1,110 @@
+T1	Person 17 23	Barnes
+T2	Person 44 50	Borden
+T3	TemporalExpression 52 60	May 1904
+T4	Person 124 130	Borden
+T5	Person 220 226	Borden
+T6	TemporalExpression 228 237	Aug. 1904
+T7	Person 264 270	Borden
+T8	TemporalExpression 272 281	Dec. 1904
+T9	Person 308 313	Meyer
+T10	TemporalExpression 315 324	Dec. 1904
+T11	Person 336 345	Whit-ford
+T12	TemporalExpression 351 360	June 1904
+T13	Person 373 381	Whitford
+T14	TemporalExpression 388 398	April 1905
+T15	Person 410 418	Whitford
+T16	Person 440 453	Ahernâ€™s coll.
+T17	TemporalExpression 455 464	July 1904
+T18	Person 491 500	Foxworthy
+T19	Person 529 535	Curran
+T20	GeographicalLocation 537 556	Province of Bulacan
+T21	Person 574 584	Fox-worthy
+T22	GeographicalLocation 586 603	Province of Rizal
+T23	Person 605 610	Vidal
+T24	Person 644 651	Merrill
+T25	Person 657 662	Ramos
+T26	TemporalExpression 664 673	Mar. 1903
+T27	Person 685 692	Merrill
+T28	Person 698 703	Ramos
+T29	TemporalExpression 705 714	July 1903
+T30	Person 740 753	Ahernâ€™s coll.
+T31	TemporalExpression 755 765	April 1904
+T32	Person 802 815	Ahern's coll.
+T33	TemporalExpression 817 825	May 1904
+T34	Person 838 843	Loker
+T35	TemporalExpression 850 859	Apr, 1904
+T36	Person 916 922	Rauios
+T37	Person 939 952	Ahern's coll.
+T38	TemporalExpression 954 963	Apr. 1905
+T39	Person 1006 1012	Curran
+T40	GeographicalLocation 1014 1035	Province of La Laguna
+T41	Person 1059 1065	Curran
+T42	GeographicalLocation 1067 1088	Province of Camarines
+T43	Person 1106 1112	Curran
+T44	GeographicalLocation 1114 1131	Province of Albay
+T45	Person 1133 1139	Cuming
+T46	Person 1179 1185	Curran
+T47	Person 1203 1214	Rosen-bluth
+T48	GeographicalLocation 1216 1221	TiCAO
+T49	Person 1239 1249	Rosenbluth
+T50	GeographicalLocation 1251 1258	Masbate
+T51	Person 1260 1267	Merrill
+T52	Person 1273 1279	Barnes
+T53	TemporalExpression 1281 1290	June 1903
+T54	Person 1303 1311	Whitford
+T55	GeographicalLocation 1318 1325	Mindoro
+T56	Person 1357 1364	Merritt
+T57	GeographicalLocation 1366 1370	Cebu
+T58	Person 1372 1377	Vidal
+T59	GeographicalLocation 1384 1392	Mindanao
+T60	GeographicalLocation 1394 1413	Zamboanga Peninsula
+T61	Person 1436 1444	Whitford
+T62	Person 1447 1457	Hutchinson
+T63	Taxon 1630 1642	A. thurifera
+T64	TemporalExpression 1912 1917	April
+T65	TemporalExpression 1919 1922	May
+T66	TemporalExpression 1928 1932	June
+T67	TemporalExpression 1979 1986	January
+T68	TemporalExpression 1988 1996	February
+T69	TemporalExpression 1998 2003	March
+T70	TemporalExpression 2005 2010	April
+T71	TemporalExpression 2013 2016	May
+T72	TemporalExpression 2018 2022	July
+T73	TemporalExpression 2024 2030	August
+T74	TemporalExpression 2032 2039	October
+T75	TemporalExpression 2041 2049	November
+T76	TemporalExpression 2055 2063	December
+T77	Person 2065 2071	Blanco
+T78	TemporalExpression 2140 2144	June
+T79	Habitat 2153 2162	mountains
+T80	GeographicalLocation 2166 2175	San Mateo
+T81	Person 2449 2457	Blanco's
+T82	Taxon 2518 2523	lauan
+T83	Taxon 2528 2535	sandana
+T84	Taxon 2648 2655	mayapis
+T85	Taxon 2664 2673	palosapis
+T86	Taxon 2682 2687	dagum
+T87	Taxon 2696 2711	dagang tia puft
+T88	Taxon 2720 2726	guyong
+T89	Taxon 2730 2736	duyong
+T90	Taxon 2746 2751	letis
+T91	Taxon 2765 2779	Anisoptera sp.
+T92	Taxon 2836 2848	A. thurifera
+T93	Taxon 2853 2864	A, curtisii
+T94	Taxon 2947 2959	A, thurifera
+T95	Taxon 2997 3008	A. curtisii
+T96	Taxon 3098 3110	A. thurifera
+T97	Taxon 3098 3110	A. thurifera
+T98	GeographicalLocation 3261 3267	Bataan
+T99	GeographicalLocation 3272 3280	Zambales
+T100	GeographicalLocation 3318 3336	Province of Bataan
+T101	Person 3371 3377	Borden
+T102	TemporalExpression 3379 3388	July 1904
+T103	Person 3423 3429	Borden
+T104	TemporalExpression 3431 3441	Sept. 1904
+T105	Person 3476 3483	Alvarez
+T106	TemporalExpression 3485 3494	Aug. 1909
+T107	Person 3522 3528	Curran
+T108	TemporalExpression 3530 3539	Dec. 1909
+T109	GeographicalLocation 3551 3572	Prov-ince of Zambales
+T110	Person 3589 3595	Curran

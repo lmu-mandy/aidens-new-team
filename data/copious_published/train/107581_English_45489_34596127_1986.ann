@@ -1,0 +1,59 @@
+T1	GeographicalLocation 146 165	Inland Sea of Japan
+T2	GeographicalLocation 182 205	Pacific coast of Honshu
+T3	GeographicalLocation 243 266	Pacific coast of Honshu
+T4	Taxon 300 317	Sardinella zunasi
+T5	GeographicalLocation 325 339	Ryukyu Islands
+T6	GeographicalLocation 399 404	Japan
+T7	Taxon 498 516	Sappa-yadori-mushi
+T8	Taxon 603 611	Anilocra
+T9	Taxon 731 749	Anilocra leptosoma
+T10	GeographicalLocation 770 779	Indonesia
+T11	GeographicalLocation 804 816	South Africa
+T12	Taxon 872 881	A. clupei
+T13	Taxon 1083 1101	Anilocra cavicauda
+T14	GeographicalLocation 1140 1151	Philippines
+T15	Taxon 1583 1602	Anilocra alloceraea
+T16	GeographicalLocation 1634 1641	Sumatra
+T17	Taxon 2083 2099	Katakuchi-iwashi
+T18	Taxon 2101 2120	Engraulis japonicus
+T19	Taxon 2158 2169	Engraulidae
+T20	GeographicalLocation 2172 2185	Kagoshima Bay
+T21	Taxon 2606 2628	Spratelloides gracilis
+T22	Taxon 2654 2663	Clupeidae
+T23	GeographicalLocation 2691 2698	Shikoku
+T24	Taxon 3094 3105	Anilocra sp
+T25	Taxon 3310 3319	A. clupei
+T26	Taxon 3475 3497	Spratelloides gracilis
+T27	Taxon 81 95	Aniocra clupei
+T28	Taxon 518 526	shin-sho
+T29	Taxon 731 757	Anilocra leptosoma Bleeker
+T30	GeographicalLocation 787 799	Gulf of Suez
+T31	Taxon 1083 1112	Anilocra cavicauda Richardson
+T32	TemporalExpression 1114 1118	1910
+T33	Taxon 1196 1208	A. leptosoma
+T34	Taxon 1264 1276	A. cavicauda
+T35	Taxon 1288 1297	A. clupei
+T36	Taxon 1583 1610	Anilocra alloceraea Koelbel
+T37	TemporalExpression 1612 1616	1879
+T38	Taxon 1685 1697	A. leptosoma
+T39	Taxon 1717 1726	A. clupei
+T40	Taxon 1787 1796	A. clupei
+T41	Taxon 1882 1891	A. clupei
+T42	Taxon 1902 1919	Sardinella zunasi
+T43	Taxon 1947 1956	A. clupei
+T44	Taxon 2036 2044	Anilocra
+T45	Taxon 2101 2142	Engraulis japonicus Temminck and Schlegel
+T46	GeographicalLocation 2187 2207	Kagoshima Prefecture
+T47	GeographicalLocation 2209 2215	Kyushu
+T48	GeographicalLocation 2217 2222	Japan
+T49	TemporalExpression 2224 2234	7 Feb 1978
+T50	Taxon 2547 2555	Anilocra
+T51	Taxon 2595 2604	Yahindigo
+T52	Taxon 2606 2652	Spratelloides gracilis (Temminck and Schlegel)
+T53	GeographicalLocation 2666 2671	Kochi
+T54	GeographicalLocation 2673 2689	Kochi Prefecture
+T55	GeographicalLocation 2700 2705	Japan
+T56	TemporalExpression 2707 2718	20 Dec 1984
+T57	Taxon 3289 3306	Anilocra prionuri
+T58	Taxon 3330 3338	Anilocra
+T59	Taxon 3502 3511	Engraulis

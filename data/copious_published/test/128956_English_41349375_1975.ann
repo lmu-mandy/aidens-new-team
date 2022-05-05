@@ -1,0 +1,128 @@
+T1	GeographicalLocation 30 51	central Mediterranean
+T2	GeographicalLocation 216 229	African coast
+T3	GeographicalLocation 257 271	Gulf of Guinea
+T4	GeographicalLocation 333 347	Gulf of Guinea
+T5	GeographicalLocation 598 612	Gulf of Guinea
+T6	GeographicalLocation 746 758	Sierra Leone
+T7	GeographicalLocation 773 787	Gulf of Guinea
+T8	GeographicalLocation 824 833	Ascension
+T9	GeographicalLocation 936 954	Mid-Atlantic Ridge
+T10	GeographicalLocation 1119 1137	West African coast
+T11	GeographicalLocation 1148 1160	South Africa
+T12	GeographicalLocation 1231 1238	Malindi
+T13	GeographicalLocation 1464 1476	South Africa
+T14	GeographicalLocation 1507 1515;1527 1541	Atlantic Ocean currents
+T15	GeographicalLocation 1951 1965	Comoro Islands
+T16	GeographicalLocation 2096 2108	Indian Ocean
+T17	GeographicalLocation 2551 2563	Persian Gulf
+T18	Taxon 2856 2868	Deraniyagala
+T19	GeographicalLocation 2980 3000	central Indian Ocean
+T20	GeographicalLocation 3009 3016	Sumatra
+T21	Person 3310 3316	Starck
+T22	GeographicalLocation 3418 3433	South China Sea
+T23	GeographicalLocation 3531 3540	Indonesia
+T24	GeographicalLocation 3546 3561	South China Sea
+T25	GeographicalLocation 3571 3576	Timor
+T26	GeographicalLocation 3807 3822	Indochina coast
+T27	GeographicalLocation 4032 4040	Nhatrang
+T28	GeographicalLocation 4094 4103	Indochina
+T29	GeographicalLocation 4198 4212	East China Sea
+T30	GeographicalLocation 4277 4291	southern Japan
+T31	GeographicalLocation 4697 4703	Taiwan
+T32	GeographicalLocation 4789 4803	Philippine Sea
+T33	GeographicalLocation 4813 4824	Philippines
+T34	GeographicalLocation 67 75	Ligurian
+T35	GeographicalLocation 77 87	Tyrrhenian
+T36	GeographicalLocation 89 95	Ionian
+T37	GeographicalLocation 101 114	Adriatic Seas
+T38	GeographicalLocation 181 187	Africa
+T39	Taxon 191 199	Sailfish
+T40	Taxon 244 249	Dakar
+T41	Taxon 386 403	Atlantic sailfish
+T42	GeographicalLocation 427 438	Ivory Coast
+T43	Taxon 513 521	sailfish
+T44	GeographicalLocation 572 588	coast from Dakar
+T45	Taxon 457 465	sailfish
+T46	Taxon 697 708	Blue marlin
+T47	GeographicalLocation 731 736	Dakar
+T48	GeographicalLocation 738 744	Guinea
+T49	GeographicalLocation 838 856	St. Helena Islands
+T50	Taxon 858 870	Black marlin
+T51	Taxon 1061 1070	Swordfish
+T52	GeographicalLocation 1139 1143;1154 1160	East Africa
+T53	Taxon 1174 1180	marlin
+T54	Taxon 1185 1201	sailfish angling
+T55	GeographicalLocation 1240 1245	Kenya
+T56	GeographicalLocation 1261 1267	Durban
+T57	GeographicalLocation 1269 1274	Natal
+T58	Taxon 1277 1289	Black marlin
+T59	Taxon 1291 1305	striped marlin
+T60	Taxon 1307 1318	blue marlin
+T61	Taxon 1324 1332	sailfish
+T62	Taxon 1371 1383	White marlin
+T63	Taxon 1385 1404	shortbill spearfish
+T64	Taxon 1410 1428	longbill spearfish
+T65	GeographicalLocation 1520 1541	Indian Ocean currents
+T66	GeographicalLocation 1624 1629	Kenya
+T67	GeographicalLocation 1633 1643	Mozambique
+T68	Taxon 1700 1712	black marlin
+T69	Taxon 1717 1725	sailfish
+T70	Taxon 1761 1770	swordfish
+T71	Taxon 1816 1828	black marlin
+T72	GeographicalLocation 1856 1875	northern Madagascar
+T73	Taxon 1881 1889	sailfish
+T74	Taxon 1993 2005	black marlin
+T75	GeographicalLocation 2010 2019	Mauritius
+T76	Taxon 2076 2088	black marlin
+T77	GeographicalLocation 2109 2127	east of Madagascar
+T78	Taxon 2230 2238	sailfish
+T79	GeographicalLocation 2274 2287	Gulf of Aqaba
+T80	GeographicalLocation 2289 2296	Red Sea
+T81	GeographicalLocation 2306 2318	Gulf of Aden
+T82	Taxon 2472 2480	sailfish
+T83	Taxon 2501 2509	sailfish
+T84	GeographicalLocation 2565 2570	India
+T85	GeographicalLocation 2575 2581	Ceylon
+T86	Taxon 2585 2590;2610 2616	Black marlin
+T87	Taxon 2592 2596;2610 2616	blue marlin
+T88	Taxon 2602 2616	striped marlin
+T89	Taxon 2621 2629	sailfish
+T90	GeographicalLocation 2652 2673	Indian coastal waters
+T91	GeographicalLocation 2731 2737	Ceylon
+T92	Taxon 2761 2773	black marlin
+T93	Taxon 2781 2800	shortbill spearfish
+T94	Taxon 2805 2814	swordfish
+T95	Taxon 2899 2908	swordfish
+T96	Habitat 2841 2854	deeper waters
+T97	Habitat 2929 2939	deep water
+T98	GeographicalLocation 2957 2971	east of Ceylon
+T99	GeographicalLocation 2947 2952;2962 2971	south of Ceylon
+T100	GeographicalLocation 3021 3038	western Australia
+T101	Taxon 3090 3095;3115 3121	black marlin
+T102	Taxon 3097 3102;3115 3121	blue, marlin
+T103	Taxon 3107 3121	striped marlin
+T104	Taxon 3134 3143	swordfish
+T105	Taxon 3148 3167	shortbill spearfish
+T106	Person 3299 3305	Howard
+T107	Taxon 3384 3394	billfishes
+T108	GeographicalLocation 3438 3446	Malaysia
+T109	Taxon 3478 3484	marlin
+T110	Taxon 3489 3497	sailfish
+T111	GeographicalLocation 3581 3593	Arafura Seas
+T112	Taxon 3739 3751	black marlin
+T113	Taxon 3878 3890	black marlin
+T114	GeographicalLocation 3904 3918	South Viet-nam
+T115	Taxon 3970 3978	sailfish
+T116	TemporalExpression 3997 4001	fall
+T117	GeographicalLocation 4042 4056	South Viet-nam
+T118	Taxon 4167 4175	billfish
+T119	GeographicalLocation 4184 4189	Japan
+T120	Taxon 4239 4253	striped marlin
+T121	Taxon 4258 4266	sailfish
+T122	GeographicalLocation 4567 4582	Japanese waters
+T123	Taxon 4584 4596	Black marlin
+T124	Taxon 4662 4672	Billfishes
+T125	GeographicalLocation 4778 4787	Indonesia
+T126	Taxon 4828 4838	Billfishes
+T127	Taxon 5007 5019	black marlin
+T128	Taxon 5024 5032	sailfish

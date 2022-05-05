@@ -1,0 +1,58 @@
+T1	Taxon 11 27	DIPTEROCARPACEAE
+T2	Taxon 122 132	D. pilosus
+T3	GeographicalLocation 388 393	Luzon
+T4	GeographicalLocation 395 414	Province of Cagayan
+T5	Person 431 437	Klemme
+T6	Person 462 468	Curran
+T7	Person 486 493	Alvarez
+T8	GeographicalLocation 495 514	Province of Tayabas
+T9	Person 534 540	Curran
+T10	GeographicalLocation 542 563	Province of Camarines
+T11	Person 565 570	Vidal
+T12	Person 591 597	Curran
+T13	GeographicalLocation 599 604	TICAO
+T14	Person 606 611	Vidal
+T15	GeographicalLocation 618 626	Mindanao
+T16	GeographicalLocation 628 649	District of Zamboanga
+T17	Person 666 676	Hutchinson
+T18	Person 693 701	Whitford
+T19	Person 704 714	Hutchinson
+T20	Taxon 730 737	camuyao
+T21	Taxon 746 754	hagachac
+T22	Taxon 763 768	liput
+T23	Taxon 783 825	Dipterocarpus sp. aff. D. turbinato Gaertn
+T24	Taxon 806 825	D. turbinato Gaertn
+T25	Taxon 806 818	D. turbinato
+T26	Taxon 968 981	D. turbinatus
+T27	Taxon 968 998	D. turbinatus var. andamanicus
+T28	Taxon 968 1003	D. turbinatus var. andamanicus King
+T29	Taxon 968 981	D. turbinatus
+T30	GeographicalLocation 1244 1259	Island of Panay
+T31	Person 1282 1287	Vidal
+T32	GeographicalLocation 1383 1398	Malay Peninsula
+T33	Taxon 1441 1454	D. turbinatus
+T34	GeographicalLocation 1496 1501	Luzon
+T35	GeographicalLocation 1503 1524	Province of La Laguna
+T36	Person 1554 1560	Curran
+T37	GeographicalLocation 1562 1581	Province of Tayabas
+T38	Person 1614 1620	Hagger
+T39	Person 1637 1642	Kobbe
+T40	Person 1660 1670	Rosenbluth
+T41	GeographicalLocation 1672 1689	Province of Albay
+T42	Person 1691 1697	Cuming
+T43	GeographicalLocation 1703 1723	Province of Sorsogon
+T44	Person 1741 1747	Curran
+T45	Habitat 1791 1804	dense forests
+T46	Habitat 1808 1818	low ridges
+T47	GeographicalLocation 1836 1843	Tayabas
+T48	Taxon 1859 1866	apitong
+T49	Taxon 1876 1887	patsahingin
+T50	Taxon 1899 1922	Dipterocarpus trinervis
+T51	Taxon 1899 1928	Dipterocarpus trinervis Blume
+T52	Taxon 2438 2450	D. hasseltii
+T53	GeographicalLocation 2644 2651	Palawan
+T54	GeographicalLocation 2644 2651	Palawan
+T55	Person 2726 2733	Wallace
+T56	Taxon 2748 2755	apitong
+T57	GeographicalLocation 2778 2782	Java
+T58	GeographicalLocation 2791 2802	Philippines

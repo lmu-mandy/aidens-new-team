@@ -1,0 +1,47 @@
+T1	GeographicalLocation 25 39	CAMIGUIN SOUTH
+T2	GeographicalLocation 103 114	Philippines
+T3	GeographicalLocation 135 142	Palawan
+T4	Person 150 160	Salomonsen
+T5	GeographicalLocation 272 276	Java
+T6	GeographicalLocation 281 287	Borneo
+T7	GeographicalLocation 291 296	Assam
+T8	GeographicalLocation 430 441	Philippines
+T9	GeographicalLocation 474 481	Romblon
+T10	GeographicalLocation 486 492	Tablas
+T11	Taxon 494 505	intermedium
+T12	GeographicalLocation 508 515	Sibuyan
+T13	Taxon 517 528	sibuyanicum
+T14	GeographicalLocation 532 540	Siquijor
+T15	Taxon 542 547	besti
+T16	GeographicalLocation 550 554	Jolo
+T17	GeographicalLocation 556 565	Tawi-tawi
+T18	GeographicalLocation 567 572	Siasi
+T19	Taxon 574 582	assimile
+T20	GeographicalLocation 590 596	Sibutu
+T21	Taxon 598 608	sibutuense
+T22	GeographicalLocation 669 683	Camiguin South
+T23	GeographicalLocation 804 818	Camiguin South
+T24	GeographicalLocation 881 889	Mindanao
+T25	GeographicalLocation 890 895	samar
+T26	GeographicalLocation 896 901	leyte
+T27	GeographicalLocation 902 907	Bohol
+T28	Taxon 918 923	besti
+T29	GeographicalLocation 927 935	Siquijor
+T30	Taxon 1056 1090	Dicaeum trigonostigma besti Steere
+T31	Taxon 1293 1338	Dicaeum trigonostigma cinereigulare Tweeddale
+T32	GeographicalLocation 1468 1473	Samar
+T33	GeographicalLocation 1522 1527	Bohol
+T34	GeographicalLocation 1573 1581	Mindanao
+T35	Taxon 1631 1660	Dicaeum trigonostigma isidroi
+T36	GeographicalLocation 1732 1744	Kasangsangan
+T37	GeographicalLocation 1746 1754	Catarman
+T38	GeographicalLocation 1756 1777	Camiguin South Island
+T39	GeographicalLocation 1779 1797	Philippine Islands
+T40	TemporalExpression 1820 1833	June 11, 1968
+T41	Person 1838 1849	D. S. Rabor
+T42	Person 2021 2035	Antonio Isidro
+T43	Taxon 1056 1077	Dicaeum trigonostigma
+T44	Taxon 1056 1083	Dicaeum trigonostigma besti
+T45	Taxon 1293 1314	Dicaeum trigonostigma
+T46	Taxon 1293 1328	Dicaeum trigonostigma cinereigulare
+T47	Taxon 1631 1652	Dicaeum trigonostigma

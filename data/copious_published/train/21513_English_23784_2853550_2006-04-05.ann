@@ -1,0 +1,51 @@
+T1	GeographicalLocation 403 411	Mindanao
+T2	GeographicalLocation 413 428	Kitanglad Range
+T3	TemporalExpression 475 478	May
+T4	TemporalExpression 517 522	April
+T5	TemporalExpression 524 530	August
+T6	TemporalExpression 536 543	October
+T7	TemporalExpression 568 573	March
+T8	TemporalExpression 575 580	April
+T9	TemporalExpression 586 592	August
+T10	TemporalExpression 626 636	March 1995
+T11	Taxon 690 704	Freycinetia sp
+T12	Taxon 752 767	Harpyionycteris
+T13	TemporalExpression 875 880	1960s
+T14	Habitat 969 976;997 1003	lowland forest
+T15	Habitat 978 985;997 1003	montane forest
+T16	Habitat 991 1003	mossy forest
+T17	Taxon 1042 1054	H. whitehead
+T18	GeographicalLocation 1058 1066	Camiguin
+T19	GeographicalLocation 1096 1104	Mindanao
+T20	GeographicalLocation 1106 1119	Mt. Kitanglad
+T21	GeographicalLocation 1165 1170	Leyte
+T22	GeographicalLocation 1175 1180	Luzon
+T23	GeographicalLocation 1182 1192	Mt. Isarog
+T24	Taxon 1365 1385	Macroglossus minimus
+T25	Taxon 1425 1435	flower bat
+T26	GeographicalLocation 1448 1456	Thailand
+T27	GeographicalLocation 1460 1469	Australia
+T28	GeographicalLocation 1498 1509	Philippines
+T29	GeographicalLocation 1543 1554	Philippines
+T30	Habitat 1668 1680	agricultural
+T31	Habitat 1723 1739	secondary forest
+T32	Habitat 1768 1782	primary forest
+T33	Taxon 1829 1840	wild banana
+T34	Taxon 1817 1825;1834 1840	domestic banana
+T35	GeographicalLocation 1928 1936	Camiguin
+T36	Taxon 1965 1975	M. minimus
+T37	Habitat 2159 2183	disturbed lowland forest
+T38	Habitat 2214 2244	disturbed lower montane forest
+T39	Habitat 2285 2297	mossy forest
+T40	Habitat 2398 2420	primary montane forest
+T41	GeographicalLocation 2523 2531	Camiguin
+T42	Habitat 2570 2577;2590 2596	lowland forest
+T43	Habitat 2582 2596	montane forest
+T44	Habitat 2606 2615;2632 2638	disturbed forest
+T45	Habitat 2620 2638	undisturbed forest
+T46	GeographicalLocation 2678 2693	CAMIGUIN ISLAND
+T47	Habitat 2084 2122	heavily disturbed lowland agricultural
+T48	Habitat 1996 2033	highly disturbed lowland agricultural
+T49	Habitat 1685 1702	heavily disturbed
+T50	Habitat 363 375	agricultural
+T51	Habitat 659 681	primary montane forest

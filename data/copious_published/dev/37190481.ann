@@ -1,0 +1,24 @@
+T1	Person 7 11	King
+T2	GeographicalLocation 43 60	Malayan Peninsula
+T3	Taxon 73 82	Amsoptera
+T4	Taxon 73 90	Amsoptera, Korth.
+T5	GeographicalLocation 739 754	Malay Peninsula
+T6	GeographicalLocation 774 784	New Guinea
+T7	Taxon 806 825	Anisoptera CurtiSII
+T8	Taxon 806 831	Anisoptera CurtiSII, Dyer
+T9	GeographicalLocation 1357 1363	Penang
+T10	Person 1366 1372	Curtis
+T11	GeographicalLocation 1374 1379	Perak
+T12	Person 1382 1399	King's Collectors
+T13	Taxon 1401 1415	Var. latifolia
+T14	GeographicalLocation 1482 1488	Penang
+T15	Person 1491 1497	Curtis
+T16	GeographicalLocation 1540 1546	Penang
+T17	Taxon 1550 1558	Ringkong
+T18	Taxon 1563 1569	Vatica
+T19	Taxon 1563 1576	Vatica, Linn.
+T20	GeographicalLocation 2386 2399	Tropical Asia
+T21	GeographicalLocation 2412 2418	Malaya
+T22	Taxon 2439 2447	Synaptea
+T23	Person 2474 2482	Griffith
+T24	GeographicalLocation 2546 2552	Mergui

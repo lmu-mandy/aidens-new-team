@@ -1,0 +1,43 @@
+T1	Taxon 417 434	Rhinolophus virgo
+T2	Taxon 457 483	yellow-faced horseshoe bat
+T3	GeographicalLocation 528 539	Philippines
+T4	Habitat 570 592	primary lowland forest
+T5	Habitat 638 643	caves
+T6	Habitat 758 780	primary montane forest
+T7	GeographicalLocation 954 959	Leyte
+T8	GeographicalLocation 964 972	Maripipi
+T9	GeographicalLocation 1014 1022	Mindanao
+T10	GeographicalLocation 1024 1037	Mt. Kitanglad
+T11	Taxon 1143 1159	Vespertilionidae
+T12	Taxon 1162 1173	Common Bats
+T13	Taxon 1174 1189	Murina cyclotis
+T14	Taxon 1207 1233	round-eared tube-nosed bat
+T15	GeographicalLocation 1251 1264	southern Asia
+T16	GeographicalLocation 1297 1308	Philippines
+T17	GeographicalLocation 1339 1346;1360 1384	central portion of Greater Luzon
+T18	GeographicalLocation 1351 1384	southern portion of Greater Luzon
+T19	GeographicalLocation 1396 1412	Greater Mindanao
+T20	GeographicalLocation 1414 1421	Sibuyan
+T21	GeographicalLocation 1427 1435	Siquijor
+T22	Habitat 1469 1484	primary lowland
+T23	Habitat 1455 1464;1477 1484	disturbed lowland
+T24	Habitat 1489 1503	montane forest
+T25	TemporalExpression 1651 1659	May 1994
+T26	Habitat 1663 1687	secondary lowland forest
+T27	Taxon 1758 1780	Pipistrellus javanicus
+T28	Taxon 1798 1815	Javan pipistrelle
+T29	GeographicalLocation 1830 1835	Korea
+T30	GeographicalLocation 1839 1843	Java
+T31	GeographicalLocation 1863 1874	Philippines
+T32	Habitat 1902 1924	primary montane forest
+T33	Habitat 1941 1956;1967 1973	primary lowland forest
+T34	Habitat 1961 1973	mossy forest
+T35	GeographicalLocation 2169 2177	Camiguin
+T36	TemporalExpression 2185 2190	1960s
+T37	TemporalExpression 2203 2213	March 1995
+T38	Habitat 2234 2256	primary montane forest
+T39	GeographicalLocation 2364 2372	Mindanao
+T40	GeographicalLocation 2373 2387	(Mt. Kitanglad
+T41	Taxon 417 452	Rhinolophus virgo K. Anderson, 1905
+T42	TemporalExpression 794 807	22 March 1995
+T43	Taxon 1174 1202	Murina cyclotis Dobson, 1872

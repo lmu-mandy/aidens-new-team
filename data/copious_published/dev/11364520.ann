@@ -1,0 +1,49 @@
+T1	Taxon 0 16	Dipterocarpaceae
+T2	Taxon 685 697	Middle Luzon
+T3	Taxon 699 713	Prov. Zambales
+T4	Person 715 722	Warburg
+T5	TemporalExpression 747 752	April
+T6	GeographicalLocation 755 760	Luzon
+T7	GeographicalLocation 762 777	Prov. of Bataan
+T8	GeographicalLocation 778 789	Dinalupihan
+T9	Person 791 798	Merrill
+T10	Taxon 836 856	Anisoptera thurifera
+T11	Taxon 836 862	Anisoptera thurifera Blume
+T12	Taxon 953 965	A. thurifera
+T13	Taxon 1120 1140	Anisoptera Vidaliana
+T14	Taxon 1120 1148	Anisoptera Vidaliana Brandis
+T15	GeographicalLocation 1152 1157	Luzon
+T16	GeographicalLocation 1159 1171	Prov. Manila
+T17	Person 1173 1180	Merrill
+T18	GeographicalLocation 1204 1216	Prov. Bataan
+T19	Person 1218 1225	Merrill
+T20	TemporalExpression 1236 1240	Jan.
+T21	TemporalExpression 1241 1251	Febr. 1903
+T22	GeographicalLocation 1254 1265	Prov. Rizal
+T23	GeographicalLocation 1267 1275	Antipolo
+T24	Person 1277 1284	Merrill
+T25	TemporalExpression 1295 1305	March 1903
+T26	GeographicalLocation 1308 1322	Prov. Zambales
+T27	GeographicalLocation 1324 1329	Subig
+T28	Person 1331 1338	Merrill
+T29	TemporalExpression 1349 1359	April 1903
+T30	Taxon 1363 1369	Shorea
+T31	Taxon 1363 1375	Shorea Roxb.
+T32	Taxon 1379 1391	Shorea Guiso
+T33	Taxon 1379 1397	Shorea Guiso Blume
+T34	GeographicalLocation 1399 1404	Luzon
+T35	GeographicalLocation 1406 1420	Prov. Principe
+T36	GeographicalLocation 1422 1427	Baler
+T37	Person 1429 1436	Merrill
+T38	TemporalExpression 1450 1454	1903
+T39	Taxon 1460 1476	Shorea Warburgii
+T40	Taxon 1460 1481	Shorea Warburgii Gilg
+T41	GeographicalLocation 1483 1488	Luzon
+T42	GeographicalLocation 1490 1502	Prov. Bataan
+T43	GeographicalLocation 1504 1515	Dinalupihan
+T44	Person 1517 1524	Merrill
+T45	TemporalExpression 1538 1542	1903
+T46	GeographicalLocation 1545 1564	Prov. Camarines Sur
+T47	GeographicalLocation 1566 1573	Pasacao
+T48	Person 1575 1580	Ahern
+T49	TemporalExpression 1593 1597	1902

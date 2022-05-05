@@ -1,0 +1,54 @@
+T1	Taxon 104 127	Platymantis negrosensis
+T2	Taxon 41 52	PLATYMANTIS
+T3	Person 0 5	BROWN
+T4	Person 7 16	A. ALCALA
+T5	Person 18 25	DIESMOS
+T6	Person 30 39	E. ALCALA
+T7	Taxon 129 142	P. luzonensis
+T8	Taxon 148 158	P. banahao
+T9	GeographicalLocation 504 510	Negros
+T10	Taxon 577 600	Platymantis negrosensis
+T11	Taxon 635 644	guentheri
+T12	GeographicalLocation 742 770	mountains of southern Negros
+T13	TemporalExpression 789 793	1956
+T14	Habitat 810 824	arboreal ferns
+T15	Habitat 833 855	leaf axils of Pandanus
+T16	Habitat 864 889	leaf axils of gabi plants
+T17	Habitat 896 915	on the forest floor
+T18	Habitat 944 961	upper dipterocarp
+T19	GeographicalLocation 1058 1074	Lake Balinsasayo
+T20	TemporalExpression 1083 1087	1970
+T21	TemporalExpression 1092 1096	1972
+T22	Habitat 1124 1138	arboreal ferns
+T23	Habitat 1175 1187	forest floor
+T24	GeographicalLocation 1214 1227	Negros Island
+T25	GeographicalLocation 1319 1330	Mt. Canlaon
+T26	GeographicalLocation 1334 1349	northern Negros
+T27	TemporalExpression 1375 1379	1962
+T28	Taxon 1381 1403	Platymantis luzonensis
+T29	Taxon 1425 1446	Platymantis guentheri
+T30	GeographicalLocation 1719 1732	Mt. Maquiling
+T31	GeographicalLocation 1556 1577	southern Luzon Island
+T32	GeographicalLocation 1585 1603	Catanduanes Island
+T33	GeographicalLocation 1703 1714	Mt. Banahao
+T34	GeographicalLocation 1897 1904	Banahao
+T35	GeographicalLocation 1905 1914	maquiling
+T36	GeographicalLocation 2004 2017	Mt. Maquiling
+T37	GeographicalLocation 2019 2034	Laguna Province
+T38	GeographicalLocation 2036 2048	Luzon Island
+T39	GeographicalLocation 2050 2061	Philippines
+T40	TemporalExpression 2063 2076	July 11, 1994
+T41	Person 2081 2096	Angel C. Alcala
+T42	GeographicalLocation 2166 2179	Mt. Maquiling
+T43	GeographicalLocation 2195 2206	Mt. Banahao
+T44	GeographicalLocation 2210 2216	Lucban
+T45	Taxon 2489 2500	Platymantis
+T46	Taxon 2508 2515	hazelae
+T47	Taxon 2520 2528	dorsalis
+T48	Taxon 2582 2604	Platymantis luzonensis
+T49	Taxon 2633 2642	guentheri
+T50	Taxon 2661 2669	banahao,
+T51	Taxon 2761 2772	negrosensis
+T52	Habitat 966 983	submontane forest
+T53	Habitat 1971 1977	forest
+T54	TemporalExpression 794 796	58

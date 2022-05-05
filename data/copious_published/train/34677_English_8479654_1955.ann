@@ -1,0 +1,43 @@
+T1	Taxon 64 84	Schizamoeba salmonis
+T2	Taxon 1453 1465	channel bass
+T3	GeographicalLocation 2043 2051	American
+T4	Taxon 2271 2293	Saprolegnla parasitica
+T5	Taxon 2308 2324	Sarda orientalis
+T6	Taxon 9 15	Salmon
+T7	GeographicalLocation 28 39	Sandy River
+T8	GeographicalLocation 41 47	Oregon
+T9	Taxon 286 293	sockeye
+T10	Taxon 314 321	sockeye
+T11	TemporalExpression 600 606	spring
+T12	Taxon 613 619	Salmon
+T13	Taxon 621 628	chinook
+T14	Taxon 632 636	king
+T15	Taxon 765 774	steelhead
+T16	Taxon 781 796	steelhead trout
+T17	Taxon 1099 1105	Salmon
+T18	Taxon 1107 1114	chinook
+T19	Taxon 1118 1122	king
+T20	Taxon 1181 1187	Salmon
+T21	GeographicalLocation 1205 1216	Yukon River
+T22	Taxon 1266 1269	cod
+T23	Taxon 1309 1312	cod
+T24	Taxon 1602 1610	kingfish
+T25	Taxon 1639 1647	mackerel
+T26	Taxon 1495 1502	herring
+T27	Taxon 1532 1539	herring
+T28	Taxon 1655 1661	mullet
+T29	Taxon 1693 1699	mullet
+T30	Taxon 1851 1864	river herring
+T31	TemporalExpression 1843 1846	Sep
+T32	Taxon 1881 1887	salmon
+T33	GeographicalLocation 1981 1990	Venezuela
+T34	TemporalExpression 987 990	Sep
+T35	GeographicalLocation 2020 2025	Samoa
+T36	TemporalExpression 2053 2056	Sep
+T37	TemporalExpression 2202 2205	Sep
+T38	GeographicalLocation 2235 2244	Sao Paulo
+T39	Taxon 2342 2350	Sardines
+T40	Taxon 2390 2401	sea herring
+T41	Taxon 2331 2339	Mackerel
+T42	Taxon 2361 2369	Pilchard
+T43	GeographicalLocation 2428 2438	California

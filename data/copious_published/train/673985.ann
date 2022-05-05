@@ -1,0 +1,106 @@
+T1	Taxon 11 27	DIPTEROCARPACEAE
+T2	Taxon 34 48	Mocanera guiso
+T3	Taxon 34 55	Mocanera guiso Blanco
+T4	Taxon 85 104	Dipterocarpus guiso
+T5	Taxon 85 111	Dipterocarpus guiso Blanco
+T6	Taxon 141 157	Anisoptera guiso
+T7	Taxon 141 163	Anisoptera guiso A. DC
+T8	Taxon 189 201	S. vidaliana
+T9	Taxon 189 209	S. vidaliana Brandis
+T10	Taxon 712 725	S. polysperma
+T11	Taxon 712 725	S. polysperma
+T12	GeographicalLocation 1159 1164	LUZON
+T13	GeographicalLocation 1166 1185	Province of Cagayan
+T14	Person 1203 1210	Darling
+T15	Person 1235 1241	Curran
+T16	GeographicalLocation 1243 1262	Province of Isabela
+T17	Person 1280 1287	Darling
+T18	GeographicalLocation 1289 1313	Province of Ilocos Norte
+T19	Person 1338 1345	Merritt
+T20	Person 1348 1355	Darling
+T21	GeographicalLocation 1357 1378	Subprovince of Bontoc
+T22	Person 1396 1402	Curran
+T23	GeographicalLocation 1404 1420	Province of Abra
+T24	Person 1438 1445	Darling
+T25	GeographicalLocation 1447 1472	Province of Nueva Vizcaya
+T26	Person 1490 1496	Curran
+T27	Person 1514 1521	Merritt
+T28	GeographicalLocation 1523 1546	Province of Nueva Ecija
+T29	Person 1569 1575	Curran
+T30	Person 1593 1599	Saroca
+T31	GeographicalLocation 1601 1623	Province of Pangasinan
+T32	Person 1640 1646	Curran
+T33	Person 1649 1655	Merrit
+T34	Person 1680 1686	Medina
+T35	Person 1711 1719	Villamil
+T36	GeographicalLocation 1721 1739	Province of Tarlac
+T37	Person 1757 1765	Zschokke
+T38	GeographicalLocation 1767 1787	Province of Pampanga
+T39	Person 1812 1818	Curran
+T40	GeographicalLocation 1820 1840	Province of Zambales
+T41	Person 1869 1875	Curran
+T42	Person 1892 1899	Aguilar
+T43	Person 1924 1929	Agama
+T44	GeographicalLocation 1931 1949	Province of Bataan
+T45	Person 1951 1958	Merrill
+T46	Person 1964 1970	Garcia
+T47	Person 2036 2042	Barnes
+T48	Person 2036 2042	Barnes
+T49	TemporalExpression 2075 2084	Jan. 1904
+T50	Person 2111 2117	Borden
+T51	TemporalExpression 2119 2129	April 1904
+T52	Person 2193 2199	Borden
+T53	Person 2216 2222	Borden
+T54	TemporalExpression 2224 2234	Sept. 1904
+T55	Person 2273 2282	Foxworthy
+T56	Person 2318 2324	Curran
+T57	Person 2341 2347	Curran
+T58	TemporalExpression 2349 2358	June 1907
+T59	Person 2386 2393	Alvarez
+T60	GeographicalLocation 2395 2414	Province of Bulacan
+T61	Person 2432 2441	Foxworthy
+T62	GeographicalLocation 2443 2460	Province of Rizal
+T63	Person 2462 2467	Vidal
+T64	Person 2499 2512	Ahernâ€™s coll.
+T65	TemporalExpression 2514 2531	April-June 1904-5
+T66	Person 2558 2571	Ahernâ€™s coll.
+T67	Person 2586 2595	Foxworthy
+T68	Person 2612 2617	Ramos
+T69	Person 2635 2641	Curran
+T70	GeographicalLocation 2643 2664	Province of La Laguna
+T71	Person 2682 2689	Tamesis
+T72	Person 2707 2714	Mariano
+T73	GeographicalLocation 2716 2736	Province of Batangas
+T74	Person 2753 2759	Curran
+T75	Person 2762 2769	Merritt
+T76	GeographicalLocation 2771 2790	Province of Tayabas
+T77	Person 2807 2813	Kobber
+T78	Person 2866 2872	Curran
+T79	Person 2890 2897	Darling
+T80	Person 2915 2924	Foxworthy
+T81	Person 2927 2932	Ramos
+T82	GeographicalLocation 2934 2955	Province of Camarines
+T83	Person 2957 2962	Ahern
+T84	Person 2967 2973	Garcia
+T85	Person 2990 2997	Barredo
+T86	Person 3029 3035	Curran
+T87	GeographicalLocation 3037 3054	Province of Albay
+T88	Person 3072 3077	Aldor
+T89	GeographicalLocation 3079 3099	Province of Sorsogon
+T90	Person 3117 3123	Curran
+T91	GeographicalLocation 3125 3135	MARINDUQUE
+T92	Person 3153 3163	Rosenbluth
+T93	GeographicalLocation 3165 3170	TICAO
+T94	Person 3188 3198	Rosenbluth
+T95	GeographicalLocation 3200 3207	MASBATE
+T96	Person 3209 3217	Whitford
+T97	Person 3240 3250	Rosenbluth
+T98	Person 3268 3275	Darling
+T99	GeographicalLocation 3277 3284	MINDORO
+T100	Person 3345 3352	Merritt
+T101	GeographicalLocation 3354 3359	SAMAR
+T102	Person 3384 3394	Rosenbluth
+T103	GeographicalLocation 3396 3401	LEYTE
+T104	Person 3419 3429	Rosenbluth
+T105	GeographicalLocation 3431 3437	NEGROS
+T106	GeographicalLocation 3439 3457	Province of Negros

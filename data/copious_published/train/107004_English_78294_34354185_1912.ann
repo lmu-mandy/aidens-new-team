@@ -1,0 +1,42 @@
+T1	Taxon 130 148	Carpomys melanurus
+T2	Taxon 436 454	Carpomys melanurus
+T3	Taxon 469 487	Carpomys melanurus
+T4	Taxon 596 613	Carpomys phaeurus
+T5	Taxon 628 645	Carpomys phaeurus
+T6	Taxon 850 872	Phloeomys schadenbergi
+T7	Taxon 923 932	Phlosomys
+T8	Taxon 1116 1139	Crateromys schadenbergi
+T9	Taxon 1264 1287	Crateromys schadenbergi
+T10	Taxon 38 59	Genus CARPOMYS Thomas
+T11	Taxon 38 52	Genus CARPOMYS
+T12	TemporalExpression 61 65	1895
+T13	Taxon 67 82	Carpomys Thomas
+T14	Taxon 130 155	Carpomys melanurus Thomas
+T15	Taxon 436 461	Carpomys melanurus Thomas
+T16	TemporalExpression 463 467	1895
+T17	Taxon 469 494	Carpomys melanurus Thomas
+T18	GeographicalLocation 551 578	Highlands of northern Luzon
+T19	GeographicalLocation 580 585	Luzon
+T20	Taxon 596 620	Carpomys phaeurus Thomas
+T21	Taxon 628 652	Carpomys phaeurus Thomas
+T22	GeographicalLocation 709 736	Highlands of northern Luzon
+T23	Taxon 850 878	Phloeomys schadenbergi Meyer
+T24	Taxon 1116 1147	Crateromys schadenbergi (Meyer)
+T25	Taxon 1264 1293	Crateromys schadenbergi Meyer
+T26	GeographicalLocation 1383 1400	Mount Data, Luzon
+T27	GeographicalLocation 1402 1407	Luzon
+T28	Taxon 1417 1435	Genus APOMYS Means
+T29	Taxon 1417 1429	Genus APOMYS
+T30	TemporalExpression 1437 1441	1905
+T31	Taxon 1443 1462	Apomys Mearns, Proc
+T32	Taxon 1443 1456	Apomys Mearns
+T33	Taxon 1497 1521	Apomys hylocoetes Mearns
+T34	Taxon 1497 1514	Apomys hylocoetes
+T35	Taxon 1532 1542	brown rats
+T36	Taxon 1577 1583	Epimys
+T37	Taxon 1717 1720	Mus
+T38	Taxon 1155 1182	Phlmomys schadenbergi Meyer
+T39	Taxon 1155 1176	Phlmomys schadenbergi
+T40	Taxon 754 777	Genus CRATEROMYS Thomas
+T41	GeographicalLocation 738 743	Luzon
+T42	GeographicalLocation 15 33	PHILIPPINE ISLANDS

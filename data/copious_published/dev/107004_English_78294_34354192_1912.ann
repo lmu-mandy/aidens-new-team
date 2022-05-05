@@ -1,0 +1,57 @@
+T1	Taxon 21 27	CERVID
+T2	Taxon 35 39	RUSA
+T3	Taxon 103 124	Cervus equinus CUVIER
+T4	Taxon 103 117	Cervus equinus
+T5	Taxon 290 302	Rusa alfredi
+T6	Taxon 290 312	Rusa alfredi (Sclater)
+T7	Taxon 320 334	Cervus alfredi
+T8	Taxon 320 342	Cervus alfredi Sclater
+T9	GeographicalLocation 361 367	London
+T10	GeographicalLocation 391 402	Philippines
+T11	GeographicalLocation 418 424	Manila
+T12	GeographicalLocation 427 431	Cebu
+T13	GeographicalLocation 442 450	Guimaras
+T14	GeographicalLocation 463 468	Leyte
+T15	GeographicalLocation 482 489	Masbate
+T16	GeographicalLocation 502 508	Negros
+T17	GeographicalLocation 519 524	Panay
+T18	GeographicalLocation 535 540	Samar
+T19	Taxon 552 568	Rusa culionensis
+T20	Taxon 552 577	Rusa culionensis (Elliot)
+T21	Taxon 585 603	Cervus culionensis
+T22	Taxon 585 610	Cervus culionensis Elliot
+T23	GeographicalLocation 679 692	Culion Island
+T24	GeographicalLocation 694 699	Cuhon
+T25	Taxon 710 724	Rusa nigricans
+T26	Taxon 741 757	Cervus nigricans
+T27	Taxon 741 764	Cervus nigricans Brooke
+T28	Taxon 710 733	Rusa nigricans (Brooke)
+T29	GeographicalLocation 783 789	London
+T30	GeographicalLocation 835 846	Philippines
+T31	GeographicalLocation 848 855	Basilan
+T32	Taxon 868 885	Rusa pliiiippinus
+T33	Taxon 901 919	Cervus philippinus
+T34	Taxon 965 986	Rusa philippinus Gray
+T35	GeographicalLocation 1025 1043	Philippine Islands
+T36	GeographicalLocation 1054 1059	Luzon
+T37	GeographicalLocation 1061 1066	Luzon
+T38	Person 1091 1099	Lydekker
+T39	Taxon 1143 1170	Cerv7is mariannus Desmarest
+T40	GeographicalLocation 1193 1208	Ladrone Islands
+T41	Taxon 1210 1222	Rusa steerii
+T42	Taxon 1239 1253	Cervus steerii
+T43	Taxon 1210 1231	Rusa steerii (Elliot)
+T44	Taxon 1239 1260	Cervus steerii Elliot
+T45	GeographicalLocation 1325 1339	Basilan Island
+T46	GeographicalLocation 1341 1348	Basilan
+T47	Taxon 1359 1375	Rusa tavlstoctcl
+T48	GeographicalLocation 1503 1514	Philippines
+T49	Person 1578 1583	Heude
+T50	GeographicalLocation 1634 1652	Philippine Islands
+T51	Person 1672 1683	P. M. Heude
+T52	Taxon 35 45	RUSA Smith
+T53	Taxon 901 925	Cervus philippinus SMITH
+T54	Taxon 868 893	Rusa pliiiippinus (Smith)
+T55	Taxon 965 981	Rusa philippinus
+T56	Taxon 1143 1160	Cerv7is mariannus
+T57	Taxon 1359 1386	Rusa tavlstoctcl (Lydekker)

@@ -1,0 +1,105 @@
+T1	GeographicalLocation 32 37	Japan
+T2	GeographicalLocation 49 71	Ogaswara-gunto Islands
+T3	GeographicalLocation 93 104	Philippines
+T4	Taxon 145 155	C. konojoi
+T5	Taxon 258 273	Tridacna crocea
+T6	GeographicalLocation 715 730	Pitcairn Island
+T7	Taxon 738 751	Corallium spp
+T8	Taxon 789 800	T. squamosa
+T9	GeographicalLocation 962 970	Kiribati
+T10	GeographicalLocation 1001 1016	Phoenix Islands
+T11	GeographicalLocation 1019 1027	Marianas
+T12	GeographicalLocation 1037 1053	Marshall Islands
+T13	GeographicalLocation 1079 1095	Papua New Guinea
+T14	GeographicalLocation 1097 1112	Solomon Islands
+T15	GeographicalLocation 1148 1159	Wake Island
+T16	Taxon 1184 1197	Corallium spp
+T17	Taxon 1206 1218	Antipathidae
+T18	Taxon 1300 1311	T. squamosa
+T19	GeographicalLocation 25 30	China
+T20	GeographicalLocation 76 90	Ryukyu Islands
+T21	GeographicalLocation 106 112	Taiwan
+T22	Taxon 114 131	Corallium elatius
+T23	Taxon 132 144	C  japonicum
+T24	Taxon 156 167	C. secundum
+T25	Taxon 168 180	Corallium sp
+T26	Taxon 194 206	Antipathidae
+T27	Taxon 207 224	Charonia tritonis
+T28	Taxon 225 242	Hippopus hippopus
+T29	Taxon 243 257	H. porcellanus
+T30	Taxon 274 283	T. derasa
+T31	Taxon 284 289	Gigas
+T32	Taxon 290 299	T. maxima
+T33	Taxon 300 311	T. squamosa
+T34	Taxon 312 340	Carcinoscorpius rotundicauda
+T35	Taxon 341 357	Tachypleus gigas
+T36	Taxon 358 372	T. tridentatus
+T37	Taxon 373 385	Birgus latro
+T38	Taxon 386 396	Boke Coral
+T39	Taxon 397 412	Aka-sango Coral
+T40	Taxon 413 430	Shiro-sango Coral
+T41	Taxon 431 441	Pink Coral
+T42	Taxon 442 463	Midway Deep Sea Coral
+T43	Taxon 464 475	Black coral
+T44	Taxon 476 492	Triton's Trumpet
+T45	Taxon 493 510	Horse's Hoof Clam
+T46	Taxon 511 521	China Clam
+T47	Taxon 522 533	Crocus Clam
+T48	Taxon 534 553	Southern Giant Clam
+T49	Taxon 554 564	Giant Clam
+T50	Taxon 565 581	Small Giant Clam
+T51	Taxon 582 592	Scaly Clam
+T52	Taxon 593 607	Horseshoe crab
+T53	Taxon 608 620	Coconut Crab
+T54	GeographicalLocation 621 645	SOUTH-EAST PACIFIC OCEAN
+T55	GeographicalLocation 646 658	Cook Islands
+T56	GeographicalLocation 684 691	Tuamotu
+T57	GeographicalLocation 660 671	New Zealand
+T58	GeographicalLocation 674 683	Henderson
+T59	GeographicalLocation 693 699	France
+T60	GeographicalLocation 709 712	U.K
+T61	GeographicalLocation 732 735	U.K
+T62	Taxon 760 772	Antipathidae
+T63	Taxon 773 788	Tridacna maxima
+T64	Taxon 801 813	Birgus latro
+T65	Taxon 814 829	Precious corals
+T66	Taxon 830 841	Black coral
+T67	Taxon 842 858	Small Giant Clam
+T68	Taxon 859 869	Scaly Clam
+T69	Taxon 870 882	Coconut Crab
+T70	GeographicalLocation 883 907	SOUTH-WEST PACIFIC OCEAN
+T71	GeographicalLocation 908 922	American Samoa
+T72	GeographicalLocation 924 933	Australia
+T73	GeographicalLocation 935 939	Fiji
+T74	GeographicalLocation 941 947	U.S.A.
+T75	GeographicalLocation 948 952	Guam
+T76	GeographicalLocation 1161 1166	U.S.A
+T77	GeographicalLocation 954 959	U.S.A
+T78	GeographicalLocation 1169 1182	Western Samoa
+T79	GeographicalLocation 972 980	Caroline
+T80	GeographicalLocation 982 989	Gilbert
+T81	GeographicalLocation 991 995	Line
+T82	GeographicalLocation 1029 1034	U.S.A
+T83	GeographicalLocation 1055 1061	France
+T84	GeographicalLocation 1064 1077	New Caledonia
+T85	GeographicalLocation 1114 1120	Tuvalu
+T86	GeographicalLocation 1122 1136	Ellice Islands
+T87	GeographicalLocation 1139 1146	Vanuatu
+T88	Taxon 1219 1236	Charonia tritonis
+T89	Taxon 1237 1254	Hippopus hippopus
+T90	Taxon 1255 1270	Tridacna crocea
+T91	Taxon 1271 1280	T. derasa
+T92	Taxon 1281 1289	T. gigas
+T93	Taxon 1290 1299	T. maxima
+T94	Taxon 1312 1324	Birgus latro
+T95	Taxon 1325 1340	Precious corals
+T96	Taxon 1341 1352	Black coral
+T97	Taxon 1353 1369	Triton's Trumpet
+T98	Taxon 1370 1387	Horse's Hoof Clam
+T99	Taxon 1388 1399	Crocus Clam
+T100	Taxon 1400 1419	Southern Giant Clam
+T101	Taxon 1420 1430	Giant Clam
+T102	Taxon 1431 1447	Small Giant Clam
+T103	Taxon 1448 1458	Scaly Clam
+T104	Taxon 1459 1471	Coconut Crab
+T105	GeographicalLocation 0 24	NORTH-WEST PACIFIC OCEAN

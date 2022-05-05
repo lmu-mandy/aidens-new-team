@@ -1,0 +1,28 @@
+T1	GeographicalLocation 70 79	Zamboanga
+T2	GeographicalLocation 88 104	Sulu Archipelago
+T3	GeographicalLocation 191 200	Zamboanga
+T4	GeographicalLocation 385 393	Mindanao
+T5	GeographicalLocation 1468 1479	Panguil Bay
+T6	GeographicalLocation 1773 1784	Panguil Bay
+T7	GeographicalLocation 1834 1858	Philippines Constabulary
+T8	Habitat 2166 2179	timber forest
+T9	GeographicalLocation 2309 2320	Panguil Bay
+T10	GeographicalLocation 2740 2753	Cami3 Overton
+T11	Person 4 9	SMITH
+T12	GeographicalLocation 11 21	LAKE LANAO
+T13	TemporalExpression 202 214	Jstovember 6
+T14	GeographicalLocation 456 468	Point Blanca
+T15	GeographicalLocation 894 901	Dapitan
+T16	TemporalExpression 1390 1394	noon
+T17	GeographicalLocation 1541 1554	Bay of Iligan
+T18	GeographicalLocation 1601 1616	Mount Malindang
+T19	Habitat 1709 1715	slopes
+T20	Person 1806 1832	Avith Lieutenant Lattamore
+T21	GeographicalLocation 2014 2029	Mount Malindang
+T22	GeographicalLocation 2098 2105	Misamis
+T23	TemporalExpression 2389 2411	morning of November 11
+T24	GeographicalLocation 2424 2436	Camp Overton
+T25	TemporalExpression 2449 2459	after noon
+T26	Person 2465 2470	Ickis
+T27	Person 2550 2557	Caffery
+T28	GeographicalLocation 2603 2616	Camp Keithley

@@ -1,0 +1,86 @@
+T1	GeographicalLocation 62 74	Batan Island
+T2	GeographicalLocation 102 108	Taiwan
+T3	GeographicalLocation 113 118	Luzon
+T4	Taxon 188 198	Girellidae
+T5	Taxon 280 295	Glaucosomatidae
+T6	Taxon 333 343	Glaucosoma
+T7	GeographicalLocation 516 521	Japan
+T8	GeographicalLocation 530 541	Philippines
+T9	GeographicalLocation 561 571	Queensland
+T10	Taxon 679 689	Glaucosoma
+T11	GeographicalLocation 1120 1129	Black Sea
+T12	GeographicalLocation 1348 1361	Pacific Plate
+T13	Taxon 1440 1466	Trachelochismus pinnulatus
+T14	Taxon 1652 1665	T. pinnulatus
+T15	Taxon 1769 1788	Crepidogaster simus
+T16	Taxon 1803 1816	T. pinnulatus
+T17	GeographicalLocation 1858 1873	Chatham Islands
+T18	GeographicalLocation 2075 2081	Raroia
+T19	Taxon 2107 2124	Liobranchia stria
+T20	GeographicalLocation 2147 2153	Saipan
+T21	GeographicalLocation 2155 2163	Marianas
+T22	Taxon 2219 2230	Liobranchia
+T23	Taxon 2317 2338	Lepadichthys frenatus
+T24	GeographicalLocation 2348 2363	Pitcairn Island
+T25	Taxon 2527 2545	Lepadichthys minor
+T26	Taxon 2994 3000	Eviota
+T27	Person 3349 3354	Allen
+T28	Taxon 3870 3891	elochismus pinnulatus
+T29	GeographicalLocation 4005 4020	Chatham Islands
+T30	Taxon 40 56	Girella punctata
+T31	GeographicalLocation 151 162	Philippines
+T32	GeographicalLocation 523 528	China
+T33	GeographicalLocation 547 556	Australia
+T34	Habitat 599 638	offshore southern portions of the coast
+T35	Taxon 720 732	GOBIESOCIDAE
+T36	Taxon 737 748	clingfishes
+T37	Habitat 971 988	freshwater rivers
+T38	Habitat 993 1004	coral reefs
+T39	Taxon 1044 1052	crinoids
+T40	Taxon 1054 1065	Clingfishes
+T41	GeographicalLocation 1102 1115	Mediterranean
+T42	Habitat 1168 1196	along continental coastlines
+T43	GeographicalLocation 1272 1284	Indo-pacific
+T44	GeographicalLocation 1492 1503	New Zealand
+T45	GeographicalLocation 1533 1548	Chatham Islands
+T46	GeographicalLocation 1585 1598	Pacific Plate
+T47	GeographicalLocation 1632 1643	New Zealand
+T48	Taxon 1713 1732	Pherallodus indicus
+T49	Person 1745 1751	Hutton
+T50	TemporalExpression 1753 1757	1896
+T51	GeographicalLocation 1824 1840	Lyttleton Harbor
+T52	GeographicalLocation 1841 1852	New Zealand
+T53	GeographicalLocation 2083 2090	Tuamotu
+T54	GeographicalLocation 2169 2175	Bikini
+T55	GeographicalLocation 2177 2186	Marshalls
+T56	GeographicalLocation 2246 2259	Pacific Plate
+T57	Person 2287 2294	Randall
+T58	GeographicalLocation 2448 2463	western Pacific
+T59	Person 2465 2471	Briggs
+T60	GeographicalLocation 2553 2567	Ellice Islands
+T61	GeographicalLocation 2576 2589	Pacific Plate
+T62	GeographicalLocation 2591 2596	Samoa
+T63	Taxon 2672 2696	Indo-pacific clingfishes
+T64	GeographicalLocation 2755 2768	Pacific Plate
+T65	Taxon 2770 2778	Gobiidae
+T66	Taxon 2783 2789	gobies
+T67	Person 3031 3043	E.A. Lachner
+T68	Taxon 3076 3082	gobies
+T69	Taxon 3105 3118	Synechogobius
+T70	Taxon 3175 3181	Gobies
+T71	Habitat 3263 3273	freshwater
+T72	Habitat 3284 3293	estuarine
+T73	Habitat 3308 3312	reef
+T74	Habitat 3316 3325	near-reef
+T75	Person 3339 3344	Hoese
+T76	TemporalExpression 3356 3360	1977
+T77	Taxon 3395 3402	gobiids
+T78	Habitat 3416 3447	coral reefs of the Indo-pacific
+T79	Taxon 3473 3479	gobiid
+T80	GeographicalLocation 3591 3604	Pacific Plate
+T81	GeographicalLocation 3524 3536	Indo-pacific
+T82	Person 3734 3744	D.F. Hoese
+T83	Taxon 3785 3793	Lentipes
+T84	Habitat 3819 3829	freshwater
+T85	GeographicalLocation 3833 3839	Hawaii
+T86	GeographicalLocation 3914 3925	New Zealand

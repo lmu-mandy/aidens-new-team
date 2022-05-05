@@ -1,0 +1,59 @@
+T1	GeographicalLocation 691 702	Philippines
+T2	Taxon 959 969	Cnidarians
+T3	Taxon 1456 1473	Aequorea aequorea
+T4	Taxon 1848 1866	Plexaura homomalla
+T5	Taxon 2371 2381	Cnidarians
+T6	GeographicalLocation 2520 2531	South Korea
+T7	Taxon 2574 2594	Rhopilema esculentum
+T8	GeographicalLocation 2619 2634	South East Asia
+T9	Taxon 2703 2712	Rhopilema
+T10	GeographicalLocation 2762 2773	Philippines
+T11	GeographicalLocation 2778 2787	Indonesia
+T12	Taxon 3120 3141	Acropora  Seriatopora
+T13	Taxon 3146 3157	Pocillopora
+T14	TemporalExpression 3206 3211	1970s
+T15	GeographicalLocation 3239 3250	Philippines
+T16	TemporalExpression 3255 3259	1976
+T17	Taxon 3467 3479	Antipatharia
+T18	Taxon 3599 3610	gold corals
+T19	Taxon 3643 3656	bamboo corals
+T20	Taxon 3673 3681	Acanella
+T21	Taxon 3819 3838	Eunicella verrucosa
+T22	Taxon 3879 3891	E. cavolinii
+T23	Taxon 3896 3909	E. singularis
+T24	Taxon 3986 4005	hydroids Sertularia
+T25	Habitat 290 301	Coral reefs
+T26	Habitat 183 203	reef-building corals
+T27	Habitat 555 560	reefs
+T28	Taxon 1010 1015;1024 1030	Black corals
+T29	Taxon 1020 1030	red corals
+T30	GeographicalLocation 1115 1120	China
+T31	Taxon 1310 1326	gorgonian corals
+T32	Taxon 1371 1392	Hawaiian zoantharians
+T33	Taxon 1903 1919	Rhodactis howesi
+T34	Taxon 1968 1975	Porites
+T35	Taxon 2030 2040	Anthozoans
+T36	GeographicalLocation 2503 2508	China
+T37	TemporalExpression 2539 2543	1960
+T38	GeographicalLocation 2649 2654	China
+T39	GeographicalLocation 2659 2664	Japan
+T40	TemporalExpression 2675 2680	1980,
+T41	GeographicalLocation 2736 2744	Thailand
+T42	Taxon 3031 3038	Porites
+T43	Taxon 3040 3045	Favia
+T44	Taxon 3047 3054	Favites
+T45	Taxon 3056 3066	Leptastrea
+T46	Taxon 3071 3080	Platygyra
+T47	GeographicalLocation 3325 3330	U.S.A
+T48	Taxon 3452 3462	Gorgonacea
+T49	Taxon 3612 3620	Gerardia
+T50	Taxon 3625 3632	Primnoa
+T51	Taxon 3659 3668	Lepidisis
+T52	Taxon 3751 3772	deep water gorgonians
+T53	Taxon 3779 3787	Sea fans
+T54	Taxon 4010 4022	Hydrallmania
+T55	Taxon 4034 4044	white weed
+T56	GeographicalLocation 4073 4080	Germany
+T57	GeographicalLocation 4104 4108	U.K.
+T58	GeographicalLocation 4221 4227	U.S.A.
+T59	Taxon 4288 4298	cnidarians

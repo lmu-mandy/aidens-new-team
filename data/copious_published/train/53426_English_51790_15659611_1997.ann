@@ -1,0 +1,54 @@
+T1	Taxon 191 203	P. guentheri
+T2	Taxon 230 244	P. negrosensis
+T3	Taxon 253 266	P. luzonensis
+T4	Taxon 275 285	P. banahao
+T5	Taxon 122 131	guentheri
+T6	Taxon 41 52	PLATYMANTIS
+T7	GeographicalLocation 1362 1374	Bohol Island
+T8	GeographicalLocation 1378 1395	Mt. Hilong-hilong
+T9	GeographicalLocation 1399 1407	Mindanao
+T10	Taxon 1431 1440	guentheri
+T11	Taxon 1594 1616	Philippine Platymantis
+T12	Taxon 1665 1674	guentheri
+T13	Taxon 1709 1730	Platymantis guentheri
+T14	Taxon 1744 1750	rabori
+T15	Taxon 1752 1763	negrosensis
+T16	Taxon 1765 1775	luzonensis
+T17	Taxon 1781 1788	banahao
+T18	Taxon 1916 1925	guentheri
+T19	GeographicalLocation 1931 1938	Dinagat
+T20	GeographicalLocation 1940 1948	Mindanao
+T21	GeographicalLocation 1954 1969	Biliran islands
+T22	GeographicalLocation 1991 1996	Bohol
+T23	Person 2109 2114	Brown
+T24	Person 2119 2125	Alcala
+T25	Taxon 2137 2143	ingeri
+T26	Taxon 2147 2156	guentheri
+T27	GeographicalLocation 2367 2372	Bohol
+T28	GeographicalLocation 2380 2401	northeastern Mindanao
+T29	Habitat 2492 2506	arboreal ferns
+T30	Taxon 2556 2565	guentheri
+T31	Habitat 2650 2667	upper dipterocarp
+T32	Habitat 2680 2694	montane forest
+T33	GeographicalLocation 2699 2715	Mt. Hilonghilong
+T34	GeographicalLocation 2719 2740	northeastern Mindanao
+T35	GeographicalLocation 2762 2770	Mindanao
+T36	GeographicalLocation 2772 2779	Dinagat
+T37	GeographicalLocation 2781 2786	Bohol
+T38	GeographicalLocation 2792 2807	Biliran islands
+T39	Habitat 2510 2531	leaf axils ofpandanus
+T40	Person 0 5	BROWN
+T41	Person 7 16	A. ALCALA
+T42	Person 18 25	DIESMOS
+T43	Person 30 39	E. ALCALA
+T44	Taxon 212 221	P. rabori
+T45	Habitat 2211 2217	leaves
+T46	Habitat 2222 2246	duff of the forest floor
+T47	Habitat 2267 2271	logs
+T48	Habitat 2275 2280	rocks
+T49	Habitat 2309 2314	shrub
+T50	Habitat 2318 2326	arboreal
+T51	Habitat 2598 2610	forest floor
+T52	Habitat 2450 2460	low shrubs
+T53	Habitat 2470 2475	trees
+T54	Habitat 2537 2542	ferns

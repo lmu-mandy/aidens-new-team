@@ -1,0 +1,79 @@
+T1	GeographicalLocation 26 39	SEDILI-REGION
+T2	Taxon 40 52	Dilleniaceae
+T3	Taxon 53 71	Acrotrema costatum
+T4	Taxon 53 76	Acrotrema costatum Jack
+T5	Habitat 140 152	swamp-forest
+T6	Taxon 155 171	Dillema albiflos
+T7	Taxon 155 178	Dillema albiflos Ridley
+T8	Habitat 351 363	swamp-forest
+T9	Habitat 371 379	hillocks
+T10	GeographicalLocation 413 419	Johore
+T11	Taxon 422 432	D. excelsa
+T12	Taxon 422 444	D. excelsa (Jack) Gilg
+T13	TemporalExpression 527 532	March
+T14	TemporalExpression 533 536	May
+T15	Habitat 569 581	swamp-forest
+T16	Taxon 584 594	D. excelsa
+T17	Taxon 584 610	D. excelsa var. tomentella
+T18	Taxon 584 625	D. excelsa var. tomentella (Mart.) Corner
+T19	TemporalExpression 651 658	October
+T20	Habitat 672 684	swamp-forest
+T21	Taxon 687 701	D. grandifolia
+T22	Taxon 687 707	D. grandifolia Wall.
+T23	Habitat 835 847	swamp-forest
+T24	Taxon 849 864	simpoh jangkang
+T25	Taxon 867 876	D. eximia
+T26	Taxon 867 881	D. eximia Miq.
+T27	Taxon 885 894	D. indica
+T28	Taxon 885 897	D. indica L.
+T29	Habitat 935 949	5araca-streams
+T30	Habitat 980 992	swamp-forest
+T31	Taxon 1004 1016	D. pulchella
+T32	Taxon 1004 1028	D. pulchella (Jack) Gilg
+T33	Habitat 1099 1111	swamp-forest
+T34	Taxon 1114 1127	D. reticulata
+T35	Taxon 1114 1132	D. reticulata King
+T36	Taxon 1166 1180	D. grandifolia
+T37	Habitat 1285 1297	swamp-forest
+T38	Taxon 1299 1314	simpoh jangkang
+T39	Taxon 1317 1332	D. suffruticosa
+T40	Taxon 1317 1350	D. suffruticosa (Griff.) Martelli
+T41	Habitat 1482 1497	Tristania-banks
+T42	GeographicalLocation 1506 1511	Mawai
+T43	GeographicalLocation 1516 1523	Bt Tiga
+T44	Taxon 1525 1536	simpoh ayer
+T45	Taxon 1539 1551	Dillenia sp.
+T46	Taxon 1604 1625	Tetracera arborescens
+T47	Taxon 1604 1630	Tetracera arborescens Jack
+T48	Habitat 1671 1686	Tristania-banks
+T49	Taxon 1688 1701	mempelas asah
+T50	Taxon 1703 1715	T. fagifolia
+T51	Taxon 1703 1719	T. fagifolia Bl.
+T52	Taxon 1727 1736	T. indica
+T53	Taxon 1727 1751	T. indica (Houtt.) Merr.
+T54	Habitat 1792 1807	Tristania-banks
+T55	Habitat 1819 1831	swamp-forest
+T56	Taxon 1833 1841	mempelas
+T57	Taxon 1843 1856	T. sarmentosa
+T58	Taxon 1843 1866	T. sarmentosa (L.) Vahl
+T59	Taxon 1897 1911	mempelas gajah
+T60	Taxon 1914 1927	Dioscoreaceae
+T61	Taxon 1928 1966	Dioscorea lamprocaula Prain et Burkill
+T62	Taxon 1928 1949	Dioscorea lamprocaula
+T63	Taxon 1978 1990	D. pyrifolia
+T64	Taxon 1978 1996	D. pyrifolia Kunth
+T65	Habitat 2062 2074	swamp-forest
+T66	Taxon 2076 2089	Dioscorea sp.
+T67	Taxon 2115 2131	Dipterocarpaceae
+T68	Taxon 2133 2152	Balanocarpus heimii
+T69	Taxon 2133 2157	Balanocarpus heimii King
+T70	Habitat 2227 2241	hillock-forest
+T71	Habitat 2272 2284	swamp-forest
+T72	Taxon 2316 2323	chengal
+T73	Taxon 2325 2330	penah
+T74	Taxon 2333 2355	Dryobalanops aromatica
+T75	Taxon 2333 2366	Dryobalanops aromatica Gaertn. f.
+T76	Habitat 2439 2447	hillocks
+T77	Habitat 2481 2492	swampforest
+T78	GeographicalLocation 2528 2534	Malaya
+T79	Taxon 2536 2541	kapur

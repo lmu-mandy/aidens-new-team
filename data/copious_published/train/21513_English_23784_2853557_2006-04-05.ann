@@ -1,0 +1,66 @@
+T1	TemporalExpression 266 274	May 1994
+T2	TemporalExpression 379 389	March 1995
+T3	TemporalExpression 496 504	May 1994
+T4	TemporalExpression 509 519	March 1995
+T5	TemporalExpression 565 578	18 March 1995
+T6	TemporalExpression 602 613	29 May 1994
+T7	TemporalExpression 682 690	February
+T8	TemporalExpression 695 700	March
+T9	Taxon 988 1008	Mindanao shrew-mouse
+T10	GeographicalLocation 1040 1045	Leyte
+T11	GeographicalLocation 1050 1058	Mindanao
+T12	Habitat 1104 1131	primary lowland rain forest
+T13	GeographicalLocation 1242 1250	Camiguin
+T14	Habitat 1282 1325	heavily disturbed lowland agricultural land
+T15	Habitat 1349 1379	disturbed lower montane forest
+T16	Habitat 1407 1429	primary montane forest
+T17	Habitat 1490 1501	rotten logs
+T18	Habitat 1506 1518	wood tangles
+T19	Habitat 1562 1566	moss
+T20	Habitat 1599 1610	good forest
+T21	GeographicalLocation 1614 1622	Mindanao
+T22	Habitat 1687 1703	lower elevations
+T23	GeographicalLocation 1707 1715	Camiguin
+T24	TemporalExpression 1794 1807	17 March 1995
+T25	TemporalExpression 2110 2121	24 May 1994
+T26	TemporalExpression 2203 2208	March
+T27	TemporalExpression 2210 2215	April
+T28	TemporalExpression 2221 2224	May
+T29	GeographicalLocation 2429 2434	Leyte
+T30	GeographicalLocation 2439 2447	Mindanao
+T31	GeographicalLocation 2449 2464	Kitanglad Range
+T32	GeographicalLocation 2469 2476	Mt. Apo
+T33	Taxon 2620 2635	Rattus everetti
+T34	Taxon 2663 2684	Philippine forest rat
+T35	GeographicalLocation 2732 2747	Babuyan Batanes
+T36	GeographicalLocation 2749 2756	Palawan
+T37	GeographicalLocation 2762 2766	Sulu
+T38	Habitat 2784 2791;2834 2840	primary forest
+T39	Habitat 2796 2813;2834 2840	disturbed lowland forest
+T40	Habitat 2815 2822;2834 2840	montane forest
+T41	Habitat 2828 2840	mossy forest
+T42	TemporalExpression 2951 2960	1994-1995
+T43	Habitat 3040 3064	disturbed lowland forest
+T44	Habitat 3084 3098	montane forest
+T45	Habitat 3102 3114	mossy forest
+T46	TemporalExpression 3145 3150	1960s
+T47	GeographicalLocation 3193 3201	Mindanao
+T48	Habitat 3337 3369	hollow spaces beneath live trees
+T49	Habitat 3399 3413	rotting leaves
+T50	TemporalExpression 3446 3454	May 1994
+T51	TemporalExpression 3459 3469	March 1995
+T52	TemporalExpression 3975 3983	May 1994
+T53	TemporalExpression 3988 3998	March 1995
+T54	GeographicalLocation 4306 4313	Biliran
+T55	GeographicalLocation 4315 4320	Leyte
+T56	GeographicalLocation 4326 4334	Maripipi
+T57	GeographicalLocation 4373 4380	Dinagat
+T58	GeographicalLocation 4382 4390	Mindanao
+T59	GeographicalLocation 4392 4407	Kitanglad Range
+T60	GeographicalLocation 4414 4421	Siargao
+T61	Taxon 953 983	Crunomys melanius Thomas, 1907
+T62	Taxon 953 970	Crunomys melanius
+T63	Habitat 1539 1550	dead leaves
+T64	Habitat 3380 3394	mounds of soil
+T65	Habitat 3321 3332	fallen logs
+T66	Habitat 3296 3308	root tangles

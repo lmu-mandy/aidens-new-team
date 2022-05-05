@@ -1,0 +1,20 @@
+T1	Person 7 11	King
+T2	GeographicalLocation 42 59	Malayan Peninsula
+T3	Taxon 72 84	Vatica Dyeri
+T4	Taxon 72 90	Vatica Dyeri, King
+T5	Taxon 1331 1345	Synaptea Dyeri
+T6	Taxon 1331 1353	Synaptea Dyeri, Pierre
+T7	GeographicalLocation 1386 1391	Perak
+T8	Person 1393 1409	King's Collector
+T9	GeographicalLocation 1431 1439	Cambodia
+T10	GeographicalLocation 1441 1459	Lower Cochin-China
+T11	Person 1461 1467	Pierre
+T12	GeographicalLocation 1473 1478	Perak
+T13	Person 1549 1555	Pierre
+T14	GeographicalLocation 1573 1581	Cambodia
+T15	GeographicalLocation 1586 1598	Cochin-China
+T16	Taxon 1603 1620	Vatica reticulata
+T17	Taxon 1603 1626	Vatica reticulata, King
+T18	GeographicalLocation 2551 2556	Perak
+T19	Person 2558 2574	King's Collector
+T20	Taxon 2749 2755	Vatica

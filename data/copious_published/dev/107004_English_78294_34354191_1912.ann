@@ -1,0 +1,73 @@
+T1	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T2	Taxon 38 52	Sus inconstans
+T3	Taxon 66 80	Sus inconstans
+T4	Taxon 66 86	Sus inconstans Heude
+T5	GeographicalLocation 149 157	Mindanao
+T6	GeographicalLocation 159 167	Mindanao
+T7	Taxon 177 192	Sus mindanensis
+T8	Taxon 206 232	Sus verrucosus mindanensis
+T9	Taxon 206 220	Sus verrucosus
+T10	GeographicalLocation 295 300	Ayala
+T11	GeographicalLocation 302 310	Mindanao
+T12	GeographicalLocation 312 320	Mindanao
+T13	Taxon 329 340	Sus minutus
+T14	Taxon 329 346	Sus minutus Heude
+T15	Taxon 354 365	Sus minutus
+T16	Taxon 354 371	Sus minutus Heude
+T17	GeographicalLocation 445 454	La Laguna
+T18	GeographicalLocation 458 464	Tarlac
+T19	GeographicalLocation 466 471	Luzon
+T20	GeographicalLocation 505 510	Luzon
+T21	Taxon 520 544	Sus philippensis Nehring
+T22	Taxon 552 576	Sus philippensis Nehring
+T23	Taxon 636 652	Sus marchei HUET
+T24	GeographicalLocation 695 710	Laguna Province
+T25	GeographicalLocation 712 717	Luzon
+T26	Taxon 725 744	Sus arietinus Heude
+T27	GeographicalLocation 801 807	Manila
+T28	Taxon 922 940	Sus effrenus Heude
+T29	GeographicalLocation 998 1007	Jala Jala
+T30	GeographicalLocation 1009 1022	Laguna de Bay
+T31	GeographicalLocation 1024 1029	Luzon
+T32	Taxon 1060 1078	Sus microtis Heude
+T33	GeographicalLocation 1136 1145	Jala Jala
+T34	GeographicalLocation 1147 1160	Laguna de Bay
+T35	GeographicalLocation 1162 1167	Luzon
+T36	Taxon 1198 1216	Sus frenatus Heude
+T37	GeographicalLocation 1286 1295	Jala Jala
+T38	GeographicalLocation 1297 1310	Laguna de Bay
+T39	GeographicalLocation 1312 1317	Luzon
+T40	GeographicalLocation 1359 1364	Luzon
+T41	GeographicalLocation 1366 1373	Basilan
+T42	GeographicalLocation 1385 1390	Luzon
+T43	GeographicalLocation 1403 1411	Mindanao
+T44	GeographicalLocation 1435 1442	Mindoro
+T45	GeographicalLocation 1454 1460	Negros
+T46	GeographicalLocation 1484 1489	Panay
+T47	GeographicalLocation 1513 1518	Samar
+T48	GeographicalLocation 1542 1549	Sibuyan
+T49	GeographicalLocation 1573 1577	Sulu
+T50	GeographicalLocation 1601 1610	Tawi Tawi
+T51	Taxon 1640 1648	TRAGULID
+T52	Taxon 1656 1672	TRAGULUS Brisson
+T53	Taxon 1680 1696	Tragulus Brisson
+T54	Taxon 1728 1744	Tragulus indicus
+T55	Taxon 1728 1752	Tragulus indicus BRISSON
+T56	Taxon 1754 1764	Mouse-deer
+T57	Taxon 1927 1945	Tragulus nigricans
+T58	Taxon 1927 1952	Tragulus nigricans Thomas
+T59	Taxon 1960 1985	Tragulus nigricans Thomas
+T60	Taxon 1960 1978	Tragulus nigricans
+T61	GeographicalLocation 2048 2055	Balabac
+T62	GeographicalLocation 2057 2064	Balabac
+T63	Taxon 38 58	Sus inconstans Heude
+T64	Taxon 177 198	Sus mindanensis Major
+T65	Taxon 206 238	Sus verrucosus mindanensis Major
+T66	Taxon 520 536	Sus philippensis
+T67	Taxon 552 568	Sus philippensis
+T68	Taxon 636 647	Sus marchei
+T69	Taxon 725 738	Sus arietinus
+T70	Taxon 922 934	Sus effrenus
+T71	Taxon 1060 1072	Sus microtis
+T72	Taxon 1198 1210	Sus frenatus
+T73	Taxon 1680 1702	Tragulus Brisson, Regn

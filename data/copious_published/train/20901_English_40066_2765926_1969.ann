@@ -1,0 +1,32 @@
+T1	GeographicalLocation 25 39	CAMIGUIN SOUTH
+T2	Taxon 413 431	Zosterops nigrorum
+T3	GeographicalLocation 505 513;523 532	Mountain Provinces
+T4	GeographicalLocation 623 630	Mindoro
+T5	GeographicalLocation 1082 1100	Mountain provinces
+T6	Taxon 1158 1176	Zosterops nigrorum
+T7	GeographicalLocation 1264 1276	Luzon Island
+T8	GeographicalLocation 1278 1294	Cagayan Province
+T9	GeographicalLocation 1296 1303	Gonzaga
+T10	GeographicalLocation 1305 1314	Mt. Cagua
+T11	GeographicalLocation 1323 1335	Sierra Madre
+T12	GeographicalLocation 1808 1824	Cagayan Province
+T13	GeographicalLocation 1928 1944	Cagayan Province
+T14	GeographicalLocation 2031 2049	northeastern Luzon
+T15	Person 0 4	RAND
+T16	Person 9 14	RABOR
+T17	GeographicalLocation 2014 2026;2044 2049	northwestern Luzon
+T18	GeographicalLocation 1890 1903	central Luzon
+T19	GeographicalLocation 1786 1804	Northeastern Luzon
+T20	GeographicalLocation 1434 1452	northwestern Luzon
+T21	TemporalExpression 1386 1400	April 30, 1960
+T22	Taxon 1158 1192	Zosterops nigrorum sierramadrensis
+T23	Person 1115 1120	Rabor
+T24	GeographicalLocation 1058 1070	Ilocos Norte
+T25	GeographicalLocation 1072 1076	Abra
+T26	GeographicalLocation 466 484	Northwestern Luzon
+T27	GeographicalLocation 518 522	Abra
+T28	GeographicalLocation 537 544	Benguet
+T29	Taxon 413 442	Zosterops nigrorum aureiloris
+T30	Person 388 392	Mees
+T31	Taxon 413 456	Zosterops nigrorum aureiloris Ogilvie Grant
+T32	Taxon 261 270	richmondi

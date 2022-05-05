@@ -1,0 +1,43 @@
+T1	GeographicalLocation 202 206	East
+T2	Person 1957 1967	Kishinouye
+T3	TemporalExpression 2444 2448	1913
+T4	GeographicalLocation 2530 2540	Toyama Bay
+T5	GeographicalLocation 2548 2566	Sea of Japan coast
+T6	GeographicalLocation 2919 2945	northwestern Pacific Ocean
+T7	GeographicalLocation 2958 2966	Sakhalin
+T8	GeographicalLocation 2979 3001	southern Kuril Islands
+T9	GeographicalLocation 3029 3034	Japan
+T10	GeographicalLocation 3043 3055	Korean coast
+T11	GeographicalLocation 4048 4069	Tohoku coastal region
+T12	Taxon 98 108	black tana
+T13	GeographicalLocation 211 217	Tohoku
+T14	Taxon 272 282	black tana
+T15	Person 415 426	Aathorltlee
+T16	Habitat 461 475	shallow waters
+T17	Taxon 673 683	black tuna
+T18	Habitat 711 725	coastal waters
+T19	Taxon 881 892	klaus tunas
+T20	Habitat 990 1004	close to shore
+T21	Habitat 900 922	deeper offshore waters
+T22	Taxon 1084 1094	black tuna
+T23	Taxon 1843 1858	California blue
+T24	Taxon 2216 2227	black tunas
+T25	GeographicalLocation 2237 2252	Japanese waters
+T26	Person 2350 2360	Kishinouye
+T27	GeographicalLocation 2433 2440	Odawara
+T28	GeographicalLocation 2570 2576	Honshu
+T29	Taxon 2632 2642	black tana
+T30	GeographicalLocation 3083 3089	Bonins
+T31	GeographicalLocation 3110 3126	southern Formosa
+T32	GeographicalLocation 3131 3145	northern Luzon
+T33	Taxon 3192 3203	black tunas
+T34	GeographicalLocation 3242 3255	east of Japan
+T35	Taxon 3299 3307	albacore
+T36	Taxon 3311 3320	swordfish
+T37	GeographicalLocation 3622 3637	Japanese waters
+T38	Person 3738 3744	Kimara
+T39	GeographicalLocation 3851 3868	Philippine waters
+T40	Person 3909 3917	Hakasnra
+T41	Taxon 3982 3992	black tuna
+T42	GeographicalLocation 4009 4024	southern ryukyu
+T43	GeographicalLocation 4071 4090	northeastern Honshu

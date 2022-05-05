@@ -1,0 +1,71 @@
+T1	GeographicalLocation 371 379	Tasmania
+T2	TemporalExpression 1011 1015	1980
+T3	TemporalExpression 1490 1494	1980
+T4	Taxon 1530 1541	Palinuridae
+T5	Habitat 1578 1594	temperate oceans
+T6	GeographicalLocation 1758 1767	Caribbean
+T7	GeographicalLocation 1769 1789	eastern Indian Ocean
+T8	GeographicalLocation 1794 1813	south-east Atlantic
+T9	Taxon 2175 2193	Homarus americanus
+T10	Taxon 2219 2230	H. gammarus
+T11	Taxon 2235 2254	Nephrops norvegicus
+T12	GeographicalLocation 2264 2280	eastern Atlantic
+T13	Taxon 2428 2437	barnacles
+T14	GeographicalLocation 2486 2497	Philippines
+T15	GeographicalLocation 2506 2511	Spain
+T16	GeographicalLocation 2565 2580	Southern Oceans
+T17	TemporalExpression 2785 2789	1980
+T18	GeographicalLocation 3501 3511	New Guinea
+T19	GeographicalLocation 3659 3677	southern Louisiana
+T20	Taxon 3748 3763	Procambarus spp
+T21	Taxon 3773 3783	P. clarkii
+T22	Habitat 3834 3841	marshes
+T23	Taxon 4024 4048	Pacifastacus leniusculus
+T24	GeographicalLocation 4078 4088	California
+T25	GeographicalLocation 4101 4111	Washington
+T26	Taxon 4116 4135	Orconectes rusticus
+T27	Habitat 0 10	freshwater
+T28	Taxon 172 185	Phreatoicidea
+T29	Taxon 232 244	phreatoicids
+T30	GeographicalLocation 283 291	Illinois
+T31	TemporalExpression 309 326	120 million years
+T32	Taxon 495 504	Ostracoda
+T33	TemporalExpression 589 606	300 million years
+T34	Taxon 655 663	ostracod
+T35	Taxon 336 347	phreatoicid
+T36	GeographicalLocation 357 367	Great Lake
+T37	Taxon 426 442	Mesacanthotelson
+T38	Taxon 447 458	Onchotelson
+T39	Taxon 767 778	crustaceans
+T40	TemporalExpression 1265 1269	1980
+T41	Taxon 1376 1386	crustacean
+T42	Taxon 1501 1515	Spiny lobsters
+T43	Habitat 1565 1573;1588 1594	tropical oceans
+T44	TemporalExpression 1688 1692	1980
+T45	Taxon 1851 1864	spiny lobster
+T46	Taxon 2158 2173	clawed lobsters
+T47	GeographicalLocation 2201 2214	west Atlantic
+T48	GeographicalLocation 2285 2298	Mediterranean
+T49	Taxon 2374 2392	marine crustaceans
+T50	Taxon 2545 2550	krill
+T51	Taxon 2616 2621	Krill
+T52	TemporalExpression 2718 2734	Antarctic summer
+T53	Taxon 2768 2773	Krill
+T54	GeographicalLocation 2834 2842	U.S.S.R.
+T55	Taxon 2997 3002	Krill
+T56	Taxon 3084 3089	krill
+T57	Taxon 3242 3264	Freshwater crustaceans
+T58	GeographicalLocation 3337 3343	Europe
+T59	GeographicalLocation 3516 3526	Madagascar
+T60	GeographicalLocation 3584 3590	U.S.A.
+T61	Taxon 3613 3621	crayfish
+T62	Habitat 3815 3829	natural swamps
+T63	TemporalExpression 3997 4003	spring
+T64	GeographicalLocation 4090 4096	Oregon
+T65	Taxon 4140 4150	O. virilis
+T66	GeographicalLocation 4154 4163	Wisconsin
+T67	GeographicalLocation 4190 4198	crayfish
+T68	TemporalExpression 3300 3304	1980
+T69	Taxon 3311 3321	crustacean
+T70	Taxon 3344 3352	crayfish
+T71	Habitat 3880 3893	culture ponds

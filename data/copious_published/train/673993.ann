@@ -1,0 +1,102 @@
+T1	Taxon 11 27	DIPTEROCARPACEAE
+T2	Person 58 64	Cortes
+T3	Person 82 91	Foxworthy
+T4	GeographicalLocation 94 111	Province of Rizal
+T5	Person 128 133	Ramos
+T6	Person 150 155	Ramos
+T7	TemporalExpression 157 165	May 1907
+T8	Person 193 198	Ramos
+T9	TemporalExpression 200 208	May 1907
+T10	Person 243 249	Curran
+T11	GeographicalLocation 251 272	Province of La Laguna
+T12	Person 274 279	Vidal
+T13	Person 315 321	Curran
+T14	Person 339 349	Rosenbluth
+T15	Person 352 359	Tamesis
+T16	Person 377 385	Robinson
+T17	Person 388 393	Ramos
+T18	Person 418 425	Mariano
+T19	GeographicalLocation 427 446	Province of Tayabas
+T20	Person 448 455	Merrill
+T21	Person 461 467	Garcia
+T22	Person 469 475	Hagger
+T23	Person 479 486	Merrill
+T24	Person 490 497	Ritchie
+T25	Person 529 535	Curran
+T26	GeographicalLocation 537 558	Province of Camarines
+T27	Person 560 565	Ahern
+T28	Person 570 576	Garcia
+T29	TemporalExpression 578 587	Mar. 1902
+T30	Person 600 605	Ahern
+T31	Person 610 616	Garcia
+T32	Person 669 675	Curran
+T33	Person 693 701	Whitford
+T34	Person 726 733	Aguilar
+T35	GeographicalLocation 735 752	Province of Albay
+T36	Person 770 776	Curran
+T37	GeographicalLocation 778 798	Province of Sorsogon
+T38	Person 815 823	Zschokke
+T39	Person 840 844	Pray
+T40	Person 869 875	Curran
+T41	GeographicalLocation 877 884	POLILLO
+T42	Person 902 910	McGregor
+T43	GeographicalLocation 912 923	CATANDUANES
+T44	Person 940 944	Bray
+T45	GeographicalLocation 946 953	MASBATE
+T46	Person 955 963	Whitford
+T47	Person 993 1003	Rosenbluth
+T48	GeographicalLocation 1005 1011	NEGROS
+T49	GeographicalLocation 1013 1042	Province of Negros Occidental
+T50	Person 1044 1052	Whitford
+T51	Person 1075 1082	Everett
+T52	Person 1100 1108	Whitford
+T53	TemporalExpression 1110 1120	April 1909
+T54	Person 1149 1158	Foxworthy
+T55	Person 1183 1189	Curran
+T56	GeographicalLocation 1191 1218	Province of Negros Oriental
+T57	Person 1243 1250	Everett
+T58	GeographicalLocation 1252 1257	LEYTE
+T59	Person 1275 1284	RosenUuth
+T60	Person 1302 1310	Whitford
+T61	Person 1328 1338	Rosenbluth
+T62	TemporalExpression 1340 1349	Mar. 1909
+T63	GeographicalLocation 1362 1366	CEBU
+T64	Person 1384 1391	Cenabre
+T65	GeographicalLocation 1393 1401	MINDANAO
+T66	GeographicalLocation 1403 1422	Province of Surigao
+T67	Person 1424 1428	Ahem
+T68	Person 1433 1440	Quadras
+T69	Person 1457 1467	Hutchinson
+T70	GeographicalLocation 1469 1486	District of Davao
+T71	Person 1504 1512	Whitford
+T72	GeographicalLocation 1514 1535	District of Zamboanga
+T73	Person 1552 1560	Whitford
+T74	Person 1563 1573	Hutchinson
+T75	Person 1591 1601	Hutchinson
+T76	GeographicalLocation 1718 1723	LUZON
+T77	GeographicalLocation 1725 1746	Province of La Laguna
+T78	Person 1775 1781	Curran
+T79	Person 1784 1791	Merritt
+T80	Person 1809 1816	Tamesis
+T81	GeographicalLocation 1818 1837	Province of Tayabas
+T82	Person 1854 1859	Kobbe
+T83	Person 1876 1882	Curran
+T84	Person 1885 1892	Merritt
+T85	Person 1910 1916	Curran
+T86	Person 1934 1941	Darling
+T87	GeographicalLocation 2007 2020	Si Bode River
+T88	GeographicalLocation 2027 2057	30 miles southwest of Sandakan
+T89	GeographicalLocation 2059 2079	British North Borneo
+T90	TemporalExpression 2084 2096	October 1908
+T91	Taxon 2121 2126	lauan
+T92	Taxon 2135 2140	almon
+T93	Taxon 2147 2152	apnit
+T94	Taxon 2164 2172	bagtican
+T95	Taxon 2179 2186	bayukan
+T96	Taxon 2195 2201	danlig
+T97	Taxon 2210 2216	hapnit
+T98	Taxon 2228 2238	malaanonan
+T99	Taxon 2247 2258	mangasinoro
+T100	Taxon 2267 2274	mayapis
+T101	Taxon 2285 2297	VATICA Linn.
+T102	Taxon 2285 2291	VATICA

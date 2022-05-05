@@ -1,0 +1,58 @@
+T1	Taxon 349 361	Mus musculus
+T2	GeographicalLocation 445 463	Philippine Islands
+T3	Taxon 619 646	M. commissariusm. castaneus
+T4	Taxon 1035 1052	Tarsomys apoensis
+T5	Taxon 1067 1084	Tarsomys apoensis
+T6	Taxon 1285 1300	Batomys grantii
+T7	Taxon 1560 1576	Batomys dentatus
+T8	Taxon 1711 1726	Batomys grantii
+T9	Taxon 1741 1756	Batomys grantii
+T10	Taxon 14 38	Mus castaneus Waterhouse
+T11	Taxon 14 27	Mus castaneus
+T12	TemporalExpression 40 44	1843
+T13	Taxon 46 70	Mus castaneus Waterhouse
+T14	Taxon 46 59	Mus castaneus
+T15	GeographicalLocation 124 142	Philippine Islands
+T16	GeographicalLocation 144 148	Cebu
+T17	GeographicalLocation 159 164	Luzon
+T18	Taxon 174 197	Mus commissarius Mearns
+T19	Taxon 174 190	Mus commissarius
+T20	TemporalExpression 199 203	1905
+T21	Taxon 205 228	Mus commissarius Mearns
+T22	Taxon 205 221	Mus commissarius
+T23	GeographicalLocation 278 293	Davao, Mindanao
+T24	GeographicalLocation 295 300	Luzon
+T25	GeographicalLocation 312 320	Mindanao
+T26	Person 331 336	Elera
+T27	Taxon 408 420	Mus musculus
+T28	Taxon 495 498	Mus
+T29	Habitat 508 515	Islands
+T30	Taxon 585 601	Mus commissarius
+T31	Taxon 745 769	Tarsomys apoensis Mearns
+T32	Taxon 745 762	Tarsomys apoensis
+T33	Taxon 688 703	Tarsomys Mearns
+T34	Taxon 688 709	Tarsomys Mearns, Proc
+T35	TemporalExpression 682 686	1905
+T36	Taxon 659 680	Genus TARSOMYS Mearns
+T37	Taxon 659 673	Genus TARSOMYS
+T38	Taxon 782 788	Epimys
+T39	Taxon 1035 1060	Tarsomys apoensis Mearns.
+T40	TemporalExpression 1061 1065	1905
+T41	Taxon 1067 1091	Tarsomys apoensis Mearns
+T42	GeographicalLocation 1141 1160	Mount Apo, Mindanao
+T43	Taxon 1195 1215	Genus BATOMYS Thomas
+T44	Taxon 1195 1208	Genus BATOMYS
+T45	TemporalExpression 1217 1221	1895
+T46	Taxon 1285 1307	Batomys grantii Thomas
+T47	Taxon 1336 1340	rats
+T48	Taxon 1529 1552	Batomys dentatus Miller
+T49	Taxon 1529 1545	Batomys dentatus
+T50	Taxon 1560 1583	Batomys dentatus MILLER
+T51	TemporalExpression 1616 1625	August 19
+T52	GeographicalLocation 1644 1679	Haights-in-the-oaks, Benguet, Luzon
+T53	GeographicalLocation 1695 1700	Luzon
+T54	Taxon 1711 1733	Batomys grantii Thomas
+T55	Taxon 1741 1763	Batomys grantii Thomas
+T56	GeographicalLocation 1820 1847	Highlands of northern Luzon
+T57	GeographicalLocation 1849 1854	Luzon
+T58	GeographicalLocation 1176 1184	Mindanao

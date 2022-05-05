@@ -1,0 +1,77 @@
+T1	Taxon 235 245	Celsenomys
+T2	Taxon 247 255	Crunomys
+T3	Taxon 261 276	Epimys negrinus
+T4	GeographicalLocation 308 316	Mindanao
+T5	GeographicalLocation 318 329	Philippines
+T6	GeographicalLocation 394 406	Eastern Asia
+T7	Taxon 496 513	Crunomys melanius
+T8	GeographicalLocation 569 581	Eastern Asia
+T9	GeographicalLocation 637 655	Philippine Islands
+T10	GeographicalLocation 738 745	Mt. Apo
+T11	Taxon 1065 1078	N. menagensis
+T12	Taxon 1113 1127	Sciurus steeri
+T13	GeographicalLocation 1145 1152	Palawan
+T14	Taxon 1269 1285	Sciurus juvencus
+T15	Taxon 1328 1345	P. philippinensis
+T16	Taxon 1453 1470	Paradoxurus minax
+T17	Taxon 1475 1484	P. torvus
+T18	GeographicalLocation 1791 1804	Luzon macaque
+T19	Taxon 1939 1960	Vespertilio chinensis
+T20	Taxon 2071 2091	Miniopterus tibialis
+T21	Taxon 2096 2108	M. australis
+T22	Taxon 2284 2304	Pachyura edwardsiana
+T23	Taxon 2420 2429	Prosimiae
+T24	Taxon 2431 2441	Chiroptera
+T25	GeographicalLocation 2509 2527	Philippine Islands
+T26	GeographicalLocation 2023 2029	London
+T27	TemporalExpression 2031 2035	1858
+T28	Taxon 2110 2123	Trouessart, E
+T29	TemporalExpression 2247 2258	December 15
+T30	TemporalExpression 2390 2394	1904
+T31	Taxon 2443 2454	Insectivora
+T32	Taxon 2456 2465	Carnivora
+T33	Taxon 2467 2477	Pinnipedia
+T34	Taxon 2410 2418	Primates
+T35	TemporalExpression 2489 2493	1904
+T36	Taxon 2529 2537	Primates
+T37	Taxon 2542 2551	Prosimiae
+T38	Taxon 2556 2566	Chiroptera
+T39	Taxon 2572 2582	Dermoptera
+T40	Taxon 2587 2598	Insectivora
+T41	Taxon 2603 2612	Carnivora
+T42	Person 76 90	John Whitehead
+T43	GeographicalLocation 127 138	Philippines
+T44	GeographicalLocation 158 164	London
+T45	TemporalExpression 166 170	1898
+T46	Person 338 339	M
+T47	Person 344 352	Anderson
+T48	GeographicalLocation 432 438	London
+T49	TemporalExpression 440 444	1907
+T50	TemporalExpression 458 470	February, 12
+T51	Person 621 629	Anderson
+T52	GeographicalLocation 674 680	London
+T53	TemporalExpression 682 686	1907
+T54	TemporalExpression 698 708	June, 1907
+T55	Taxon 777 790	Flying-lemurs
+T56	TemporalExpression 843 848	March
+T57	Taxon 850 869	Cynocephalus volans
+T58	Taxon 894 917	Philippine flying-lemur
+T59	Taxon 953 960	Lorises
+T60	Taxon 1019 1051	Considers Nycticebus philippinus
+T61	Taxon 1090 1099	Squirrels
+T62	TemporalExpression 1201 1209	December
+T63	GeographicalLocation 1133 1140	Balabac
+T64	Taxon 1221 1230	S. steeri
+T65	GeographicalLocation 1234 1241	Balabac
+T66	GeographicalLocation 1256 1263	Palawan
+T67	Taxon 1308 1319	Paradoxurus
+T68	GeographicalLocation 1359 1369	New Paguma
+T69	Taxon 1528 1536	Linnaeus
+T70	GeographicalLocation 1648 1654	London
+T71	TemporalExpression 1656 1660	1911
+T72	TemporalExpression 1672 1677	March
+T73	Taxon 1694 1709	Linnsean genera
+T74	Taxon 1739 1747	Linnaean
+T75	Person 1806 1821	Tomes, Robert F
+T76	Taxon 1867 1871	Bats
+T77	GeographicalLocation 1889 1895	London

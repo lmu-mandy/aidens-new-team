@@ -1,0 +1,56 @@
+T1	Taxon 130 150	Chrotomys whiteheadi
+T2	Taxon 411 431	Chrotomys whiteheadi
+T3	Taxon 636 657	Rhynchomys soricoides
+T4	Taxon 911 932	Rhynchomys soricoides
+T5	Taxon 947 968	Rhynchomys soricoides
+T6	Taxon 1381 1398	Phlosomys cumingi
+T7	Taxon 1424 1433	Phloeomys
+T8	Taxon 1494 1511	Phloeomys cumingi
+T9	Taxon 1555 1575	Phloeomys albayensis
+T10	Taxon 1750 1768	Phloeomys pallidus
+T11	Taxon 38 60	Genus CHROTOMYS Thomas
+T12	Taxon 38 53	Genus CHROTOMYS
+T13	TemporalExpression 62 66	1895
+T14	Person 68 84	Chrotomys Thomas
+T15	Taxon 130 157	Chrotomys whiteheadi Thomas
+T16	Taxon 188 191	rat
+T17	TemporalExpression 405 409	1895
+T18	Taxon 411 438	Chrotomys whiteheadi Thomas
+T19	GeographicalLocation 495 522	Highlands of northern Luzon
+T20	GeographicalLocation 524 529	Luzon
+T21	Taxon 540 563	Genus RHYNCHOMYS Thomas
+T22	Taxon 540 556	Genus RHYNCHOMYS
+T23	TemporalExpression 565 569	1895
+T24	Taxon 636 664	Rhynchomys soricoides Thomas
+T25	Taxon 681 684	rat
+T26	Taxon 911 939	Rhynchomys soricoides Thomas
+T27	GeographicalLocation 1032 1059	Highlands of northern Luzon
+T28	GeographicalLocation 1061 1066	Luzon
+T29	Taxon 1077 1092	Genus PHLCEOMYS
+T30	Taxon 1077 1103	Genus PHLCEOMYS Waterhouse
+T31	Taxon 1111 1130	Phlaomys Waterhouse
+T32	Taxon 1111 1136	Phlaomys Waterhouse, Proc
+T33	GeographicalLocation 1149 1155	London
+T34	Taxon 1173 1184	Mus cumingi
+T35	Taxon 1173 1195	Mus cumingi Waterhouse
+T36	Taxon 1494 1516	Phloeomys cumingi GRAY
+T37	Taxon 1555 1581	Phloeomys albayensis Elera
+T38	TemporalExpression 1548 1552	1895
+T39	GeographicalLocation 1645 1650	Luzon
+T40	GeographicalLocation 1652 1657	Luzon
+T41	GeographicalLocation 1673 1683	Marinduque
+T42	GeographicalLocation 1695 1702	Mindoro
+T43	Taxon 1716 1742	Phloeomys pallidus Nehring
+T44	Taxon 1716 1734	Phloeomys pallidus
+T45	Taxon 1750 1776	Phloeomys pallidus Nehring
+T46	GeographicalLocation 1859 1864	Luzon
+T47	GeographicalLocation 1876 1886	Marinduque
+T48	GeographicalLocation 1852 1857	Luzon
+T49	TemporalExpression 1826 1833	June 17
+T50	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T51	TemporalExpression 941 945	1895
+T52	Taxon 947 975	Rhynchomys soricoides Thomas
+T53	Taxon 1381 1411	Phlosomys cumingi (Waterhouse)
+T54	GeographicalLocation 1472 1478	London
+T55	TemporalExpression 1488 1492	1843
+T56	TemporalExpression 1413 1417	1839

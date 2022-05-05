@@ -1,0 +1,34 @@
+T1	Taxon 4 10	Menyak
+T2	Taxon 11 18	Keruing
+T3	Taxon 20 42	Dipterocarpus crinitus
+T4	Taxon 47 56	Hasseltii
+T5	Taxon 58 80	Calophyllum spectabile
+T6	TemporalExpression 85 91	August
+T7	TemporalExpression 95 104	September
+T8	Taxon 106 114	Petaling
+T9	Taxon 115 138	Ochanostachys Amentacea
+T10	TemporalExpression 143 147	July
+T11	TemporalExpression 151 160	September
+T12	Taxon 162 169	Tembusu
+T13	Taxon 171 187	Fagroea fragrans
+T14	TemporalExpression 192 200	November
+T15	Taxon 201 207	Merbau
+T16	Taxon 209 228	Afzelia palembanica
+T17	Taxon 229 238	Palaquium
+T18	GeographicalLocation 268 282	Negri Sembilan
+T19	Habitat 322 329	forests
+T20	GeographicalLocation 335 342	Tertang
+T21	GeographicalLocation 344 350	Jelebu
+T22	Taxon 389 394	Penak
+T23	Taxon 399 405	Merbau
+T24	GeographicalLocation 458 464	Pahang
+T25	GeographicalLocation 469 480	Kwala Pilah
+T26	Taxon 530 536	Merbau
+T27	Taxon 541 548	Chengal
+T28	GeographicalLocation 564 570	Pahang
+T29	Taxon 633 638	Resak
+T30	Taxon 640 654	Shorea barbata
+T31	GeographicalLocation 663 680	Temerloh district
+T32	GeographicalLocation 685 689	Giam
+T33	GeographicalLocation 697 712	Rompin district
+T34	Taxon 826 833	Shoreas

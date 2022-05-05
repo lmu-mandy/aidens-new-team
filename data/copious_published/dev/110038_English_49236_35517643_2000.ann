@@ -1,0 +1,39 @@
+T1	GeographicalLocation 113 117	Cebu
+T2	GeographicalLocation 119 130	Philippines
+T3	Taxon 142 154	Demospongiae
+T4	GeographicalLocation 406 419	Mactan Island
+T5	GeographicalLocation 421 425	Cebu
+T6	GeographicalLocation 427 438	Philippines
+T7	Taxon 700 721	Acervochalina hooperi
+T8	Taxon 835 857	Xestospongia vansoesti
+T9	GeographicalLocation 1125 1129	Cebu
+T10	GeographicalLocation 1131 1150	Central Philippines
+T11	GeographicalLocation 1725 1752	east coast of Mactan Island
+T12	GeographicalLocation 1758 1767	Cebu City
+T13	Taxon 1924 1944	Thalassia hemprichii
+T14	Taxon 2133 2141	Acropora
+T15	Taxon 2143 2154	Pocillopora
+T16	Taxon 2179 2188	Halomitra
+T17	Taxon 2205 2216	Lobophyllia
+T18	Taxon 2218 2228	Symphyllia
+T19	Taxon 2230 2239	Euphyllia
+T20	TemporalExpression 2677 2685	February
+T21	Taxon 132 140	Porifera
+T22	GeographicalLocation 258 269	Los Angeles
+T23	GeographicalLocation 271 281	California
+T24	Taxon 522 536	Plakortis lita
+T25	TemporalExpression 1028 1032	1994
+T26	Person 1152 1161	Nishiyama
+T27	GeographicalLocation 1698 1717	Tubuli Beach Resort
+T28	Taxon 2156 2167	Seriatopora
+T29	Taxon 2169 2177	Tubipora
+T30	Taxon 2190 2203	Parahalomitra
+T31	Taxon 2241 2249	Pectinia
+T32	Taxon 2251 2258	Porites
+T33	Taxon 2260 2269	Montipora
+T34	Taxon 2271 2280	Millepora
+T35	Taxon 2285 2291	Fungia
+T36	TemporalExpression 2532 2536	June
+T37	TemporalExpression 2537 2541	july
+T38	GeographicalLocation 2559 2565	60Â° NE
+T39	GeographicalLocation 2569 2580	220-240Â° SW

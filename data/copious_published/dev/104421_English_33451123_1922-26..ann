@@ -1,0 +1,73 @@
+T1	GeographicalLocation 20 25	Luzon
+T2	Taxon 7 16	GRAMINEAE
+T3	GeographicalLocation 27 31	Abra
+T4	GeographicalLocation 33 45	Ilocos Norte
+T5	GeographicalLocation 47 57	Pangasinan
+T6	GeographicalLocation 60 68	Busuanga
+T7	Habitat 149 164	open grasslands
+T8	GeographicalLocation 193 199	Ceylon
+T9	GeographicalLocation 204 209	Bruma
+T10	GeographicalLocation 213 231	tropical Australia
+T11	Taxon 233 255	ANDROPOGON ZIZANIOIDES
+T12	Taxon 233 262	ANDROPOGON ZIZANIOIDES (Linn)
+T13	GeographicalLocation 347 353	Manila
+T14	Taxon 369 379	Blancoanae
+T15	Taxon 391 411	Phalaris zizanioides
+T16	Taxon 391 416	Phalaris zizanioides Linn
+T17	Taxon 438 459	Andropogon squarrosus
+T18	Taxon 438 464	Andropogon squarrosus Hack
+T19	Taxon 599 619	Andropogon muricatus
+T20	Taxon 599 624	Andropogon muricatus Retz
+T21	Taxon 689 706	Andropogon nardus
+T22	Taxon 689 713	Andropogon nardus Blanco
+T23	Taxon 783 804	Vetiveria zizanioides
+T24	Taxon 783 810	Vetiveria zizanioides Stapf
+T25	GeographicalLocation 888 901	Batan Islands
+T26	GeographicalLocation 867 872	Paris
+T27	GeographicalLocation 903 908	Luzon
+T28	GeographicalLocation 910 919	Amburayan
+T29	GeographicalLocation 921 926	Rizal
+T30	GeographicalLocation 928 934	Cavite
+T31	Taxon 949 959	Blancoanae
+T32	Habitat 1006 1022	rice-paddy banks
+T33	GeographicalLocation 1077 1088	Philippines
+T34	GeographicalLocation 1111 1115	Asia
+T35	Habitat 1121 1130	pantropic
+T36	Taxon 1154 1160	Amoora
+T37	Taxon 1172 1178	amoras
+T38	Taxon 1187 1201	anias de moras
+T39	Taxon 1211 1216	giron
+T40	Taxon 1228 1232	ilib
+T41	Taxon 1242 1246	mora
+T42	Taxon 1260 1265	moras
+T43	Taxon 1284 1288	moro
+T44	Taxon 1296 1305	narawastu
+T45	Taxon 1314 1327	raiz de moras
+T46	Taxon 1335 1342	rimodas
+T47	Taxon 1353 1359	rimora
+T48	Taxon 1368 1375	rimoras
+T49	Taxon 1383 1393	tres-moras
+T50	Taxon 1418 1440	Andropogon eriostachys
+T51	Taxon 1418 1446	Andropogon eriostachys Presl
+T52	Taxon 1631 1685	Andropogon ternatus Nees var. eriostachys (Presl) Hack
+T53	Taxon 1631 1650	Andropogon ternatus
+T54	Person 1795 1800	Presl
+T55	Taxon 1842 1871	Heteropogon tenellus Schultes
+T56	Taxon 1842 1862	Heteropogon tenellus
+T57	Taxon 1909 1921	ASTHENOCHLOA
+T58	Taxon 1909 1927	ASTHENOCHLOA Biise
+T59	Taxon 1928 1954	ASTHENOCHLOA TEN ERA Biise
+T60	Taxon 1996 2013	Andropogon leptos
+T61	Taxon 1996 2019	Andropogon leptos Steud
+T62	Taxon 2126 2152	Garnotiella philippinensis
+T63	Taxon 2126 2158	Garnotiella philippinensis Stapf
+T64	Taxon 2243 2261	Garnotiella leptos
+T65	Taxon 2243 2267	Garnotiella leptos Stapf
+T66	GeographicalLocation 2293 2298	Luzon
+T67	GeographicalLocation 2300 2307	Benguet
+T68	GeographicalLocation 2310 2315	Panay
+T69	Habitat 2368 2385	steep open slopes
+T70	GeographicalLocation 2521 2525	Java
+T71	Taxon 2580 2590	Andropogon
+T72	Taxon 2601 2609	Garnotia
+T73	Taxon 1631 1655	Andropogon ternatus Nees

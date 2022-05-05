@@ -1,0 +1,44 @@
+T1	Taxon 30 51	Dipterocarpus pilosus
+T2	Taxon 30 57	Dipterocarpus pilosus Koxb.
+T3	Person 101 110	Foxworthy
+T4	Person 113 118	Ramos
+T5	Person 134 140	Cortez
+T6	Taxon 148 169	Dipterocarpus affinis
+T7	Taxon 148 177	Dipterocarpus affinis Brandis
+T8	Person 184 189	Vidal
+T9	Person 242 251	Foxworthy
+T10	Taxon 260 286	Dipterocarpus grandiflorus
+T11	Taxon 260 293	Dipterocarpus grandiflorus Blanco
+T12	GeographicalLocation 315 321	Negros
+T13	Person 388 394	Martin
+T14	Taxon 404 427	Dipterocarpus speciosus
+T15	Taxon 404 435	Dipterocarpus speciosus Brandis
+T16	Person 442 447	Vidal
+T17	Person 494 503	Foxworthy
+T18	Taxon 514 531	Dipterocarpus sp.
+T19	Person 589 595	Curran
+T20	Person 598 605	Merritt
+T21	Person 621 627	Cortez
+T22	Taxon 636 653	Dipterocarpus sp.
+T23	Person 722 728	Cortez
+T24	Taxon 734 752	Anisoptera brunnea
+T25	Taxon 734 762	Anisoptera brunnea Foxworthy
+T26	Person 780 786	Klemme
+T27	Person 809 815	Cortez
+T28	Taxon 822 841	Anisoptera curtisii
+T29	Taxon 822 847	Anisoptera curtisii Dyer.
+T30	Person 863 872	Foxworthy
+T31	Person 889 895	Cortez
+T32	Taxon 903 919	Hopea basilanica
+T33	Taxon 903 929	Hopea basilanica Foxworthy
+T34	Person 947 953	Klemme
+T35	Person 976 982	Cortez
+T36	Taxon 991 1009	Hopea mindanaensis
+T37	Taxon 991 1019	Hopea mindanaensis Foxworthy
+T38	Person 1036 1044	Whitford
+T39	Person 1047 1057	Hutchinson
+T40	Person 1080 1086	Cortez
+T41	Taxon 1094 1112	Shorea negrosensis
+T42	Taxon 1094 1122	Shorea negrosensis Foxworthy
+T43	Person 1139 1146	Everett
+T44	Person 1169 1175	Cortez

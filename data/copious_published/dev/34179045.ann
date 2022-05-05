@@ -1,0 +1,52 @@
+T1	Taxon 18 34	DIPTEEOCARPACEAE
+T2	Taxon 41 50	A. glabra
+T3	Taxon 41 56	A. glabra, Kurz
+T4	Taxon 79 88	Thin kadu
+T5	GeographicalLocation 399 403	Pegu
+T6	GeographicalLocation 405 413	Martaban
+T7	GeographicalLocation 415 423	Cambodia
+T8	GeographicalLocation 428 439	Cochinchina
+T9	TemporalExpression 445 450	April
+T10	TemporalExpression 452 455	May
+T11	Taxon 460 470	A. oblonga
+T12	Taxon 460 476	A. oblonga, Dyer
+T13	Taxon 478 492	Shorea nervosa
+T14	Taxon 478 498	Shorea nervosa, Kurz
+T15	GeographicalLocation 501 510	Tenaserim
+T16	Taxon 608 613	HOPEA
+T17	Taxon 608 620	HOPEA, Roxb.
+T18	GeographicalLocation 1469 1479	New Guinea
+T19	Taxon 1635 1652	Anisoptera glabra
+T20	Taxon 1635 1659	Anisoptera glabra, Kurz.
+T21	Taxon 1675 1682	Euhopea
+T22	Taxon 1769 1779	H. odorata
+T23	Taxon 1769 1787	H. odorata, Roxb.,
+T24	Taxon 1811 1818	Thingan
+T25	GeographicalLocation 2229 2246	Eastern Peninsula
+T26	GeographicalLocation 2253 2257	Pegu
+T27	GeographicalLocation 2262 2272	Tenasserim
+T28	GeographicalLocation 2276 2287	Cochinchina
+T29	GeographicalLocation 2289 2297	Andamans
+T30	GeographicalLocation 2318 2328	Chittagong
+T31	Habitat 2363 2376	mixed forests
+T32	TemporalExpression 2382 2387	March
+T33	TemporalExpression 2389 2394	April
+T34	TemporalExpression 2402 2405	May
+T35	TemporalExpression 2407 2411	June
+T36	Taxon 2416 2429	H. parviflora
+T37	Taxon 2416 2438	H. parviflora, Beddome
+T38	Taxon 2460 2468	Ironwood
+T39	GeographicalLocation 2472 2479	Malabar
+T40	Taxon 2487 2495	Bovumara
+T41	Taxon 2503 2511	Nirkongu
+T42	GeographicalLocation 2513 2523	Tinnevelli
+T43	Habitat 2674 2687	Moist forests
+T44	GeographicalLocation 2695 2708	Western Ghats
+T45	GeographicalLocation 2715 2727	South Kanara
+T46	TemporalExpression 2744 2749	March
+T47	Taxon 2754 2769	H. oblongifolia
+T48	Taxon 2754 2775	H. oblongifolia, Dyer
+T49	Taxon 2896 2906	H. Helferi
+T50	Taxon 2896 2915	H. Helferi, Brandis
+T51	Taxon 2917 2931	Vatica Helferi
+T52	Taxon 2917 2937	Vatica Helferi, Dyer

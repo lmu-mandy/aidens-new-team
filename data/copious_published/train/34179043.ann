@@ -1,0 +1,63 @@
+T1	Taxon 0 13	Dipterocarpus
+T2	Taxon 21 37	DIPTEROCARPACEAE
+T3	Taxon 44 57	DIPTEROCARPUS
+T4	Taxon 44 66	DIPTEROCARPUS, Gaertn.
+T5	Taxon 1535 1548	D. turbinatus
+T6	Taxon 1535 1557	D. turbinatus, Gaertn.
+T7	Taxon 1568 1577	D. laevis
+T8	Taxon 1568 1583	D. laevis, Ham.
+T9	Taxon 1634 1640	Gurjun
+T10	GeographicalLocation 1642 1652	Chittagong
+T11	Taxon 1654 1663	Kanyin-ni
+T12	Taxon 1937 1946	D. laevis
+T13	Taxon 1971 1984	D. turbinatus
+T14	GeographicalLocation 1986 1992	Cachar
+T15	GeographicalLocation 1994 2002	Tipperah
+T16	GeographicalLocation 2004 2020	Chittagong hills
+T17	GeographicalLocation 2022 2027	Burma
+T18	GeographicalLocation 2029 2037	Andamans
+T19	GeographicalLocation 2039 2054	Malay Peninsula
+T20	TemporalExpression 2060 2065	April
+T21	TemporalExpression 2073 2076	May
+T22	Habitat 2121 2133	mixed forest
+T23	GeographicalLocation 2196 2201	Bhamo
+T24	Taxon 2202 2211	D. laevis
+T25	Taxon 2330 2340	D. indicus
+T26	Taxon 2330 2347	D. indicus, Bedd.
+T27	Taxon 2365 2378	D. turbinatus
+T28	Taxon 2365 2385	D. turbinatus, Cooke
+T29	GeographicalLocation 2387 2393	Bombay
+T30	Taxon 2406 2415	Yennemara
+T31	Taxon 2424 2429	Ennai
+T32	Taxon 2437 2445	Velayani
+T33	Habitat 2452 2468	Evergreen forest
+T34	GeographicalLocation 2476 2489	Western Ghats
+T35	GeographicalLocation 2495 2507	North Kanara
+T36	TemporalExpression 2524 2531	January
+T37	TemporalExpression 2532 2537	March
+T38	Taxon 2639 2654	D. obtusifolius
+T39	Taxon 2639 2662	D. obtusifolius, Teysm.
+T40	GeographicalLocation 2989 3006	Eastern Peninsula
+T41	GeographicalLocation 3008 3019	20Â° N. Lat.
+T42	GeographicalLocation 3043 3054	Cochinchina
+T43	GeographicalLocation 3059 3067	Cambodia
+T44	GeographicalLocation 3120 3124	Pegu
+T45	GeographicalLocation 3129 3137	Martaban
+T46	Habitat 3181 3188	forests
+T47	Taxon 3209 3224	D, tuberculatus
+T48	Taxon 3226 3237	D. vestitus
+T49	Taxon 3226 3244	D. vestitus, Wall.
+T50	Taxon 3309 3319	D. pilosus
+T51	Taxon 3309 3326	D. pilosus, Roxb.
+T52	Taxon 3356 3365	D. Baudii
+T53	Taxon 3356 3375	D. Baudii, Korthals
+T54	Habitat 3665 3677	Damp forests
+T55	GeographicalLocation 3685 3715	upper part of the Assam valley
+T56	GeographicalLocation 3717 3733	Chittagong hills
+T57	GeographicalLocation 3735 3741	Aracan
+T58	GeographicalLocation 3743 3754	Lower Burma
+T59	GeographicalLocation 3756 3764	Andamans
+T60	TemporalExpression 3775 3780	April
+T61	GeographicalLocation 3782 3789	Sumatra
+T62	Person 3803 3811	Korthals
+T63	GeographicalLocation 3814 3820	Bangka

@@ -1,0 +1,53 @@
+T1	Taxon 49 58	D. alatus
+T2	Taxon 160 173	D. gonopterus
+T3	Taxon 160 181	D. gonopterus, Turcz.
+T4	Taxon 198 207	D. scaber
+T5	Taxon 198 213	D. scaber, Ham.
+T6	Taxon 293 304	D. vestitus
+T7	Taxon 293 311	D. vestitus, Wall.
+T8	GeographicalLocation 349 359	Tenasserim
+T9	GeographicalLocation 361 366	Tavoy
+T10	Person 368 373	Gomez
+T11	Taxon 435 448	D. turbinatus
+T12	Taxon 537 546	D. scaber
+T13	Taxon 537 552	D. scaber, Ham.
+T14	Habitat 608 613	Hills
+T15	GeographicalLocation 617 633	southern Tippera
+T16	Person 635 638	Ham
+T17	Taxon 644 660	D. angustifolius
+T18	Taxon 644 665	D. angustifolius, WA.
+T19	Taxon 680 691	D. costatus
+T20	Taxon 680 698	D. costatus, Roxb.
+T21	GeographicalLocation 723 739	Chittagong Hills
+T22	Taxon 741 751	Parashorea
+T23	Taxon 741 757	Parashorea, Kurz
+T24	Taxon 762 773	P. stellata
+T25	Taxon 762 779	P. stellata, Kurz
+T26	Taxon 816 831	Shorea stellata
+T27	Taxon 816 837	Shorea stellata, Dyer
+T28	Habitat 884 900	tropical forests
+T29	GeographicalLocation 904 912	Martaban
+T30	Habitat 943 949	slopes
+T31	GeographicalLocation 957 967	Pegu Yomah
+T32	TemporalExpression 1000 1005	March
+T33	TemporalExpression 1011 1014	Apr
+T34	TemporalExpression 1016 1020	May.
+T35	Taxon 1049 1059	Parashorea
+T36	Taxon 1180 1186	Shorea
+T37	Taxon 1180 1193	Shorea, Roxb.
+T38	Taxon 1388 1397	S. obtusa
+T39	Taxon 1457 1467	S. robusta
+T40	Taxon 1579 1589	S. Helferi
+T41	Taxon 1656 1669	S. floribunda
+T42	Taxon 1674 1683	S. obtusa
+T43	Taxon 1674 1690	S. obtusa, Wall.
+T44	Habitat 1776 1779	Eng
+T45	Habitat 1784 1800	hill Eng forests
+T46	GeographicalLocation 1810 1815	Burma
+T47	GeographicalLocation 1821 1824	Ava
+T48	GeographicalLocation 1826 1831	Prome
+T49	GeographicalLocation 1836 1844	Martaban
+T50	GeographicalLocation 1853 1863	Tenasserim
+T51	TemporalExpression 1895 1900	March
+T52	TemporalExpression 1906 1909	Apr
+T53	TemporalExpression 1911 1914	May

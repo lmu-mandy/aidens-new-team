@@ -1,0 +1,75 @@
+T1	Taxon 44 62	Viverra tangalunga
+T2	Taxon 69 87	Viverra tangalunga
+T3	GeographicalLocation 126 134	Siquijor
+T4	GeographicalLocation 136 141	Panay
+T5	GeographicalLocation 162 169	Palawan
+T6	Taxon 211 224	V. tangalunga
+T7	GeographicalLocation 394 400	Negros
+T8	GeographicalLocation 402 406	Cebu
+T9	GeographicalLocation 566 570	Cebu
+T10	Taxon 1092 1105	Sciurus cagsi
+T11	Person 3 9	BOURNS
+T12	Person 14 23	WORCESTER
+T13	Taxon 44 67	Viverra tangalunga Gray
+T14	Taxon 69 92	Viverra tangalunga Gray
+T15	GeographicalLocation 143 150	Mindoro
+T16	GeographicalLocation 152 160	Mindanao
+T17	GeographicalLocation 171 181	Calamianes
+T18	Taxon 254 271	Pells bengalensis
+T19	Taxon 254 276	Pells bengalensis Kerr
+T20	Taxon 278 295	Felis bengalensis
+T21	Taxon 278 300	Felis bengalensis Kerr
+T22	Taxon 278 314	Felis bengalensis Kerr; Blanford, P.
+T23	Taxon 69 105	Viverra tangalunga Gray; Everett, P.
+T24	Taxon 335 348	Felis lulnuta
+T25	Taxon 335 353	Felis lulnuta Temm
+T26	Taxon 335 366	Felis lulnuta Temm; Everett, P.
+T27	GeographicalLocation 387 392	Panay
+T28	Person 542 556	Blair Pickford
+T29	GeographicalLocation 558 564	Toledo
+T30	Taxon 572 586	Hystrix pumila
+T31	Taxon 572 594	Hystrix pumila Gunther
+T32	Taxon 596 610	Hystrix pumila
+T33	Taxon 596 612	Hystrix pumila G
+T34	Taxon 596 624	Hystrix pumila G; Everett, P
+T35	GeographicalLocation 646 653	Palawan
+T36	GeographicalLocation 655 665	Calamianes
+T37	Taxon 667 688	Sciuropterus nigripes
+T38	Taxon 667 693	Sciuropterus nigripes Thos
+T39	Taxon 695 716	Sciuropterus nigripes
+T40	Taxon 695 721	Sciuropterus nigripes Thos
+T41	Taxon 695 734	Sciuropterus nigripes Thos; Everett, P.
+T42	GeographicalLocation 755 762	Palawan
+T43	Taxon 764 779	Sciurus steerii
+T44	Taxon 764 787	Sciurus steerii Gunther
+T45	Taxon 789 804	Sciurus steerii
+T46	Taxon 789 806	Sciurus steerii G
+T47	Taxon 789 819	Sciurus steerii G; Everett, P.
+T48	GeographicalLocation 840 847	Palawan
+T49	Taxon 849 867	Sciurus samarensis
+T50	Taxon 876 894	Sciurus samarensis
+T51	Taxon 849 874	Sciurus samarensis Steere
+T52	Taxon 876 901	Sciurus samarensis Steere
+T53	Person 916 922	Steere
+T54	GeographicalLocation 937 942	Samar
+T55	Taxon 944 963	Sciurus mindanensis
+T56	Taxon 944 970	Sciurus mindanensis Steere
+T57	Taxon 972 991	Sciurus mindanensis
+T58	Taxon 972 1013	Sciurus mindanensis Steere, List B. and M
+T59	Person 1015 1021	Steere
+T60	GeographicalLocation 1042 1050	Mindanao
+T61	GeographicalLocation 1052 1059	Basilan
+T62	Taxon 1061 1080	Sciurus mindanensis
+T63	Taxon 1061 1087	Sciurus mindanensis Steere
+T64	Taxon 1092 1111	Sciurus cagsi Meyer
+T65	Taxon 1133 1150	Sciurus coccineus
+T66	Taxon 1133 1157	Sciurus coccineus Thomas
+T67	Taxon 1159 1176	Sciurus coccineus
+T68	Taxon 1159 1183	Sciurus coccineus Thomas
+T69	Taxon 1159 1197	Sciurus coccineus Thomas; Ann. and Mag
+T70	Taxon 1239 1261	Sciurus philippinensis
+T71	Taxon 1239 1268	Sciurus philippinensis Steere
+T72	Taxon 1239 1283	Sciurus philippinensis Steere, List B. and M
+T73	Person 1285 1291	Steere
+T74	GeographicalLocation 1306 1314	Mindanao
+T75	GeographicalLocation 1316 1323	Basilan

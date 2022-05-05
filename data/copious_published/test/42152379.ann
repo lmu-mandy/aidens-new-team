@@ -1,0 +1,73 @@
+T1	Taxon 45 68	Symphoricarpos parishii
+T2	Taxon 74 99	Symphoricarpos oreophilus
+T3	Taxon 101 127	Symphoricarpos parvifolius
+T4	Taxon 133 162	Symplioricarpos rotundifolius
+T5	Taxon 164 190	Symphoricarpos paucifiorus
+T6	Taxon 196 216	Symphoricarpos alhus
+T7	Taxon 218 242	Symphoricarpos racemosus
+T8	Taxon 248 268	Symphoricarpos albus
+T9	Taxon 270 298	Symphoricarpos rotundifolius
+T10	Taxon 270 304	Symphoricarpos rotundifolius, Gray
+T11	Taxon 306 325	Soundleaf snowberry
+T12	Taxon 327 337	S. glaucus
+T13	Taxon 327 344	S. glaucus Eastw.
+T14	Taxon 346 360	S. parvlfolius
+T15	Taxon 346 367	S. parvlfolius Bastw.
+T16	Taxon 369 384	8. vaccinioides
+T17	Taxon 369 390	8. vaccinioides Rydb.
+T18	Taxon 393 406	S. tetonensis
+T19	Taxon 393 412	S. tetonensis Nels.
+T20	TemporalExpression 500 504	July
+T21	TemporalExpression 505 514	September
+T22	TemporalExpression 552 555	May
+T23	TemporalExpression 556 560	June
+T24	Taxon 589 595	thrush
+T25	Taxon 597 613	California quail
+T26	Taxon 629 638	Chipmunli
+T27	Taxon 640 660	California mule deer
+T28	Taxon 675 680	sheep
+T29	Taxon 685 689	goat
+T30	Taxon 698 727	Symphoricarpos symphoricarpos
+T31	Taxon 733 758	SymphmHcarpos orbiculatus
+T32	Taxon 760 785	Symphoricarpos tetonensis
+T33	Taxon 791 819	Symphoricarpos rotundifolius
+T34	Taxon 821 845	Symphoricarpos utahensis
+T35	Taxon 821 851	Symphoricarpos utahensis Rydb.
+T36	Taxon 852 866	Utah snowberry
+T37	Taxon 946 973	Symphoricarpos vaccinioides
+T38	Taxon 979 1008	Symphoricarpos rotundifoliiis
+T39	Taxon 1010 1033	Symphoricarpos vulgaris
+T40	Taxon 1039 1065	Symphoricarpos orhiculatus
+T41	Taxon 1067 1086	Symplocos tinctoria
+T42	Taxon 1067 1098	Symplocos tinctoria (L.) L'Her.
+T43	Taxon 1099 1108	Sweetleaf
+T44	Taxon 1110 1125	Hopea tinctoria
+T45	Taxon 1110 1128	Hopea tinctoria L.
+T46	TemporalExpression 1222 1228	August
+T47	TemporalExpression 1229 1238	September
+T48	TemporalExpression 1303 1308	March
+T49	TemporalExpression 1309 1312	May
+T50	Taxon 1451 1457	Phoebe
+T51	Taxon 1471 1477	cattle
+T52	Taxon 1479 1500	Talinopsis frntescens
+T53	Taxon 1479 1505	Talinopsis frntescens Gray
+T54	Taxon 1566 1581	Tamala borbonia
+T55	Taxon 1587 1602	Persea horbonia
+T56	Taxon 1604 1618	Tamala humilis
+T57	Taxon 1624 1639	Persea hiimilis
+T58	Taxon 1641 1657	Tamala pubescens
+T59	Taxon 1663 1680	Persea. pulescens
+T60	Taxon 1682 1698	Tamarix g'allica
+T61	Taxon 1682 1701	Tamarix g'allica L.
+T62	Taxon 1702 1710	Tamarisk
+T63	GeographicalLocation 1894 1900	Europe
+T64	Taxon 2119 2132	Taxodinm spp.
+T65	Taxon 2133 2144	Baldcypress
+T66	Taxon 2233 2244	wild turkey
+T67	Taxon 2295 2313	Texas fox squirrel
+T68	Taxon 2315 2333	Taxodinm ascendens
+T69	Taxon 2315 2341	Taxodinm ascendens Brongn.
+T70	Taxon 2342 2353	Pondcypress
+T71	Taxon 2355 2369	T. imbricarium
+T72	Taxon 2355 2383	T. imbricarium (Nutt.) Harp.
+T73	Taxon 2476 2494	Little brown crane

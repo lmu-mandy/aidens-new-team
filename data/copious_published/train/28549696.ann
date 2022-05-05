@@ -1,0 +1,49 @@
+T1	GeographicalLocation 257 263	Doluwe
+T2	GeographicalLocation 268 277	Dun Kande
+T3	GeographicalLocation 284 294	Kurunegala
+T4	GeographicalLocation 353 361	Dunkande
+T5	GeographicalLocation 367 376	Arankelle
+T6	Habitat 388 393	hills
+T7	Habitat 476 482	plains
+T8	GeographicalLocation 600 608	Dunkande
+T9	GeographicalLocation 614 623	Arankelle
+T10	GeographicalLocation 673 685	Doluwe Kande
+T11	Person 1154 1160	Ashton
+T12	GeographicalLocation 1171 1183	Doluwe Kande
+T13	Person 1292 1298	Trimen
+T14	Taxon 1392 1415	Balanocarpus zeylanicus
+T15	Person 1470 1478	Thwaites
+T16	Taxon 1531 1544	B. zeylanicus
+T17	Person 1580 1586	Trimen
+T18	Taxon 1604 1630	Shorea brevipetiolaris Thw
+T19	Taxon 1604 1626	Shorea brevipetiolaris
+T20	Taxon 1635 1647	Balanocarpus
+T21	Person 1652 1658	Ashton
+T22	Taxon 1733 1755	Shorea brevipetiolaris
+T23	Taxon 1733 1759	Shorea brevipetiolaris Thw
+T24	Person 1804 1810	Ashton
+T25	GeographicalLocation 1894 1911	Peradeniya Garden
+T26	Person 1957 1963	Trimen
+T27	Person 2035 2041	Ashton
+T28	Person 2035 2041	Ashton
+T29	TemporalExpression 2583 2586	May
+T30	Taxon 2667 2674	Dunmala
+T31	Person 2685 2691	Ashton
+T32	Taxon 2702 2709	Dummala
+T33	Taxon 2715 2722	Dunmala
+T34	Taxon 2809 2816	dummala
+T35	Person 2949 2955	Ashton
+T36	GeographicalLocation 2963 2975	Doluwe Kande
+T37	GeographicalLocation 3004 3029	Botan. Garden. Peradeniya
+T38	TemporalExpression 3031 3036	April
+T39	Person 3050 3058	de Silva
+T40	TemporalExpression 3075 3078	May
+T41	TemporalExpression 3106 3110	Aug.
+T42	Person 3123 3133	Jayasuriya
+T43	Person 3136 3151	Balasubramaniam
+T44	GeographicalLocation 3157 3167	Kurunegala
+T45	GeographicalLocation 3169 3177	Dunkande
+T46	GeographicalLocation 3179 3188	Arankelle
+T47	GeographicalLocation 3208 3220	Doluwe Kande
+T48	Person 3227 3237	Kostermans
+T49	GeographicalLocation 3254 3279	Hotan. Garden, Peradeniya

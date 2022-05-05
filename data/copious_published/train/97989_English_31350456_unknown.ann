@@ -1,0 +1,80 @@
+T1	GeographicalLocation 122 136	Pandanon Islet
+T2	GeographicalLocation 228 241	Danajon Islet
+T3	GeographicalLocation 313 326	Minantao Reef
+T4	GeographicalLocation 416 428	Danajon Bank
+T5	GeographicalLocation 515 526	Camotes Sea
+T6	Taxon 974 987	Pavona cactus
+T7	Taxon 1236 1245	Tubastrea
+T8	Taxon 1250 1263	Dendrophyllia
+T9	Taxon 1339 1356	Eucheuma spinosum
+T10	TemporalExpression 1422 1426	1975
+T11	Taxon 1745 1753	Eucheuma
+T12	Taxon 2780 2794	Millepora grow
+T13	Taxon 3064 3074	Anacropora
+T14	Taxon 3084 3094	Echinopora
+T15	Taxon 3112 3120	Pectinia
+T16	Person 3150 3154	Ross
+T17	GeographicalLocation 3191 3204	Minantao Reef
+T18	Taxon 3478 3497	Thalassia hemprichi
+T19	Taxon 3502 3519	Enhalus acoroides
+T20	Habitat 3611 3630	double barrier reef
+T21	TemporalExpression 3876 3882	198081
+T22	GeographicalLocation 4019 4023	Cebu
+T23	GeographicalLocation 4185 4192	Romblon
+T24	GeographicalLocation 4194 4201	Mindoro
+T25	GeographicalLocation 4206 4216	Marinduque
+T26	GeographicalLocation 4417 4434	Marinduque Island
+T27	Person 4472 4480	Corcuera
+T28	GeographicalLocation 4490 4497	Romblon
+T29	GeographicalLocation 4617 4630	Isabel Island
+T30	GeographicalLocation 4845 4852	Carlota
+T31	GeographicalLocation 4988 4995	Carlota
+T32	GeographicalLocation 5107 5114	Carlota
+T33	GeographicalLocation 5421 5435	Carlota Island
+T34	GeographicalLocation 0 11	Philippines
+T35	GeographicalLocation 146 160	Caubyan Islets
+T36	GeographicalLocation 183 194	Tood Islets
+T37	Habitat 344 348	reef
+T38	Habitat 366 385	double barrier reef
+T39	Habitat 745 749	Reef
+T40	Taxon 992 1002	Aiacropora
+T41	Taxon 1015 1023	Fungiids
+T42	Taxon 1103 1127	Halomiira phili pinensis
+T43	Taxon 1190 1200	Leptoseris
+T44	TemporalExpression 1431 1435	1979
+T45	TemporalExpression 1991 1995	1977
+T46	Taxon 2075 2082	seaweed
+T47	Habitat 2460 2470	reef flats
+T48	Habitat 2542 2551	reef flat
+T49	Habitat 2666 2674	seagrass
+T50	Taxon 2740 2750	acroporids
+T51	Taxon 2752 2765	pocilloporids
+T52	Taxon 2767 2774	faviids
+T53	Habitat 2816 2826	back-reefs
+T54	Taxon 3076 3082	Pontes
+T55	Taxon 3096 3106	Pachyseris
+T56	Person 3138 3145	Hodgson
+T57	Habitat 3277 3281	reef
+T58	Taxon 3360 3372	Alcyonarians
+T59	Taxon 3374 3385	Sarcophyton
+T60	Taxon 3390 3395	Xenia
+T61	Taxon 3447 3455	seagrass
+T62	Person 3643 3649	Pichon
+T63	Habitat 3841 3851	coral reef
+T64	Habitat 3888 3902	double barrier
+T65	GeographicalLocation 3955 3967	West Germany
+T66	GeographicalLocation 3993 4017	University of San Carlos
+T67	GeographicalLocation 4401 4415	south of Gasan
+T68	Person 4482 4487	Jones
+T69	GeographicalLocation 4514 4538	south-east; 131N, 12154E
+T70	Habitat 4650 4664	fringing reefs
+T71	GeographicalLocation 4725 4737	Dos Hermanas
+T72	GeographicalLocation 4334 4346	DOS HERMANAS
+T73	GeographicalLocation 4867 4873	Isabel
+T74	Taxon 5081 5095	Cogon Imperata
+T75	Taxon 5179 5186	cassava
+T76	Taxon 5191 5197	bamboo
+T77	Habitat 5395 5399	Reef
+T78	Habitat 5453 5466	fringing reef
+T79	GeographicalLocation 5607 5620	Isabel Island
+T80	Habitat 5643 5656	fringing reef

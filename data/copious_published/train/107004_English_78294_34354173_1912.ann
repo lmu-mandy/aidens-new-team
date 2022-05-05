@@ -1,0 +1,56 @@
+T1	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T2	Taxon 109 128	Typemustela erminea
+T3	GeographicalLocation 412 422	Calamianes
+T4	GeographicalLocation 1310 1328	Calamianes Islands
+T5	GeographicalLocation 1330 1340	Calamianes
+T6	Taxon 1438 1458	LESSONLUTRA capensis
+T7	Taxon 1585 1598	Aonyx cinerea
+T8	Taxon 1616 1629	Lutra cinerea
+T9	Taxon 1673 1686	Aonyx cinerea
+T10	Taxon 44 60	MUSTELA Linnaeus
+T11	Taxon 68 82	Mustela LINNUS
+T12	Taxon 68 88	Mustela LINNUS, Syst
+T13	Taxon 109 135	Typemustela erminea Linnus
+T14	GeographicalLocation 218 221	Fur
+T15	Taxon 305 320	Mustela nudipes
+T16	Taxon 305 330	Mustela nudipes Desmarest
+T17	Taxon 338 353	Mustela nudipes
+T18	Taxon 338 363	Mustela nudipes Desmarest
+T19	GeographicalLocation 406 410	Java
+T20	GeographicalLocation 438 445	Palawan
+T21	GeographicalLocation 461 465	Sulu
+T22	Person 480 487	Sanchez
+T23	Taxon 643 652	MYDAUS F.
+T24	Taxon 667 676	Mydaus F.
+T25	Taxon 667 683	Mydaus F. Cuvier
+T26	Taxon 667 689	Mydaus F. Cuvier, Hist
+T27	Taxon 730 745	Mydaus meliceps
+T28	Taxon 730 747	Mydaus meliceps F
+T29	Taxon 758 769	Javan skunk
+T30	Taxon 962 977	American skunks
+T31	Taxon 1016 1029	Mydaus marche
+T32	Taxon 1016 1036	Mydaus marchei Huet.
+T33	Taxon 1043 1057	Mydaus marchei
+T34	Taxon 1043 1062	Mydaus marchei Huet
+T35	TemporalExpression 1104 1116	September 15
+T36	GeographicalLocation 1135 1142	Palawan
+T37	GeographicalLocation 1144 1151	Balabac
+T38	GeographicalLocation 1164 1171	Palawan
+T39	Taxon 1180 1200	Mydaus schadenbergii
+T40	Taxon 1180 1208	Mydaus schadenbergii Jentink
+T41	Taxon 1216 1236	Mydaus schadenbergii
+T42	Taxon 1216 1244	Mydaus schadenbergii Jentink
+T43	Person 1257 1263	Leyden
+T44	Taxon 1358 1370	AONYX Lesson
+T45	Taxon 1378 1390	Aonyx LESSON
+T46	Taxon 1378 1395	Aonyx LESSON, Man
+T47	Taxon 1422 1437	Aonyx delalandi
+T48	Taxon 1438 1465	LESSONLUTRA capensis Schinz
+T49	Taxon 1585 1608	Aonyx cinerea (Illiger)
+T50	Taxon 1616 1637	Lutra cinerea Illiger
+T51	Taxon 1616 1642	Lutra cinerea Illiger, Abh
+T52	Taxon 1673 1691	Aonyx cinerea Lyon
+T53	Taxon 1673 1697	Aonyx cinerea Lyon, Proc
+T54	GeographicalLocation 1754 1761	Batavia
+T55	GeographicalLocation 1769 1776	Palawan
+T56	GeographicalLocation 1763 1767	Java

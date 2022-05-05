@@ -1,0 +1,34 @@
+T1	Taxon 7 17	SERRANIDAE
+T2	Taxon 174 192	Bodianus maculatus
+T3	GeographicalLocation 446 458	Halfmoon Bay
+T4	GeographicalLocation 627 642	Atulayan Island
+T5	GeographicalLocation 648 667	east coast of Luzon
+T6	GeographicalLocation 669 687	Philippine Islands
+T7	GeographicalLocation 752 763	Erik Island
+T8	GeographicalLocation 846 857	Enyu Island
+T9	GeographicalLocation 977 988	Naen Island
+T10	Taxon 38 50	PLECTROPOMUS
+T11	Taxon 38 55	PLECTROPOMUS Oken
+T12	Taxon 56 73	Plectropomus Oken
+T13	Taxon 56 79	Plectropomus Oken, Isis
+T14	Taxon 174 198	Bodianus maculatus Bloch
+T15	GeographicalLocation 278 294	Marshall Islands
+T16	GeographicalLocation 329 342	United States
+T17	GeographicalLocation 460 465	Calif
+T18	Taxon 481 503	PLECTROPOMUS TRUNCATUS
+T19	Taxon 481 510	PLECTROPOMUS TRUNCATUS Fowler
+T20	Taxon 523 545	Plectropomus truncatvs
+T21	Taxon 523 552	Plectropomus truncatvs Fowlek
+T22	GeographicalLocation 738 752	Bikini Atoll  
+T23	GeographicalLocation 961 975	Rongelap Atoll
+T24	Habitat 990 1001	lagoon reef
+T25	TemporalExpression 765 779	March 19, 1946
+T26	Person 789 796	Schultz
+T27	Person 801 806	Brock
+T28	Habitat 859 877	ocean reef channel
+T29	TemporalExpression 888 902	August 1, 1947
+T30	Person 914 921	Schultz
+T31	Person 923 928	Brock
+T32	Person 934 939	Hiatt
+T33	TemporalExpression 1003 1016	July 30, 1946
+T34	Person 1028 1034	Herald

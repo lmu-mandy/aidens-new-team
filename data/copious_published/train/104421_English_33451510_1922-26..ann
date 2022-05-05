@@ -1,0 +1,85 @@
+T1	Taxon 152 168	Phreatia sulcata
+T2	Taxon 330 345	Phreatia elmeri
+T3	Taxon 394 411	Octarrhena elmeri
+T4	Taxon 418 436	Phreatia ensifolia
+T5	Taxon 532 552	Octarrhena ensifolia
+T6	Taxon 568 589	Phreatia limenophylax
+T7	Taxon 636 656	Phreatia minutiflora
+T8	Taxon 923 939	Phreatia secunda
+T9	Taxon 1111 1130	Octarrhena amesiana
+T10	Taxon 1139 1155	Phreatia pusilla
+T11	GeographicalLocation 1268 1287	Bucas Grande Island
+T12	GeographicalLocation 1734 1739	Burma
+T13	GeographicalLocation 1741 1756	Malay Peninsula
+T14	Taxon 394 416	Octarrhena elmeri Ames
+T15	Taxon 187 206	Phreatia caulescens
+T16	Taxon 187 211	Phreatia caulescens Ames
+T17	Taxon 73 96	Phreatia bracteata Ames
+T18	Taxon 73 91	Phreatia bracteata
+T19	Taxon 302 328	Octarrhena caulescens Ames
+T20	Taxon 302 323	Octarrhena caulescens
+T21	Taxon 330 350	Phreatia elmeri Ames
+T22	Taxon 418 441	Phreatia ensifolia Ames
+T23	Taxon 532 559	Octarrhena ensifolia (Ames)
+T24	Taxon 568 596	Phreatia limenophylax Reichb
+T25	Taxon 636 663	Phreatia minutiflora Lindl.
+T26	Taxon 1111 1137	Octarrhena amesiana Schltr
+T27	Taxon 1139 1162	Phreatia pusilla Lindl.
+T28	GeographicalLocation 1762 1766	Java
+T29	Taxon 1768 1786	ACRIOPSIS JAVANICA
+T30	Taxon 1797 1806	Blume Cat
+T31	TemporalExpression 123 127	1909
+T32	GeographicalLocation 100 106	Philip
+T33	Taxon 152 176	Phreatia sulcata (Blume)
+T34	TemporalExpression 382 386	1912
+T35	TemporalExpression 451 455	1908
+T36	TemporalExpression 625 629	1882
+T37	TemporalExpression 688 692	1859
+T38	TemporalExpression 717 721	1882
+T39	TemporalExpression 742 746	1908
+T40	TemporalExpression 756 760	1915
+T41	TemporalExpression 817 821	1911
+T42	Taxon 923 953	Phreatia secunda (Blume) Lindl
+T43	TemporalExpression 912 916	1921
+T44	TemporalExpression 987 991	1908
+T45	Taxon 955 977	Phreatia myosurus Ames
+T46	Taxon 955 972	Phreatia myosurus
+T47	Taxon 1022 1045	Phreatia amesii Kranzl.
+T48	Taxon 1022 1037	Phreatia amesii
+T49	Taxon 1046 1067	Phreatia parvula Ames
+T50	Taxon 1046 1062	Phreatia parvula
+T51	TemporalExpression 1077 1081	1908
+T52	TemporalExpression 1187 1191	1882
+T53	Taxon 1202 1221	ACRIOPSIS Reinwardt
+T54	Taxon 1222 1242	ACRIOPSIS FLORIBUNDA
+T55	TemporalExpression 1257 1261	1920
+T56	Taxon 1319 1335	ACRIOPSIS INDICA
+T57	TemporalExpression 1524 1528	1900
+T58	TemporalExpression 1474 1478	1895
+T59	TemporalExpression 1445 1449	1890
+T60	TemporalExpression 1407 1411	1863
+T61	TemporalExpression 1353 1357	1852
+T62	TemporalExpression 1573 1577	1905
+T63	TemporalExpression 1595 1599	1912
+T64	TemporalExpression 1641 1645	1907
+T65	TemporalExpression 1666 1670	1920
+T66	GeographicalLocation 1677 1682	Luzon
+T67	GeographicalLocation 1684 1691	Kalinga
+T68	Taxon 1768 1792	ACRIOPSIS JAVANICA Reinw
+T69	TemporalExpression 2218 2222	1905
+T70	TemporalExpression 2169 2173	1900
+T71	TemporalExpression 2119 2123	1896
+T72	TemporalExpression 2048 2052	1890
+T73	TemporalExpression 2077 2081	1895
+T74	TemporalExpression 2010 2014	1863
+T75	TemporalExpression 1971 1975	1859
+T76	TemporalExpression 1937 1941	1854
+T77	TemporalExpression 1892 1896	1832
+T78	TemporalExpression 1847 1851	1825
+T79	TemporalExpression 1823 1827	1823
+T80	TemporalExpression 2285 2289	1907
+T81	TemporalExpression 2324 2328	1909
+T82	TemporalExpression 2345 2349	1912
+T83	TemporalExpression 2390 2394	1911
+T84	TemporalExpression 2415 2419	1915
+T85	TemporalExpression 2463 2467	1917

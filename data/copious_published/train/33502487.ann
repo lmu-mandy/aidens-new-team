@@ -1,0 +1,130 @@
+T1	Taxon 6 22	DIPTEROCARPACEAE
+T2	Taxon 26 39	Hopea odorata
+T3	Taxon 26 45	Hopea odorata Foxw.
+T4	GeographicalLocation 104 109	Luzon
+T5	GeographicalLocation 111 118	Cagayan
+T6	GeographicalLocation 120 133	Nueva Vizcaya
+T7	GeographicalLocation 135 146	Nueva Ecija
+T8	GeographicalLocation 148 158	Pangasinan
+T9	GeographicalLocation 160 167	Bulacan
+T10	GeographicalLocation 169 175	Bataan
+T11	GeographicalLocation 177 182	Rizal
+T12	GeographicalLocation 184 190	Laguna
+T13	GeographicalLocation 192 199	Tayabas
+T14	GeographicalLocation 201 210	Camarines
+T15	GeographicalLocation 212 220	Sorsogon
+T16	GeographicalLocation 223 230	Mindoro
+T17	GeographicalLocation 232 238	Tablas
+T18	GeographicalLocation 240 245	Bohol
+T19	GeographicalLocation 247 255	Mindanao
+T20	Habitat 260 275	primary forests
+T21	Person 484 491	Alambra
+T22	Person 494 502	Borromeo
+T23	Person 520 527	Alvarez
+T24	Person 548 555	Miranda
+T25	Person 565 570	Kobbe
+T26	Taxon 618 633	Hopea glutinosa
+T27	Taxon 618 638	Hopea glutinosa Elm.
+T28	Taxon 641 660	Hopea pierrei Hance
+T29	Taxon 641 654	Hopea pierrei
+T30	Person 666 673	Alvarez
+T31	Taxon 703 715	Shorea guiso
+T32	Taxon 703 721	Shorea guiso Blume
+T33	Taxon 736 743	Banutan
+T34	Taxon 752 757	batik
+T35	Taxon 766 777	gisok-gisok
+T36	Taxon 787 792	haras
+T37	Taxon 805 811	kaliot
+T38	Taxon 821 827	malium
+T39	Taxon 838 844	maluto
+T40	Taxon 857 862	nutik
+T41	Taxon 872 877	paina
+T42	Taxon 887 896	panggaian
+T43	Taxon 906 915	sakluhgan
+T44	Taxon 925 935	sallapugud
+T45	Taxon 945 955	sarabsaban
+T46	Taxon 965 974	saplongan
+T47	Taxon 983 992	saplungan
+T48	Taxon 1001 1007	siakal
+T49	Taxon 1017 1023	siggai
+T50	Taxon 1033 1050	siggai-a-nalabaga
+T51	Taxon 1060 1073	siggai-mulato
+T52	Taxon 1083 1097	siggai-a-purau
+T53	Taxon 1106 1112	taggai
+T54	Taxon 1128 1133	yakal
+T55	Taxon 1170 1178	PENTACME
+T56	Taxon 1170 1193	PENTACME A. de Candolle
+T57	Taxon 1194 1211	PENTACME CONTORTA
+T58	Taxon 1194 1233	PENTACME CONTORTA (Vidal) Merr. & Rolfe
+T59	Taxon 1413 1428	Shorea contorta
+T60	Taxon 1413 1434	Shorea contorta Vidal
+T61	Taxon 1604 1624	Pentacme paucinervis
+T62	Taxon 1604 1632	Pentacme paucinervis Brandis
+T63	GeographicalLocation 1673 1688	Babuyan Islands
+T64	GeographicalLocation 1690 1697	Calayan
+T65	GeographicalLocation 1700 1705	Luzon
+T66	GeographicalLocation 1707 1714	Cagayan
+T67	GeographicalLocation 1718 1726	Sorsogon
+T68	GeographicalLocation 1744 1751	Mindoro
+T69	GeographicalLocation 1753 1760	Polillo
+T70	GeographicalLocation 1762 1767	Samar
+T71	GeographicalLocation 1769 1776	Sibuyan
+T72	GeographicalLocation 1778 1783	Leyte
+T73	GeographicalLocation 1785 1792	Masbate
+T74	GeographicalLocation 1794 1799	Samar
+T75	GeographicalLocation 1801 1807	Negros
+T76	GeographicalLocation 1809 1817	Mindanao
+T77	Habitat 1829 1844	primary forests
+T78	Taxon 1885 1889	Anas
+T79	Taxon 1898 1903	apnit
+T80	Taxon 1924 1929	balak
+T81	Taxon 1944 1952	balakbak
+T82	Taxon 1962 1970	balagbag
+T83	Taxon 1980 1988	buayahon
+T84	Taxon 2004 2009	bugis
+T85	Taxon 2019 2026	dang'ig
+T86	Taxon 2036 2043	danglog
+T87	Taxon 2052 2059	danglok
+T88	Taxon 2068 2074	danlig
+T89	Taxon 2083 2095	danlig-lauan
+T90	Taxon 2108 2114	danlog
+T91	Taxon 2145 2151	danlug
+T92	Taxon 2161 2166	duaan
+T93	Taxon 2175 2181	gisian
+T94	Taxon 2190 2196	hagnit
+T95	Taxon 2205 2211	hapnik
+T96	Taxon 2220 2226	hapnit
+T97	Taxon 2235 2241	lauaan
+T98	Taxon 2264 2269	lauan
+T99	Taxon 2318 2334	lauan-nga-danlog
+T100	Taxon 2350 2360	lauan-pula
+T101	Taxon 2370 2381	malaanonang
+T102	Taxon 2397 2406	malakayan
+T103	Taxon 2416 2426	malasinoro
+T104	Taxon 2436 2446	malatiaong
+T105	Taxon 2456 2463	takulau
+T106	Taxon 2472 2478	tiaong
+T107	Taxon 2487 2491	tuga
+T108	Taxon 2500 2526	PENTACME MINDANENSIS Foxw.
+T109	Taxon 2500 2520	PENTACME MINDANENSIS
+T110	GeographicalLocation 2570 2578	Mindanao
+T111	GeographicalLocation 2580 2586	Agusan
+T112	GeographicalLocation 2588 2593	Lanao
+T113	GeographicalLocation 2595 2604	Zamboanga
+T114	GeographicalLocation 2607 2614	Basilan
+T115	Person 2635 2642	VillamU
+T116	Person 2650 2657	Jimenez
+T117	Person 2665 2670	Acuna
+T118	Person 2678 2685	Babaran
+T119	Person 2692 2702	Hutchinson
+T120	Person 2710 2714	Nave
+T121	Person 2722 2729	Miranda
+T122	Person 2732 2737	Naves
+T123	Habitat 2742 2757	primary forests
+T124	Taxon 2798 2813	Bagtikan-lauaan
+T125	Taxon 2823 2829	danlig
+T126	Taxon 2839 2847	dangalog
+T127	Taxon 2856 2862	danlug
+T128	Taxon 2871 2883	lauan bianco
+T129	Taxon 2893 2909	malakayan-blanco
+T130	Taxon 2920 2938	malakayan-colorado

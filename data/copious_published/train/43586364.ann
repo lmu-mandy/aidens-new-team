@@ -1,0 +1,119 @@
+T1	GeographicalLocation 10 23	SEDILI RIVERS
+T2	GeographicalLocation 24 39	Kelantan rivers
+T3	Habitat 80 104	tidal freshwater stretch
+T4	GeographicalLocation 193 199	Sedili
+T5	GeographicalLocation 325 338	Kemaman river
+T6	GeographicalLocation 356 362	Sedili
+T7	Taxon 366 386	Barringtonia spicata
+T8	Taxon 388 397	putat ulu
+T9	Taxon 399 412	B. acutangula
+T10	Taxon 399 425	B. acutangula ssp. spicata
+T11	Taxon 428 446	Derris heptaphylla
+T12	GeographicalLocation 460 466	Sedili
+T13	Taxon 469 487	Eugenia densiflora
+T14	Taxon 489 499	jambu ayer
+T15	Taxon 502 529	Dipterocarpus oblongifolius
+T16	Taxon 565 581	Grewia tomentosa
+T17	Habitat 593 600	belukar
+T18	GeographicalLocation 608 615	Kemaman
+T19	Habitat 617 624	coastal
+T20	GeographicalLocation 632 645	Sedili region
+T21	Taxon 648 670	Lagerstroemia speciosa
+T22	Taxon 672 683	bungor raya
+T23	Taxon 686 706	Mallotus floribundus
+T24	Taxon 708 714	taping
+T25	Taxon 717 737	Millettia hemsleyana
+T26	Taxon 739 743	jada
+T27	Taxon 750 767	Securinega virosa
+T28	Taxon 769 775	bebeti
+T29	Taxon 777 801	Lagerstroemia ovalifolia
+T30	Taxon 803 816	bungor menuku
+T31	GeographicalLocation 856 862	Sedili
+T32	Taxon 879 888	Tetracera
+T33	Taxon 890 898	T. akara
+T34	Taxon 900 909	T. indica
+T35	Taxon 911 921	akar pelah
+T36	Taxon 925 933	mempelas
+T37	Habitat 949 958	up stream
+T38	Habitat 968 977	nipa-zone
+T39	GeographicalLocation 1005 1017	Sedili river
+T40	GeographicalLocation 1035 1042	Kemaman
+T41	Taxon 1046 1056	Buchanania
+T42	Taxon 1058 1070	Ceratopteris
+T43	Taxon 1072 1094	Elaeocarpus macrocerus
+T44	Taxon 1096 1110	Eugenia cerina
+T45	Taxon 1112 1125	E. fastigiata
+T46	Taxon 1127 1138	E. muelleri
+T47	Taxon 1140 1157	E. pseudosubtilis
+T48	Taxon 1159 1169	E. spicata
+T49	Taxon 1171 1185	E. valdevenosa
+T50	Taxon 1187 1203	Ficus calophylla
+T51	Taxon 1205 1222	Gardenia tubijera
+T52	Taxon 1224 1234	Limnophila
+T53	Taxon 1236 1252	Mesua ferruginea
+T54	Taxon 1254 1277	Polyalthia sclerophylla
+T55	Taxon 1279 1295	Pongamia pinnata
+T56	Taxon 1301 1317	Vatica wallichii
+T57	GeographicalLocation 1379 1391	Sedili river
+T58	Taxon 1410 1425	strangling figs
+T59	GeographicalLocation 1433 1440	Kemaman
+T60	Taxon 1446 1460	F. crassiramea
+T61	Taxon 1465 1476	F. sundaica
+T62	Taxon 1478 1491	F. microcarpa
+T63	GeographicalLocation 1515 1522	Kemaman
+T64	Habitat 1574 1583	iver-bank
+T65	GeographicalLocation 1587 1605	S. Rassau Beranyut
+T66	Habitat 1639 1644	fresh
+T67	Habitat 1649 1663	brackish water
+T68	Habitat 1691 1701	river-side
+T69	GeographicalLocation 1720 1733	Kemaman river
+T70	Taxon 1735 1753	Acrostichum aureum
+T71	Taxon 1772 1780	mangrove
+T72	GeographicalLocation 1795 1802	Kg Nior
+T73	GeographicalLocation 1819 1828	Kg Binjai
+T74	Taxon 1830 1851	Barringtonia conoidea
+T75	Taxon 1853 1858	putat
+T76	Habitat 1893 1902	nipa-zonc
+T77	GeographicalLocation 1956 1970	Kg Pasir Halus
+T78	Taxon 2004 2010	rassau
+T79	Taxon 2025 2030	Putat
+T80	GeographicalLocation 2057 2064	Kg Nior
+T81	GeographicalLocation 2069 2087	S. Rassau Beranyut
+T82	Habitat 2125 2135	downstream
+T83	Taxon 2137 2141	nipa
+T84	Taxon 2149 2169	Barringtonia spicata
+T85	Taxon 2171 2180	putat ulu
+T86	GeographicalLocation 2214 2221	Kg Nior
+T87	GeographicalLocation 2234 2244	K. Simpang
+T88	Habitat 2281 2305	freshwater tidal stretch
+T89	Habitat 2313 2318	river
+T90	Taxon 2320 2338	Derris heptaphylla
+T91	Taxon 2383 2387	nipa
+T92	GeographicalLocation 2392 2402	K. Simpang
+T93	Habitat 2469 2480	neram-b&nks
+T94	GeographicalLocation 2484 2491	S. Ayam
+T95	GeographicalLocation 2496 2503	S. Nipa
+T96	Taxon 2505 2532	Dipterocarpus oblongifolius
+T97	Taxon 2534 2539	neram
+T98	GeographicalLocation 2583 2597	Kg Pasir Halus
+T99	Habitat 2605 2617	tidal effect
+T100	Habitat 2625 2635	freshwater
+T101	Habitat 2648 2653	river
+T102	GeographicalLocation 2712 2719	Kemaman
+T103	GeographicalLocation 2745 2760	S. Pinang Hilir
+T104	Habitat 2771 2786	Saraca-st reams
+T105	Taxon 2799 2817	Eugenia densiflora
+T106	Taxon 2819 2829	jambu ayer
+T107	TemporalExpression 2857 2873	end of June 1932
+T108	GeographicalLocation 2928 2937	Kg Binjai
+T109	GeographicalLocation 2950 2957	S. Ayam
+T110	GeographicalLocation 2988 3002	Kg Pasir Gajah
+T111	GeographicalLocation 3015 3025	K. Simpang
+T112	GeographicalLocation 3035 3044	Kg Binjai
+T113	GeographicalLocation 3049 3064	S. Pinang Hilir
+T114	Habitat 3135 3147	river's edge
+T115	Taxon 3194 3203	Tetracera
+T116	Taxon 3279 3286	Eugenia
+T117	Taxon 3405 3410	neram
+T118	Taxon 3416 3423	Eugenia
+T119	Habitat 3522 3540	river-side belukar

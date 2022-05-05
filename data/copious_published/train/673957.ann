@@ -1,0 +1,36 @@
+T1	Taxon 11 27	DIPTEROCARPACEAE
+T2	Taxon 33 42	D. baudii
+T3	Taxon 33 49	D. baudii Korth.
+T4	Taxon 305 329	Anisoptera ? palembanica
+T5	Taxon 305 334	Anisoptera ? palembanica Miq.
+T6	Taxon 408 422	D. macrocarpus
+T7	Taxon 408 429	D. macrocarpus Vesque
+T8	Taxon 496 508	D. warhurgii
+T9	Taxon 496 516	D. warhurgii Brandis
+T10	Taxon 557 570	D. lasiopodus
+T11	Taxon 557 575	D. lasiopodus Perk
+T12	Taxon 666 676	D, affinis
+T13	Taxon 666 685	D, affinis Whitford
+T14	Taxon 2016 2038	Dipterocarpus warburgi
+T15	Taxon 2016 2047	Dipterocarpus warburgii Brandis
+T16	Taxon 2052 2065	D. lasiopodus
+T17	Taxon 2052 2070	D. lasiopodus Perk
+T18	Taxon 2305 2315	D. pilosus
+T19	GeographicalLocation 2592 2597	Luzon
+T20	GeographicalLocation 2599 2618	Province of Cagayan
+T21	Person 2643 2649	Curran
+T22	GeographicalLocation 2651 2674	Province of Nueva Ecija
+T23	Person 2691 2698	Alvarez
+T24	TemporalExpression 2700 2709	Dec. 1910
+T25	Person 2750 2757	Alvarez
+T26	GeographicalLocation 2759 2778	Province of Tayabas
+T27	Person 2780 2785	Vidal
+T28	GeographicalLocation 2834 2850	Island of Alabat
+T29	Person 2852 2859	Merrill
+T30	Person 2871 2877	Bagger
+T31	TemporalExpression 2879 2889	April 1903
+T32	Person 2927 2934	Perkins
+T33	Taxon 2941 2954	D. lasiopodus
+T34	Person 2972 2977	Kohhe
+T35	Person 3009 3015	Curran
+T36	Person 3033 3041	Whitford

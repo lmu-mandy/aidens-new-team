@@ -1,0 +1,54 @@
+T1	Taxon 0 10	Anisoptera
+T2	Taxon 18 34	DIPTEROCARPACEAE
+T3	Taxon 48 65	Anisoptera glabra
+T4	Taxon 48 72	Anisoptera glabra, Kurz.
+T5	Taxon 81 90	A. glabra
+T6	Taxon 81 96	A. glabra, Kurz
+T7	Taxon 118 127	Thin kadu
+T8	GeographicalLocation 440 444	Pegu
+T9	GeographicalLocation 446 454	Martaban
+T10	GeographicalLocation 456 464	Cambodia
+T11	GeographicalLocation 469 480	Cochinchina
+T12	TemporalExpression 485 490	April
+T13	TemporalExpression 492 495	May
+T14	Taxon 500 510	A. oblonga
+T15	Taxon 500 516	A. oblonga, Dyer
+T16	Taxon 518 532	Shorea nervosa
+T17	Taxon 518 538	Shorea nervosa, Kurz
+T18	GeographicalLocation 541 551	Tenasserim
+T19	Taxon 654 659	HOPEA
+T20	Taxon 654 666	HOPEA, Roxb.
+T21	GeographicalLocation 1515 1525	New Guinea
+T22	GeographicalLocation 1677 1684	Euhopea
+T23	Taxon 1771 1781	H. odorata
+T24	Taxon 1771 1788	H. odorata, Eoxb.
+T25	Taxon 1812 1819	Thingan
+T26	Habitat 2185 2198	Moist forests
+T27	GeographicalLocation 2230 2247	Eastern Peninbula
+T28	GeographicalLocation 2254 2258	Pegu
+T29	GeographicalLocation 2263 2273	Tenasserim
+T30	GeographicalLocation 2277 2288	Cochinchina
+T31	GeographicalLocation 2290 2299	Andanians
+T32	GeographicalLocation 2320 2330	Chittagong
+T33	Habitat 2365 2378	mixed forests
+T34	TemporalExpression 2384 2389	March
+T35	TemporalExpression 2391 2396	April
+T36	TemporalExpression 2404 2407	May
+T37	TemporalExpression 2409 2413	June
+T38	Taxon 2419 2432	H. parviflora
+T39	Taxon 2419 2441	H. parviflora, Beddome
+T40	Taxon 2458 2481	The Ironvood of Malabar
+T41	GeographicalLocation 2474 2481	Malabar
+T42	Taxon 2489 2497	Bovumara
+T43	Taxon 2506 2515	NlrJcongu
+T44	GeographicalLocation 2517 2527	Tinnevelli
+T45	Habitat 2677 2690	Moist forests
+T46	GeographicalLocation 2698 2712	Western G-hats
+T47	GeographicalLocation 2719 2731	South Kanara
+T48	TemporalExpression 2748 2753	March
+T49	Taxon 2758 2773	H. oblongifolia
+T50	Taxon 2758 2780	H. oblongifolia, Dyer.
+T51	Taxon 2901 2911	H. Helferi
+T52	Taxon 2901 2920	H. Helferi, Brandis
+T53	Taxon 2922 2936	Vatica Melferi
+T54	Taxon 2922 2942	Vatica Melferi, Dyer

@@ -1,0 +1,63 @@
+T1	Taxon 121 139	Parashorea plicata
+T2	Person 233 239	Blanco
+T3	Taxon 241 251	malaanonan
+T4	Taxon 330 343	false anonang
+T5	Taxon 336 343	anonang
+T6	Taxon 354 365	Cordia myxa
+T7	Taxon 354 371	Cordia myxa Linn.
+T8	Taxon 448 466	Parashorea plicata
+T9	Taxon 448 474	Parashorea plicata Brandis
+T10	GeographicalLocation 480 495	Laguna Province
+T11	GeographicalLocation 497 502	Luzon
+T12	GeographicalLocation 550 565	Mount Maquiling
+T13	GeographicalLocation 567 582	Laguna Province
+T14	GeographicalLocation 584 589	Luzon
+T15	Person 597 607	N. Catalan
+T16	TemporalExpression 609 622	June 20, 1914
+T17	Taxon 646 657	malaanonang
+T18	Taxon 700 706	VATICA
+T19	Taxon 700 715	VATICA Linnaeus
+T20	Taxon 717 735	VATiCA MANGACHAPOI
+T21	Taxon 717 742	VATiCA MANGACHAPOI Blanco
+T22	Taxon 864 879	Vatica sinensis
+T23	Taxon 864 886	Vatica sinensis Blanco
+T24	Taxon 942 960	VATICA MANGACHAPOI
+T25	Taxon 942 967	VATICA MANGACHAPOI Blanco
+T26	Taxon 1011 1029	Vatica mangachapoi
+T27	Taxon 1011 1036	Vatica mangachapoi Blanco
+T28	Taxon 1230 1245	Hopea acuminata
+T29	Taxon 1230 1251	Hopea acuminata Merr.
+T30	Taxon 1253 1263	H, pierrei
+T31	Taxon 1253 1269	H, pierrei Hance
+T32	Taxon 1303 1318	Vatica sinensis
+T33	Person 1330 1336	Blanco
+T34	Taxon 1352 1366	V. mangachapoi
+T35	Taxon 1477 1492	V, apteranthera
+T36	Taxon 1495 1509	V. mangachapoi
+T37	Taxon 1528 1546	Vatica mangachapoi
+T38	TemporalExpression 1591 1599	December
+T39	TemporalExpression 1603 1607	June
+T40	GeographicalLocation 1630 1636	Manila
+T41	Person 1644 1650	Blanco
+T42	TemporalExpression 1661 1664	May
+T43	Person 1699 1708	Foxworthy
+T44	Taxon 1730 1750	Mocanera mangachapoi
+T45	Taxon 1730 1757	Mocanera mangachapoi Blanco
+T46	Taxon 1790 1815	Dipterocarpus mangachapoi
+T47	Taxon 1790 1822	Dipterocarpus mangachapoi Blanco
+T48	Person 1816 1822	Blanco
+T49	Taxon 1937 1948	mangachapoi
+T50	Taxon 1953 1966	guisong dilao
+T51	Taxon 1975 1987	yellow guiso
+T52	Taxon 2081 2098	Shorea balangeran
+T53	Taxon 2081 2112	Shorea balangeran (Korth.) Dyer
+T54	Taxon 2122 2136	guisong madlao
+T55	Taxon 2141 2156	guisoc amarillo
+T56	Taxon 2223 2240	Shorea balangeran
+T57	Person 2277 2283	Blanco
+T58	Taxon 2285 2296	mangachapoi
+T59	Person 2302 2308	Blanco
+T60	Taxon 2373 2386	S. balangeran
+T61	GeographicalLocation 2468 2475	Bulacan
+T62	GeographicalLocation 2480 2485	Rizal
+T63	Person 2530 2536	Blanco

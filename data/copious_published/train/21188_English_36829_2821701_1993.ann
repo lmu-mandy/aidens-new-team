@@ -1,0 +1,43 @@
+T1	Taxon 114 129	Asian house bat
+T2	Habitat 160 178	agricultural areas
+T3	GeographicalLocation 194 205	Philippines
+T4	Habitat 252 269	forested habitats
+T5	GeographicalLocation 274 279	Leyte
+T6	Habitat 304 312	lowlands
+T7	Habitat 525 541	secondary forest
+T8	GeographicalLocation 575 589	Mt. Pangasugan
+T9	GeographicalLocation 614 621	Biliran
+T10	Habitat 668 687	roosts in buildings
+T11	Taxon 803 825	Livistona rotundifolia
+T12	Taxon 885 894	S. kuhlii
+T13	GeographicalLocation 980 988	Maripipi
+T14	Habitat 1061 1085	secondary lowland forest
+T15	GeographicalLocation 1396 1401	Leyte
+T16	GeographicalLocation 1449 1456	Biliran
+T17	GeographicalLocation 1506 1516	Leyte Prov
+T18	Taxon 1747 1757	Molossidae
+T19	Taxon 1777 1795	Chaerephon plicata
+T20	Taxon 1830 1845	free-tailed bat
+T21	GeographicalLocation 1860 1865	India
+T22	GeographicalLocation 1869 1883	Southeast Asia
+T23	GeographicalLocation 1938 1943	LEYTE
+T24	GeographicalLocation 1945 1952	BILIRAN
+T25	GeographicalLocation 1958 1974	MARIPIPI ISLANDS
+T26	Taxon 68 86	Scotophilus kuhlii
+T27	Taxon 68 92	Scotophilus kuhlii Leach
+T28	TemporalExpression 94 98	1822
+T29	Habitat 150 155;173 178	urban areas
+T30	GeographicalLocation 703 708	Naval
+T31	Habitat 764 801	dead fronds of an ornamental fan palm
+T32	Taxon 907 921	vespertilionid
+T33	Habitat 1134 1147	over a stream
+T34	GeographicalLocation 1166 1170	Viga
+T35	TemporalExpression 1207 1212	April
+T36	TemporalExpression 1311 1319	27 April
+T37	GeographicalLocation 1499 1504	LEYTE
+T38	GeographicalLocation 1597 1604	BILIRAN
+T39	GeographicalLocation 1655 1663	MARIPIPI
+T40	GeographicalLocation 1716 1721	LEYTE
+T41	Taxon 1760 1776	Free-tailed Bats
+T42	Taxon 1885 1895	Chaerephon
+T43	Person 1912 1919	RICKART

@@ -1,0 +1,49 @@
+T1	GeographicalLocation 3 10	Botolan
+T2	Habitat 49 58	mountains
+T3	GeographicalLocation 62 78	eastern Zambales
+T4	Taxon 160 167	Apitong
+T5	Taxon 170 196	Dipterocarpus grandiflorus
+T6	Taxon 170 204	Dipterocarpus grandiflorus, Blanco
+T7	Taxon 207 215	Tanguile
+T8	Taxon 217 230	Shorea talura
+T9	Taxon 217 237	Shorea talura, Roxb.
+T10	Taxon 240 245	Guijo
+T11	Taxon 247 263	Anisoptera guiso
+T12	Taxon 247 272	Anisoptera guiso, A. D. C
+T13	Taxon 275 280	Lauan
+T14	Taxon 282 302	Anisoptera thurifera
+T15	Taxon 282 309	Anisoptera thurifera, Blume
+T16	Taxon 312 318	Banaba
+T17	Taxon 321 347	Lagerstroemia flos-reginae
+T18	Taxon 321 354	Lagerstroemia flos-reginae, Retz.
+T19	Taxon 357 361	Acle
+T20	Taxon 364 382	Pithecolobium acle
+T21	Taxon 364 389	Pithecolobium acle, Vidal
+T22	Taxon 392 397	Yacal
+T23	Taxon 400 413	Hopea plagata
+T24	Taxon 400 420	Hopea plagata, Vidal
+T25	Taxon 568 584	Dipterocarpaceae
+T26	Habitat 599 605	forest
+T27	Taxon 707 712	yacal
+T28	Habitat 1174 1194	high mountain slopes
+T29	GeographicalLocation 1198 1206	Zambales
+T30	Taxon 1497 1504	Apitong
+T31	Taxon 1497 1504	Apitong
+T32	Habitat 2065 2073	semiopen
+T33	Taxon 2111 2118	Apitong
+T34	Habitat 2214 2233	low, moist location
+T35	Habitat 2240 2256	deep, loose soil
+T36	Habitat 2344 2361	high rocky slopes
+T37	Taxon 2415 2423	Tanguile
+T38	Habitat 2440 2453	higher slopes
+T39	Habitat 2466 2488	deep, rich, moist soil
+T40	Taxon 2815 2820	panao
+T41	Taxon 2825 2832	apitong
+T42	TemporalExpression 2889 2894	March
+T43	TemporalExpression 2898 2903	April
+T44	TemporalExpression 2927 2933	August
+T45	Taxon 2936 2944	Tanguile
+T46	Taxon 3161 3166	Guijo
+T47	Taxon 3280 3289	palosapis
+T48	Taxon 3291 3301	Shorea sp.
+T49	TemporalExpression 3686 3694	February

@@ -1,0 +1,95 @@
+T1	GeographicalLocation 63 78	Western Pacific
+T2	GeographicalLocation 83 104	eastern Indian Oceans
+T3	GeographicalLocation 382 394	Indian Ocean
+T4	Taxon 473 480	Aldabra
+T5	GeographicalLocation 610 625	Tanzanian coast
+T6	GeographicalLocation 638 645	Andaman
+T7	GeographicalLocation 650 665	Nicobar Islands
+T8	GeographicalLocation 684 705	South Sentinel Island
+T9	GeographicalLocation 721 733	Galathea Bay
+T10	TemporalExpression 768 772	1967
+T11	GeographicalLocation 801 810	Mauritius
+T12	TemporalExpression 854 866	19th century
+T13	GeographicalLocation 903 918	Keeling Islands
+T14	GeographicalLocation 973 991	Chagos Archipelago
+T15	GeographicalLocation 1110 1126	Christmas Island
+T16	GeographicalLocation 1162 1189	East African mainland coast
+T17	GeographicalLocation 1237 1255	Peninsula Malaysia
+T18	GeographicalLocation 1260 1267	Sumatra
+T19	GeographicalLocation 1273 1310	western part of the Malay Archipelago
+T20	GeographicalLocation 1319 1349	islands in the South China Sea
+T21	TemporalExpression 1359 1363	1981
+T22	GeographicalLocation 1374 1388	Sipadan Island
+T23	GeographicalLocation 1421 1440	east coast of Sabah
+T24	GeographicalLocation 1495 1504	Indonesia
+T25	GeographicalLocation 1510 1521	Philippines
+T26	GeographicalLocation 1526 1532	Taiwan
+T27	GeographicalLocation 1561 1574	Olango Island
+T28	GeographicalLocation 1580 1586	Mactan
+T29	GeographicalLocation 1588 1592	Cebu
+T30	GeographicalLocation 1601 1612	Philippines
+T31	GeographicalLocation 1622 1631	Indonesia
+T32	GeographicalLocation 1671 1685	Togian Islands
+T33	GeographicalLocation 1687 1703	Central Sulawesi
+T34	TemporalExpression 1716 1720	1963
+T35	GeographicalLocation 1730 1755	north coast of Irian Jaya
+T36	TemporalExpression 1808 1813	1950s
+T37	GeographicalLocation 1843 1868	north coast of Irian Jaya
+T38	GeographicalLocation 1890 1906	Papua New Guinea
+T39	GeographicalLocation 1930 1936	Rantan
+T40	GeographicalLocation 1941 1952	Sae Islands
+T41	GeographicalLocation 1962 1979	Los Negros Island
+T42	GeographicalLocation 1988 2002	Manus Province
+T43	GeographicalLocation 2028 2032	Fiji
+T44	GeographicalLocation 2127 2141	Gardner Island
+T45	GeographicalLocation 2149 2164	Phoenix Islands
+T46	GeographicalLocation 2174 2187	Juice Islands
+T47	GeographicalLocation 2232 2240	Marianas
+T48	Habitat 2453 2458	beach
+T49	Habitat 2558 2583	coastal limestone forests
+T50	GeographicalLocation 2809 2822	Olango Island
+T51	GeographicalLocation 2830 2841	Philippines
+T52	GeographicalLocation 3407 3419	South Island
+T53	GeographicalLocation 3582 3598	Christmas Island
+T54	Taxon 13 25	Birgus latro
+T55	GeographicalLocation 534 550	Seychelles group
+T56	TemporalExpression 871 875	1939
+T57	GeographicalLocation 943 956	North Keeling
+T58	GeographicalLocation 1049 1081	islands of the Great Chagos Bank
+T59	GeographicalLocation 1195 1203	Maldives
+T60	GeographicalLocation 1208 1218	Laccadives
+T61	GeographicalLocation 1442 1450	Malaysia
+T62	TemporalExpression 1460 1464	1939
+T63	GeographicalLocation 2011 2018	Pacific
+T64	GeographicalLocation 2041 2057	Marshall Islands
+T65	GeographicalLocation 2073 2087	Hawaiian group
+T66	GeographicalLocation 2192 2200	Tuamotus
+T67	GeographicalLocation 2207 2221	Fanning Island
+T68	GeographicalLocation 2249 2256	Vanuatu
+T69	GeographicalLocation 2520 2524	Guam
+T70	GeographicalLocation 2692 2709	northern Marianas
+T71	Habitat 2722 2745	burrows dug in the soil
+T72	Habitat 2756 2800	interstices of the boulder-cobble shorelines
+T73	Habitat 2605 2630	burrows within the porous
+T74	Habitat 2632 2667	solution-pitted limestone substrate
+T75	Habitat 2856 2898	burrows in coral rock in thick undergrowth
+T76	GeographicalLocation 3001 3021	barrier reef islands
+T77	Habitat 3055 3087	shallow burrows in the substrate
+T78	Habitat 3091 3118	hidden among Pandanus roots
+T79	Habitat 3123 3144	fallen coconut fronds
+T80	Taxon 3162 3175	Coconut Crabs
+T81	GeographicalLocation 3245 3249	Guam
+T82	GeographicalLocation 3297 3304	Aldabra
+T83	Habitat 3341 3360	sandy coconut grove
+T84	GeographicalLocation 3364 3373	Anse Mais
+T85	Taxon 3386 3403	Pandanus thickets
+T86	Habitat 3381 3385	damp
+T87	Habitat 3446 3471	barren coastal champignon
+T88	Habitat 3476 3496	throughout the plain
+T89	Habitat 3525 3538	rock crevices
+T90	Habitat 3558 3572	burrow in sand
+T91	Taxon 3604 3616	Coconut Crab
+T92	Habitat 3633 3664	beach through the shore terrace
+T93	Habitat 3672 3700	highest parts of the plateau
+T94	Habitat 3925 3947	abundant coconut palms
+T95	Habitat 3891 3906	with sandy soil

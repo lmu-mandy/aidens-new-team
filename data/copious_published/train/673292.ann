@@ -1,0 +1,67 @@
+T1	Taxon 32 40	PENTACME
+T2	Taxon 32 47	PENTACME A. DC.
+T3	Taxon 48 65	Pentacme contorta
+T4	Taxon 48 89	Pentacme contorta (Vidal) Merrill & Rolfe
+T5	Taxon 101 116	Shorea contorta
+T6	Taxon 101 122	Shorea contorta Vidal
+T7	Taxon 294 314	Pentacme paucinervis
+T8	Taxon 294 322	Pentacme paucinervis Brandis
+T9	Person 442 448	VidaPs
+T10	Taxon 510 518	Pentacme
+T11	Taxon 543 563	Pentacme paucinervis
+T12	Person 575 580	Vidal
+T13	Taxon 666 681	Shorea contorta
+T14	Person 694 701	Brandis
+T15	Person 703 708	Vidal
+T16	Person 846 853	Brandis
+T17	Taxon 911 919	Pentacme
+T18	Taxon 944 959	Shorea contorta
+T19	GeographicalLocation 1050 1061	Philippines
+T20	Taxon 1113 1118	Lauan
+T21	Person 1167 1172	Vidal
+T22	Person 1241 1248	Merrill
+T23	Person 1282 1298	Ahem*8 collector
+T24	Person 1315 1320	Ramos
+T25	Person 1357 1363	Barnes
+T26	Person 1365 1373	Whitford
+T27	Person 1410 1416	Borden
+T28	Taxon 1418 1430	SHOREA Roxb.
+T29	Taxon 1418 1424	SHOREA
+T30	Taxon 1431 1448	Shorea Malaanonan
+T31	Taxon 1431 1463	Shorea Malaanonan (Blanco) Blume
+T32	Taxon 1603 1627	Dipterocarpus Malaanonan
+T33	Taxon 1603 1634	Dipterocarpus Malaanonan Bhinco
+T34	Taxon 1679 1698	Mocanera Malaanonan
+T35	Taxon 1679 1705	Mocanera Malaanonan Blanco
+T36	Taxon 1735 1748	Shorea polita
+T37	Taxon 1735 1754	Shorea polita Vidal
+T38	GeographicalLocation 1874 1879	Luzon
+T39	GeographicalLocation 1881 1898	Province of Rizal
+T40	Person 1900 1905	Vidal
+T41	Person 1928 1933	Loher
+T42	Person 1959 1976	Ahern's collector
+T43	GeographicalLocation 1978 1997	Province of Tayabas
+T44	Person 1999 2006	Merrill
+T45	GeographicalLocation 2031 2042	Nueva Ecija
+T46	Person 2044 2049	Vidal
+T47	GeographicalLocation 2078 2083	Luzon
+T48	Person 2169 2177	Blanco's
+T49	Person 2233 2238	Vidal
+T50	Taxon 2241 2254	Shorea polita
+T51	Taxon 2275 2285	ANISOPTERA
+T52	Taxon 2275 2292	ANISOPTERA Korth.
+T53	Taxon 2293 2313	Anisoptera thurifera
+T54	Taxon 2293 2322	Anisoptera thurifera (Blanco)
+T55	Person 2352 2359	Brandis
+T56	Taxon 2482 2502	Anisoptera Vidaliana
+T57	Taxon 2482 2510	Anisoptera Vidaliana Brandis
+T58	Person 2537 2545	Blanco's
+T59	Taxon 2642 2654	A. Vidaliana
+T60	Person 2671 2678	Brandis
+T61	Taxon 2715 2727	A. thurifera
+T62	GeographicalLocation 2832 2843	Philippines
+T63	Taxon 2893 2905	A. tomentosa
+T64	Taxon 2893 2913	A. tomentosa Brandis
+T65	Person 2950 2967	Ahern's collector
+T66	Taxon 3035 3054	A. calophylla Perk.
+T67	Taxon 3083 3095	A. thurifera

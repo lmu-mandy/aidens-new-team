@@ -1,0 +1,107 @@
+T1	Taxon 342 350	Gobiidae
+T2	Person 365 371	Larson
+T3	Taxon 477 492	Allomicrodesmus
+T4	GeographicalLocation 661 677	Marshall Islands
+T5	Taxon 696 709	Microdesmidae
+T6	Taxon 993 1006	C. godeffroyi
+T7	GeographicalLocation 1030 1050	east coast of Africa
+T8	GeographicalLocation 1054 1060	Tahiti
+T9	Taxon 1066 1077	C. profunda
+T10	GeographicalLocation 1094 1105	Philippines
+T11	GeographicalLocation 1107 1115	Moluccas
+T12	GeographicalLocation 1157 1164	Solomon
+T13	GeographicalLocation 1170 1190	New Hebrides islands
+T14	GeographicalLocation 1462 1468	Ponape
+T15	GeographicalLocation 1534 1550	Caroline Islands
+T16	Taxon 1580 1588	Elopidae
+T17	Taxon 1600 1611	Megalopidae
+T18	GeographicalLocation 2181 2189	Atlantic
+T19	GeographicalLocation 2246 2258	Panama Canal
+T20	GeographicalLocation 2268 2276	Atlantic
+T21	Taxon 2359 2367	Megalops
+T22	GeographicalLocation 2441 2461	east coast of Africa
+T23	Taxon 2501 2509	Megalops
+T24	GeographicalLocation 2541 2557	Eastern Caroline
+T25	Taxon 2632 2640	Megalops
+T26	GeographicalLocation 2762 2777	Society Islands
+T27	Taxon 2870 2885	Emmelichthyidae
+T28	Taxon 2890 2905	emmelichthyidae
+T29	GeographicalLocation 3167 3183	Hawaiian Islands
+T30	GeographicalLocation 3295 3300	Japan
+T31	GeographicalLocation 3302 3311	Australia
+T32	GeographicalLocation 3321 3332	Philippines
+T33	GeographicalLocation 3368 3381	Easter Island
+T34	GeographicalLocation 3543 3550	Okinawa
+T35	GeographicalLocation 3859 3880	Pacific Plate islands
+T36	Taxon 14 26	Eleotrididae
+T37	Taxon 31 39	sleepers
+T38	Habitat 172 182	freshwater
+T39	Habitat 186 197	coral reefs
+T40	GeographicalLocation 203 215	Indo-pacific
+T41	GeographicalLocation 260 272	Indo-pacific
+T42	Taxon 291 302	eleotridids
+T43	Person 376 381	Hoese
+T44	TemporalExpression 383 387	1980
+T45	Taxon 420 431	eleotridids
+T46	Habitat 444 455	coral reefs
+T47	GeographicalLocation 463 475	Indo-pacific
+T48	Taxon 494 504	Xerusthmus
+T49	Taxon 506 511	Burma
+T50	GeographicalLocation 545 557	Indo-Pacific
+T51	Habitat 573 578;592 597	fresh water
+T52	Habitat 583 597	brackish water
+T53	Taxon 599 614	Allomicrodesmus
+T54	Person 713 720	Schultz
+T55	TemporalExpression 722 726	1966
+T56	Person 730 740	D.F. Hoese
+T57	Taxon 760 775	Allomicrodesmus
+T58	Taxon 797 807	eleotridid
+T59	GeographicalLocation 852 879	northern Great Barrier Reef
+T60	Taxon 924 931	Calumia
+T61	Person 968 974	Larson
+T62	Person 979 984	Hoese
+T63	TemporalExpression 986 990	1980
+T64	Person 1117 1122	Ceram
+T65	GeographicalLocation 1125 1142	western Admiralty
+T66	GeographicalLocation 1144 1155	New Britain
+T67	Person 1192 1198	Larson
+T68	Person 1203 1208	Hoese
+T69	TemporalExpression 1210 1214	1980
+T70	Person 1216 1228	E.A. Lachner
+T71	GeographicalLocation 1324 1341	Indo-west Pacific
+T72	Taxon 1348 1353	Butis
+T73	Habitat 1371 1377	rivers
+T74	Habitat 1382 1391	estuaries
+T75	Habitat 1397 1406	mangroves
+T76	GeographicalLocation 1426 1439	Pacific Plate
+T77	Taxon 1617 1624	tarpons
+T78	Taxon 1629 1639	ladyfishes
+T79	Habitat 1734 1755	shallow coastal areas
+T80	Habitat 1760 1769	estuaries
+T81	Habitat 1793 1799	rivers
+T82	Taxon 1801 1806	Elops
+T83	Taxon 1925 1930	Elops
+T84	GeographicalLocation 1910 1923	Pacific Plate
+T85	GeographicalLocation 2062 2075	Pacific Plate
+T86	Taxon 2077 2083	Tarpon
+T87	Taxon 2203 2209	Tarpon
+T88	GeographicalLocation 2342 2357	eastern Pacific
+T89	GeographicalLocation 2469 2484	Society Islands
+T90	Habitat 2162 2173	warm waters
+T91	GeographicalLocation 2222 2238	Pacific terminus
+T92	GeographicalLocation 2559 2567	Marshall
+T93	GeographicalLocation 2569 2576	Gilbert
+T94	GeographicalLocation 2578 2584	Ellice
+T95	GeographicalLocation 2586 2590	Line
+T96	GeographicalLocation 2592 2599	Tuamotu
+T97	GeographicalLocation 2604 2620	Hawaiian islands
+T98	GeographicalLocation 2675 2688	Pacific Plate
+T99	Person 2699 2706	Randall
+T100	GeographicalLocation 3122 3135	Pacific Plate
+T101	GeographicalLocation 3386 3390	Guam
+T102	GeographicalLocation 3450 3463	Pacific Plate
+T103	GeographicalLocation 3793 3810	Indo-west Pacific
+T104	GeographicalLocation 3894 3907	Pacific Plate
+T105	Taxon 3621 3635	emmelichthyids
+T106	Habitat 3780 3785	areas
+T107	Habitat 3770 3785	temperate areas

@@ -1,0 +1,53 @@
+T1	Taxon 46 64	PARASHOREA PLICATA
+T2	Taxon 46 72	PARASHOREA PLICATA Brandis
+T3	GeographicalLocation 74 79	Luzon
+T4	GeographicalLocation 81 92	Nueva Ecija
+T5	GeographicalLocation 94 101	Bulacan
+T6	GeographicalLocation 103 108	Rizal
+T7	GeographicalLocation 110 116	Laguna
+T8	GeographicalLocation 118 125	Tayabas
+T9	GeographicalLocation 127 136	Camarines
+T10	GeographicalLocation 137 142	Albay
+T11	GeographicalLocation 144 152	Sorsogon
+T12	GeographicalLocation 154 161	Polillo
+T13	GeographicalLocation 163 174	Catanduanes
+T14	GeographicalLocation 176 183	Masbate
+T15	GeographicalLocation 185 190	Samar
+T16	GeographicalLocation 191 196	Leyte
+T17	GeographicalLocation 197 201	Cebu
+T18	GeographicalLocation 203 209	Negros
+T19	GeographicalLocation 211 216	Panay
+T20	GeographicalLocation 218 223	Capiz
+T21	GeographicalLocation 225 232	Biliran
+T22	GeographicalLocation 234 242	Mindanao
+T23	GeographicalLocation 244 251	Surigao
+T24	GeographicalLocation 253 259	Agusan
+T25	GeographicalLocation 260 265	Davao
+T26	GeographicalLocation 267 276	Zamboanga
+T27	Taxon 378 398	PARASHOREA WARBURGII
+T28	Taxon 378 406	PARASHOREA WARBURGII Brandis
+T29	GeographicalLocation 489 497	Mindanao
+T30	GeographicalLocation 499 504	Davao
+T31	GeographicalLocation 509 515	Agusan
+T32	Taxon 520 528	ISOPTERA
+T33	Taxon 520 537	ISOPTERA Scheffer
+T34	Taxon 541 560	ISOPTERA BORNEENSIS
+T35	Taxon 541 569	ISOPTERA BORNEENSIS Scheffer
+T36	TemporalExpression 616 628	May 26, 1914
+T37	Person 640 648	Oliveros
+T38	GeographicalLocation 657 676	Zamboanga Peninsula
+T39	GeographicalLocation 678 686	Mindanao
+T40	Person 787 792	Acuna
+T41	Person 797 802	Belen
+T42	GeographicalLocation 887 898	Philippines
+T43	GeographicalLocation 960 966	Borneo
+T44	GeographicalLocation 1003 1018	Malay Peninsula
+T45	GeographicalLocation 1023 1029	Bangka
+T46	Taxon 1035 1047	BALANOCARPUS
+T47	Taxon 1035 1055	BALANOCARPUS Beddome
+T48	Taxon 1246 1251	yacal
+T49	GeographicalLocation 1296 1311	Malay Peninsula
+T50	GeographicalLocation 1316 1322	Borneo
+T51	Taxon 1357 1369	Balanocarpus
+T52	Taxon 1507 1521	B. brachyptera
+T53	Taxon 1526 1551	BALANOCARPUS CAGAYANENSIS

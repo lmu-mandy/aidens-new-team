@@ -1,0 +1,34 @@
+T1	GeographicalLocation 119 127	Mindanao
+T2	GeographicalLocation 243 251	Mindanao
+T3	GeographicalLocation 369 377	Mindanao
+T4	GeographicalLocation 866 875	Zamboanga
+T5	GeographicalLocation 880 887	Surigao
+T6	GeographicalLocation 895 900	Davao
+T7	GeographicalLocation 1006 1025	Zamboanga Peninsula
+T8	GeographicalLocation 1208 1221	Davao Valleys
+T9	GeographicalLocation 1313 1320	Mindoro
+T10	GeographicalLocation 1675 1687	Lanao region
+T11	GeographicalLocation 27 35	MINDANAO
+T12	GeographicalLocation 40 44	SULU
+T13	GeographicalLocation 212 217	Luzon
+T14	TemporalExpression 404 408	1905
+T15	GeographicalLocation 417 426	Zamboanga
+T16	GeographicalLocation 428 435	Isabela
+T17	GeographicalLocation 437 441	Jolo
+T18	GeographicalLocation 443 448	Davao
+T19	GeographicalLocation 450 457	Surigao
+T20	TemporalExpression 696 704	February
+T21	TemporalExpression 705 708	May
+T22	TemporalExpression 709 713	June
+T23	TemporalExpression 714 718	July
+T24	TemporalExpression 719 728	September
+T25	TemporalExpression 729 736	October
+T26	TemporalExpression 766 774	December
+T27	GeographicalLocation 1197 1203	Agusan
+T28	GeographicalLocation 1250 1268	Philippine Islands
+T29	Habitat 1235 1242	forests
+T30	GeographicalLocation 1613 1621	Cotabato
+T31	GeographicalLocation 1517 1525	Mindanao
+T32	GeographicalLocation 1799 1813	Cotabato River
+T33	GeographicalLocation 1963 1971	Mindanao
+T34	Habitat 965 972	forests

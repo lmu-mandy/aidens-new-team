@@ -1,0 +1,33 @@
+T1	GeographicalLocation 41 58	Malayan Peninsula
+T2	Taxon 970 995	Parinarium dilleni-folium
+T3	Taxon 970 999	Parinarium dilleni-folium, R.
+T4	Taxon 1025 1048	Petrocarpa dillenifolia
+T5	Taxon 1025 1056	Petrocarpa dillenifolia, Steud.
+T6	GeographicalLocation 1075 1084	Singapore
+T7	Person 1086 1093	Wallich
+T8	GeographicalLocation 1095 1102	Malacca
+T9	Person 1104 1111	Maingay
+T10	GeographicalLocation 1136 1142	Penang
+T11	Person 1144 1150	Curtis
+T12	GeographicalLocation 1161 1166	Perak
+T13	Person 1168 1172	Wray
+T14	Person 1202 1208	Hooker
+T15	Taxon 1278 1288	Parinarium
+T16	Taxon 1325 1355	Dipterocarpus fagineus, Vesque
+T17	Taxon 1325 1347	Dipterocarpus fagineus
+T18	Taxon 2271 2285	D. prismaticus
+T19	Taxon 2271 2291	D. prismaticus, Dyer
+T20	Taxon 2340 2358	Dipterocarpus, sp.
+T21	Taxon 2340 2364	Dipterocarpus, sp. Hook.
+T22	GeographicalLocation 2398 2403	Perak
+T23	Person 2405 2421	King's Collector
+T24	Person 2432 2443	Scortechini
+T25	GeographicalLocation 2445 2451	Penang
+T26	Person 2453 2459	Curtis
+T27	Taxon 2470 2481	D. fagineus
+T28	Taxon 2470 2489	D. fagineus, Vesque
+T29	GeographicalLocation 2527 2533	Borneo
+T30	Person 2535 2542	Beccari
+T31	Person 2556 2562	Motley
+T32	Person 2605 2609	Dyer
+T33	GeographicalLocation 2703 2708	Perak

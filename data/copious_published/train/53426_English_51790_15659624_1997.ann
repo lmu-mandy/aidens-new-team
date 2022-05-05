@@ -1,0 +1,73 @@
+T1	GeographicalLocation 138 143	Bohol
+T2	GeographicalLocation 148 154	Negros
+T3	GeographicalLocation 340 357	Cuernos de Negros
+T4	GeographicalLocation 359 372	Negros Island
+T5	GeographicalLocation 378 391	Mt. Maquiling
+T6	GeographicalLocation 396 407	Mt. Banahao
+T7	GeographicalLocation 409 421	Luzon Island
+T8	GeographicalLocation 653 663	Los Bafios
+T9	GeographicalLocation 665 677	Luzon Island
+T10	GeographicalLocation 703 716	Negros Island
+T11	Taxon 851 862	Platymantis
+T12	Taxon 1039 1051	P. guentheri
+T13	Taxon 1056 1065	P. rabori
+T14	GeographicalLocation 1069 1074	Bohol
+T15	GeographicalLocation 1078 1107	northeastern Mindanao Islands
+T16	Taxon 1262 1273	Platymantis
+T17	GeographicalLocation 1277 1290	Mt. Maquiling
+T18	GeographicalLocation 1295 1306	Mt. Banahao
+T19	GeographicalLocation 1328 1341	Mt. Maquiling
+T20	GeographicalLocation 1346 1357	Mt. Banahao
+T21	Taxon 1412 1425	P. luzonensis
+T22	Taxon 1430 1440	P. banahao
+T23	Taxon 1506 1517	Platymantis
+T24	Taxon 1568 1579	P. dorsalis
+T25	Taxon 1581 1591	P. mimulus
+T26	Taxon 1597 1610	P. luzonensis
+T27	GeographicalLocation 1639 1652	Mt. Maquiling
+T28	Taxon 1670 1681	P. dorsalis
+T29	Taxon 1683 1693	P. mimulus
+T30	Taxon 1695 1705	P. banahao
+T31	Taxon 1707 1720	P. luzonensis
+T32	Taxon 1722 1733	P. montanus
+T33	Taxon 1739 1768	P. undescribed dorsalis Group
+T34	GeographicalLocation 1773 1784	Mt. Banahao
+T35	Taxon 1886 1899	P. luzonensis
+T36	Taxon 1904 1914	P. banahao
+T37	Taxon 1976 1987	P. dorsalis
+T38	Taxon 1992 2002	P. mimulus
+T39	Taxon 2119 2133	P. negrosensis
+T40	Taxon 2135 2148	P. luzonensis
+T41	Taxon 2154 2164	P. banahao
+T42	Taxon 2221 2233	P. guentheri
+T43	Taxon 2238 2247	P. rabori
+T44	Taxon 2285 2298	P. luzonensis
+T45	Taxon 2470 2480	P. banahao
+T46	Taxon 2650 2664	P. negrosensis
+T47	Taxon 2686 2699	P. luzonensis
+T48	Taxon 2836 2849	P. luzonensis
+T49	Taxon 2854 2864	P. banahao
+T50	Taxon 3013 3024	Platymantis
+T51	Taxon 3084 3095	Platymantis
+T52	Taxon 3107 3118	P. dorsalis
+T53	GeographicalLocation 3124 3141	Cuernos de Negros
+T54	GeographicalLocation 3143 3156	Negros Island
+T55	Taxon 3214 3225	P. dorsalis
+T56	Taxon 3464 3476	P. papuensis
+T57	GeographicalLocation 3482 3492	New Guinea
+T58	Taxon 3521 3532	P. schmidti
+T59	Taxon 3534 3546	P. solomonis
+T60	Taxon 3548 3557	P. magnus
+T61	Taxon 3563 3573	P. neckeri
+T62	GeographicalLocation 3583 3592	Bismarcks
+T63	GeographicalLocation 3597 3605	Solomons
+T64	Taxon 4013 4025	P. guentheri
+T65	Taxon 4112 4124	P. guentheri
+T66	Taxon 4126 4135	P. rabori
+T67	Taxon 4141 4155	P. negrosensis
+T68	Taxon 4200 4210	P. banahao
+T69	Taxon 4215 4228	P. luzonensis
+T70	GeographicalLocation 4384 4394	Mt. Isarog
+T71	GeographicalLocation 4398 4403	Luzon
+T72	TemporalExpression 780 784	1994
+T73	TemporalExpression 785 787	96

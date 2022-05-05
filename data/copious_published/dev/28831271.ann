@@ -1,0 +1,55 @@
+T1	GeographicalLocation 10 17	Malesia
+T2	GeographicalLocation 837 848	Philippines
+T3	GeographicalLocation 850 859	Zamboanga
+T4	GeographicalLocation 861 869	Mindanao
+T5	Taxon 894 910	Vatica pentandra
+T6	Taxon 894 917	Vatica pentandra ASHTON
+T7	GeographicalLocation 1691 1698	Malesia
+T8	GeographicalLocation 1700 1711	East Borneo
+T9	GeographicalLocation 1713 1726	Central Kutei
+T10	Habitat 1744 1752	lowlands
+T11	Taxon 1769 1775	Vatica
+T12	Taxon 1874 1891	Vatica cauliflora
+T13	Taxon 1874 1898	Vatica cauliflora ASHTON
+T14	GeographicalLocation 2740 2747	Malesia
+T15	GeographicalLocation 2749 2759	Ulu Kapuas
+T16	GeographicalLocation 2761 2770	W. Borneo
+T17	Habitat 2801 2812	river banks
+T18	Taxon 2985 2996	V. venulosa
+T19	Taxon 2985 2999	V. venulosa BL
+T20	Taxon 3007 3022	Vatica glabrata
+T21	Taxon 3007 3029	Vatica glabrata ASHTON
+T22	Taxon 3040 3054	V. mangachapoi
+T23	Taxon 3040 3059	V. mangachapoi BLCO
+T24	GeographicalLocation 3909 3916	Malesia
+T25	GeographicalLocation 3918 3924	Borneo
+T26	GeographicalLocation 3926 3933	Sarawak
+T27	GeographicalLocation 3975 3986	Dulit range
+T28	GeographicalLocation 3988 3998	Ulu Tinjar
+T29	GeographicalLocation 4000 4005	Baram
+T30	GeographicalLocation 4024 4035	Ulu Medamit
+T31	GeographicalLocation 4037 4044	Limbang
+T32	Habitat 4072 4089	submontane forest
+T33	Habitat 4108 4138	acid soils overlying sandstone
+T34	Habitat 4161 4178	mossy forest zone
+T35	TemporalExpression 4215 4225	April 1958
+T36	GeographicalLocation 4256 4267	Pagon range
+T37	Taxon 4399 4407	Sunaptea
+T38	GeographicalLocation 4494 4501	Sarawak
+T39	Taxon 4779 4793	V. mangachapoi
+T40	Taxon 4779 4798	V. mangachapoi BLCO
+T41	Taxon 4911 4924	Vatica obtusa
+T42	Taxon 4911 4930	Vatica obtusa BURCK
+T43	Person 5089 5097	TEYSMANN
+T44	GeographicalLocation 5113 5121	Karimata
+T45	Taxon 5180 5191	V. umbonata
+T46	Taxon 5180 5208	V. umbonata (HOOK. f.) BURCK
+T47	Taxon 5213 5226	V. pauciflora
+T48	Taxon 5213 5239	V. pauciflora (KORTH.) BL.
+T49	Taxon 5253 5269	Vatica imbricata
+T50	Taxon 5253 5276	Vatica imbricata SLOOT.
+T51	Person 5342 5352	KOSTERMANS
+T52	Taxon 5354 5365	Reinwardtia
+T53	Taxon 5381 5401	Mesua acuminatissima
+T54	Taxon 5381 5418	Mesua acuminatissima (MERR.) KOSTERM.
+T55	Taxon 5420 5430	Gutiiferae

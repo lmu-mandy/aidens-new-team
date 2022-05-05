@@ -1,0 +1,63 @@
+T1	Taxon 71 82	Malay civet
+T2	Taxon 37 55	Viverra tangalunga
+T3	Taxon 87 96	tangalung
+T4	GeographicalLocation 112 131	peninsular Malaysia
+T5	GeographicalLocation 135 143	Sulawesi
+T6	GeographicalLocation 169 180	Philippines
+T7	Habitat 224 231;274 280	primary forest
+T8	Habitat 236 253;274 280	secondary lowland forest
+T9	Habitat 255 262;274 280	montane forest
+T10	Habitat 268 280	mossy forest
+T11	GeographicalLocation 383 391	Camiguin
+T12	Taxon 423 441	Viverra tangalunga
+T13	GeographicalLocation 479 487	Camiguin
+T14	Taxon 541 553	Artiodactyla
+T15	Taxon 561 567	Suidae
+T16	Taxon 575 599	Sus philippensis Nehring
+T17	Taxon 575 591	Sus philippensis
+T18	Taxon 611 631	Philippine warty pig
+T19	GeographicalLocation 675 688	Greater Luzon
+T20	GeographicalLocation 690 706	Greater Mindanao
+T21	GeographicalLocation 712 719	Mindoro
+T22	Habitat 885 899	remote forests
+T23	GeographicalLocation 990 998	Camiguin
+T24	TemporalExpression 1002 1012	March 1995
+T25	Habitat 1055 1079	disturbed lowland forest
+T26	Habitat 1097 1119	primary montane forest
+T27	GeographicalLocation 1362 1368	Owakan
+T28	GeographicalLocation 1370 1390	Mahinog Municipality
+T29	Habitat 1486 1492	forest
+T30	TemporalExpression 1500 1512	early 1 990s
+T31	GeographicalLocation 1520 1543	mountains above Mahinog
+T32	GeographicalLocation 1575 1588	Above Mahinog
+T33	Person 1845 1851	Heaney
+T34	Person 1882 1889	Rickart
+T35	Taxon 1905 1915	Fruit Bats
+T36	Taxon 1926 1941	pteropodid bats
+T37	TemporalExpression 2005 2010	1960s
+T38	Taxon 2057 2066	fruit bat
+T39	Taxon 2177 2187	fruit bats
+T40	Taxon 2362 2380	Eonycteris spelaea
+T41	Taxon 2385 2410	Rousettus amplexicaudatus
+T42	GeographicalLocation 2448 2459	Philippines
+T43	Taxon 2526 2543	Pteropus vampyrus
+T44	GeographicalLocation 2740 2748	Mindanao
+T45	GeographicalLocation 2843 2851	Camiguin
+T46	Taxon 2864 2886	Haplonycteris fischeri
+T47	Taxon 2891 2908	Ptenochirus minor
+T48	Taxon 2922 2941	Megaerops ecaudatus
+T49	Taxon 2994 3019	Alionycteris paucidentata
+T50	GeographicalLocation 3047 3055	Camiguin
+T51	TemporalExpression 4199 4203	1994
+T52	TemporalExpression 4208 4212	1995
+T53	GeographicalLocation 4473 4488	CAMIGUIN ISLAND
+T54	TemporalExpression 4102 4108	1 960s
+T55	Taxon 4179 4189	fruit bats
+T56	Taxon 37 66	Viverra tangalunga Gray, 1832
+T57	TemporalExpression 2213 2217	1992
+T58	TemporalExpression 2218 2222	1994
+T59	Taxon 2505 2521	Acerodon jubatus
+T60	TemporalExpression 3355 3359	1992
+T61	TemporalExpression 3360 3364	1995
+T62	TemporalExpression 3610 3614	1992
+T63	TemporalExpression 3615 3619	1995

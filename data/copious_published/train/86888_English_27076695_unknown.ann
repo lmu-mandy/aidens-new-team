@@ -1,0 +1,63 @@
+T1	GeographicalLocation 5001 5013	Gulf of Siam
+T2	GeographicalLocation 5022 5033	Philippines
+T3	Habitat 5731 5742	fresh water
+T4	Taxon 6863 6887	yellow-bellied Sea Snake
+T5	Taxon 6889 6905	Pelamis platunis
+T6	GeographicalLocation 7005 7016	East Africa
+T7	GeographicalLocation 7047 7054	Siberia
+T8	GeographicalLocation 7081 7092	Philippines
+T9	GeographicalLocation 7094 7101	Oceania
+T10	Taxon 7151 7170	Enhydrina schistosa
+T11	GeographicalLocation 7234 7246	Persian Gulf
+T12	GeographicalLocation 7358 7371	Indian Oceans
+T13	GeographicalLocation 7381 7393	Persian Gulf
+T14	Taxon 23 32	Stonefish
+T15	Taxon 34 43	Synanceja
+T16	Taxon 44 53	Zebrafish
+T17	Habitat 116 130	temperate seas
+T18	Habitat 103 111;126 130	tropical seas
+T19	Habitat 150 161	coral reefs
+T20	Taxon 229 237	peacocks
+T21	Habitat 442 453	coral areas
+T22	Taxon 552 564	scorpionfish
+T23	Habitat 673 684	under rocks
+T24	Habitat 650 671	crevices among debris
+T25	Habitat 689 699	in seaweed
+T26	Taxon 907 916	Stonefish
+T27	Habitat 936 945	tidepools
+T28	Habitat 950 961	shoal areas
+T29	Taxon 1398 1410	scorpionfish
+T30	Habitat 2230 2238	crevices
+T31	TemporalExpression 3500 3510	30 minutes
+T32	TemporalExpression 3517 3521	hour
+T33	Taxon 4437 4447	sea snakes
+T34	Taxon 4598 4608	sea snakes
+T35	Taxon 4635 4641	cobras
+T36	Taxon 4909 4919	sea snakes
+T37	Taxon 5044 5054	sea snakes
+T38	Taxon 5324 5328	eels
+T39	Taxon 5362 5372	sea snakes
+T40	Habitat 5585 5599	coastal waters
+T41	Habitat 5624 5641	near river mouths
+T42	Habitat 5684 5698	brackish water
+T43	Habitat 5771 5782	along shore
+T44	Habitat 5787 5804	among coral reefs
+T45	Taxon 6018 6028	sea snakes
+T46	Taxon 6100 6110	king cobra
+T47	Taxon 6275 6285	sea snakes
+T48	TemporalExpression 6384 6389	hours
+T49	Taxon 6526 6530	eels
+T50	Taxon 6631 6641	sea snakes
+T51	Habitat 6923 6937	coastal waters
+T52	Taxon 6980 6990	sea snakes
+T53	GeographicalLocation 7119 7135	tropical America
+T54	GeographicalLocation 7021 7033	Asian waters
+T55	GeographicalLocation 7056 7075	Japanese east coast
+T56	Taxon 7141 7150	sea snake
+T57	GeographicalLocation 7263 7287	north coast of Australia
+T58	GeographicalLocation 7346 7353;7365 7371	Pacific Oceans
+T59	GeographicalLocation 7397 7402	Samoa
+T60	GeographicalLocation 7458 7473	western Pacific
+T61	GeographicalLocation 7534 7542	Atlantic
+T62	GeographicalLocation 7481 7488	Ryukyus
+T63	GeographicalLocation 7493 7498	Japan

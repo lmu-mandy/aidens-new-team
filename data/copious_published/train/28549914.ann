@@ -1,0 +1,50 @@
+T1	Person 0 6	Ashton
+T2	Person 51 57	Alston
+T3	Person 73 79	Ashton
+T4	Person 92 97	Lewis
+T5	Person 113 119	Ashton
+T6	Person 193 198	Lewis
+T7	Person 207 213	Alston
+T8	GeographicalLocation 322 333	Hunasgiriya
+T9	TemporalExpression 347 357	April 1851
+T10	TemporalExpression 362 371	Oct. 1850
+T11	GeographicalLocation 459 467	Knuckles
+T12	TemporalExpression 469 479	Sept. 1858
+T13	Person 584 592	Thwaites
+T14	TemporalExpression 627 631	1854
+T15	GeographicalLocation 637 648	Hunasgiriya
+T16	GeographicalLocation 796 804	Knuckles
+T17	Person 861 868	Brandis
+T18	Person 892 895	Ash
+T19	TemporalExpression 896 901	March
+T20	Person 940 955	Balasubramaniam
+T21	GeographicalLocation 962 970	Hauirahi
+T22	TemporalExpression 972 976	Oct.
+T23	Person 990 1001	Kosterman.s
+T24	TemporalExpression 1033 1043	Sept. 1888
+T25	Person 1057 1062	Silva
+T26	GeographicalLocation 1067 1075	Knuckles
+T27	TemporalExpression 1077 1081	Nov.
+T28	GeographicalLocation 1104 1112	Knuckles
+T29	TemporalExpression 1114 1124	Sept. 1858
+T30	GeographicalLocation 1153 1164	Hunasgiriya
+T31	TemporalExpression 1166 1176	April 1851
+T32	Taxon 1195 1233	Stemonoporus acuminatus (Thw.) Beddome
+T33	Taxon 1195 1218	Stemonoporus acuminatus
+T34	GeographicalLocation 1638 1645	Hadulla
+T35	Taxon 1653 1664	S. gardneri
+T36	Person 1869 1875	Ashton
+T37	Taxon 1915 1932	Valeria acuminata
+T38	Taxon 1915 1936	Valeria acuminata Thw
+T39	Person 2006 2010	Dyer
+T40	Taxon 2072 2087	Valeria jucunda
+T41	Taxon 2072 2100	Valeria jucunda Thw. ex Dyer
+T42	Taxon 2177 2193	Vatica acuminata
+T43	Taxon 2177 2206	Vatica acuminata (Thw.) A. DC
+T44	Person 2261 2265	Dyer
+T45	Taxon 2269 2288	Vesquella acuminata
+T46	Taxon 2269 2300	Vesquella acuminata (Thw.) Heim
+T47	Taxon 2450 2465	Valeria jucunda
+T48	Taxon 2450 2478	Valeria jucunda Thw. ex Dyer
+T49	Taxon 2544 2564	Sunapteopsis jucunda
+T50	Taxon 2544 2602	Sunapteopsis jucunda (Thw., Heim -combination not printed)

@@ -1,0 +1,47 @@
+T1	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T2	Taxon 139 154	Philippine deer
+T3	GeographicalLocation 206 224	Philippine Islands
+T4	Taxon 761 777	USSA AMBROSIANUS
+T5	Taxon 761 783	USSA AMBROSIANUS Heude
+T6	Taxon 791 813	Ussa ambrosianus Heude
+T7	Taxon 791 807	Ussa ambrosianus
+T8	GeographicalLocation 874 885	Nueva Ecija
+T9	GeographicalLocation 887 892	Luzon
+T10	Taxon 894 916	Ussa atheneensis Heude
+T11	Taxon 924 946	Ussa atheneensis Heude
+T12	Taxon 894 910	Ussa atheneensis
+T13	Taxon 924 940	Ussa atheneensis
+T14	GeographicalLocation 1010 1015	Luzon
+T15	Taxon 1017 1032	Ussa barandanus
+T16	Taxon 1017 1038	Ussa barandanus Heude
+T17	Taxon 1046 1061	Ussa barandanus
+T18	Taxon 1046 1067	Ussa barandanus Heude
+T19	GeographicalLocation 1130 1137	Mindoro
+T20	Taxon 1139 1153	Ussa baryceros
+T21	Taxon 1139 1159	Ussa baryceros Heude
+T22	Taxon 1167 1181	Ussa baryceros
+T23	Taxon 1167 1187	Ussa baryceros Heude
+T24	GeographicalLocation 1251 1260	La Laguna
+T25	GeographicalLocation 1265 1273	Batangas
+T26	GeographicalLocation 1275 1280	Luzon
+T27	Taxon 1282 1304	Melanaxis basilanensis
+T28	Taxon 1282 1310	Melanaxis basilanensis Heude
+T29	Taxon 1318 1340	Melanaxis basilanensis
+T30	Taxon 1319 1346	elanaxis basilanensis Heude
+T31	GeographicalLocation 1409 1423	Basilan Island
+T32	Taxon 1425 1441	Ussa brachyceros
+T33	Taxon 1455 1471	Ussa brachyceros
+T34	Taxon 1455 1477	Ussa brachyceros Heude
+T35	Taxon 1425 1447	Ussa brachyceros Heude
+T36	GeographicalLocation 1540 1548	Batangas
+T37	GeographicalLocation 1550 1555	Luzon
+T38	Taxon 1557 1576	Melanaxis breyiceps
+T39	Taxon 1557 1582	Melanaxis breyiceps Heude
+T40	Taxon 1590 1609	Melanaxis breviceps
+T41	Taxon 1590 1615	Melanaxis breviceps Heude
+T42	GeographicalLocation 1678 1692	Masbate Island
+T43	Taxon 1694 1717	Hyelaphus calamianensis
+T44	Taxon 1731 1754	Hyelaphus calamianensis
+T45	Taxon 1694 1723	Hyelaphus calamianensis Heude
+T46	Taxon 1731 1760	Hyelaphus calamianensis Heude
+T47	GeographicalLocation 1823 1831	Calamian

@@ -1,0 +1,83 @@
+T1	GeographicalLocation 14 32	PHILIPPINE ISLANDS
+T2	GeographicalLocation 699 710	East Indies
+T3	GeographicalLocation 1100 1112	Alimango Bay
+T4	GeographicalLocation 1114 1127	Burias Island
+T5	GeographicalLocation 1164 1179	Atulayan Island
+T6	GeographicalLocation 1181 1193	Lagonoy Gulf
+T7	GeographicalLocation 1276 1288	Atulayan Bay
+T8	GeographicalLocation 1339 1354	Endeavor Strait
+T9	GeographicalLocation 1356 1371	Malampaya Sound
+T10	GeographicalLocation 1373 1387	Palawan Island
+T11	GeographicalLocation 1447 1459	Samar Island
+T12	GeographicalLocation 1497 1509	Port Matalvi
+T13	GeographicalLocation 1558 1571	Sulade Island
+T14	GeographicalLocation 1629 1646	Tapiantana Island
+T15	GeographicalLocation 1648 1666	south of Zamboanga
+T16	GeographicalLocation 1709 1722	Bumbum Island
+T17	GeographicalLocation 1736 1746	Darvel Bay
+T18	GeographicalLocation 1748 1754	Borneo
+T19	GeographicalLocation 1825 1835	Darvel Bay
+T20	GeographicalLocation 1837 1843	Borneo
+T21	GeographicalLocation 1892 1906	Talisse Island
+T22	GeographicalLocation 1908 1924	north of Celebes
+T23	Taxon 2021 2043	PLECTROPOMUS MACULATUS
+T24	Taxon 2052 2070	Bodianus maculatus
+T25	Person 2161 2168	Walbaum
+T26	Taxon 2372 2393	Plectropoma maculatum
+T27	GeographicalLocation 2719 2728	Cape York
+T28	GeographicalLocation 2730 2740	Queensland
+T29	GeographicalLocation 715 726	Philippines
+T30	TemporalExpression 1129 1142	March 5, 1909
+T31	TemporalExpression 1213 1226	June 17, 1909
+T32	GeographicalLocation 1195 1211	east coast Luzon
+T33	GeographicalLocation 1290 1295	Luzon
+T34	TemporalExpression 1297 1310	June 18, 1909
+T35	TemporalExpression 1389 1397	December
+T36	TemporalExpression 1402 1406	1908
+T37	GeographicalLocation 1433 1445	Gigoso Point
+T38	TemporalExpression 1461 1474	July 28, 1909
+T39	GeographicalLocation 1511 1516	Luzon
+T40	TemporalExpression 1518 1535	November 23, 1908
+T41	GeographicalLocation 1582 1586	Jolo
+T42	TemporalExpression 1588 1606	September 17, 1909
+T43	TemporalExpression 1668 1686	September 13, 1909
+T44	TemporalExpression 1756 1774	September 25, 1909
+T45	GeographicalLocation 1800 1811	Amil Island
+T46	TemporalExpression 1845 1863	September 26, 1909
+T47	TemporalExpression 1926 1942	November 9, 1909
+T48	GeographicalLocation 1973 1985	Kayoa Island
+T49	TemporalExpression 1987 2004	November 29, 1909
+T50	Taxon 2021 2051	PLECTROPOMUS MACULATUS (Bloch)
+T51	Taxon 2052 2076	Bodianus maculatus Bloch
+T52	GeographicalLocation 2086 2093	Ausland
+T53	GeographicalLocation 2133 2138	Japan
+T54	GeographicalLocation 2147 2156	Mauritius
+T55	TemporalExpression 2190 2194	1792
+T56	Person 2217 2224	Forster
+T57	Person 2253 2262	Schneider
+T58	Person 2277 2282	Bloch
+T59	TemporalExpression 2284 2288	1801
+T60	GeographicalLocation 2298 2303	Japan
+T61	Person 2308 2316	Lacepede
+T62	Person 2329 2334	Poiss
+T63	TemporalExpression 2344 2348	1802
+T64	GeographicalLocation 2364 2369	Japan
+T65	Taxon 2372 2400	Plectropoma maculatum Cuvier
+T66	Person 2413 2418	Poiss
+T67	GeographicalLocation 2442 2451	Mauritius
+T68	Person 2456 2463	Ruppell
+T69	GeographicalLocation 2484 2490	Afrika
+T70	Person 2492 2498	Fische
+T71	Person 2523 2530	Gunther
+T72	Person 2514 2520	Mohila
+T73	GeographicalLocation 2576 2583	Red Sea
+T74	Person 2588 2596	Playfair
+T75	GeographicalLocation 2608 2616	Zanzibar
+T76	GeographicalLocation 2644 2654	Seychelles
+T77	GeographicalLocation 2631 2639	Zanzibar
+T78	Person 2659 2666	Gunther
+T79	Person 2745 2755	Klunzinger
+T80	Person 2779 2783	Wien
+T81	GeographicalLocation 2808 2814	Koseir
+T82	GeographicalLocation 2816 2823	Red Sea
+T83	Person 2828 2835	Gunther

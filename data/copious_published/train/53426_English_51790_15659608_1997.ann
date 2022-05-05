@@ -1,0 +1,84 @@
+T1	Taxon 148 156	dorsalis
+T2	Taxon 625 634	guentheri
+T3	Taxon 680 701	Platymantis guentheri
+T4	TemporalExpression 839 850	before 1954
+T5	Taxon 1099 1108	guentheri
+T6	Taxon 1134 1141	hazelae
+T7	GeographicalLocation 1264 1282	Philippine Islands
+T8	Person 1303 1309	Taylor
+T9	Taxon 1451 1485	Cornufer (= Platymantis) guentheri
+T10	GeographicalLocation 1539 1553	Dinagat Island
+T11	Person 1604 1610	Taylor
+T12	GeographicalLocation 1646 1653	Bunawan
+T13	GeographicalLocation 1655 1680	Agusan del Norte Province
+T14	GeographicalLocation 1682 1690	Mindanao
+T15	TemporalExpression 1808 1812	1920
+T16	Taxon 1870 1879	guentheri
+T17	Taxon 1887 1906	Cornufer worcesteri
+T18	GeographicalLocation 1912 1919	Mt. Apo
+T19	GeographicalLocation 1923 1937	Davao Province
+T20	GeographicalLocation 1939 1947	Mindanao
+T21	Person 1966 1972	Taylor
+T22	Taxon 2210 2219	guentheri
+T23	Taxon 2224 2231	hazelae
+T24	TemporalExpression 2263 2267	1922
+T25	Person 2341 2346	Inger
+T26	Taxon 2373 2389	Philippine frogs
+T27	Taxon 2406 2418	P. guentheri
+T28	GeographicalLocation 2444 2455	Philippines
+T29	GeographicalLocation 2459 2466	Dinagat
+T30	Taxon 2478 2487	guentheri
+T31	GeographicalLocation 2490 2495	Luzon
+T32	GeographicalLocation 2499 2506	Polillo
+T33	GeographicalLocation 2510 2515	Leyte
+T34	GeographicalLocation 2523 2531	Mindanao
+T35	Taxon 2557 2576	Cornufer worcesteri
+T36	TemporalExpression 2582 2586	1954
+T37	Person 2607 2612	Brown
+T38	Person 2617 2626	A. Alcala
+T39	Taxon 2730 2751	Platymantis guentheri
+T40	GeographicalLocation 2755 2768	Negros Island
+T41	GeographicalLocation 2871 2876	Bohol
+T42	GeographicalLocation 2881 2895	Negros Islands
+T43	Taxon 3197 3208	Platymantis
+T44	Taxon 3213 3222	Philautus
+T45	GeographicalLocation 3289 3301	Dapitan Peak
+T46	GeographicalLocation 3309 3325	Malindang massif
+T47	GeographicalLocation 3327 3346	Zamboanga Peninsula
+T48	GeographicalLocation 3352 3369	Mt. Hilong-hilong
+T49	GeographicalLocation 3373 3394	northeastern Mindanao
+T50	GeographicalLocation 3582 3588	Negros
+T51	GeographicalLocation 3593 3598	Bohol
+T52	GeographicalLocation 3654 3659	Bohol
+T53	GeographicalLocation 3708 3714	Negros
+T54	GeographicalLocation 3883 3889	Negros
+T55	GeographicalLocation 3894 3899	Bohol
+T56	GeographicalLocation 3967 3972	frogs
+T57	GeographicalLocation 4011 4028	Cuernos de Negros
+T58	GeographicalLocation 4030 4045	southern Negros
+T59	TemporalExpression 4049 4053	1996
+T60	Taxon 4107 4118	negrosensis
+T61	Taxon 4188 4197	guentheri
+T62	Taxon 4201 4206	rabor
+T63	GeographicalLocation 4233 4238	Bohol
+T64	GeographicalLocation 4343 4360	Mt. Hilong-hilong
+T65	GeographicalLocation 4369 4390	northeastern Mindanao
+T66	Taxon 4596 4606	luzonensis
+T67	Taxon 4611 4618	banahao
+T68	GeographicalLocation 4624 4635	Mt. Banahao
+T69	GeographicalLocation 4640 4653	Mt. Maquiling
+T70	TemporalExpression 747 751	1882
+T71	TemporalExpression 752 756	1996
+T72	TemporalExpression 1066 1070	1882
+T73	TemporalExpression 1074 1078	1954
+T74	TemporalExpression 1367 1371	1912
+T75	TemporalExpression 1372 1377	1 922
+T76	TemporalExpression 2027 2031	1912
+T77	TemporalExpression 2032 2036	1922
+T78	Habitat 2107 2119	forest floor
+T79	Habitat 2124 2133	low shrub
+T80	Habitat 2138 2142	tree
+T81	Habitat 2170 2178	arboreal
+T82	TemporalExpression 3057 3075	more than a decade
+T83	TemporalExpression 3077 3081	1956
+T84	TemporalExpression 3082 3086	1972

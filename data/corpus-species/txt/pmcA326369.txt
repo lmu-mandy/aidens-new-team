@@ -1,0 +1,692 @@
+Preparation of oligodeoxyribonucleoside methylphosphonates on a polystyrene support.
+Abstract
+An efficient procedure is described for synthesizing deoxyribonucleoside methylphosphonates on polystyrene polymer supports which involves condensing 5'-dimethoxytrityldeoxynucleoside 3'-methylphosphonates. The oligomers are removed from the support and the base protecting groups hydrolyzed by treatment with ethylenediamine in ethanol, which avoids hydrolysis of the methylphosphonate linkages. Two types of oligomers were synthesized: those containing only methylphosphonate linkages, d-Np(Np)nN, and those which terminate with a 5' nucleotide residue, dNp (Np)nN. The latter oligomers can be phosphorylated by polynucleotide kinase, and are separated by polyacrylamide gel electrophoresis according to their chain length. Piperdine randomly cleaves the oligomer methylphosphonate linkages and generates a series of shorter oligomers whose number corresponds to the length of the original oligomer. Apurinic sites introduced by acid treatment spontaneously hydrolyze to give oligomers which terminate with free 3' and 5' OH groups. These reactions may be used to characterize the oligomers.Images
+
+
+
+
+
+
+ Vlue1Nubr1193NcecAisRsah 
+
+ Preparation of oligodeoxyribonucleoside methylphosphonates on a polystyrene support P.S.Miller, C.H.Agris, A.Murakami, P.M.Reddy, S.A.Spitz and P.O.P.Ts'o 
+
+ Division of Biophysics, Johns Hopkins University, School of Hygiene and Public Health, Baltimore, MD 21205, USA 
+
+ Received 26 July 1983; Accepted 5 September 1983 
+
+ ABSTRACT 
+
+ An efficient procedure is described for synthesizing deoxyribonucleoside methylphosphonates on polystyrene polyner supports which involves condensing 5'-dimethoxytrityldeoxynucleoside 3'-methylphosphonates.  The oligomers are removed from the support and the base protecting groups hydrolyzed by 
+
+ treatment with ethylenediamine in ethanol, which avoids hydrolysis of the 
+
+ methylphosphonate linkages. Two types of oligomers were synthesized: those containing only methylphosphonate linkages, d-Np(Np) N, and those which 
+
+ terminate with a 5' nucleotide residue, dNp(Np)N.-J he latter oligomers can be phosphorylated by polynucleotide kinase, and are separated by 
+
+ polyacrylamide gel electrophoresis according to their chain length.  Piperdine randomly cleaves the oligomer methylphosphonate linkages and generates a 
+
+ series of shorter oligomers whose number corresponds to the length of the 
+
+ original oligomer. Apurinic sites introduced by acid treatment spontaneously hydrolyze to give oligomers which terminate with free 3' and 5' OH groups. These reactions may be used to characterize the oligomers. 
+
+ INTRODUCTION 
+
+ Oligonucleoside methylphosphonates have been used to st-udy the function of specific RNA sequences in biochemical and intact cellular systems (1,2). 
+
+ Since these nonionic nucleic acid analogs can be taken up intact by mammalian cells and certain bacterial cells in culture, these compounds promise to be useful reagents for exploring and regulating the function of nucleic acids within living cells. 
+
+ In order to carry out more extensive biochemical and biological studies, an efficient method for synthesis of oligonucleoside methylphosphonates of defined sequence is needed. Previously we described the synthesis of 
+
+ methylphosphonate analogs on a silica gel support (3). Protected nucleoside 3'-methylphosphonic chlorides or tetrazolides were used as synthetic 
+
+ intermediates. While oligothymidine methylphosphonates could be efficiently synthesized by this procedure, low yields were encountered when other 
+
+ nucleosides, particularly d-[(MeO)2Tr]ibuG were used. Recently Sinha et al. 
+
+ ?) I RL Press Limited, Oxford, England. 
+
+ Nucleic Acids Research 
+
+ Volume 1 1 Number 18 1983 
+
+ 6225 
+
+ Nucleic Acids Research 
+
+ described the preparation of oligonucleoside methylphosphophonates on a glass support using nucleoside 3'-methylphosphine chlorides as reactive intermediates (4). 
+
+ In this paper we describe a set of useful methods for the synthesis and analysis of these analogs. The synthesis involves condensation of protected nucleoside 3'-methylphosphonate triethylammonium salts with nucleosides or 
+
+ oligomers linked to a polystyrene support. This method has proven to be easy to use and allows relatively rapid synthesis of oligomers of defined sequence up to nine nucleosides in length. We have also developed conditions for the 
+
+ efficient removal of base protecting groups and subsequent purification of the oligomers. A novel hydrolysis reaction which can be used as a basis for 
+
+ characterizing and sequencing these oligonucleotide analogs occurs at apurinic sites created by acid treatment of the oligomers. EXPERIMENTAL 
+
+ Materials and Methods 
+
+ Protected nucleosides, d-[(MeO)2Tr]N, were purchased from P.L. 
+
+ Biochemicals and were used without further purification. Protected nucleoside 3'-methylphosphonate triethylammoni um salts, d-[(MeO)2Tr]Np*Et3NH, were 
+
+ prepared as previously described (3). 5-Dimethoxytrityl protected nucleosides esterified to 1% or 2% crosslinked polystyrene were purchased from Chem Genes Inc. The nucleoside loading level was 40 to 120 pmol of 
+
+ nucleoside/g of support. Mesitylenesulfonyl-3-nitrotriazole (MSNT) was purchased from Vega Biochemicals. Anhydrous pyridine was prepared by 
+
+ refluxing previously purified pyridine (5) over calcium hydride chips for several hours followed by distillation onto calcium hydride chips in 5 ml V-vials fitted with Teflon-lined septum caps (Wheaton Scientific). 
+
+ Lyophilized spleen phosphodiesterase was obtained from P.L. Biochemicals. T-4 polynucleotide kinase and [y-32P]-ATP were obtained from New England Nuclear. Reversed phase high performance liquid chromatography (HPLC) was carried out on Whatman Inc. C-18 (ODS-3) columns (0.4 x 25 cm). Analytical columns were 
+
+ eluted with 50 ml linear gradients of acetonitrile in water or acetonitrile in 0.1 M ammonium acetate (pH 5.8) at a flow rate of 2.5 ml/min. The eluate was 
+
+ monitored at 254 nm. The following molar extinction coefficients were used at 254 nm: d-T 7,250, dA 13,270, dC 6,260, dG 13,700. Unless otherwise noted, all reactions and operations were carried out at room temperature. 
+
+ General Procedure for Preparing Oligonucleoside Methylphosphonates. The 
+
+ following procedure represents the current method used in our laboratory to 
+
+ 6226 
+
+ Nucleic Acids Research 
+
+ synthesize methylphosphonate oligomers. Table I lists some of the oligomers which have been synthesized on polystyrene supports.  Oligomers 7, 8, and 10 were synthesized as described below. The other oligomers were synthesized in essentially the same manner except the condensation reactions were run in 1 ml V-vials or in glass reaction columns purchased from Bachem Inc. When the 
+
+ reactions were run in V-vials, the support was dried by several evaporations 
+
+ with anhydrous pyridine in the V-vial (3). When the reactions were run in the glass reaction column, the support was dried by a single evaporation with anhydrous pyridine overnight at room temperature. 
+
+ Synthesis of Protected Oligonucleoside Methylphosphonates. The synthetic 
+
+ reactions are most conveniently carried out in a polypropylene col umn (Bio Rad Econo column) fitted with a Teflon 3-way valve (Bio Rad) and a rubber septum cap (Wheaton Scientific). During washing operations, the septum cap is removed and the 3-way valve is connected to a filter flask via a Luerer 
+
+ adaptor and tubing set (Bio Rad). Generally vacuum is not required to wash 
+
+ the support. During the drying step, one port of the 3-way valve is connected to a cold trap and vacuum pump via the barrel of a 1 ml plastic syringe. The other port is connected to a Drierite column filled with dry argon. 
+
+ A reaction cycle consists of the following 10 steps: 1) The support (60 mg, 1% crosslinked) in the column is washed with three 2 ml portions of 
+
+ methylene chloride/isopropanol (85:15, v/v). 2) The support is treated with 2 ml of 1 M zinc bromide in methylene chloride/isopropanol solution.   Two fiveminute treatments are used when the support-bound nucleoside is 
+
+ d-[(MeO)2Tr]bzA or d-[(MeO)2Tr]ibuG, while four treatments are used when the nucleoside is d-[(MeO)2Tr]T or d-[(MeO)2Tr]bzC. After each treatment the 
+
+ orange solution is collected in a clean flask. 3) The support is washed with two 2 ml portions of methylene chloride/isopropanol and the washings are 
+
+ collected in same flask used in step 2). The solution is diluted to 50 ml and a 0.20 ml aliquot is dissolved in 0.80 ml of perchloric acid/ethanol (3:2, 
+
+ v/v). The absorbance is determined at 500 nm and the amount of trityl cation is determined using a molar extinction coefficient of 89,000. 4) The column is attached to a waste flask and the support is washed with three 2 ml 
+
+ portions of 0.5 M triethylammonium acetate in dimethylformamide; three 2 ml 
+
+ portions of anhydrous pyridine and three 2 ml portions of diethyl ether. 5) The column is fitted with the septum cap and set up in the drying mode under 
+
+ house vacuum for at least 5 min. 6) The support is dried by adding 300 jl of anhydrous pyridine via a gas tight syringe (Hamilton). After the support has swollen, the vacuum (oil pump) is applied and the support is warmed with a 
+
+ 6227 
+
+ Nucleic Acids Research 
+
+ stream of air from a hair dryer.  Evaporation is continued for 10 min.  Dry argon is then admitted and the drying operation is repeated two more times. 
+
+ 7) The coupling mixture is prepared by dissolving 0.20 mmol of MSNT in 320 pl of anhydrous pyridine. The solution is then transferred to the vial 
+
+ containing 0.06 mmol of d-[(MeO)2Tr]Np-Et3NH. The nucleotide is dissolved by vortexing and the coupling solution is then added dropwise to the support. It is important to add the solution slowly and to allow the support to swell. 
+
+ Trapped gas bubbles may be removed by gently tapping the column. This entire operation is carried out using one predried syringe. The syringe is left in 
+
+ the V-vial while the reagents are being dissolved. 8) The reaction mixture is kept at room temperature for two hrs. 9) The column is set up in the 
+
+ washing mode and the support is washed with three 2 ml portions of anhydrous pyridine. The solution, which contains unreacted nucleoside 
+
+ 3'-methylphosphonate and MSNT, is collected in a separate flask. A 50% 
+
+ aqueous pyridine solution (1 ml) is added and the solution is kept at 40C for 
+
+ later purification and recovery of d-[(MeO)2Tr]Np. 10) The support is treated with a solution containing 2 ml of anhydrous pyridine, 1 ml of acetic 
+
+ anhydride and 20 mg of dimethylaminopyridine for 30 min. (This step was not included for the synthesis of oligomer 10). 11) Return to step 1, for the next cycle. 
+
+ Removal of Base Protecting Groups. The following general procedure was found to be the most effective method for cleaving the oligonucleotide from the 1% crosslinked support and for removing the base protecting groups with minimal hydrolysis of the phosphonate backbone. The following steps were used for 
+
+ deprotecting oligomers 7, 8 and 10. Oligomer 9 was deprotected in a similar 
+
+ fashion except step 4) was carried out at 650C for 3 hrs. For oligomers 1-6, step 3) was not included and step 4) was carried out at 650 for 3 hrs. 
+
+ 1) After the final condensation step the support (60 mg) is washed with three 2 ml portions of anhydrous pyridine; three 2 ml portions of methylene 
+
+ chloride/isopropanol and three 2 ml portions of diethyl ether. The support is then dried under house vacuum. 2) The support is swollen by addition of 2 ml of pyridine and the excess is removed under house vacuum. 3) The support is treated with 3 ml of 0.017 M tetra-n-butylammonium fluoride in 
+
+ tetrahydrofuran/pyridine/water (8:1:1, v/v) for 40 hrs at room temperature. 
+
+ No shaking is required. The support is then washed with three 2 ml portions of 50% pyridine/water; three 2 ml portions of pyridine; and three 2 ml 
+
+ portions of methylene chloride/isopropanol. 4) The support is treated with 3 ml of ethylenediamine/ethanol (1:1, v/v) for 7 hrs at room temperature 
+
+ 6228 
+
+ Nucleic Acids Research 
+
+ without shaking. The solution is collected and the support is washed with 
+
+ four 2 ml portions of pyridine/ethanol (1:1, v/v) and four 2 ml portions of N,N-dimethylformamide. The combined eluate and washings are evaporated at 250C and the oily residue is co-evaporated several time with 50% aqueous ethanol. 
+
+ Purification of Oligonucleoside Methylphosphonates. For oligomers which 
+
+ contain only methylphosphonate linkages (1-6), the residue from step 4) of the previous section is dissolved in a small volume of 50% aqueous ethanol. The solution is chromatographed on a C-18 reversed phase column (0.46 cm x 25 cm 
+
+ for 100 A254 units or less; 0.9 cm x 50 cm for more than 100 A254 units) using a linear gradient of 0% to 25% (8-mer or less) or 0% to 35% (9 mer) 
+
+ acetonitrile in water to remove non-tritylated oligomers. The desired 
+
+ tritylated oligomer is eluted with 50% acetonitrile in water. The solvents are evaporated and the residue is treated with 1 ml of 80% acetic acid in water for 1 hr at room temperature. The solvents are evaporated and the 
+
+ residue is repeatedly evaporated with ethanol to ensure complete removal of 
+
+ acetic acid. The oligomer is then purified by C-18 reversed phase HPLC using a 0% to 25% or 30% acetonitrile in water gradient. 
+
+ For oligomers which terminate with a 5'-nucleoside phosphodiester linkage (7-10) the residue from step 4) described in the preceeding section is treated with 80% acetic acid in water for 15 min at room temperature. After removal of the acetic acid by evaporation, the residue is dissolved in 20 ml of 50% aqueous ethanol and the solution is passed through a DEAE cellulose column (2.5 x 8 cm, bicarbonate form) which has been previously washed with 50% aqueous ethanol. The column is monitored at 254 nm and washed with 50% 
+
+ aqueous ethanol until the pen returns to the baseline. The desired oligomer is then eluted with 0.15 M triethylammonium bicarbonate in 50% aqueous 
+
+ ethanol. The buffer is removed by evaporation and co-evaporated with 50% 
+
+ aqueous ethanol. The oligomer is then further purified by C-18 reversed phase HPLC using a 0% to 30% acetonitrile in 0.10 M ammonium acetate (pH 5.8) 
+
+ gradient. The oligomer is freed of ammonium acetate by desalting on a Bio-Gel P-2 column (1.5 x 20 cm). 
+
+ Removal of the 5'-Terminal Nucleotide Unit. Oligomers which terminate with a 5'-nucleotide phosphodiester may be converted to the oligonucleoside 
+
+ methylphosphonate by the following procedure. The oligomer (3 A254 units) is dissolved in 40 pl of water and treated at 370C for 2 hrs with 10 PI (1-2 
+
+ units) of spleen phosphodiesterase dissolved in water. The completeness of the reaction is determined by reversed phase HPLC. The solution is then 
+
+ 6229 
+
+ Nucleic Acids Research 
+
+ diluted with 50 ul of water and passed through a DEAE cellulose column (0.5 x 1 cm).  The column is washed with 500 Pl of water and the oligomer is recovered by lyophilization. 
+
+ Recovery of Protected Nucleoside 3'-Methylphosphonates.  The aqueous pyridine solution from step 9) described in General Procedure for Preparing 
+
+ Oligonucleoside Methylphosphonates, is evaporated after addition of 0.1 ml of triethylamine. The residue is dissolved in 50 ml of chloroform and the 
+
+ solution is extracted twice with 50 ml of 1 M ammonium bicarbonate. The 
+
+ chloroform layer is dried over anhydrous sodium sulfate. Several drops of triethylamine are added to clarify the solution.  After filtration the 
+
+ solvents are evaporated and the residue is evaporated with three 2 ml portions of anhydrous pyridine on an oil pump. The foamy residue is dissolved in 2 ml of dry methylene chloride and the solution is added dropwise to a stirred solution of 1% triethylamine in hexane.  The resulting precipitate is 
+
+ collected via filtration on a sintered glass filter, washed with hexane and dried in a vacuum desiccator. 
+
+ Removal of Base Protecting Groups with Ethylenediamine. Several mg of 
+
+ d-I[(MeO)2Tr]bzA, d-[(MeO)2Tr]bzC and d-[(MeO)2Tr]ibu G were each dissolved in 250 pl of ethylenediamine/ethanol (1:1,v/v). The solutions were incubated at room temperature. At various times aliquots were chromatographed on silica gel TLC plates which were eluted with 10% methanol in chloroform. The spots corresponding to the starting material and the product were cut out and 
+
+ treated with 1.5 ml of perchloric acid/ethanol (3:2, v/v) for 30 min. The 
+
+ absorbance of each solution was measured at 500 nm and the percent reaction was determined. The half-lives of the reactions are given in Table II. Removal of Protected- Nucleosides from Polystyrene Support. Five mg of d-[(MeO)2Tr]T(ED(1% crosslinked), d-[(MeO)2Tr]bzA O?(1% crosslinked), 
+
+ d-[(MeO)2Tr]bzC(?)(1% and 2% crosslinked) and d-[(MeO)2Tr]ibuGcD(1% and 2% crosslinked) were each treated with 500 ul of ethylenediamine/ethanol (1:1, v/v) solution at room temperature. At various times, 10 pl aliquots were 
+
+ removed, the solvent was evaporated and the residue was dissolved in 1 ml of perchloric acid/ethanol solution (3:2, v/v). The amount of dimethoxytrityl cation and hence the amount of nucleoside cleaved from the support was 
+
+ determined by measuring the absorbance at 500 nm. The half lives of the cleavage reactions are given in Table II. 
+
+ Hydrolysis of the Methylphosphonate Linkage by Ethylenediamine. 
+
+ Oligonucleoside methylphosphonates (1.25 A254 units each) were treated with 50 il of ethylenediamine/ethanol (1:1, v/v) at room temperature. Aliquots 
+
+ 6230 
+
+ Nucleic Acids Research 
+
+ (10 pl) were withdrawn at various times and the solvents were evaporated. The residue was dissolved in 20 PI of 50% aqueous ethanol and the solution 
+
+ examined by C-18 reversed phase HPLC using a 0% to 25% acetonitrile in water gradient. The mole percent of starting oligomer remaining after 100 hrs of treatment is given in Table III. 
+
+ Hydrolysis of Oligonucleoside Methylphosphonates in Acid. Six A254 units of oligomer were dissolved in 100 pl of 0.01 M hydrochloric acid solution. The 
+
+ solution was heated at either 450 or 650C. Aliquots (10 Pil) were withdrawn at various times and added to 10 pl of 0.015 M ammonium hydroxide at 0?C. The samples were then injected directly onto a C-18 reversed phase column which 
+
+ was eluted with 50 ml of a linear gradient of 0% to 25% acetonitrile in water 
+
+ at a flow rate of 2.5 ml/min. The products of the reaction were determined by comparison with authentic samples. 
+
+ Labeling 5'-End of Oligonucleoside Methylphosphonates with T4-Polynucleotide Kinase. Oligonucleoside methylphosphonates (2 nmol) were dissolved in a buffer solution containing 50 mM Tris-HC1 (pH 9.0), 10 mM MgCl2, 5 mM dithiothreitol, 20 pM spermidine, and [y-32P]ATP (8 ljCi, 4Ci/mmol). 
+
+ T4-polynucleotide kinase (4 units) was added to the solution, which was made up to 50 ul by adding water. The solutions were incubated at 370C for 2 hrs. The reaction was checked by PEI-cellulose TLC. The PEI-cellulose plate 
+
+ (12x2Ocm, Merck) was preactivated by elution with 1.2 M pyridinium formate (pH 3.5). Small aliquots (0.1 pl) of PNK reaction solutions were applied and 
+
+ developed with 1.5 M pyridinium formate (pH 3.5). The TLC plate was dried and autoradiographed using an intensifying screen at room temperature. 
+
+ Gel Electrophoresis of 5'-Labeled Oligonucleoside Methylphosphonates. 
+
+ Polyacrylamide gels were prepared by polymerizing a solution containing 18% (w/v) acrylamide, 0.8% (w/v) N,N'-methylenebisacrylamide. 7M urea, 89 mM Tris-borate (pH 8.2), 2 mM EDTA, 0.07% (w/v) ammonium persulfate, in the 
+
+ presence of N,N,N',N'-tetramethylethylenediamine (20 Pil/20 ml solution). The 
+
+ solution was poured into a 0.75 x 140 x 150 mm mold and allowed to polymerize for 2 hrs at room temperature. 5'-Labeled oligonucleoside methylphosphonates were dissolved in 10% aqueous glycerol solution containing 0.04% bromophenol blue and applied to the gel. The electrophoresis was run using 89 mM 
+
+ Tris-Borate buffer containing 10 mM EDTA. After electrophoresis the gel was dried using a gel-dryer and autoradiographed using intensifying screens at room temperature. 
+
+ Pa rti al Cl eavage of 01 i gonucl eosi de Methyl phosphonates wi th Hydrochl ori c Aci d or Piperidine. Aliquots (1 ,jl) from the polynucleotide kinase reaction 
+
+ 6231 
+
+ Nucleic Acids Research 
+
+ mixture were incubated with 1 il of 1 M hydrochloric acid at 37?C for 30 min. After incubation the solution was neutralized with 1 Pl of 1 M ammonium 
+
+ hydroxide and then allowed to stand at room temperature for 10 min before cooling to 00. Alternatively, aliquots (1 pl) from the phosphorylation 
+
+ reaction were incubated with 1 ul of 1 M aqueous piperidine at 370C for 10 min after which the solution was cooled to 0? and evaporated. The treated 
+
+ samples were then subjected to polyacrylamide gel electrophoresis as described above without further purification. 
+
+ RESULTS AND DISCUSSION 
+
+ Synthesis of Protected Oligonucleoside Methylphosphonates. Table I shows some of the protected oligonucleoside methylphosphonates which have been 
+
+ synthesized on aminomethyl succinyl-derivatized polystyrene supports. The basic synthetic steps which are shown in Figure 1 are described in detail in the Experimental section. These steps are: (1) removal of the 
+
+ dimethoxytrityl group with 1 M zinc bromide solution; (2) drying the support 
+
+ via co-evaporation with anhydrous pyridine; (3) reaction of the support-bound 
+
+ nucleoside or oligonucleotide with a coupling mixture containing 0.15 to 0.2 M d-[(MeO)2Tr)-NpjEt3NH and 0.3 to 0.6 M mesitylenesulfonyl-3-nitrotriazole in anhydrous pyridine and (4) acetylation of unreacted 5'-OH groups with acetic 
+
+ anhydride. The reactions and washing steps were most conveniently carried out in a polypropylene Econo Column fitted with a septum cap and a 3-way Teflon 
+
+ DMTrO ,O                               Figure 1: Preparation of Protected 
+
+ Oligonucleoside Methylphosphonates on a 1   T  o   w             Polystyrene Support 
+
+ 0 
+
+ H BFvON     DlDTrOjO4B 
+
+ U )I               CH3-gd-OEt 3NH 
+
+ 0 
+
+ 6232 
+
+ Nucleic Acids Research 
+
+ stopcock. Thus no transfers of the support are required using this apparatus. 
+
+ The synthetic procedure is analogous to the phosphotriester approach used to prepared protected oligonucleotide phosphotriesters on polystyrene supports (6). However, we found the methylphosrhonate coupling reaction to be 
+
+ extremely sensitive to moisture. Drying procedures such as washing with 
+
+ anhydrous solvent or blowing dry nitrogen gas through the support which are satisfactory for phosphotriester synthesis resulted in low yields of the methylphosphonates. The best yields were obtained when the support was 
+
+ co-evaporated with anhydrous pyridine by directly attaching the reaction 
+
+ column to a vacuum pump and dry-ice trap. Three 10 min co-evaporations were sufficient to render the support anhydrous. 
+
+ The protected nucleoside 3'-methylphosphonate triethylammonium salts used in the coupling reactions were prepared from their cyanoethyl ester 
+
+ derivatives (3). These monomers were recovered after each coupling step and 
+
+ were freed of unreacted MSNT by a simple extraction step. After precipitation and drying, the monomers could be reused for other syntheses. The ability to recover the unreacted monomers is particularly important for large scale 
+
+ synthesis since large excesses of these materials are employed in the coupling step. This recovery step represents a potential advantage over the phosphine synthetic method (4), since it is not clear that nucleoside 3'-methylphosphine chlorides can be recovered after reaction. 
+
+ Two types of methylphosphonate oligomers were prepared; those which contain only methylphosphonate linkages, oligomers 1-6, and those which terminate with a 5'-nucleoside 3'-p-chlorophenyl phosphotriester moiety, 
+
+ oligomers 7-10. Oligomers were synthesized on both 1% and 2% crosslinked 
+
+ supports. As shown in Table I, the average yield per coupling step which was determined by trityl group analysis was approximately 82%, for both types of 
+
+ support. This yield is adequate to allow preparation of protected octamers or nonamers in 25% and 20% overall yield, respectively. 
+
+ Deprotection. Our previous studies (1) and those of Sinha et al. (4) show 
+
+ that methylphosphonate linkages are cleaved by base. We found this hydrolysis reaction to depend to some extent upon the nucleoside sequence of the 
+
+ oligomer. Hydrolysis of methylphosphonate linkages by concentrated ammonium hydroxide in pyridine (1:1 v/v), the reagent commonly used to remove 
+
+ oligonucleotide base protecting groups, can be largely suppressed if the 
+
+ reactions are run at 0?C (1). However, these conditions are unsatisfactory for removal of oligonucleoside methylphosphonates from the polystyrene 
+
+ 6233 
+
+ Nucleic Acids Research 
+
+ Table I.   Syntheses of Protected Oligonucleoside Methylphosphonates on 
+
+ Polystyrene Supports 
+
+ Support   Average cross-    yield Protected oligomer (a)                      linking    per 
+
+ (%)       coupling 
+
+ step (%) 
+
+ 1  d- [ (MeO) 2Tr]bzCpbzCpbzApT-O                              1         81 2  d-[(MeO)2Tr]ibuGpbzCpbzCpbzApT-                             1         82 3  d- [ (MeO) 2Tr]bzCpbzApi buGpi buGpTpbzApbzA-G1i            2         83 4  d-[(MeO)2Tr]bzCLpTpT bzApbzCpbzCpTpibuG- ?                  2         85 5  d-[(MeO)2Tr]TpbzCpbzCpTpbzCpbzCpTpibuG-(?                   2         86 6  d-[(MeO)2Tr]TpTpTpbzApbzCpbzCpTpT-?                         1         83 7  d-[(MeO)2Tr]bzApbzApbzA-?                                   1         83 8  d-[(MeO)2Tr]bzA4bzCpbzCpbzApT-?                             1         81 9  d-[(MeO)2Tr]bzApibuGpbzCpbzApbzApibuG- (                    2         74 10  d-[(MeO)2Tr]bzApbzApbzApbzApibuGpbzCpbzApbzApibuG-(Q        1         86 
+
+ (a)   p = methylphosphonate linkage 
+
+ T = p-chlorophenyl phosphotriester linkage (Q= polystyrene support 
+
+ (b)   Determined by analysis of the dimethoxytrityl group after each 
+
+ coupling step. 
+
+ support. We therefore examined other deprotection procedures. 
+
+ Recently Barnett and Letsinger described removal of base protecting groups from oligonucleotide B,B,0-trichloroethylphosphotriesters using a 
+
+ mixture of ethylenediamine in phenol (7). We have found ethylenediamine in ethanol (1:1, v/v) rapidly and cleanly removes benzoyl and isobutyryl protecting groups from dA, dC and dG nucleosides. This reagent is 
+
+ particularly attractive since it can be easily removed by evaporation. 
+
+ In our initial investigations, ol igonucleoside methylphosphonates were 
+
+ cleaved from the support and base protecting groups were removed by treatment with ethylenediamine/ethanol (1:1, v/v) at 65?C for 3 hrs. Although 
+
+ preliminary results indicated the methylphosphonate linkages of several dimers were stable to these conditions, we later found that the linkages of onger 
+
+ 6234 
+
+ Nucleic Acids Research 
+
+ Table II.   Hydrolysis of Protected Nucleosides by Ethylenediamine at 220C 
+
+ Protected                       Time required to          Time required to nucleoside                      remove 50% of the         cleave 50% of the 
+
+ base protecting           nucleoside from the groups (min)              1% crosslinked 
+
+ support (min) 
+
+ d-[(MeO)2Tr)bzA                      10                         105 d-[(MeO) 2Tr bzC                     20                         105 d- [ (MeO) 2Tr]i buG                 40                          54 d- [ (MeO) 2Tr]T                     _                          105 
+
+ oligomers were hydrolyzed to various extents by this procedure.  This of 
+
+ course resulted in loss of product as was evidenced by the presence of shorter oligomers in amounts greater than expected based upon the coupling yields. 
+
+ To circumvent this problem we examined the deprotection reactions at lower temperatures and found they could be run effectively at room 
+
+ temperature. Table II shows the half-lives for removing the base protecting groups from nucleosides at room temperature. While the isobutryl protecting group is removed at the slowest rate, all the groups are completely removed within 240 min. The sole product of each reaction is the 5'-O-dimethoxytritylnucleoside as shown by TLC. 
+
+ Table II also shows the half-lives for cleavage of protected nucleosides from the 1% crosslinked support. The deoxyguanosine nucleoside is cleaved 
+
+ most rapidly while the other three nucleosides have essentially the same rates of hydrolysis. All the nucleosides are completely removed from the support within 7 hrs. In contrast, very different rates were observed for the 2% 
+
+ crosslinked supports. In these cases, very little cleavage occurred during the first 4 hrs of incubation after which increasing amounts of nucleoside were released over a 24 hr period. This effect may be due to the slower swelling rate of the 2% crosslinked support versus the 1% support. The 
+
+ results of these experiments suggest that, although condensation reactions 
+
+ occur with equal efficiencies on both the 1% and 2% crosslinked supports, the 1% support is preferred for syntheses since the oligomers can be removed more readily under mild conditions. 
+
+ The stability of the methylphosphonate linkage in a number of oligomers 
+
+ of varying chain length and base composition was examined following prolonged exposure to ethylenediamine/ethanol at room temperature. As shown in Table III, some of these oligomers, most notably the dimer and d-GpGpT, were 
+
+ 6235 
+
+ Nucleic Acids Research 
+
+ Table III.   Hydrolysis of Oligonucleoside Methylphosphonates by 
+
+ Ethylenediamine at 22?C 
+
+ | Oligomer           Mole percent of oligomer remaining after treatment for 
+
+ 24 hrs                48 hrs                    96 hrs 
+
+ d-T A                100                   100                        100 d-A5r                100                   100                        100 d-TpT                100                   100                        100 d-l pT                95                    97                        91 d-qgG{T              100                   100                        100 d-ApApA               93                    87                        75 d-C pC ApT            92                    83                        67 
+
+ completely stable over a 96 hr period.  The maximum rate of hydrolysis for a methylphosphonate linkage in those oligomers which were hydrolyzed is 
+
+ estimated to be 0.13 mole %/hr. The results of these studies show that the oligonucleoside methylphosphonates could be cleaved from the 1% crosslinked support and completely freed of base protecting groups with little or no hydrolysis of the methylphosphonate linkage by treatment with 
+
+ ethylenediamine/ethanol (1:1, v/v) at room temperature for 7 hrs. These conditions were subsequently adopted for the deprotection step. 
+
+ Purification of Oligonucleoside Methylphosphonates. Two methods were employed to purify oligomers following cleavage from the support. For oligomers which contain only methylphosphonate linkages, the tritylated oligomer was isolated 
+
+ by preparative reversed phase HPLC. This separation is based upon the greater affinity of the tritylated oligomer for the hydrophobic C-18 matrix of the 
+
+ column. Shorter, non-tritylated oligomers were first eluted with a 0% to 25% or 0% to 30% acetonitrile in water gradient. The tritylated product was then eluted with a step gradient of 50% acetonitrile in water. 
+
+ The dimethoxytrityl group was removed from the material in the 50% 
+
+ acetonitrile fraction by treatment with 80% acetic acid at room temperature. Because these oligomers were originally cleaved from the support by 
+
+ ethylenediamine/ethanol (1:1, v/v) at 65?C, we usually found that the 
+
+ tritylated oligomer fraction contained shorter oligomers in addition to the desired product. These were easily separated by preparative reversed phase HPLC. While this purification procedure is qualitatively satisfactory, 
+
+ recoveries from the reversed phase columns varied from 50% to 90%. These 
+
+ losses which appeared to be due to irreverisble absorption of the oligomers to the column varied depending on the base composition of the oligomers. 
+
+ 6236 
+
+ Nucleic Acids Research 
+
+ Figure 2: Purification of 
+
+ d-ApApApApGpCpApApG.  (a) Ol igomers obtained after treatment of support wi th ethylenediamine/ethanol (1:1, 
+
+ v/v).  (b)  Ol igomers obtained after treatment of the mixture in (a) with 80% acetic acid. (c) Oligomers eluted from DEAE cellulose column with 
+
+ 0.15 M triethylammonium bicarbonate. 
+
+ (d) Nonamer obtained after preparative reversed phase HPLC. Peaks marked 
+
+ with the symbol (X) are derived from impurities in the solvents used to elute the oligomer from the polystyrene support. 
+
+ d                    "AAAGCAAGc 
+
+ O      I      t10   15     20      25 
+
+ Time ( min ) 
+
+ For the oligomers which terminate with a 5'-nucleoside phosphotriester group, the support was first treated for 40 hrs with tetra-n-butylammonium 
+
+ fluoride (8) to remove the p-chlorophenyl protecting group.  These oligomers 
+
+ 6237 
+
+ b 
+
+ Nucleic Acids Research 
+
+ were then cleaved from the support and the base protecting groups were removed by treatment with ethylenediamine/ethanol (1:1, v/v) for 7 hrs at room temperature. For example, the reversed phase HPLC profile for products 
+
+ obtained after cleavage of the nonamer, d-[(MeO)2Tr]ApAjApApGpCpApApG, is shown in Figure 2a. The peaks marked with (X) are from impurities in the 
+
+ solvents used to elute the oligomer from the support. The tritylated nonamer appears at 22 min in the chromatogram and is eluted with 50% aqueous 
+
+ acetonitrile. After removal of the dimethoxytrityl group, the nonamer elutes at 15.2 min (Figure 2b). The peaks which appear between 19 and 25 min are shorter oligomers which contain a 5'-mesitylenesulfonate group. 
+
+ At this stage, the nonamer was partially purified by ion exchange 
+
+ chromatography on a DEAE cellulose column. This step, which resulted in 84% recovery of material loaded onto the column, removed most of the shorter 
+
+ oligomers as shown in Figure 2c. After removal of the buffer, the nonamer was purified by preparative reversed phase HPLC using a 0% to 30% acetonitrile in 0.1 M ammonium acetate gradient. The recovery of material from the column 
+
+ (84%) appears to be higher when ammonium acetate is used. The pure nonamer 
+
+ (Figure 2d) was obtained in 10% overall yield based on the amount of d-[(MeO)2 Tr]ibuG originally bound to the polystyrene support. The oligomer was desalted on a Bio-Gel P-2 gel filtration column. Similar results were 
+
+ obtained for the other oligomers purified by this method. Thus, for example dApApA and d-ApCpCpApT were obtained in 44% and 22% isolated yields respectively based upon the amount of d-[(MeO)2Tr]N. 
+
+ The 5'-terminal nucleotide may be removed enzynatically to give an 
+
+ oligomer which contains only methylphosphonate linkages. Thus treatment of 
+
+ the nonamer, d-ApApApApGpCpApApG, with spleen phosphodiesterase gave d-Ap and 
+
+ the octamer d-ApApApGpCpApApG whose retention time is 16.4 min on the reversed phase column. The noncharged octamer was freed of d-Ap and enzyne by simply passing it through a small DEAE cellulose column. 
+
+ Characterization. Methylphosphonate linkages are cleaved by base. We have found piperdine is particularly effective. The cleavage occurs in a random manner giving nucleosides, nucleoside 3'- or 5'-methylphosphonates and 
+
+ nucleoside 3',5'-bis-methylphosphonates. This hydrolysis reaction may be used to characterize dimers, since the identity and ratio of the products formed are easily determined by reversed phase HPLC. However, the method becomes less satisfactory for longer oligomers. 
+
+ Purine-containing oligonucleoside methylphosphonates may be depurinated by treatment with hydrochloric acid at 650. The methylphosphonate linkage is 
+
+ 6238 
+
+ Nucleic Acids Research 
+
+ 9                     0                        OH cH3P:O                  cH CH3P 
+
+ 9                       9 
+
+ CH-P :O             C   cH  :0pO 
+
+ O~~          ~j4              HO OP 3 0         H        0      0OH0 
+
+ 9                      S               S 
+
+ Figure 3: Hydrolysis of the internucleoside methylphsophonate linkages at an 
+
+ apurinic site produced by treatment of the oligomer with hydrochloric acid at pH 2. 
+
+ resistant to hydrolysis by these conditions as shown by the stability of d-TpT and d-TpTpT. On the other hand, dimers or trimers containing purine bases 
+
+ such as d-ApA, dApT, dTpA or d-ApApA have half-lives between 92 and 144 min in 0.01 M hydrochloric acid. Following neutralization with ammonium hydroxide, the products of these reactions were characterized by reversed phase HPLC. 
+
+ d-ApA gave adenine, while both d-ApT and d-TpA gave adenine and thymidine as the sole products of the reaction. Adenine and d-ApA were the only products 
+
+ observed when d-ApApA was partially hydrolyzed.    When d-CpCpApT was completely hydrolyzed in acid three products, d-CpC, adenine and thynidine, were observed in a molar ratio of 1:1:1. 
+
+ In contrast to the base hydrolysis of the methylphosphonate group, apurinic sites produced by acid treatment are further hydrolyzed to 
+
+ nucleosides or oligomers with free 5'- and 3'-OH groups. The absence of 
+
+ terminal phosphonate residues suggests hydrolysis occurs as shown in Figure 3. The OH group on the 4'-carbon generated by opening the ribose at the apurinic site may participate in an intramolecular attack on the adjacent phosphonate linkages which results in removal of the phosphonate residues from the neighboring nucleoside hydroxyls. 
+
+ Previous studies by Agarwal and Riftina indicated dithymidine methyl- or phenylphosphonates can be phosphorylated by polynucleotide kinase (9). 
+
+ Sinha et al. reported that dimers but not trimers or tetramers served as 
+
+ substrates for this enzyme (4). We were unable to phosphorylate tetramers or longer oligomers which contain only methylphosphonate linkages. However, those oligomers which terminate with a 5'-dAp-residue are readily 
+
+ 6239 
+
+ Nucleic Acids Research 
+
+ a 
+
+ ATP                  1 
+
+ 1     2    3    4 
+
+ b 
+
+ 6 mer Mik  
+
+ 6 mer        go 
+
+ 3mer a   a       a X 2mer            do ATP 411 
+
+ 12 w      34 
+
+ 1   2   3  4     5   6 
+
+ Figure 4:  (a) PEI-cellulose TLC of T4 polynucleotide kinase reactions. 
+
+ 1) [y-32p]ATP; 2) d-ApApA reaction mixture; 3) d-ApGpCpApApG 
+
+ reaction mixture; 4) d-ApApApApG_pCpApAeG reaction mixture.  The chromatogram was eluted wi th1.5 M pyridinium formate, pH 3.5. (b) Polyacrylamide gel electrophoresis of phosphoryljted 
+
+ olihonucleoside methylghosphonates.  1) markers:  d-  pTpT (2 mer); d-,3pApApA (3 mer); d- 2pApGpCpApApG (6 mer); 
+
+ d-32pApApApApGpCpApApG (9 mer .  Lanes 2-4 : products  obtained 
+
+ after partTaT fy?rlysis of dl2pApApA (2); d- 2pApGpCpApApG (3) and d-32pApARApApGpCpAZARG; (4) with 0.5 M piperidine at 377C for 10 min   Lanel t   : products  obtained Wfter partial hydrolysis of d-3Kp-ApGRCpApApG (5) and d-32p-ApApAppGpjCppAjG (6) with 0.5 M HC1 at 371C fCor30 min. Electrophoresis was carried out at 
+
+ constant voltage (800 v) until the bromphenol blue marker dye had migrated halfway down the gel. 
+
+ phosphorylated by polynucleotide kinase. The phosphorylation reaction is easily followed by PEI-cellulose TLC. As shown in Figure 4a, the phosphorylated oligomers have a higher Rf values than does d-ATP. 
+
+ The phosphorylated methylphosphonate oligomers can be separated according to their chain lengths by polyacrylamide gel electrophoresis on an 18% gel 
+
+ containing 7 M urea as shown in Figure 4(b). Lane 1 shows the separation of a trimer, hexamer and nonamer. The band which appears directly below the 
+
+ nonamer may arise from traces of contaminating octamer which were not removed during the purification of d-ApApApApGpCpApApG. 
+
+ 6240 
+
+ Nucleic Acids Research 
+
+ When the oligomers were partially hydrolyzed with piperidine, a series of new bands appears corresponding to shorter oligomers produced via hydrolysis of the methylphosphonate linkages (Lanes 2-4). Because of the random nature of this cleavage reaction, the oligomers should terminate with either a 3'-OH or a 3'-methylphosphonate group. In the case of the trimer, 32pApApA, 
+
+ hydrolysis gives two bands which correspond to d-32pApA and d-32pApAp (Lane 2). The same products are observed for hydrolysis of the nonamer, 
+
+ d-32pApApApApGpCpApApG (Lane 4). A similar situation is observed for 
+
+ d32pApGpCpApApG although the dimers d-32pApG and d-32pApGp have somewhat 
+
+ different mobilities (Lane 3). These dimers cannot be separated when the gel is run in the absence of urea. 
+
+ It is possible to determine the chain lengths of the original oligomers 
+
+ by counting the number of oligomers produced by partial piperidine hydrolysis. For example, starting with the trimer band, one can observe 3 bands 
+
+ corresponding to tetramer, pentamer and hexamer for the hydrolysis products of d-32pApGpCpApApG (Lane 3) and 6 bands corresponding to tetramer, pentamer, hexamer, heptamer, octamer and nonamer for the hydrolysis products of 
+
+ 32pApApApApGpCpApApG (Lane 4). The positions of the oligomers of the same 
+
+ chain length appear to be very similar which suggests that the mobilities are not greatly affected by base composition on the urea-containing gel. This 
+
+ procedure thus provides a rapid and convenient method for characterizing the methyl phosphonate ol i gomers. 
+
+ Treatment of the phosphorylated oligomers with acid produces shorter 
+
+ oligomers which result from chain cleavage at apurinic sites.  In this case the oligomers terminate with a 3'-OH group. Treatment of 32pApGpCpApALpG 
+
+ produces an intense band corresponding to the pentamer, d-32pApGjCpAjA (Lane 5) while treatment of 32pApApApApGpCpApApG produces an intense band corresponding to the octamer d-32pApApAPApGpCpApA and fainter bands 
+
+ corresponding to the heptamer, hexamer, tetramer and trimer. These results suggest that under the conditions of the experiment, hydrolysis occurs preferentially at the 3'-terminal G residue of both oligomers. 
+
+ It should be possible to extend this methodology to other base specific 
+
+ depurination or depyrimidination reactions similar to those employed in the Maxam-Gilbert sequencing method (10). Experiments directed toward this goal are currently in progress and will be reported in a future communication. 
+
+ ACKNOWLEDGEMENT: This work was supported in part by the following grants from the National Institutes of Health: GM 16066 (P.O.P.T.) and GM 31927 
+
+ 6241 
+
+ Nucleic Acids Research 
+
+ (P.S.M.), and from a grant from Association for International Cancer Research. 
+
+ REFERENCES: 
+
+ 1. MTTITr, P.S., McParland, K.B., Jayaraman, K. and Ts'o, P.O.P. (1981) 
+
+ Biochemistry 20, 1874-1880. 
+
+ 2. Jayaraman, K., McParland, K.B., Miller, P.S. and Ts'o, P.O.P. (1981) 
+
+ Proc. Natl. Acad. Sci. 78, 1537-1541. 
+
+ 3. Miller, P.S., Agris, C.H., Blandin, M., Murakami, A., Reddy, P.M., 
+
+ Spitz, S.A. and Ts'o, P.O.P. (1983) Nucleic Acids Res., submitted for publ ication. 
+
+ 4. Sinha, N.D. Grossbruchaus, V. and Koester, H. (1983) Tetrahedron Letters 
+
+ 24, 877-880. 
+
+ 5. Miller, P.S., Cheng, D.M., Dreon, N., Jayaraman, K., Kan, L.-S., 
+
+ Leutzinger, E.E., Pulford, S.M. and Ts'o, P.O.P. (1980) Biochemistry 19, 4688-4698. 
+
+ 6. Ito, H., Ike, Y., Ikuta, S. and Itakura, K., (1982) Nucleic Acids Res 
+
+ 10, 1755-1769. 
+
+ 7. Barnett, R.W. and Letsinger, R.L. (1981) Tetrahedron Letters 22, 
+
+ 991-994. 
+
+ 6242 

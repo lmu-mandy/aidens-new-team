@@ -1,0 +1,46 @@
+T1	TemporalExpression 27 36	Feb. 1906
+T2	GeographicalLocation 49 70	District of Zamboanga
+T3	Person 93 101	Whitford
+T4	Person 104 114	Hutchinson
+T5	GeographicalLocation 116 123	Basilan
+T6	Person 140 150	Hutchinson
+T7	TemporalExpression 152 161	Feb. 1906
+T8	Person 199 209	Hutchinson
+T9	TemporalExpression 211 221	July 1906,
+T10	TemporalExpression 288 295	January
+T11	TemporalExpression 297 305	February
+T12	TemporalExpression 307 312	March
+T13	TemporalExpression 314 319	April
+T14	TemporalExpression 321 324	May
+T15	TemporalExpression 326 330	June
+T16	TemporalExpression 336 340	July
+T17	TemporalExpression 372 380	February
+T18	TemporalExpression 382 387	April
+T19	TemporalExpression 389 393	June
+T20	TemporalExpression 395 399	July
+T21	TemporalExpression 401 407	August
+T22	TemporalExpression 409 418	September
+T23	TemporalExpression 420 427	October
+T24	TemporalExpression 433 441	December
+T25	Taxon 457 462	lauan
+T26	Taxon 471 476	balac
+T27	Taxon 493 498	apnit
+T28	Taxon 513 521	balocbac
+T29	Taxon 533 543	malaanonan
+T30	Taxon 552 558	danlig
+T31	Taxon 569 581	Pentacme sp.
+T32	Taxon 569 577	Pentacme
+T33	Taxon 895 906	P. contorta
+T34	Habitat 964 994	low flat forest near the beach
+T35	GeographicalLocation 996 1001	Luzon
+T36	GeographicalLocation 1003 1022	Province of Tayabas
+T37	Person 1040 1046	Curran
+T38	Taxon 1102 1120	Pentacme siamensis
+T39	Taxon 1102 1126	Pentacme siamensis Kurz.
+T40	Taxon 1132 1138	SHOREA
+T41	Taxon 1132 1144	SHOREA Roxb.
+T42	GeographicalLocation 2791 2802	Philippines
+T43	Taxon 2836 2849	S. balangeran
+T44	Taxon 2851 2860	S. eximia
+T45	Taxon 2862 2873	S. squamata
+T46	Taxon 2879 2894	S. teysmanniana

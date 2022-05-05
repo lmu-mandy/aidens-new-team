@@ -1,0 +1,95 @@
+T1	Taxon 7 16	GRAMINEAE
+T2	Taxon 24 36	THYSANOLAENA
+T3	Taxon 24 41	THYSANOLAENA Nees
+T4	Taxon 42 61	THYSANOLAENA MAXIMA
+T5	Taxon 42 68	THYSANOLAENA MAXIMA (Roxb)
+T6	Taxon 200 215	Agrostis maxima
+T7	Taxon 200 220	Agrostis maxima Roxb
+T8	Taxon 245 266	Thysanolaena agrostis
+T9	Taxon 245 271	Thysanolaena agrostis Nees
+T10	Taxon 316 338	Thysanolaena acarifera
+T11	Taxon 316 342	Thysanolaena acarifera Arn
+T12	GeographicalLocation 446 451	Luzon
+T13	GeographicalLocation 453 465	Ilocos Norte
+T14	GeographicalLocation 467 473	Apayao
+T15	GeographicalLocation 475 481	Bontoc
+T16	GeographicalLocation 483 490	Benguet
+T17	GeographicalLocation 492 505	Nueva Vizcaya
+T18	GeographicalLocation 507 518	Nueva Ecija
+T19	GeographicalLocation 520 527	Bulacan
+T20	GeographicalLocation 529 537	Zambales
+T21	GeographicalLocation 539 545	Bataan
+T22	GeographicalLocation 547 553	Laguna
+T23	GeographicalLocation 555 562	Tayabas
+T24	GeographicalLocation 564 572	Sorsogon
+T25	GeographicalLocation 575 582	Mindoro
+T26	GeographicalLocation 584 591	Palawan
+T27	GeographicalLocation 593 601	Mindanao
+T28	Habitat 606 622	banks of ravines
+T29	Habitat 624 630	slopes
+T30	GeographicalLocation 704 709	India
+T31	GeographicalLocation 718 724	Malaya
+T32	GeographicalLocation 728 738	New Guinea
+T33	Taxon 753 760	Bugubui
+T34	Taxon 770 776	buybui
+T35	Taxon 784 790	eagadu
+T36	Taxon 798 803	gatbo
+T37	Taxon 812 816	lasa
+T38	Taxon 824 831	tagadeu
+T39	Taxon 840 846	tagisa
+T40	Taxon 854 859	tambu
+T41	Taxon 867 877	talankaran
+T42	Taxon 888 905	DIGITARIA Scopoli
+T43	Taxon 906 925	DIGITARIA CHINENSIS
+T44	Taxon 906 930	DIGITARIA CHINENSIS Nees
+T45	Taxon 977 995	Paspalum ftlicidme
+T46	Taxon 977 1000	Paspalum ftlicidme Nees
+T47	Taxon 1043 1063	Digitaria violascens
+T48	Taxon 1043 1068	Digitaria violascens Merr
+T49	GeographicalLocation 1073 1079	Philip
+T50	GeographicalLocation 1137 1143	Manila
+T51	GeographicalLocation 1165 1178	Batan Islands
+T52	GeographicalLocation 1183 1197	northern Luzon
+T53	GeographicalLocation 1201 1208	Palawan
+T54	GeographicalLocation 1213 1221	Mindanao
+T55	Habitat 1349 1364	open grasslands
+T56	GeographicalLocation 1394 1399	India
+T57	GeographicalLocation 1403 1408	China
+T58	GeographicalLocation 1413 1419	Malaya
+T59	Taxon 1434 1438	Timi
+T60	Taxon 1446 1450	tumi
+T61	Taxon 1458 1467	ualisibis
+T62	Taxon 1474 1493	DIGITARIA CORYMBOSA
+T63	Taxon 1474 1500	DIGITARIA CORYMBOSA (Roxb)
+T64	Taxon 1512 1531	Panicum co-rymbosum
+T65	Taxon 1512 1536	Panicum co-rymbosum Roxb
+T66	Taxon 1596 1615	Panicum microbachne
+T67	Taxon 1596 1621	Panicum microbachne Presl
+T68	Taxon 1673 1695	Digitaria consanguinea
+T69	Taxon 1673 1700	Digitaria consanguinea Merr
+T70	GeographicalLocation 1769 1775	Manila
+T71	Taxon 1791 1801	Blancoanae
+T72	Taxon 1826 1844	Panicum sanguinale
+T73	Taxon 1826 1850	Panicum sanguinale Rolfe
+T74	Taxon 1931 1947	Digitaria lanosa
+T75	Taxon 1931 1954	Digitaria lanosa Llanos
+T76	Taxon 2042 2062	Panicum gaudichaudii
+T77	Taxon 2106 2122	Panicum pruriens
+T78	Taxon 2106 2127	Panicum pruriens Trin
+T79	GeographicalLocation 2208 2219	Philippines
+T80	Habitat 2251 2268	open waste places
+T81	Habitat 2270 2283	old clearings
+T82	Taxon 2343 2353	Blancoanae
+T83	GeographicalLocation 2447 2452	India
+T84	GeographicalLocation 2456 2470	southern China
+T85	GeographicalLocation 2475 2482	Formosa
+T86	GeographicalLocation 2491 2497	Malaya
+T87	GeographicalLocation 2501 2506	Samoa
+T88	Taxon 2521 2527	Banana
+T89	Taxon 2535 2542	bacilli
+T90	Taxon 2553 2562	balisibis
+T91	Taxon 2570 2574	baud
+T92	Taxon 42 78	THYSANOLAENA MAXIMA (Roxb) O. Kuntze
+T93	Habitat 638 644	cliffs
+T94	Taxon 2106 2146	Panicum pruriens Trin. var. glabrum Nees
+T95	Taxon 2106 2141	Panicum pruriens Trin. var. glabrum

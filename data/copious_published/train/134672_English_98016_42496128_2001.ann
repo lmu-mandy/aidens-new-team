@@ -1,0 +1,77 @@
+T1	Taxon 57 76	Titiscania limacina
+T2	GeographicalLocation 82 94	Puerto Ayora
+T3	GeographicalLocation 96 106	Santa Cruz
+T4	GeographicalLocation 108 125	Galapagos Islands
+T5	GeographicalLocation 185 192	Molucas
+T6	GeographicalLocation 267 272	Japan
+T7	Taxon 274 300	Titiscania shinkishihataii
+T8	Taxon 760 772	Titiscanidae
+T9	Taxon 842 861	Titiscania limacina
+T10	GeographicalLocation 1177 1194	Galapagos Islands
+T11	Taxon 1311 1330	Titiscania limacina
+T12	TemporalExpression 1433 1437	1991
+T13	GeographicalLocation 1592 1604	Puerto Ayora
+T14	GeographicalLocation 1606 1623	Santa Cruz Island
+T15	Taxon 1796 1806	Didemnidae
+T16	GeographicalLocation 2768 2782	Canary Islands
+T17	GeographicalLocation 2961 2978	Galapagos Islands
+T18	Taxon 3409 3428	Titiscania limacina
+T19	Taxon 3548 3564	Cymatiwn muudiim
+T20	GeographicalLocation 3580 3601	Eastern Pacific Ocean
+T21	Taxon 3682 3718	non-tonnacean prosobranch gastropods
+T22	GeographicalLocation 3758 3778	West American Waters
+T23	GeographicalLocation 3848 3865	Galapagos Islands
+T24	GeographicalLocation 3996 4013	Galapagos Islands
+T25	GeographicalLocation 145 159	east Australia
+T26	Person 209 213	Taki
+T27	TemporalExpression 215 219	1955
+T28	Person 344 349	Saito
+T29	Person 352 360	Tsuchiya
+T30	TemporalExpression 362 366	1990
+T31	Person 734 739	Scott
+T32	Person 742 747	Kenny
+T33	TemporalExpression 749 753	1998
+T34	GeographicalLocation 921 952	west American continental coast
+T35	GeographicalLocation 967 990	eastern Pacific islands
+T36	GeographicalLocation 1021 1052	eastern Pacific oceanic islands
+T37	Person 1072 1079	Emerson
+T38	TemporalExpression 1081 1085	1991
+T39	GeographicalLocation 1238 1261	eastern Pacific islands
+T40	Taxon 1107 1152	tropical trans-Pacific prosobranch gastropods
+T41	GeographicalLocation 1412 1429	Galapagos Islands
+T42	GeographicalLocation 1497 1511	Canary Islands
+T43	GeographicalLocation 1641 1672	Charles Darwin Research Station
+T44	Taxon 1772 1781	ascidians
+T45	TemporalExpression 1674 1686	6 March 1991
+T46	Person 2820 2837	Juan J. Bacallado
+T47	GeographicalLocation 2860 2869	Galapagos
+T48	Person 2980 3003	Ignacio Diez Cortaberna
+T49	Person 3096 3105	Bergh, R.
+T50	TemporalExpression 3106 3110	1875
+T51	Person 3272 3281	Bergh, R.
+T52	TemporalExpression 3282 3286	1890
+T53	Person 3394 3401	Burn, R
+T54	TemporalExpression 3403 3407	1975
+T55	Taxon 3409 3434	Titiscania limacina Bergh
+T56	Taxon 3337 3347	Gastropods
+T57	TemporalExpression 3436 3440	1875
+T58	Taxon 3453 3462	gastropod
+T59	GeographicalLocation 3470 3479	Australia
+T60	TemporalExpression 3524 3528	1991
+T61	Person 3509 3520	Emerson, W.
+T62	Taxon 3548 3572	Cymatiwn muudiim (Gould)
+T63	GeographicalLocation 3724 3736	Indo-pacific
+T64	Taxon 3644 3677	Tropical Trans-pacific Tonnancean
+T65	Person 3805 3814	Finet, Y.
+T66	TemporalExpression 3815 3819	1991
+T67	Person 3953 3962	Finet, Y.
+T68	TemporalExpression 3963 3967	1994
+T69	Person 4085 4097	GOSLINER, T.
+T70	Person 4104 4114	W. Behrens
+T71	Person 4120 4131	C. Williams
+T72	TemporalExpression 4133 4137	1996
+T73	Habitat 4139 4149	Coral Reef
+T74	GeographicalLocation 4165 4177	Indo-pacific
+T75	GeographicalLocation 4205 4215	California
+T76	Person 4225 4235	Houston, R
+T77	TemporalExpression 4240 4244	1990

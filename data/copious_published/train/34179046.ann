@@ -1,0 +1,49 @@
+T1	Taxon 9 25	DIPTEROCARPACEAE
+T2	Taxon 27 32	Hopea
+T3	Taxon 55 67	H. Wightiana
+T4	Taxon 55 74	H. Wightiana, Wall.
+T5	Taxon 100 105	Kavsi
+T6	Taxon 113 118	Haiga
+T7	Taxon 126 135	Ila pongu
+T8	Habitat 500 517	Evergreen forests
+T9	GeographicalLocation 537 550	Western Ghats
+T10	GeographicalLocation 557 569	North Kanara
+T11	Habitat 629 640	low country
+T12	GeographicalLocation 644 656	South Kanara
+T13	TemporalExpression 662 667	March
+T14	TemporalExpression 668 672	June
+T15	Taxon 677 686	H. glabra
+T16	Taxon 677 701	H. glabra, Wight et Arn.
+T17	Taxon 705 717	H. Wightiana
+T18	Taxon 705 729	H. Wightiana var. glabra
+T19	GeographicalLocation 755 774	Ghats of Tinnevelli
+T20	GeographicalLocation 779 789	Travancore
+T21	Taxon 942 955	H. malabarica
+T22	Taxon 942 962	H. malabarica, Bedd.
+T23	Taxon 988 1000	Karung Kongu
+T24	Taxon 1009 1023	Veduvali Kongu
+T25	GeographicalLocation 1032 1042	Travancore
+T26	Taxon 1400 1414	Dryobalanoides
+T27	Taxon 1474 1487	H. Griffithii
+T28	Taxon 1474 1494	H. Griffithii, Kurz.
+T29	GeographicalLocation 1495 1501	Mergui
+T30	GeographicalLocation 1503 1518	Malay Peninsula
+T31	Taxon 1725 1733	PENTACME
+T32	Taxon 1725 1740	PENTACME, A. DC
+T33	GeographicalLocation 1801 1818	Eastern Peninsula
+T34	GeographicalLocation 1823 1834	Philippines
+T35	Taxon 1836 1846	P. suavis,
+T36	Taxon 1836 1853	P. suavis, A. DC.
+T37	Taxon 1861 1873	P. siamensis
+T38	Taxon 1861 1879	P. siamensis, Kurz
+T39	Taxon 1896 1912	Shorea siamensis
+T40	Taxon 1896 1918	Shorea siamensis, Miq.
+T41	Taxon 1949 1955	Engyin
+T42	GeographicalLocation 2914 2931	Eastern Peninsula
+T43	GeographicalLocation 2946 2957	25Â° N. Lat.
+T44	GeographicalLocation 2972 2983	Upper Burma
+T45	GeographicalLocation 2988 2999	Cochinchina
+T46	Habitat 3018 3028	Eng forest
+T47	GeographicalLocation 3032 3043	Lower Burma
+T48	Taxon 3058 3064	SHOREA
+T49	Taxon 3058 3071	SHOREA, Roxb.

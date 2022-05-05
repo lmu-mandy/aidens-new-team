@@ -1,0 +1,51 @@
+T1	Habitat 686 721	Marshy, periodically inundated land
+T2	Habitat 754 761	lowland
+T3	GeographicalLocation 765 780	Kalutara Distr.
+T4	GeographicalLocation 782 790	Matugama
+T5	GeographicalLocation 801 813	Bulatsinhala
+T6	GeographicalLocation 819 825	Honaka
+T7	Person 837 845	Thwaites
+T8	TemporalExpression 896 900	1858
+T9	Person 946 950	Moon
+T10	TemporalExpression 964 968	1820
+T11	TemporalExpression 969 971	25
+T12	Person 990 998	Thwaites
+T13	Taxon 1100 1112	Stemonoporus
+T14	Taxon 1100 1112	Stemonoporus
+T15	GeographicalLocation 1295 1303	Maturata
+T16	Person 1342 1348	Trimen
+T17	TemporalExpression 1352 1356	1893
+T18	Person 1578 1584	Ashton
+T19	Person 1809 1817	Thwaites
+T20	Taxon 1860 1872	Stemonoporus
+T21	Taxon 1884 1897	Sterculiaceae
+T22	Taxon 1906 1919	Euphorbiaceae
+T23	Person 1923 1929	Alston
+T24	Taxon 2002 2014	Stemonoporus
+T25	Taxon 2037 2048	Dipterocarp
+T26	Taxon 2132 2148	Dipterocarpaceae
+T27	Person 2151 2159	Thwaites
+T28	Person 2173 2177	Moon
+T29	GeographicalLocation 2206 2214	Maturate
+T30	GeographicalLocation 2246 2258	Nuwara Eliya
+T31	GeographicalLocation 2297 2305	Matugama
+T32	Habitat 2313 2320	lowland
+T33	GeographicalLocation 2322 2339	Kalutara District
+T34	Person 2383 2388	Lewis
+T35	GeographicalLocation 2423 2442	Maguru Ganga valley
+T36	GeographicalLocation 2448 2454	Honaka
+T37	GeographicalLocation 2459 2467	waturana
+T38	GeographicalLocation 2459 2467	waturana
+T39	Habitat 2522 2530	wet land
+T40	Person 2557 2562	Lewis
+T41	GeographicalLocation 2591 2602	Maguruganga
+T42	GeographicalLocation 2608 2615	llonaka
+T43	Person 2679 2691	Gunatillekke
+T44	GeographicalLocation 2732 2744	Bulatsinhala
+T45	Habitat 2818 2831	marshy forest
+T46	Person 2855 2866	Gunatilleke
+T47	Habitat 2906 2921	degraded forest
+T48	Taxon 2942 2961	Stemonoporus moonii
+T49	Taxon 2942 2961	Stemonoporus moonii
+T50	Habitat 3202 3218	muddy depression
+T51	Taxon 3224 3238	Areca coccinea

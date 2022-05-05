@@ -1,0 +1,56 @@
+T1	Taxon 192 200	Taxaceae
+T2	Taxon 236 259	Podocarpus iiiibrlcatus
+T3	Taxon 378 399	Podocarpus imbricatus
+T4	TemporalExpression 532 542	April 1903
+T5	Taxon 545 567	Podocarpus neriifolius
+T6	GeographicalLocation 642 654	Central Asia
+T7	GeographicalLocation 678 685	Celebes
+T8	GeographicalLocation 687 693	Borneo
+T9	GeographicalLocation 695 703	Moluccas
+T10	GeographicalLocation 708 718	New Guinea
+T11	GeographicalLocation 773 784	Philippines
+T12	TemporalExpression 796 806	April 1903
+T13	GeographicalLocation 843 848	Luzon
+T14	Taxon 1026 1049	Phyllocladus hypophylla
+T15	Taxon 1155 1178	Phyllocladus protractus
+T16	Taxon 1244 1257	Taxus baccata
+T17	Taxon 1271 1282	Wallichiana
+T18	GeographicalLocation 1314 1326	Mangilquiran
+T19	Taxon 15 23	Taxaceae
+T20	Taxon 25 38	Sarcochilus R
+T21	Taxon 47 61	Sarcochilus sp
+T22	Taxon 66 81	Thrixspermum sp
+T23	GeographicalLocation 130 135	Luzon
+T24	GeographicalLocation 143 151	Pampanga
+T25	GeographicalLocation 153 159	Arayat
+T26	TemporalExpression 179 189	March 1903
+T27	Taxon 216 226	Podocarpus
+T28	Taxon 216 231	Podocarpus THER
+T29	Taxon 236 265	Podocarpus iiiibrlcatus Blume
+T30	Taxon 271 296	Cuuiiiiiiii (Pari) Pilger
+T31	GeographicalLocation 298 303	Luzon
+T32	Taxon 342 350	Cuminyii
+T33	Taxon 438 463	Podocarjuis iieriifoliiis
+T34	Taxon 438 467	Podocarjuis iieriifoliiis Don
+T35	GeographicalLocation 469 474	Luzon
+T36	GeographicalLocation 482 489	Tayabas
+T37	GeographicalLocation 491 499	Pagbalao
+T38	Taxon 545 571	Podocarpus neriifolius Don
+T39	Person 631 637	Pilger
+T40	GeographicalLocation 656 661	China
+T41	GeographicalLocation 663 667	Java
+T42	GeographicalLocation 669 676	Sumatra
+T43	Person 832 839	Merrill
+T44	GeographicalLocation 856 863	Tayabas
+T45	GeographicalLocation 865 873	Pagbalao
+T46	Taxon 875 892	Phyllocladus Rich
+T47	Taxon 897 922	riiylloclailus protractus
+T48	Taxon 897 929	riiylloclailus protractus (Warb)
+T49	Taxon 897 936	riiylloclailus protractus (Warb) Pilger
+T50	GeographicalLocation 938 943	Luzon
+T51	Person 978 983	Lohek
+T52	Taxon 1026 1054	Phyllocladus hypophylla Hook
+T53	Taxon 1229 1239	Taxus Linn
+T54	Taxon 1244 1262	Taxus baccata Linn
+T55	Taxon 1271 1289	Wallichiana (Zucc)
+T56	GeographicalLocation 1299 1312	Luzon Central

@@ -1,0 +1,48 @@
+T1	GeographicalLocation 4 12	Tasmania
+T2	Taxon 66 85	Choromytilus chorus
+T3	Taxon 104 127	Concholepas concholepas
+T4	GeographicalLocation 286 310	eastern central Atlantic
+T5	TemporalExpression 473 477	1968
+T6	Taxon 594 611	Trochus niloticus
+T7	GeographicalLocation 732 739	Andaman
+T8	GeographicalLocation 744 759	Nicobar Islands
+T9	TemporalExpression 826 831	1930s
+T10	Taxon 858 870	T. niloticus
+T11	TemporalExpression 884 888	1933
+T12	TemporalExpression 1089 1094	1950s
+T13	GeographicalLocation 1530 1542	Kenyan coast
+T14	GeographicalLocation 1792 1799	Florida
+T15	Taxon 1985 1997	Tridacna spp
+T16	Taxon 2020 2037	Charonia tritonis
+T17	GeographicalLocation 2145 2158	Easter Island
+T18	Taxon 2210 2227	Cypraea cribellum
+T19	Taxon 2232 2245	C. esontropia
+T20	Taxon 2321 2340	Cymbiola rossiniana
+T21	Taxon 2856 2873	Conus gloriamaris
+T22	TemporalExpression 2894 2897	196
+T23	GeographicalLocation 2976 2987	Philippines
+T24	Taxon 3020 3033	Harpa costata
+T25	GeographicalLocation 3798 3810	Dongonab Bay
+T26	Taxon 3845 3867	Pinctada margaritifera
+T27	GeographicalLocation 43 48	Chile
+T28	Taxon 268 278	cuttlefish
+T29	GeographicalLocation 345 363	north-west Pacific
+T30	GeographicalLocation 566 582	Papua New Guinea
+T31	TemporalExpression 647 673	first half of this century
+T32	TemporalExpression 681 685	1956
+T33	TemporalExpression 938 942	1935
+T34	GeographicalLocation 1008 1021	New Caledonia
+T35	GeographicalLocation 1140 1145	Palau
+T36	Taxon 1224 1246	Pinctada margaritifera
+T37	GeographicalLocation 1257 1274	Polynesian atolls
+T38	Habitat 1727 1739	coastal reef
+T39	GeographicalLocation 1786 1790	Guam
+T40	GeographicalLocation 1805 1815	Seychelles
+T41	GeographicalLocation 1904 1915	Philippines
+T42	Taxon 2007 2019	Giant Triton
+T43	Taxon 1973 1984	giant clams
+T44	GeographicalLocation 2163 2172	Mauritius
+T45	GeographicalLocation 2366 2399	south-west coast of New Caledonia
+T46	Taxon 2834 2855	Glory-of-the-sea Cone
+T47	GeographicalLocation 3090 3099	Mauritius
+T48	GeographicalLocation 3818 3823	Sudan

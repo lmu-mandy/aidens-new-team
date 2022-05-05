@@ -1,0 +1,60 @@
+T1	Taxon 23 44	Loranthus pauciflorus
+T2	Taxon 23 51	Loranthus pauciflorus Blanco
+T3	Taxon 170 183	LORANTHUS sp.
+T4	Person 185 201	Fernandez-Villar
+T5	Person 227 233	Blanco
+T6	Taxon 283 304	Loranthus pauciflorus
+T7	Taxon 283 311	Loranthus pauciflorus Blanco
+T8	Person 305 311	Blanco
+T9	Person 305 311	Blanco
+T10	Taxon 497 519	Loranthus philippensis
+T11	Taxon 497 537	Loranthus philippensis Cham. & Schlecht.
+T12	Taxon 572 595	Lonicera symphoricarpos
+T13	Taxon 603 620	L. philip. pensis
+T14	Taxon 707 717	LoroKnthus
+T15	Person 742 748	Blanco
+T16	Taxon 910 920	ELYTRANTHE
+T17	Taxon 910 926	ELYTRANTHE Blume
+T18	Taxon 927 944	Hillia rongiflora
+T19	Taxon 927 951	Hillia rongiflora Blanco
+T20	Taxon 1025 1046	ELYTRANTHE AMPULLACEA
+T21	Taxon 1025 1060	ELYTRANTHE AMPULLACEA (Roxb.) Engl.
+T22	Taxon 1062 1083	Loranthus ampullaceus
+T23	Taxon 1062 1089	Loranthus ampullaceus Roxb.
+T24	Person 1131 1147	Fernandez-Villar
+T25	Person 1238 1244	Blanco
+T26	Taxon 1277 1298	Elytranthe ampullacea
+T27	Taxon 1277 1304	Elytranthe ampullacea Engl.
+T28	GeographicalLocation 1442 1450	Bosoboso
+T29	GeographicalLocation 1452 1466	Rizal Province
+T30	GeographicalLocation 1468 1473	Luzon
+T31	Taxon 1488 1514	Anisoptera thurifera Blume
+T32	Taxon 1488 1508	Anisoptera thurifera
+T33	TemporalExpression 1516 1529	October, 1916
+T34	Person 1531 1538	Merrill
+T35	Taxon 1548 1558	Elancoanae
+T36	Taxon 1571 1577	VISCUM
+T37	Taxon 1571 1586	VISCUM Linnaeus
+T38	Taxon 1587 1606	Fusanus ? parasitus
+T39	Taxon 1587 1613	Fusanus ? parasitus Blanco
+T40	Taxon 1674 1690	VISCUM ORIENTALE
+T41	Taxon 1674 1697	VISCUM ORIENTALE Willd.
+T42	Taxon 1698 1716	Viscum philippense
+T43	Taxon 1698 1723	Viscum philippense Llanos
+T44	Taxon 1828 1844	VISCUM ORIENTALE
+T45	Taxon 1828 1851	VISCUM ORIENTALE Willd.
+T46	Person 1853 1859	Blanco
+T47	Taxon 1862 1879	Fusanus parasitus
+T48	Person 1895 1911	Fernandez-Villar
+T49	Taxon 1915 1931	Viscum orientale
+T50	Taxon 1915 1938	Viscum orientale Willd.
+T51	Taxon 1991 2009	Viscum philippense
+T52	Taxon 1991 2016	Viscum philippense Llanos
+T53	Taxon 2049 2064	V, articulatum.
+T54	Taxon 2049 2070	V, articulatum. Burm.
+T55	Person 2081 2087	Llanos
+T56	Taxon 2212 2228	Viscum orientale
+T57	Taxon 2212 2235	Viscum orientale Willd.
+T58	Person 2256 2262	Llanos
+T59	Taxon 2301 2319	Viscum articulatum
+T60	Taxon 2345 2357	V. orientale

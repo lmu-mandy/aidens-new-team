@@ -1,0 +1,78 @@
+T1	Taxon 80 93	Ruins exulans
+T2	Taxon 121 135	Polynesian rat
+T3	Taxon 143 163	spiny rice-field rat
+T4	Taxon 165 175	R. exulans
+T5	GeographicalLocation 197 208	Philippines
+T6	GeographicalLocation 272 282	Bangladesh
+T7	GeographicalLocation 286 299	Easter Island
+T8	GeographicalLocation 319 330	Philippines
+T9	Habitat 356 374	agricultural areas
+T10	GeographicalLocation 379 387	Camiguin
+T11	Habitat 450 493	heavily disturbed lowland agricultural land
+T12	Habitat 523 545	primary montane forest
+T13	TemporalExpression 606 611	1960s
+T14	Habitat 642 654	mossy forest
+T15	GeographicalLocation 716 722	Negros
+T16	Habitat 743 774	high-density agricultural areas
+T17	Habitat 782 794	mossy forest
+T18	GeographicalLocation 874 882	Camiguin
+T19	GeographicalLocation 887 893	Negros
+T20	Taxon 908 922	native rodents
+T21	Habitat 994 1000	forest
+T22	Habitat 1049 1062	mature forest
+T23	GeographicalLocation 1095 1100	Leyte
+T24	GeographicalLocation 1102 1107	Luzon
+T25	GeographicalLocation 1113 1121	Mindanao
+T26	TemporalExpression 1188 1198	March 1995
+T27	GeographicalLocation 1561 1568	Dinagat
+T28	GeographicalLocation 1570 1575	Leyte
+T29	GeographicalLocation 1581 1589	Mindanao
+T30	GeographicalLocation 1591 1604	Mt. Kitanglad
+T31	Taxon 1911 1924	Rattus rattus
+T32	GeographicalLocation 1896 1907	Philippines
+T33	Taxon 1929 1947	Rattus mindanensis
+T34	Taxon 1953 1971	Oriental house rat
+T35	GeographicalLocation 2012 2023	Philippines
+T36	GeographicalLocation 2040 2051	Afghanistan
+T37	GeographicalLocation 2055 2065	Indomalaya
+T38	GeographicalLocation 2067 2077	New Guinea
+T39	GeographicalLocation 2083 2093	Micronesia
+T40	Habitat 2223 2239	disturbed forest
+T41	GeographicalLocation 2347 2355	Camiguin
+T42	Taxon 2366 2377	R. tanezwni
+T43	Habitat 2401 2436	heavily disturbed agricultural land
+T44	Habitat 2487 2511	secondary lowland forest
+T45	Habitat 2529 2559	disturbed lower montane forest
+T46	Habitat 2639 2659	primary mossy forest
+T47	Taxon 2768 2779	R. tanezwni
+T48	Habitat 2804 2817	mature forest
+T49	TemporalExpression 2856 2861	1960s
+T50	Taxon 2888 2899	R. tanezwni
+T51	GeographicalLocation 2946 2954	Camiguin
+T52	Habitat 2995 3011	lower elevations
+T53	Habitat 3019 3037	disturbed habitats
+T54	GeographicalLocation 3687 3694	Biliran
+T55	GeographicalLocation 3696 3701	Leyte
+T56	GeographicalLocation 3703 3711	Maripipi
+T57	GeographicalLocation 3717 3725	Mindanao
+T58	Taxon 3974 3984	Viverridae
+T59	Taxon 3994 4020	Paradoxurus hermaphroditus
+T60	Taxon 4046 4056	palm civet
+T61	GeographicalLocation 4069 4078	Sri Lanka
+T62	GeographicalLocation 4082 4088	Hainan
+T63	GeographicalLocation 4097 4117	Lesser Sunda Islands
+T64	GeographicalLocation 4143 4154	Philippines
+T65	Habitat 4201 4213;4227 4232	agricultural areas
+T66	Habitat 4218 4232	forested areas
+T67	Taxon 4335 4346	palm civets
+T68	TemporalExpression 4355 4365	March 1995
+T69	GeographicalLocation 4437 4460	mountains above Mahinog
+T70	Person 4500 4504	Gray
+T71	Taxon 4539 4556	P. hermaphroditus
+T72	GeographicalLocation 4590 4598	Camiguin
+T73	Taxon 80 107	Ruins exulans (Peale, 1848)
+T74	Taxon 1841 1856	Rattus tanezumi
+T75	Taxon 1841 1871	Rattus tanezumi Temminck, 1844
+T76	Habitat 2173 2178	urban
+T77	Habitat 2183 2195	agricultural
+T78	Taxon 3994 4034	Paradoxurus hermaphroditus Jourdan, 1837

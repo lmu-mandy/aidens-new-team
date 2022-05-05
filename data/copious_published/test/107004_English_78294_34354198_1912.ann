@@ -1,0 +1,49 @@
+T1	GeographicalLocation 197 216	Straits of Magellan
+T2	GeographicalLocation 718 729	Philippines
+T3	Taxon 1129 1148	Phyllorhina larvata
+T4	Taxon 1171 1188	Vesperugo noctula
+T5	Taxon 1207 1223	Vesperugo maurus
+T6	Taxon 1286 1303	Vesperugo tylopus
+T7	Taxon 1327 1348	Vespertilio chinensis
+T8	Taxon 1365 1387	Vespertilio capaccinii
+T9	Taxon 1404 1424	Vespertilio muricola
+T10	Taxon 1451 1466	Viverra zibetha
+T11	GeographicalLocation 1475 1482	Palawan
+T12	Taxon 1540 1559	Pteromys petaurista
+T13	Taxon 1583 1597	Pt. innornatus
+T14	Taxon 1620 1639	Funambulus vittatus
+T15	Taxon 1657 1675	Bandicota gigantea
+T16	Taxon 1743 1760	Macacus speciosus
+T17	Taxon 1778 1797	Macacus nemestrinus
+T18	Taxon 14 33	Dugong dugon Muller
+T19	Taxon 14 26	Dugong dugon
+T20	Taxon 41 63	Trichecus dugon Muller
+T21	Taxon 41 56	Trichecus dugon
+T22	TemporalExpression 35 39	1776
+T23	GeographicalLocation 113 130	Cape of Good Hope
+T24	GeographicalLocation 134 152	Philippine Islands
+T25	GeographicalLocation 218 226	Mindanao
+T26	GeographicalLocation 272 290	PHILIPPINE ISLANDS
+T27	Person 294 299	ELERA
+T28	Person 360 374	Casto de Elera
+T29	Taxon 1065 1069	bats
+T30	Habitat 1108 1115	Islands
+T31	Taxon 1117 1127	CHIROPTERA
+T32	GeographicalLocation 1164 1169	Luzon
+T33	GeographicalLocation 1200 1205	Luzon
+T34	Taxon 1246 1263	Vesperugo abramus
+T35	GeographicalLocation 1239 1244	Luzon
+T36	GeographicalLocation 1279 1284	Luzon
+T37	Taxon 1305 1316	Glischropus
+T38	Taxon 1225 1237	Pipistrellus
+T39	Taxon 1190 1198	Nyctalus
+T40	Taxon 1265 1277	Pipistrellus
+T41	GeographicalLocation 1318 1325	Palawan
+T42	Taxon 1350 1356	Myotis
+T43	GeographicalLocation 1358 1363	Luzon
+T44	Taxon 1389 1395	Myotis
+T45	GeographicalLocation 1397 1402	Luzon
+T46	GeographicalLocation 1611 1618	Palawan
+T47	Taxon 1426 1432	Myotis
+T48	GeographicalLocation 1434 1438	Sulu
+T49	Taxon 1620 1649	Funambulus vittatus (Sciurus)

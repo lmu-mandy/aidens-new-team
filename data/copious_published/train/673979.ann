@@ -1,0 +1,129 @@
+T1	Taxon 11 27	DIPTEROCARPACEAE
+T2	GeographicalLocation 774 779	Luzon
+T3	GeographicalLocation 781 800	Province of Cagayan
+T4	Person 817 823	Klemme
+T5	Person 849 856	Darling
+T6	Person 895 901	Curran
+T7	GeographicalLocation 903 922	Province of Isabela
+T8	Person 940 947	Darling
+T9	Person 965 972	Alvarez
+T10	GeographicalLocation 974 998	Province of Ilocos Norte
+T11	Person 1037 1043	Merrit
+T12	Person 1046 1053	Darling
+T13	GeographicalLocation 1055 1077	Province of Ilocos Sur
+T14	Person 1095 1102	Merritt
+T15	Person 1105 1112	Darling
+T16	GeographicalLocation 1114 1130	Province of Abra
+T17	Person 1148 1155	Darling
+T18	GeographicalLocation 1157 1175	District of Bontoc
+T19	Person 1193 1199	Curran
+T20	GeographicalLocation 1201 1223	Subprovince of Bengnet
+T21	Person 1241 1247	Curran
+T22	GeographicalLocation 1249 1274	Province of Nueva Vizcaya
+T23	Person 1292 1299	Alvarez
+T24	GeographicalLocation 1301 1323	Province of Pangasinan
+T25	Person 1340 1346	Curran
+T26	Person 1349 1356	Merritt
+T27	Person 1374 1382	Villamil
+T28	GeographicalLocation 1384 1407	Province of Nueva Ecija
+T29	Person 1424 1430	Curran
+T30	Person 1448 1457	Foxworthy
+T31	Person 1475 1482	Alvarez
+T32	GeographicalLocation 1484 1502	Province of Tarlac
+T33	Person 1504 1509	Vidal
+T34	GeographicalLocation 1514 1533	Province of Bulacan
+T35	Person 1551 1558	Aguilar
+T36	Person 1576 1585	Foxworthy
+T37	GeographicalLocation 1588 1609	Province of Zainbales
+T38	Person 1637 1643	Curran
+T39	Person 1661 1666	Agama
+T40	GeographicalLocation 1668 1686	Province of Bataan
+T41	Person 1737 1743	Barnes
+T42	Person 1737 1743	Barnes
+T43	TemporalExpression 1776 1785	Jan. 1904
+T44	Person 1817 1823	Borden
+T45	TemporalExpression 1825 1835	April 1904
+T46	Person 1848 1856	Whitford
+T47	TemporalExpression 1862 1870	May 1904
+T48	Person 1897 1903	Borden
+T49	TemporalExpression 1905 1913	May 1904
+T50	Person 1939 1945	Borden
+T51	TemporalExpression 1947 1956	June 1904
+T52	Person 1994 2000	Border
+T53	TemporalExpression 2002 2011	Aug. 1904
+T54	Person 2048 2057	Foxworthy
+T55	Person 2086 2092	Curran
+T56	Person 2109 2115	Curran
+T57	TemporalExpression 2117 2126	Mar. 1907
+T58	GeographicalLocation 2139 2156	Province of Rizal
+T59	Person 2158 2163	Vidal
+T60	Person 2175 2182	Merrill
+T61	Person 2188 2193	Ramos
+T62	TemporalExpression 2195 2204	June 1903
+T63	Person 2231 2244	Ahernâ€™s coll.
+T64	TemporalExpression 2246 2255	Apr. 1905
+T65	Person 2282 2295	Ahernâ€™s coll.
+T66	TemporalExpression 2297 2306	July 1905
+T67	Person 2333 2342	Foxworthy
+T68	Person 2359 2364	Ramos
+T69	Person 2381 2386	Ramos
+T70	TemporalExpression 2388 2397	June 1907
+T71	Person 2443 2449	Curran
+T72	Person 2466 2471	Ramos
+T73	GeographicalLocation 2473 2494	Province of La Laguna
+T74	Person 2511 2517	Curran
+T75	Person 2520 2526	Merrit
+T76	Person 2544 2551	Mariano
+T77	GeographicalLocation 2553 2572	Province of Tayabas
+T78	Person 2589 2594	Kobbe
+T79	Person 2619 2625	Curran
+T80	Person 2643 2651	Whitford
+T81	Person 2676 2683	Darling
+T82	TemporalExpression 2685 2689	Oct.
+T83	TemporalExpression 2691 2700	Dec. 1909
+T84	GeographicalLocation 2712 2733	Province of Camarines
+T85	Person 2758 2764	Curran
+T86	Person 2782 2788	Curran
+T87	TemporalExpression 2790 2799	June 1908
+T88	Person 2828 2834	Curran
+T89	TemporalExpression 2836 2845	July 1908
+T90	Person 2874 2881	Aguilar
+T91	Person 2899 2906	Aguilar
+T92	TemporalExpression 2908 2917	July 1909
+T93	GeographicalLocation 2940 2957	Province of Albay
+T94	Person 2982 2988	Curran
+T95	GeographicalLocation 2990 3010	Province of Sorsogon
+T96	Person 3027 3034	Bridges
+T97	Person 3052 3058	Curran
+T98	TemporalExpression 3060 3069	June 1908
+T99	GeographicalLocation 3082 3089	Polillo
+T100	Person 3106 3112	Hagger
+T101	TemporalExpression 3114 3123	July 1904
+T102	Person 3147 3155	Robinson
+T103	TemporalExpression 3157 3166	Aug. 1909
+T104	Person 3191 3199	McGregor
+T105	GeographicalLocation 3201 3211	Marinduque
+T106	Person 3229 3239	Rosenbluth
+T107	GeographicalLocation 3241 3248	Masbate
+T108	Person 3250 3257	Merrill
+T109	Person 3263 3269	Barnes
+T110	TemporalExpression 3271 3280	June 1903
+T111	GeographicalLocation 3293 3300	Mindoro
+T112	Person 3302 3310	Whitford
+T113	Person 3332 3339	Merritt
+T114	TemporalExpression 3341 3350	June 1906
+T115	Person 3378 3384	Merrit
+T116	TemporalExpression 3386 3396	April 1908
+T117	Person 3436 3442	Merrit
+T118	GeographicalLocation 3444 3449	Samar
+T119	Person 3474 3484	Rosenbluth
+T120	GeographicalLocation 3486 3492	Negros
+T121	Person 3524 3530	Curran
+T122	Person 3555 3561	Curran
+T123	TemporalExpression 3563 3573	Sept. 1909
+T124	GeographicalLocation 3585 3593	Mindanao
+T125	GeographicalLocation 3595 3616	Subprovince of Agusan
+T126	Person 3633 3643	Hutchinson
+T127	GeographicalLocation 3645 3662	District of Davao
+T128	Person 3680 3688	Whitford
+T129	GeographicalLocation 3690 3707	District of Lanao

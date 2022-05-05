@@ -1,0 +1,95 @@
+T1	Taxon 30 46	Dipterocarpaceae
+T2	Taxon 123 136	H. ovalifolia
+T3	Taxon 258 273	H. sp.. (gyam).
+T4	Taxon 417 434	H. maquilingensis
+T5	Taxon 474 486	H. acuminata
+T6	Taxon 598 608	H. plagata
+T7	Taxon 685 695	H. odorata
+T8	Taxon 886 897	H. malibato
+T9	Taxon 967 979	H. glutinosa
+T10	Taxon 1065 1075	H. pierrei
+T11	Taxon 1126 1139	H. foxworthyi
+T12	Taxon 1144 1160	HOPEA BASILANICA
+T13	Taxon 1144 1166	HOPEA BASILANICA Foxw.
+T14	GeographicalLocation 1167 1174	Basilan
+T15	Taxon 1179 1196	HOPEA MINDANENSIS
+T16	Taxon 1179 1202	HOPEA MINDANENSIS Foxw.
+T17	GeographicalLocation 1203 1211	Mindanao
+T18	GeographicalLocation 1213 1222	Zamboanga
+T19	Taxon 1227 1247	HOPEA PHILIPPINENSIS
+T20	Taxon 1227 1253	HOPEA PHILIPPINENSIS Dyer.
+T21	GeographicalLocation 1254 1259	Luzon
+T22	GeographicalLocation 1261 1267	Laguna
+T23	GeographicalLocation 1269 1276	Tayabas
+T24	GeographicalLocation 1278 1287	Camarines
+T25	GeographicalLocation 1289 1294	Albay
+T26	GeographicalLocation 1296 1302	Negros
+T27	GeographicalLocation 1304 1309	Samar
+T28	GeographicalLocation 1311 1316	Leytb
+T29	GeographicalLocation 1318 1324	Biuran
+T30	GeographicalLocation 1326 1334	Mindanao
+T31	GeographicalLocation 1336 1342	Agusan
+T32	GeographicalLocation 1344 1349	Lanao
+T33	GeographicalLocation 1351 1360	Zamboanga
+T34	Taxon 1365 1378	HOPEA PLAGATA
+T35	Taxon 1365 1393	HOPEA PLAGATA (Blanco) Vidal
+T36	GeographicalLocation 1395 1400	Luzon
+T37	GeographicalLocation 1402 1409	Cagayan
+T38	GeographicalLocation 1411 1423	Ilocos Norte
+T39	GeographicalLocation 1425 1438	Nueva Vizcaya
+T40	GeographicalLocation 1440 1451	Nueva Ecija
+T41	GeographicalLocation 1453 1463	Pangasinan
+T42	GeographicalLocation 1465 1471	Tarlac
+T43	GeographicalLocation 1473 1481	Zambales
+T44	GeographicalLocation 1483 1489	Bataan
+T45	GeographicalLocation 1491 1498	Bulacan
+T46	GeographicalLocation 1500 1507	Tayabas
+T47	GeographicalLocation 1509 1518	Camarines
+T48	GeographicalLocation 1520 1528	Sorsogon
+T49	GeographicalLocation 1530 1537	Mindoro
+T50	GeographicalLocation 1539 1545	Tablas
+T51	GeographicalLocation 1547 1552	Bohol
+T52	GeographicalLocation 1554 1561	Basilan
+T53	GeographicalLocation 1563 1571	Mindanao
+T54	GeographicalLocation 1574 1582	Cotabato
+T55	GeographicalLocation 1584 1593	Zamboanga
+T56	Taxon 1598 1611	HOPEA ODORATA
+T57	Taxon 1598 1617	HOPEA ODORATA Roxb.
+T58	Person 1642 1650	Borromeo
+T59	Person 1655 1663	Alhambra
+T60	GeographicalLocation 1683 1698	Bataan Province
+T61	GeographicalLocation 1700 1705	Luzon
+T62	TemporalExpression 1710 1720	July, 1916
+T63	Person 1827 1835	Korthals
+T64	Person 1914 1923	Roxburg's
+T65	Taxon 2036 2046	H. odorata
+T66	GeographicalLocation 2098 2118	San Miguel de Mayumo
+T67	GeographicalLocation 2120 2136	Bulacan Province
+T68	GeographicalLocation 2138 2143	Luzon
+T69	Taxon 2174 2184	H. plagata
+T70	Person 2239 2247	Korthals
+T71	Taxon 2257 2270	Hopea odorata
+T72	GeographicalLocation 2281 2286	Burma
+T73	GeographicalLocation 2288 2292	Siam
+T74	GeographicalLocation 2294 2305	Cochinchina
+T75	GeographicalLocation 2311 2319	Andamans
+T76	GeographicalLocation 2325 2331	Borneo
+T77	Taxon 2336 2345	HOPEA sp.
+T78	Taxon 2336 2353	HOPEA sp. (Gyam).
+T79	GeographicalLocation 2354 2362	Tawitawi
+T80	Taxon 2367 2383	HOPEA OVALIFOLIA
+T81	Taxon 2367 2390	HOPEA OVALIFOLIA Boerl.
+T82	GeographicalLocation 2391 2399	Mindanao
+T83	GeographicalLocation 2401 2410	Zamboanga
+T84	GeographicalLocation 2412 2418	Agusan
+T85	GeographicalLocation 2420 2425	Luzon
+T86	GeographicalLocation 2427 2436	Camarines
+T87	GeographicalLocation 2438 2443	Samar
+T88	Taxon 2448 2463	HOPEA ACUMINATA
+T89	Taxon 2448 2469	HOPEA ACUMINATA Merr.
+T90	GeographicalLocation 2470 2475	Luzon
+T91	GeographicalLocation 2477 2484	Cagayan
+T92	GeographicalLocation 2486 2498	Ilocos Norte
+T93	GeographicalLocation 2500 2513	Nueva Vizcaya
+T94	GeographicalLocation 2515 2523	La Union
+T95	GeographicalLocation 2525 2535	Pangasinan

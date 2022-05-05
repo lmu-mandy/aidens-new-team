@@ -1,0 +1,50 @@
+T1	Taxon 33 49	Dipterocarpaceae
+T2	Taxon 137 146	S. cihata
+T3	GeographicalLocation 292 300	Mindanao
+T4	GeographicalLocation 302 320	Zamboanga Province
+T5	Person 358 364	VMamil
+T6	TemporalExpression 366 375	May, 1914
+T7	Person 393 402	Foxworthy
+T8	Person 404 411	De Mesa
+T9	Person 415 423	Villamil
+T10	TemporalExpression 425 434	May, 1912
+T11	GeographicalLocation 436 451	Agusan Province
+T12	Person 468 473	Miras
+T13	Person 475 482	Soriano
+T14	Person 486 493	Mariano
+T15	GeographicalLocation 494 499	Luzon
+T16	GeographicalLocation 500 518	Camarines Province
+T17	Person 542 549	Alvarez
+T18	TemporalExpression 551 560	May, 1914
+T19	Taxon 565 586	SHOREA MALIBATO Foxw.
+T20	Taxon 565 580	SHOREA MALIBATO
+T21	GeographicalLocation 675 690	Agusan Province
+T22	GeographicalLocation 691 699	Mindanao
+T23	Taxon 730 744	Shorea ciliata
+T24	Person 851 858	Miranda
+T25	GeographicalLocation 873 891	Zamboanga Province
+T26	GeographicalLocation 893 901	Mindanao
+T27	TemporalExpression 903 918	August 17, 1914
+T28	Taxon 938 952	guijo amarillo
+T29	Taxon 1011 1026	Shorea malibato
+T30	Taxon 1031 1041	S. ciliata
+T31	Taxon 1031 1041	S. ciliata
+T32	Taxon 1122 1133	S. malibato
+T33	Taxon 1138 1158	SHOREA FALCIFEROIDES
+T34	Taxon 1168 1182	Yamban matibia
+T35	GeographicalLocation 1184 1192	Zambales
+T36	GeographicalLocation 2263 2268	Luzon
+T37	GeographicalLocation 2270 2287	Zambales Province
+T38	GeographicalLocation 2289 2297	Masinloc
+T39	Person 2315 2320	Mayor
+T40	TemporalExpression 2322 2333	June 8 1916
+T41	Taxon 2362 2383	Shorea falcifera Dyer
+T42	Taxon 2362 2378	Shorea falcifera
+T43	Taxon 2564 2581	SHOREA MALAANONAN
+T44	Taxon 2564 2596	SHOREA MALAANONAN (Blanco) Blume
+T45	Taxon 2675 2694	Mocanera malaanonan
+T46	Taxon 2675 2701	Mocanera malaanonan Blanco
+T47	Taxon 2726 2750	Dipterocarpus malaanonan
+T48	Taxon 2726 2757	Dipterocarpus malaanonan Blanco
+T49	Person 2751 2757	Blanco
+T50	Taxon 3005 3015	Parashorea

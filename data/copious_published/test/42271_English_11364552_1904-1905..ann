@@ -1,0 +1,65 @@
+T1	Taxon 0 11	Leguminosae
+T2	TemporalExpression 210 223	December 1902
+T3	TemporalExpression 300 310	April 1902
+T4	GeographicalLocation 360 367	Cagayan
+T5	TemporalExpression 483 493	March 1903
+T6	TemporalExpression 533 541	May 1903
+T7	Taxon 575 584	P. lohata
+T8	TemporalExpression 651 664	February 1903
+T9	Taxon 695 720	Wallaceodeiidrou celebica
+T10	GeographicalLocation 751 762	Guinayangan
+T11	GeographicalLocation 907 914	Celebes
+T12	GeographicalLocation 974 992	Philippine Islands
+T13	GeographicalLocation 1073 1082	Minahassa
+T14	Taxon 1194 1207	Anacardiaceae
+T15	GeographicalLocation 1278 1285	Celebes
+T16	Taxon 1355 1368	Anacardiaceae
+T17	Taxon 1391 1411	Albizzia julibrissin
+T18	TemporalExpression 1478 1488	April 1903
+T19	Taxon 1494 1510	Albizzia procera
+T20	GeographicalLocation 1538 1551	Camarines Sur
+T21	GeographicalLocation 1553 1560	Pasacao
+T22	Taxon 136 159	Pitliecolobium montanum
+T23	Taxon 136 165	Pitliecolobium montanum Benth
+T24	GeographicalLocation 92 104	Mindanao Isl
+T25	GeographicalLocation 106 111	Davao
+T26	Taxon 229 248	Pithecolobium Saman
+T27	Taxon 229 254	Pithecolobium Saman Benth
+T28	GeographicalLocation 256 261	Luzon
+T29	GeographicalLocation 263 269	Manila
+T30	Taxon 316 339	Pithecolobium subacutum
+T31	Taxon 316 345	Pithecolobium subacutum Benth
+T32	GeographicalLocation 347 358	North Luzon
+T33	GeographicalLocation 393 400	Isabela
+T34	GeographicalLocation 402 408	Malunu
+T35	GeographicalLocation 435 440	Rizal
+T36	GeographicalLocation 442 450	Antipolo
+T37	GeographicalLocation 496 501	Tanay
+T38	Taxon 547 565	Pitliecolobium sp.
+T39	Taxon 575 590	P. lohata Benth
+T40	GeographicalLocation 593 598	Luzon
+T41	GeographicalLocation 604 609	Rizal
+T42	GeographicalLocation 611 619	Antipolo
+T43	Taxon 667 691	Wallaceodendron Koorders
+T44	Taxon 695 729	Wallaceodeiidrou celebica Koorders
+T45	GeographicalLocation 731 736	Luzon
+T46	GeographicalLocation 742 749	Tayabas
+T47	TemporalExpression 791 795	1903
+T48	Taxon 1004 1019	Wallaceodendron
+T49	Person 1043 1051	Koorders
+T50	Person 1321 1326	Ahern
+T51	Taxon 1371 1386	Albizzia Durazz
+T52	Taxon 1391 1419	Albizzia julibrissin Durazz.
+T53	GeographicalLocation 1420 1425	Luzon
+T54	GeographicalLocation 1431 1436	Rizal
+T55	GeographicalLocation 1438 1446	Bosoboso
+T56	Taxon 1494 1516	Albizzia procera Teysm
+T57	GeographicalLocation 1527 1532	Luzon
+T58	GeographicalLocation 1587 1595	Principe
+T59	GeographicalLocation 1597 1602	Baler
+T60	GeographicalLocation 1632 1643	Mindoro Isl
+T61	GeographicalLocation 1645 1649	Baco
+T62	TemporalExpression 1625 1629	1903
+T63	TemporalExpression 1576 1580	1902
+T64	TemporalExpression 1669 1678	Jan. 1903
+T65	TemporalExpression 34 42	May 1903

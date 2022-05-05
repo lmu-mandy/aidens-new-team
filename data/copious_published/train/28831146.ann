@@ -1,0 +1,49 @@
+T1	Taxon 6 22	DiFTLROCARPACEAE
+T2	GeographicalLocation 64 75	Philippines
+T3	GeographicalLocation 182 190	Thailand
+T4	Person 346 357	Smitinand's
+T5	Taxon 485 498	Dipterocarpus
+T6	Habitat 660 686	seasonal evergreen forests
+T7	Taxon 711 733	Dipterocarpus gracilis
+T8	Taxon 738 756	Anisoptera costata
+T9	GeographicalLocation 793 808	western Malesia
+T10	Habitat 859 868	Mountains
+T11	Habitat 898 904	coasts
+T12	Habitat 932 945	great valleys
+T13	Habitat 1022 1047	lowland evergreen forests
+T14	GeographicalLocation 1193 1212	Indo-Burmese region
+T15	GeographicalLocation 1217 1221	Java
+T16	Taxon 1223 1245	Dipterocarpus costatus
+T17	Taxon 1247 1258	D. gracilis
+T18	Taxon 1264 1274	D. rotusus
+T19	Habitat 1294 1310	mountain forests
+T20	GeographicalLocation 1314 1320	Malaya
+T21	Taxon 2354 2369	Shorea curtisii
+T22	GeographicalLocation 2469 2480	N.E. Borneo
+T23	TemporalExpression 2486 2490	1955
+T24	GeographicalLocation 2512 2517	Sabah
+T25	Person 2534 2538	Wood
+T26	Person 2936 2943	Crocker
+T27	GeographicalLocation 3204 3226	Sepilok Forest Reserve
+T28	GeographicalLocation 3228 3233	Sabah
+T29	Taxon 3473 3479	Shorea
+T30	TemporalExpression 3512 3515	May
+T31	TemporalExpression 3533 3539	August
+T32	Habitat 3547 3555	lowlands
+T33	TemporalExpression 3560 3568	November
+T34	Habitat 3576 3585	mountains
+T35	Person 3587 3593	Ashton
+T36	Taxon 3649 3674	Shorea sect. Richetioides
+T37	GeographicalLocation 3678 3700	Andulau Forest Reserve
+T38	Taxon 4033 4056	Dryobalanops lanceolata
+T39	Taxon 4134 4150	Shorea smithiana
+T40	Taxon 4194 4205	S. curtisii
+T41	TemporalExpression 4259 4264	1 972
+T42	Taxon 4415 4420	Hopea
+T43	Taxon 4425 4431	Vatica
+T44	Taxon 4690 4700	Parashorea
+T45	Taxon 4705 4711	Vatica
+T46	Habitat 4856 4863	montane
+T47	Habitat 4874 4885	peat swamps
+T48	Taxon 5062 5077	Shorea curtisii
+T49	Person 5098 5105	Burgess

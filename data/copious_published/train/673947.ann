@@ -1,0 +1,25 @@
+T1	Taxon 11 27	DIPTEROCARPACEAE
+T2	Person 51 59	Whitford
+T3	Taxon 79 91	dipterocarps
+T4	GeographicalLocation 99 110	Philippines
+T5	Taxon 309 317	Pentacme
+T6	Taxon 319 329	Anisoptera
+T7	Taxon 1409 1435	Dipterocarpus grandiflorus
+T8	Taxon 1409 1442	Dipterocarpus grandiflorus Blanco
+T9	TemporalExpression 1489 1496	January
+T10	TemporalExpression 1498 1506	February
+T11	TemporalExpression 1508 1513	March
+T12	TemporalExpression 1515 1520	April
+T13	TemporalExpression 1522 1525	May
+T14	TemporalExpression 1527 1531	June
+T15	TemporalExpression 1537 1545	December
+T16	TemporalExpression 1563 1570	January
+T17	TemporalExpression 1572 1580	February
+T18	TemporalExpression 1582 1585	May
+T19	TemporalExpression 1587 1591	June
+T20	TemporalExpression 1593 1599	August
+T21	TemporalExpression 1605 1614	September
+T22	GeographicalLocation 1751 1757	Bataan
+T23	Taxon 1949 1962	Hopea plagata
+T24	Taxon 1949 1971	Hopea plagata (Blanco)
+T25	Taxon 2538 2551	Shorea eximia

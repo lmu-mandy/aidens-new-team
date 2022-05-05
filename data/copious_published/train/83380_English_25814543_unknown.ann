@@ -1,0 +1,99 @@
+T1	Taxon 41 54	Hemiramphidae
+T2	Taxon 526 536	Fistularia
+T3	GeographicalLocation 792 800	Atlantic
+T4	GeographicalLocation 843 861	east African coast
+T5	Taxon 929 939	F. petimba
+T6	GeographicalLocation 1068 1078	Madagascar
+T7	GeographicalLocation 1082 1087	Japan
+T8	GeographicalLocation 1089 1100	Philippines
+T9	GeographicalLocation 1121 1137	Hawaiian Islands
+T10	Taxon 1192 1202	Fistularia
+T11	Taxon 1306 1316	FORMICIDAE
+T12	Taxon 1320 1331	APOLECTIDAE
+T13	Taxon 1379 1389	Formicidae
+T14	Taxon 1391 1400	Apolectus
+T15	Taxon 1404 1426	Formio  Parastromateus
+T16	GeographicalLocation 1650 1655	Japan
+T17	GeographicalLocation 1657 1668	Philippines
+T18	Taxon 1766 1775	Apolectus
+T19	GeographicalLocation 1793 1802	Ogasawara
+T20	GeographicalLocation 1895 1902	Red Sea
+T21	Taxon 1933 1942	Apolectus
+T22	GeographicalLocation 1980 1989	Matsubara
+T23	Taxon 2052 2059	Menidae
+T24	GeographicalLocation 2526 2542	Eastern Caroline
+T25	GeographicalLocation 2565 2581	Marshall islands
+T26	Taxon 2725 2739	Genes argyreus
+T27	Taxon 2744 2761	Xystaema argyreum
+T28	GeographicalLocation 2768 2774	Tahiti
+T29	Taxon 2860 2870	girellidae
+T30	GeographicalLocation 3174 3179	Japan
+T31	GeographicalLocation 3188 3206	southern Australia
+T32	GeographicalLocation 3224 3243	southern Queensland
+T33	GeographicalLocation 3290 3303	Easter Island
+T34	GeographicalLocation 3305 3315	California
+T35	GeographicalLocation 3339 3357	Gulf of California
+T36	GeographicalLocation 3416 3426	Cape Verde
+T37	GeographicalLocation 3431 3445	Canary islands
+T38	GeographicalLocation 3453 3469	eastern Atlantic
+T39	Taxon 14 25	EXOCOETIDAE
+T40	Taxon 134 146	flyingfishes
+T41	GeographicalLocation 161 173	Indo-pacific
+T42	Habitat 353 360	inshore
+T43	GeographicalLocation 425 438	Pacific Plate
+T44	Taxon 440 453	FLSTULARIIDAE
+T45	Taxon 458 470	cornetfishes
+T46	Person 624 633	Fritzsche
+T47	TemporalExpression 635 639	1976
+T48	Taxon 649 659	Fistularia
+T49	GeographicalLocation 743 767	tropical eastern Pacific
+T50	GeographicalLocation 892 907	eastern Pacific
+T51	GeographicalLocation 1026 1043	tropical Atlantic
+T52	GeographicalLocation 1045 1062	Indo-west Pacific
+T53	GeographicalLocation 1106 1115	Australia
+T54	GeographicalLocation 1156 1169	Pacific Plate
+T55	GeographicalLocation 1225 1238	Mediterranean
+T56	TemporalExpression 1264 1271	Miocene
+T57	Person 1538 1545	Witzell
+T58	Taxon 1593 1602	Apolectus
+T59	GeographicalLocation 1623 1637	eastern Africa
+T60	GeographicalLocation 1674 1691	eastern Australia
+T61	Person 1707 1711	Zama
+T62	Person 1716 1722	Fujita
+T63	GeographicalLocation 1783 1788	Bonin
+T64	GeographicalLocation 1843 1856	Pacific Plate
+T65	Person 1862 1865	Dor
+T66	TemporalExpression 1724 1728	1977
+T67	TemporalExpression 1867 1871	1970
+T68	GeographicalLocation 1946 1952	Hawaii
+T69	Person 2001 2010	Matsubara
+T70	GeographicalLocation 2093 2106	Pacific Plate
+T71	Taxon 2118 2127	Apolectus
+T72	Taxon 2129 2138	Gerreidae
+T73	Taxon 2143 2151	mojarras
+T74	Habitat 2376 2384	brackish
+T75	Habitat 2388 2398	freshwater
+T76	Habitat 2421 2432	warm coasts
+T77	GeographicalLocation 2498 2511	Pacific Plate
+T78	GeographicalLocation 2544 2551	Gilbert
+T79	GeographicalLocation 2553 2559	Ellice
+T80	Person 2664 2671	Randall
+T81	Person 2689 2695	Jordan
+T82	Person 2700 2705	Seale
+T83	Taxon 2776 2794	GLNGLYMOSTOMATIDAE
+T84	Taxon 2830 2843	Orectolobidae
+T85	Taxon 2845 2855	GIRELLIDAE
+T86	GeographicalLocation 3020 3033	Pacific Plate
+T87	GeographicalLocation 3181 3186	China
+T88	GeographicalLocation 3246 3255	Lord Howe
+T89	GeographicalLocation 3260 3275	Norfolk islands
+T90	GeographicalLocation 3277 3288	New Zealand
+T91	GeographicalLocation 3359 3368	Galapagos
+T92	GeographicalLocation 3370 3375	Chile
+T93	GeographicalLocation 3402 3406	Peru
+T94	GeographicalLocation 3493 3496	Lee
+T95	GeographicalLocation 3501 3506	Chang
+T96	TemporalExpression 3508 3512	1981
+T97	TemporalExpression 2673 2677	1973
+T98	TemporalExpression 2709 2713	1906
+T99	Person 3471 3481	D.F. Hoese

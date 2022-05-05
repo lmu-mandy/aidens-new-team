@@ -1,0 +1,30 @@
+T1	GeographicalLocation 35 46	PHILIPPINES
+T2	Taxon 152 167	Rattus everetti
+T3	GeographicalLocation 258 288	Chicago Natural History Museum
+T4	Taxon 416 440	Echinolaelaps echidninus
+T5	Taxon 568 592	Echinolaelaps echidninus
+T6	Taxon 737 744	Laelaps
+T7	Taxon 815 841	Paradoxurus hermaphroditus
+T8	Person 0 9	DELFINADO
+T9	Taxon 11 27	LAELAPTOID MITES
+T10	GeographicalLocation 169 177	Mindanao
+T11	Taxon 179 188	Mount Apo
+T12	GeographicalLocation 210 215	Davao
+T13	TemporalExpression 217 233	November 8, 1946
+T14	Taxon 235 248	H. Hoogstraal
+T15	Taxon 361 390	United States National Museum
+T16	Taxon 542 561	ECHINOLAELAPS Ewing
+T17	TemporalExpression 563 567	1929
+T18	Taxon 568 602	Echinolaelaps echidninus (Berlese)
+T19	Taxon 620 646	Laelaps (Iphis) echidninus
+T20	Taxon 620 654	Laelaps (Iphis) echidninus Berlese
+T21	TemporalExpression 656 660	1887
+T22	Taxon 662 677	Acari Myriapoda
+T23	Taxon 662 691	Acari Myriapoda et Scorpiones
+T24	Taxon 728 756	Laelaps (Laelaps) echidninus
+T25	Taxon 728 764	Laelaps (Laelaps) echidninus Berlese
+T26	TemporalExpression 766 770	1887
+T27	Taxon 772 780	Vitzthum
+T28	Taxon 788 795	Treubia
+T29	TemporalExpression 782 786	1926
+T30	GeographicalLocation 843 847	Java

@@ -1,0 +1,73 @@
+T1	GeographicalLocation 48 56	Camiguin
+T2	Taxon 441 459	Ptenochirus jagori
+T3	Taxon 480 495	musky fruit bat
+T4	GeographicalLocation 610 617	Palawan
+T5	GeographicalLocation 712 720	Camiguin
+T6	Taxon 728 746	Ptenochirus jagori
+T7	Habitat 834 858	disturbed lowland forest
+T8	Habitat 893 913	primary mossy forest
+T9	TemporalExpression 974 979	1960s
+T10	Habitat 1035 1042;1060 1066	lowland forest
+T11	Habitat 1047 1066	montane rain forest
+T12	TemporalExpression 1382 1390	May 1992
+T13	TemporalExpression 1395 1399	1994
+T14	Taxon 1740 1749	P. jagori
+T15	TemporalExpression 1777 1780	May
+T16	GeographicalLocation 1784 1789	Luzon
+T17	GeographicalLocation 1791 1801	Mt. Isarog
+T18	GeographicalLocation 1828 1836	Mindanao
+T19	GeographicalLocation 1838 1853	Kitanglad Range
+T20	TemporalExpression 1890 1895	March
+T21	TemporalExpression 1897 1900	May
+T22	TemporalExpression 1902 1906	July
+T23	TemporalExpression 1912 1918	August
+T24	TemporalExpression 1944 1947	May
+T25	TemporalExpression 1951 1955	June
+T26	TemporalExpression 1960 1966	August
+T27	TemporalExpression 1970 1978	December
+T28	Person 2009 2017	Heideman
+T29	Person 2022 2028	Powell
+T30	GeographicalLocation 2050 2063	Negros Island
+T31	Taxon 2065 2074	P. jagori
+T32	TemporalExpression 2135 2145	late March
+T33	TemporalExpression 2149 2160	early April
+T34	TemporalExpression 2179 2185	August
+T35	Taxon 2357 2384	Philippine pygmy fruit bats
+T36	Taxon 2386 2408	Haplonycteris fischeri
+T37	Taxon 2413 2439	Otopteropus cartilagonodus
+T38	GeographicalLocation 2917 2924	Biliran
+T39	GeographicalLocation 2926 2931	Leyte
+T40	GeographicalLocation 2937 2945	Maripipi
+T41	GeographicalLocation 3071 3082	Catanduanes
+T42	GeographicalLocation 3087 3101	southern Luzon
+T43	GeographicalLocation 3133 3140	Biliran
+T44	GeographicalLocation 3142 3147	Leyte
+T45	GeographicalLocation 3153 3161	Maripipi
+T46	Taxon 3363 3390	Pteropus hypomelanus Mearns
+T47	Taxon 3415 3425	flying fox
+T48	GeographicalLocation 3438 3446	Thailand
+T49	GeographicalLocation 3450 3459	Australia
+T50	GeographicalLocation 3488 3499	Philippines
+T51	Habitat 3635 3649	primary forest
+T52	TemporalExpression 3757 3762	1960s
+T53	GeographicalLocation 3780 3788	Camiguin
+T54	TemporalExpression 3864 3869	1990s
+T55	GeographicalLocation 4166 4173	Dinagat
+T56	GeographicalLocation 4175 4180	Panay
+T57	GeographicalLocation 4182 4187	Leyte
+T58	GeographicalLocation 4193 4201	Maripipi
+T59	Taxon 4348 4371	Pteropus pumilus Miller
+T60	Taxon 4348 4364	Pteropus pumilus
+T61	Taxon 4382 4414	little golden-mantled flying fox
+T62	GeographicalLocation 4433 4444	Philippines
+T63	GeographicalLocation 4480 4494	Miangas Island
+T64	GeographicalLocation 4496 4505	Indonesia
+T65	GeographicalLocation 4519 4527	Mindanao
+T66	GeographicalLocation 598 605	babuyan
+T67	GeographicalLocation 591 598	Batanes
+T68	Habitat 765 785	lowland agricultural
+T69	Taxon 3363 3383	Pteropus hypomelanus
+T70	GeographicalLocation 3526 3533	Palawan
+T71	Habitat 3571 3583	agricultural
+T72	GeographicalLocation 4594 4601	Batanes
+T73	GeographicalLocation 4601 4608	babuyan

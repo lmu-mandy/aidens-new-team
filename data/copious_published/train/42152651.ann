@@ -1,0 +1,59 @@
+T1	GeographicalLocation 27 40	UNITED STATES
+T2	Taxon 45 76	Var. glabrescens (Heller) Jeps.
+T3	Taxon 78 92	H. glahrescens
+T4	Taxon 78 99	H. glahrescens Heller
+T5	Taxon 101 124	Sericotheca glabrescens
+T6	Taxon 101 140	Sericotheca glabrescens (Greenm.) Rydb.
+T7	Taxon 142 159	S. obovata Rydb.)
+T8	Taxon 237 254	Black-tailed deer
+T9	Taxon 301 320	Holodiscus dumostis
+T10	Taxon 301 336	Holodiscus dumostis (Nutt.) Heller.
+T11	Taxon 337 355	Sericotheca damosa
+T12	Taxon 337 369	Sericotheca damosa (Nutt.) Rydb.
+T13	Taxon 371 386	Spiraea durnosa
+T14	Taxon 371 392	Spiraea durnosa Nutt.
+T15	Taxon 541 554	Yosemite cony
+T16	Taxon 556 578	Holodiscus glabrescens
+T17	Taxon 584 603	Holodiscus discolor
+T18	Taxon 605 628	Holodiscus microphyllus
+T19	Taxon 634 653	Holodiscus discolor
+T20	Taxon 655 677	Holodiscus schaflfneri
+T21	Taxon 655 693	Holodiscus schaflfneri (Rydb.) Standi.
+T22	Taxon 694 716	Sericotheca schaffneri
+T23	Taxon 694 722	Sericotheca schaffneri Rydb.
+T24	Taxon 785 800	Hopea tinctoria
+T25	Taxon 806 825	Symplocos tinctoria
+T26	Taxon 827 843	Horsfordia alata
+T27	Taxon 827 857	Horsfordia alata (Wats.) Gray.
+T28	TemporalExpression 943 948	April
+T29	TemporalExpression 949 957	December
+T30	Taxon 959 979	Horsfordia newberryi
+T31	Taxon 959 992	Horsfordia newberryi (Wats.) Gray
+T32	Taxon 994 1015	K'ewberry falsemallow
+T33	Taxon 1017 1036	Abutilon neivherryi
+T34	Taxon 1017 1042	Abutilon neivherryi Wats.
+T35	TemporalExpression 1145 1150	April
+T36	TemporalExpression 1151 1154	May
+T37	Taxon 1195 1215	Hosackia balsamifera
+T38	Taxon 1221 1237	Lotus stipularis
+T39	Taxon 1239 1259	Hosackia macrophylla
+T40	Taxon 1265 1281	Lotus stipularis
+T41	Taxon 1283 1302	Hosackia stipularis
+T42	Taxon 1308 1324	Lotus stipularis
+T43	Taxon 1326 1347	Houstonia fasciculata
+T44	Taxon 1326 1353	Houstonia fasciculata Gray.
+T45	Taxon 1427 1445	Hudsonia ericoides
+T46	Taxon 1427 1448	Hudsonia ericoides L.
+T47	Taxon 1449 1461	Gold-heather
+T48	Habitat 1580 1585	sandy
+T49	Habitat 1589 1599	rocky soil
+T50	TemporalExpression 1613 1616	May
+T51	Habitat 1643 1648	coast
+T52	Taxon 1650 1666	Hudsonia montana
+T53	Taxon 1650 1672	Hudsonia montana Nutt.
+T54	Taxon 1816 1834	Hudsonia tomentosa
+T55	Taxon 1816 1840	Hudsonia tomentosa Nutt.
+T56	Taxon 1841 1854	Beach-heather
+T57	TemporalExpression 1967 1970	May
+T58	TemporalExpression 1971 1975	July
+T59	Habitat 1987 1991	sand

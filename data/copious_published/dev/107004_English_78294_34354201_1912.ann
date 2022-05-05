@@ -1,0 +1,119 @@
+T1	Taxon 48 57	Fruit bat
+T2	Taxon 59 77	Pteropus speciosus
+T3	Taxon 93 106	Sus cebifrons
+T4	GeographicalLocation 119 123	Cebu
+T5	Taxon 132 151	Melanaxis breviceps
+T6	Taxon 156 174	M. mashatensisrusa
+T7	Taxon 189 198	Fruit bat
+T8	Taxon 200 216	Acerodon jubatus
+T9	Taxon 241 260	Sciurus mindanensis
+T10	Taxon 265 280	S. philippensis
+T11	Taxon 294 328	Nycticebus philippinus. menagensis
+T12	Taxon 339 359	Tarsius philippensis
+T13	GeographicalLocation 361 369	Mindanao
+T14	GeographicalLocation 371 376	Leyte
+T15	Taxon 424 439	Sus mindanensis
+T16	Taxon 460 477	Paradoxurus minax
+T17	Taxon 489 503	Sciurus cassis
+T18	Taxon 533 547	Epimys kelleri
+T19	Taxon 579 598	Tarsius carbonarius
+T20	Taxon 633 650	Crocidura grandis
+T21	Taxon 700 722	Hipposideros coronatus
+T22	Taxon 772 787	Taphozous pluto
+T23	Taxon 811 828	Podogymnura truei
+T24	Taxon 842 860	Urogale cylindrura
+T25	Taxon 867 884	Rhinolophus inops
+T26	Taxon 897 912	Crunomys fallax
+T27	Taxon 914 932	Epimys albigularis
+T28	Taxon 934 948	E. mindanensis
+T29	Taxon 950 963	E. todayensis
+T30	Taxon 965 975	E. vulcani
+T31	Taxon 977 989	E. v. apicis
+T32	Taxon 991 1007	Bullimus bagobus
+T33	Taxon 1009 1026	Limnomys sibuanus
+T34	Taxon 1028 1045	Tarsomys apoensis
+T35	Taxon 1047 1064	Apomys hylocoetes
+T36	Taxon 1066 1077	A. insignis
+T37	Taxon 1083 1094	A. petrssus
+T38	Taxon 1155 1171	Crocidura beatus
+T39	Taxon 1178 1191	Apomys bardus
+T40	Taxon 1201 1210	Fruit bat
+T41	Taxon 1212 1238	Pteropus vampyrus lanensis
+T42	Taxon 1354 1370	Urogale everetti
+T43	Taxon 1437 1450	E. zamboangse
+T44	Taxon 1466 1492	Harpyionycteris whiteheadi
+T45	Taxon 1500 1519	Ussa barandanusrusa
+T46	Taxon 1569 1588	Chilophylla hirsuta
+T47	Taxon 1671 1689	Crocidura halconus
+T48	Taxon 1694 1705	C. mindorus
+T49	GeographicalLocation 108 115	Masbate
+T50	GeographicalLocation 79 86	Hasbate
+T51	GeographicalLocation 38 46	Malanipa
+T52	Taxon 88 91	Pig
+T53	Taxon 126 130	Deer
+T54	GeographicalLocation 179 187	Mindanao
+T55	Taxon 200 228	Acerodon jubatus mindanensis
+T56	Taxon 230 239	Squirrels
+T57	Taxon 282 292	Slow lemur
+T58	Taxon 330 337	Tarsier
+T59	Taxon 390 394	Pigs
+T60	Taxon 396 410	Sus inconstans
+T61	GeographicalLocation 412 417	Alaya
+T62	Taxon 419 422	Pig
+T63	GeographicalLocation 441 446	Davao
+T64	Taxon 448 458	Palm civet
+T65	Taxon 479 487	Squirrel
+T66	Taxon 489 516	Sciurus cassis. mindanensis
+T67	Taxon 518 522	Rats
+T68	Taxon 527 531	mice
+T69	Taxon 552 568	Mus commissarius
+T70	Taxon 570 577	Tarsier
+T71	GeographicalLocation 600 624	Grand Malindang Mountain
+T72	GeographicalLocation 382 387	Samar
+T73	Taxon 626 631	Shrew
+T74	GeographicalLocation 652 663	Lake Mainit
+T75	Taxon 665 672	Buffalo
+T76	Taxon 674 693	Bubalus mainitensis
+T77	Taxon 695 698	Bat
+T78	Taxon 724 728	Mati
+T79	Taxon 730 734	Deer
+T80	Taxon 736 755	Ussa francianusrusa
+T81	GeographicalLocation 757 765	Mercedes
+T82	Taxon 767 770	Bat
+T83	GeographicalLocation 789 798	Mount Apo
+T84	Taxon 800 809	Woodshrew
+T85	Taxon 830 840	Tree shrew
+T86	Taxon 862 865	Bat
+T87	Taxon 886 890	Rats
+T88	Taxon 1096 1102	Monkey
+T89	Taxon 1104 1133	Pithecus mindanensis apoensis
+T90	GeographicalLocation 1135 1146	Mount Bliss
+T91	Taxon 1153 1154	;
+T92	Taxon 1173 1176	Rat
+T93	GeographicalLocation 1193 1199	Pantar
+T94	Taxon 1240 1243	Rat
+T95	Taxon 1245 1263	Epimys pantarensis
+T96	Taxon 1265 1271	Monkey
+T97	Taxon 1273 1293	Pithecus mindanensis
+T98	GeographicalLocation 1295 1303	Tagulaya
+T99	Taxon 1305 1308	Rat
+T100	Taxon 1310 1329	Epimys tagulayensis
+T101	GeographicalLocation 1331 1340	Zamboanga
+T102	Taxon 1342 1352	Tree shrew
+T103	Taxon 1372 1375	Bat
+T104	Taxon 1377 1405	Rhinolophus arcuatus exiguus
+T105	Taxon 1407 1411	Rats
+T106	Taxon 1413 1432	Epimys magnirostris
+T107	GeographicalLocation 1452 1459	Mindoro
+T108	Taxon 1461 1464	Bat
+T109	Taxon 1494 1498	Deer
+T110	Taxon 1521 1528	Buffalo
+T111	Taxon 1530 1549	Bubalus mindorensis
+T112	Taxon 1564 1567	Bat
+T113	Taxon 1590 1593	Rat
+T114	Taxon 1595 1606	Epimys gala
+T115	GeographicalLocation 1608 1622	Mount Dulangan
+T116	Taxon 1624 1627	Rat
+T117	Taxon 1629 1647	Epimys mindorensis
+T118	Taxon 1663 1669	Shrews
+T119	GeographicalLocation 1649 1661	Mount Halcon

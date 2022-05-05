@@ -1,0 +1,27 @@
+T1	Taxon 4 20	Dipterocarpaceae
+T2	Taxon 23 29	Shorea
+T3	Habitat 147 163	tropical forests
+T4	GeographicalLocation 167 175	Martaban
+T5	Habitat 207 213	sloper
+T6	GeographicalLocation 221 231	Pegu Yomah
+T7	TemporalExpression 263 268	March
+T8	TemporalExpression 274 277	Apr
+T9	TemporalExpression 279 282	May
+T10	Taxon 335 341	Shorea
+T11	Taxon 335 348	Shorea, Roxb.
+T12	Taxon 946 955	S. obtusa
+T13	Taxon 1016 1026	S. robusta
+T14	Taxon 1140 1150	S. Helferi
+T15	Taxon 1196 1209	S. floribunda
+T16	Taxon 1214 1223	S. obtusa
+T17	Taxon 1214 1230	S. obtusa, Wall.
+T18	Habitat 2440 2443	Eng
+T19	Habitat 2448 2464	hill Eng-forests
+T20	GeographicalLocation 2474 2479	Burma
+T21	GeographicalLocation 2485 2488	Ava
+T22	GeographicalLocation 2490 2495	Prome
+T23	GeographicalLocation 2501 2509	Martaban
+T24	GeographicalLocation 2518 2528	Tenasserim
+T25	TemporalExpression 2560 2565	March
+T26	TemporalExpression 2571 2574	Apr
+T27	TemporalExpression 2576 2579	May

@@ -1,0 +1,75 @@
+T1	GeographicalLocation 72 82	Cataduanes
+T2	Person 0 5	BROWN
+T3	Person 7 16	A. ALCALA
+T4	Person 18 25	DIESMOS
+T5	Person 30 39	E. ALCALA
+T6	Taxon 41 52	PLATYMAIA1S
+T7	Taxon 131 143	P. guentheri
+T8	Taxon 237 259	Platymantis luzonensis
+T9	Taxon 314 333	Platymantis banahao
+T10	Person 423 435	E. H. Taylor
+T11	Person 437 449	A. C. Alcala
+T12	Person 455 466	W. C. Brown
+T13	Person 597 609	A. C. Alcala
+T14	Person 611 624	A. C. Diesmos
+T15	Person 626 633	A. Ross
+T16	Person 635 647	E. L. Alcala
+T17	Person 798 810	R. C. Drewes
+T18	Person 818 829	J. E. Cadle
+T19	Person 837 848	R. F. Inger
+T20	Person 857 871	P. C. Gonzales
+T21	Person 883 895	E. N. Arnold
+T22	GeographicalLocation 734 748	southern Luzon
+T23	Person 900 912	B. T. Clarke
+T24	Person 999 1012	A. E. Leviton
+T25	Person 1014 1026	R. C. Drewes
+T26	Person 1032 1043	R. F. Inger
+T27	Person 1128 1138	C. Sudekum
+T28	Person 1201 1213	A. C. Alcala
+T29	Person 1218 1230	E. L. Alcala
+T30	Taxon 1262 1283	Platymantis guentheri
+T31	GeographicalLocation 1285 1294	Dinagat I
+T32	GeographicalLocation 1296 1307	Philippines
+T33	GeographicalLocation 1361 1372	Mt. Magkono
+T34	GeographicalLocation 1336 1345	Esperanza
+T35	GeographicalLocation 1384 1392	Mindanao
+T36	GeographicalLocation 1396 1406	Davao Prov
+T37	GeographicalLocation 1427 1441	Zamboanga Prov
+T38	GeographicalLocation 1443 1455	Dapitan Peak
+T39	GeographicalLocation 1484 1505	Agusan del Norte Prov
+T40	GeographicalLocation 1519 1536	Mt. Hilong-hilong
+T41	GeographicalLocation 1666 1675	Biliran I
+T42	GeographicalLocation 1693 1700	Bohol I
+T43	GeographicalLocation 1702 1722	Sierra Bullones area
+T44	Taxon 1775 1790	Cornufer ingeri
+T45	Taxon 1967 1982	Cornufer ingeri
+T46	Taxon 1985 2003	Platymantis rabori
+T47	Taxon 2060 2083	Platymantis negrosensis
+T48	Person 2154 2166	Alcala, A. C
+T49	GeographicalLocation 2226 2232	Negros
+T50	GeographicalLocation 2234 2252	Philippine Islands
+T51	Taxon 2431 2449	Cornufer guentheri
+T52	GeographicalLocation 2453 2466	Negros Island
+T53	GeographicalLocation 2468 2479	Philippines
+T54	Taxon 2584 2593	Batrachia
+T55	Taxon 2595 2604	Salientia
+T56	Taxon 2610 2618	Ecaudata
+T57	Taxon 2788 2809	Natal dwarf Afrixalus
+T58	Taxon 2811 2816	Anura
+T59	Taxon 2818 2829	Hyperolidae
+T60	Habitat 2941 2951;2964 2971	submontane forests
+T61	Habitat 2956 2971	montane forests
+T62	GeographicalLocation 2975 2992	Cuernos de Negros
+T63	GeographicalLocation 2994 3012	Philippine Islands
+T64	Taxon 3045 3049	frog
+T65	Taxon 3063 3071	Cornufer
+T66	Taxon 3073 3080	Ranidae
+T67	GeographicalLocation 3124 3136	Bohol Island
+T68	GeographicalLocation 3138 3149	Philippines
+T69	Taxon 3206 3217	Platymantis
+T70	Taxon 3219 3226	Ranidae
+T71	GeographicalLocation 3265 3285	South Gigante Island
+T72	GeographicalLocation 3287 3298	Philippines
+T73	GeographicalLocation 3389 3407	Philippine Islands
+T74	GeographicalLocation 3504 3515	Philippines
+T75	Taxon 3726 3737	Platymantis

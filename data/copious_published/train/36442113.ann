@@ -1,0 +1,26 @@
+T1	Taxon 0 5	Hopea
+T2	Taxon 8 24	Dipterocarpaceae
+T3	Habitat 524 540	tropical forests
+T4	GeographicalLocation 550 555	Burma
+T5	GeographicalLocation 561 571	Chittagong
+T6	GeographicalLocation 576 584	Martaban
+T7	GeographicalLocation 593 603	Tenasserim
+T8	TemporalExpression 609 614	March
+T9	TemporalExpression 615 618	Apr
+T10	TemporalExpression 625 628	May
+T11	TemporalExpression 629 633	June
+T12	Taxon 825 832	Thingan
+T13	Taxon 904 915	H. scaphula
+T14	Taxon 904 922	H. scaphula, Roxb.
+T15	Taxon 924 939	Vatica scaphula
+T16	Taxon 924 945	Vatica scaphula, Dyer
+T17	GeographicalLocation 1388 1398	Chittagong
+T18	TemporalExpression 1404 1407	Jan
+T19	Taxon 1455 1468	H. gratissima
+T20	Taxon 1455 1475	H. gratissima, Wall.
+T21	Taxon 1477 1494	Shorea gratissima
+T22	Taxon 1477 1500	Shorea gratissima, Dyer
+T23	GeographicalLocation 2003 2013	Tenasserim
+T24	Taxon 2018 2033	H. oblongifolia
+T25	Taxon 2018 2039	H. oblongifolia, Dyer
+T26	GeographicalLocation 2557 2576	Southern Tenasserim

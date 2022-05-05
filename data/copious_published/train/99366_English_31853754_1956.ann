@@ -1,0 +1,57 @@
+T1	GeographicalLocation 119 130	Philippines
+T2	TemporalExpression 189 193	1954
+T3	TemporalExpression 223 227	1953
+T4	TemporalExpression 247 251	1952
+T5	TemporalExpression 363 367	1952
+T6	TemporalExpression 389 393	1954
+T7	GeographicalLocation 546 557	Philippines
+T8	GeographicalLocation 774 780	Manila
+T9	GeographicalLocation 874 886	Carigara Bay
+T10	GeographicalLocation 888 903	Guimaras Strait
+T11	GeographicalLocation 905 915	Manila Bay
+T12	GeographicalLocation 917 928	Magueda Bay
+T13	GeographicalLocation 930 939	Samar Sea
+T14	GeographicalLocation 957 965	Sulu Sea
+T15	GeographicalLocation 971 982	Visayan Sea
+T16	GeographicalLocation 1067 1073	Manila
+T17	Taxon 1123 1138	Peneaus indicus
+T18	Taxon 1156 1172	P. canaliculatus
+T19	Taxon 1184 1194	P. affinis
+T20	Taxon 1245 1255	P. monodon
+T21	GeographicalLocation 1584 1595	Philippines
+T22	Taxon 1713 1723	P. monodon
+T23	Taxon 1854 1864	P. monodon
+T24	Taxon 1976 1986	P. monodon
+T25	GeographicalLocation 2006 2017	Philippines
+T26	TemporalExpression 2350 2361	August 1954
+T27	TemporalExpression 2516 2528	October 1955
+T28	TemporalExpression 398 402	1955
+T29	GeographicalLocation 503 507	Guam
+T30	GeographicalLocation 512 518	Hawaii
+T31	GeographicalLocation 587 600	United States
+T32	GeographicalLocation 729 742	United States
+T33	TemporalExpression 758 768	January 11
+T34	GeographicalLocation 941 955	San Miguel Bay
+T35	Taxon 1213 1225	P. incisipes
+T36	Taxon 1123 1154	Peneaus indicus (Milne-edwards)
+T37	Taxon 1156 1182	P. canaliculatus (Olivier)
+T38	Taxon 1184 1211	P. affinis (Milne -Edwards)
+T39	Taxon 1213 1239	P. incisipes (Spence-bate)
+T40	Taxon 1245 1266	P. monodon (Fabricius
+T41	GeographicalLocation 1521 1534	United States
+T42	Habitat 1690 1699	fishponds
+T43	Habitat 1763 1782	estuarine fishponds
+T44	Taxon 1827 1835	milkfish
+T45	Taxon 1838 1851	Chanos chanos
+T46	Taxon 2024 2032	milkfish
+T47	Habitat 2073 2077	pond
+T48	TemporalExpression 2147 2156	JANUARY  
+T49	TemporalExpression 2156 2167	AUGUST 1955
+T50	TemporalExpression 2217 2224	January
+T51	TemporalExpression 2225 2236	august 1955
+T52	TemporalExpression 2286 2297	August 1955
+T53	TemporalExpression 2385 2394	JANU  ARY
+T54	TemporalExpression 2396 2408	OCTOBER 1955
+T55	TemporalExpression 2579 2586	January
+T56	TemporalExpression 2587 2599	october 1955
+T57	GeographicalLocation 2120 2128	Portugal

@@ -1,0 +1,59 @@
+T1	Taxon 0 13	Dipterocarpus
+T2	Taxon 21 37	DIPTEROCARPACEAE
+T3	Taxon 44 57	DIPTEROCARPUS
+T4	Taxon 44 69	DIPTEROCARPUS, Gaertn. f.
+T5	Taxon 1540 1553	D. turbinatus
+T6	Taxon 1540 1565	D. turbinatus, Gaertn. f.
+T7	Taxon 1572 1581	D. laevis
+T8	Taxon 1572 1585	D. laevisHam.
+T9	Taxon 1636 1642	Gurjun
+T10	GeographicalLocation 1643 1653	Chittagong
+T11	Taxon 1655 1664	Kanyin-ni
+T12	Taxon 1937 1946	D, laevis
+T13	Taxon 1971 1984	D. turbinatus
+T14	GeographicalLocation 1986 1992	Cachar
+T15	GeographicalLocation 1994 2002	Tipperah
+T16	GeographicalLocation 2004 2020	Chittagong hills
+T17	GeographicalLocation 2022 2027	Burma
+T18	GeographicalLocation 2029 2037	Andamans
+T19	GeographicalLocation 2039 2054	Malay Peninsula
+T20	TemporalExpression 2060 2065	April
+T21	TemporalExpression 2073 2076	May
+T22	Habitat 2121 2133	mixed forest
+T23	GeographicalLocation 2187 2201	North of Bhamo
+T24	Taxon 2202 2212	D. Ice vis
+T25	Taxon 2332 2342	D. indicus
+T26	Taxon 2332 2349	D. indicus, Bedd.
+T27	Taxon 2367 2380	D. turbinatus
+T28	Taxon 2408 2417	Yennemara
+T29	Taxon 2426 2431	Ennai
+T30	Taxon 2439 2447	Velayani
+T31	Habitat 2454 2470	Evergreen forest
+T32	GeographicalLocation 2478 2491	Western Ghats
+T33	GeographicalLocation 2497 2509	North Kanara
+T34	TemporalExpression 2526 2533	January
+T35	TemporalExpression 2534 2539	March
+T36	Taxon 2641 2656	D. obtusifolius
+T37	Taxon 2641 2664	D. obtusifolius, Teysm.
+T38	GeographicalLocation 2990 3007	Eastern Peninsula
+T39	GeographicalLocation 3044 3055	Cochinchina
+T40	GeographicalLocation 3060 3068	Cambodia
+T41	GeographicalLocation 3121 3125	Pegu
+T42	GeographicalLocation 3130 3138	Martaban
+T43	Habitat 3181 3188	forests
+T44	Taxon 3209 3224	D. tuberculatus
+T45	Taxon 3226 3237	D, vestitus
+T46	Taxon 3226 3244	D, vestitus, Wall.
+T47	Taxon 3309 3319	D. pilosus
+T48	Taxon 3309 3326	D. pilosus, Eoxb.
+T49	Taxon 3355 3364	D. Bandli
+T50	Taxon 3355 3374	D. Bandli^ Korthals
+T51	Habitat 3663 3675	Damp forests
+T52	GeographicalLocation 3701 3713	Assam valley
+T53	GeographicalLocation 3715 3731	Chittagong hills
+T54	GeographicalLocation 3733 3739	Aracan
+T55	GeographicalLocation 3741 3752	Lower Burma
+T56	GeographicalLocation 3754 3762	Andamans
+T57	TemporalExpression 3774 3779	April
+T58	GeographicalLocation 3781 3788	Sumatra
+T59	GeographicalLocation 3813 3819	Bangka

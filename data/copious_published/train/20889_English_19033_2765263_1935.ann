@@ -1,0 +1,41 @@
+T1	GeographicalLocation 185 192	Mindoro
+T2	Taxon 320 327	porosus
+T3	Habitat 335 347	inland lakes
+T4	Habitat 373 380	marshes
+T5	Habitat 385 408	smaller bodies of water
+T6	Person 410 423	Malcolm Smith
+T7	Taxon 471 483	C. siamensis
+T8	Taxon 489 499	C. porosus
+T9	Taxon 624 633	siamensis
+T10	Taxon 635 657	Crocodylus mindorensis
+T11	Taxon 662 675	novae-guineae
+T12	Taxon 687 696	siamensis
+T13	Taxon 729 740	mindorensis
+T14	Taxon 803 812	palustris
+T15	Taxon 830 839	siamensis
+T16	Taxon 1087 1109	fresh-water crocodiles
+T17	Taxon 1141 1150	palustris
+T18	GeographicalLocation 1154 1159	India
+T19	Taxon 1161 1170	siamensis
+T20	GeographicalLocation 1174 1191	southeastern Asia
+T21	Taxon 1193 1204	mindorensis
+T22	GeographicalLocation 1208 1215	Mindoro
+T23	Taxon 1217 1230	novae-guineae
+T24	GeographicalLocation 1234 1244	New Guinea
+T25	Taxon 1250 1259	johnstoni
+T26	GeographicalLocation 1263 1273	Queensland
+T27	Taxon 1290 1311	C. biporcatus raninus
+T28	Person 1315 1322	Miiller
+T29	Person 1327 1335	Schlegel
+T30	GeographicalLocation 1465 1489	ancient lakes of Celebes
+T31	Taxon 1537 1559	Crocodylus mindorensis
+T32	Taxon 1565 1575	C. porosus
+T33	GeographicalLocation 1639 1650	Philippines
+T34	Person 1668 1677	Stejneger
+T35	Person 1706 1714	Laurenti
+T36	Taxon 1730 1740	Crocodylus
+T37	Taxon 1885 1907	New Guinean Crocodiles
+T38	Taxon 1983 2003	Crocodilus siamensis
+T39	Taxon 2106 2116	Testudines
+T40	Taxon 2096 2104	Loricata
+T41	GeographicalLocation 2319 2337	Philippine Islands

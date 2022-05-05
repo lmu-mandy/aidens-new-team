@@ -1,0 +1,89 @@
+T1	TemporalExpression 214 221	October
+T2	TemporalExpression 315 320	March
+T3	TemporalExpression 404 416	end of March
+T4	GeographicalLocation 906 937	coastal waters of the Ogasawara
+T5	TemporalExpression 1152 1155	May
+T6	Taxon 1170 1184	albacore catch
+T7	TemporalExpression 1209 1214	March
+T8	TemporalExpression 1218 1221	May
+T9	TemporalExpression 1373 1376	May
+T10	TemporalExpression 1380 1384	July
+T11	GeographicalLocation 2162 2169	Okinawa
+T12	TemporalExpression 2281 2286	April
+T13	GeographicalLocation 2384 2396	Satsunan Sea
+T14	GeographicalLocation 2577 2591	East China Sea
+T15	TemporalExpression 2649 2654	March
+T16	GeographicalLocation 2978 2995	Ogasawara Islands
+T17	TemporalExpression 3107 3112	April
+T18	Taxon 3327 3339	Carcharhinus
+T19	TemporalExpression 3362 3367	April
+T20	GeographicalLocation 3470 3485	South China Sea
+T21	TemporalExpression 3595 3600	March
+T22	GeographicalLocation 3664 3676	Bashi Strait
+T23	TemporalExpression 3767 3771	June
+T24	TemporalExpression 3820 3825	March
+T25	GeographicalLocation 3954 3977	east of the Philippines
+T26	TemporalExpression 4175 4180	March
+T27	TemporalExpression 4184 4188	June
+T28	GeographicalLocation 4235 4253	northeastern Luzon
+T29	GeographicalLocation 24 37	Pacific Occam
+T30	TemporalExpression 1160 1164	June
+T31	GeographicalLocation 38 68	eastward from 150 E. longitude
+T32	GeographicalLocation 73 112	south from 40 to about 26 N. latitude i
+T33	Taxon 127 135	albacore
+T34	GeographicalLocation 337 347	26 to 28 N
+T35	TemporalExpression 424 443	early part of April
+T36	GeographicalLocation 498 514	160 E. longitude
+T37	GeographicalLocation 516 532	175 E. longitude
+T38	GeographicalLocation 538 554	175 W. longitude
+T39	Taxon 672 680	albacore
+T40	Taxon 682 693	bigeye tuna
+T41	TemporalExpression 744 752	December
+T42	Taxon 754 768	Striped marlin
+T43	Taxon 773 782	broadbill
+T44	Taxon 864 874	black tuna
+T45	Taxon 879 888	yellowfin
+T46	Taxon 1022 1031	yellowfin
+T47	Taxon 1040 1051	bigeye tuna
+T48	Taxon 1057 1067	black tuna
+T49	Taxon 1270 1278	albacore
+T50	Taxon 1355 1364	yellowfin
+T51	TemporalExpression 1435 1443	November
+T52	Taxon 1551 1560	yellowfin
+T53	Taxon 1626 1637	spearfishes
+T54	Taxon 1654 1668	striped marlin
+T55	Taxon 1736 1745	yellowfin
+T56	Taxon 1771 1780	yellowfin
+T57	TemporalExpression 1790 1800	Noven-iber
+T58	Taxon 1848 1862	striped marlin
+T59	Taxon 1895 1905	black tuna
+T60	Taxon 1942 1948	bigeye
+T61	Taxon 1950 1959	Broadbill
+T62	TemporalExpression 2059 2067	February
+T63	TemporalExpression 2290 2294	June
+T64	Taxon 2403 2412	Yellowfin
+T65	Taxon 2137 2153	great blue shark
+T66	TemporalExpression 3622 3626	June
+T67	Taxon 3627 3635	albacore
+T68	Taxon 2480 2491	spearfishes
+T69	GeographicalLocation 2467 2475	Kuroshio
+T70	Taxon 2597 2606	spearfish
+T71	Taxon 2829 2841	black marlin
+T72	Taxon 2846 2854	sailfish
+T73	Taxon 2997 3008	Spearfishes
+T74	GeographicalLocation 3040 3047	Formosa
+T75	TemporalExpression 3096 3103	October
+T76	Taxon 3344 3355	hammerheads
+T77	TemporalExpression 3371 3375	June
+T78	Taxon 3380 3390	black tuna
+T79	Taxon 3440 3448	sailfish
+T80	Taxon 3519 3528	yellowfin
+T81	TemporalExpression 3775 3781	August
+T82	Taxon 3720 3732	Black marlin
+T83	Taxon 3737 3745	sailfish
+T84	Taxon 3783 3791	Albacore
+T85	Taxon 3868 3880	Black marlin
+T86	Taxon 3885 3899	yellowfin tuna
+T87	Taxon 4144 4154	black tuna
+T88	Taxon 2736 2748	white marlin
+T89	Taxon 2780 2794	striped marlin

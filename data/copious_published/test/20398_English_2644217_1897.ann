@@ -1,0 +1,31 @@
+T1	GeographicalLocation 62 84	PHILIPPINE ARCHIPELAGO
+T2	Person 92 101	G. ELLIOT
+T3	GeographicalLocation 194 201	Basilan
+T4	GeographicalLocation 235 257	Philippine Archipelago
+T5	Taxon 272 282	C. steerii
+T6	Taxon 466 480	C. philippinus
+T7	Taxon 485 497	C. nigricans
+T8	Taxon 569 583	C. philippinus
+T9	Person 687 698	E. Oustalet
+T10	Taxon 822 832	C. steerii
+T11	Taxon 867 881	C. philippinus
+T12	Taxon 1022 1036	C. philippinus
+T13	Taxon 1194 1204	C. steerii
+T14	GeographicalLocation 1455 1473	Philippine islands
+T15	GeographicalLocation 1972 1978	Culion
+T16	Taxon 46 52	CERVUS
+T17	TemporalExpression 145 148	May
+T18	TemporalExpression 150 154	1896
+T19	GeographicalLocation 206 212	Culion
+T20	Taxon 388 403	Philippine deer
+T21	Person 417 422	Heude
+T22	GeographicalLocation 426 431	China
+T23	Taxon 433 447	Cervus steerii
+T24	Taxon 485 505	C. nigricans, Brooke
+T25	TemporalExpression 512 518	autumn
+T26	GeographicalLocation 621 639	Jardin des Plantes
+T27	GeographicalLocation 641 646	Paris
+T28	Taxon 1293 1308	Philippine deer
+T29	Person 1422 1427	Heude
+T30	Taxon 1992 2010	CERVUS CULIONENSIS
+T31	GeographicalLocation 1570 1576	Culion

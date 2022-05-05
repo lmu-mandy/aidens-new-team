@@ -1,0 +1,26 @@
+T1	Person 161 169	Nakamura
+T2	Person 238 246	Nakamura
+T3	GeographicalLocation 321 326	Japan
+T4	GeographicalLocation 419 430	Philippines
+T5	GeographicalLocation 861 877	Caroline Islands
+T6	Person 1123 1131	Nakamura
+T7	GeographicalLocation 1311 1319	Honolulu
+T8	Taxon 1537 1557	shortiioso spearfish
+T9	Taxon 1559 1585	Tetraplurus angustirostris
+T10	Taxon 0 11	SPEARFISHES
+T11	GeographicalLocation 19 34	CENTRAL PACIFIC
+T12	TemporalExpression 171 175	1949
+T13	GeographicalLocation 217 224	Pacific
+T14	TemporalExpression 248 252	1951
+T15	GeographicalLocation 337 351	south of 35Â° N
+T16	GeographicalLocation 388 410	waters east of Formosa
+T17	Habitat 291 298	coastal
+T18	Habitat 302 315	enclosed seas
+T19	TemporalExpression 436 444	November
+T20	TemporalExpression 448 455	January
+T21	Taxon 709 720	spearfishes
+T22	Taxon 772 781	spearfish
+T23	Taxon 924 932	sailfish
+T24	Taxon 1093 1104	spearfishes
+T25	TemporalExpression 1133 1137	1949
+T26	GeographicalLocation 1230 1245	central Pacific

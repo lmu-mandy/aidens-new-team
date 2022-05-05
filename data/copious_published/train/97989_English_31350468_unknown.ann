@@ -1,0 +1,65 @@
+T1	Taxon 134 146	Millepora sp
+T2	Taxon 173 184	Pocillopora
+T3	Taxon 661 671	gorgonians
+T4	Taxon 750 760	Psammocora
+T5	GeographicalLocation 932 947	Sombrero Island
+T6	Taxon 1055 1069	Pocillopora sp
+T7	Taxon 1071 1083	Montipora sp
+T8	Taxon 1101 1114	Pachyseris sp
+T9	Taxon 1446 1457	Pomacenlrus
+T10	Taxon 1479 1488	Dascyllus
+T11	Taxon 1536 1547	Halichoeres
+T12	Taxon 1576 1593	Aiidamia pacifica
+T13	Taxon 1680 1691	Sarcophylon
+T14	Taxon 1714 1724	Oxycorynia
+T15	Taxon 1745 1755	gastropods
+T16	GeographicalLocation 2574 2580	Mabini
+T17	GeographicalLocation 2760 2766	Smilax
+T18	GeographicalLocation 3552 3567	Sombrero Island
+T19	GeographicalLocation 4015 4030	Sombrero Island
+T20	GeographicalLocation 4680 4686	Mabini
+T21	GeographicalLocation 4980 4991	Cebu Strait
+T22	GeographicalLocation 5028 5039	Cebu Island
+T23	GeographicalLocation 5041 5060	Central Philippines
+T24	GeographicalLocation 5087 5101	Dumaguete City
+T25	GeographicalLocation 5103 5116	Negros Island
+T26	GeographicalLocation 5293 5297	Cebu
+T27	TemporalExpression 5889 5901	18th century
+T28	GeographicalLocation 0 11	Philippines
+T29	Habitat 16 33	southern platform
+T30	Taxon 498 506	Acropora
+T31	Taxon 511 520	Monlipora
+T32	Taxon 765 771	Fungia
+T33	Taxon 676 685	sea whips
+T34	Taxon 868 880	Seriate pora
+T35	Taxon 970 978	Acropora
+T36	Taxon 1085 1095	Porites sp
+T37	Taxon 1200 1216	Themada Triandra
+T38	Person 1297 1304	Mcmanus
+T39	Person 1323 1328	Murdy
+T40	Taxon 1437 1444	Anihias
+T41	Taxon 1459 1477	Pleclroglyphidodon
+T42	Taxon 1490 1497	Chromis
+T43	Taxon 1499 1505	Apogon
+T44	Taxon 1507 1517	Thalassoma
+T45	Taxon 1519 1534	Pseudocheilinus
+T46	Taxon 1552 1564	Cirrhilabrus
+T47	Taxon 1673 1678	Xenia
+T48	Taxon 1693 1712	tunicates Polycarpa
+T49	Taxon 1735 1740	Lopha
+T50	Taxon 1772 1784	Money Cowrie
+T51	Taxon 1785 1798	Cyprea monela
+T52	Taxon 1813 1820	Linckia
+T53	Habitat 1833 1846	shallow areas
+T54	Person 2027 2034	Mcmanus
+T55	Person 2053 2058	Murdy
+T56	Person 2317 2322	White
+T57	Habitat 2434 2445	coral reefs
+T58	GeographicalLocation 2585 2592	Tingloy
+T59	GeographicalLocation 4671 4678	Tingloy
+T60	GeographicalLocation 4906 4920	SUMILON ISLAND
+T61	GeographicalLocation 5118 5130	921N, 12323E
+T62	Habitat 5210 5214	reef
+T63	GeographicalLocation 5286 5291	Oslob
+T64	GeographicalLocation 5396 5403	Sumilon
+T65	Habitat 5752 5760	mangrove

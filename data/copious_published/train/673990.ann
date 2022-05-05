@@ -1,0 +1,95 @@
+T1	GeographicalLocation 809 814	LUZON
+T2	GeographicalLocation 816 835	Province of Cagayan
+T3	Person 874 880	Curran
+T4	GeographicalLocation 882 906	Province of Ilocos Norte
+T5	Person 924 931	Merrill
+T6	Person 934 941	Darling
+T7	GeographicalLocation 943 965	Province of Pangasinan
+T8	Person 983 989	Curran
+T9	Person 992 999	Merritt
+T10	Person 1024 1032	Villamil
+T11	GeographicalLocation 1034 1057	Province of Nueva Ecija
+T12	Person 1075 1082	Alvarez
+T13	GeographicalLocation 1084 1103	Province of Bulacan
+T14	Person 1121 1128	Aguilar
+T15	Person 1153 1159	Cortez
+T16	GeographicalLocation 1161 1179	Province of Bataan
+T17	Person 1195 1201	Barnes
+T18	Person 1222 1228	Borden
+T19	TemporalExpression 1230 1238	May 1904
+T20	Person 1265 1271	Borden
+T21	TemporalExpression 1273 1282	June 1904
+T22	Person 1310 1316	Borden
+T23	TemporalExpression 1318 1327	July 1904
+T24	Person 1354 1360	Borden
+T25	Person 1362 1370	Whitford
+T26	TemporalExpression 1376 1384	May 1904
+T27	Person 1420 1426	Borden
+T28	Person 1443 1452	Foxworthy
+T29	Person 1481 1487	Curran
+T30	Person 1504 1510	Curran
+T31	TemporalExpression 1512 1521	June 1907
+T32	Person 1549 1555	Curran
+T33	TemporalExpression 1557 1566	July 1907
+T34	Person 1594 1601	Topacio
+T35	GeographicalLocation 1603 1624	Province of La Laguna
+T36	Person 1649 1655	Curran
+T37	Person 1673 1679	Cortes
+T38	Person 1697 1704	Tamesis
+T39	Person 1722 1729	Mariano
+T40	GeographicalLocation 1731 1750	Province of Tayabas
+T41	Person 1775 1781	Curran
+T42	Person 1799 1807	Whitford
+T43	Person 1832 1842	Rosenbluth
+T44	GeographicalLocation 1844 1865	Province of Camarines
+T45	Person 1883 1889	Curran
+T46	Person 1907 1915	Whitford
+T47	GeographicalLocation 1917 1934	Province of Albay
+T48	Person 1952 1958	Curran
+T49	Person 1976 1983	Aguilar
+T50	Person 2008 2018	Rosenbluth
+T51	GeographicalLocation 2020 2040	Province of Sorsogon
+T52	Person 2058 2064	Gurran
+T53	GeographicalLocation 2066 2076	MARINDUQUE
+T54	Person 2094 2104	Rosenbluth
+T55	GeographicalLocation 2106 2113	MINDORO
+T56	Person 2202 2209	Merritt
+T57	GeographicalLocation 2211 2216	LEYTE
+T58	Person 2234 2244	Rosenbluth
+T59	GeographicalLocation 2246 2250	CEBU
+T60	Person 2267 2275	Espinosa
+T61	GeographicalLocation 2277 2283	NEGROS
+T62	GeographicalLocation 2285 2314	Province of Negros Occidental
+T63	Person 2316 2324	Whitford
+T64	Person 2346 2353	Everett
+T65	Person 2371 2376	Meyer
+T66	Person 2379 2388	Foxworthy
+T67	Person 2406 2415	Foxworthy
+T68	TemporalExpression 2417 2427	Sept. 1909
+T69	Person 2452 2461	Foxworthy
+T70	Person 2486 2492	Curran
+T71	GeographicalLocation 2494 2502	MINDANAO
+T72	GeographicalLocation 2503 2522	Province of Surigao
+T73	Taxon 2547 2554	tangile
+T74	Taxon 2563 2572	abuhungan
+T75	Taxon 2580 2586	adamui
+T76	Taxon 2593 2598	araka
+T77	Taxon 2606 2616	balakbakan
+T78	Taxon 2625 2634	balagayan
+T79	Taxon 2646 2654	damilang
+T80	Taxon 2662 2668	manaog
+T81	Taxon 2677 2684	mayapis
+T82	Taxon 2693 2697	pata
+T83	Taxon 2708 2716	maligmat
+T84	GeographicalLocation 2884 2891	Bulacan
+T85	GeographicalLocation 2893 2900	Tayabas
+T86	GeographicalLocation 2905 2912	Mindoro
+T87	Taxon 2923 2931	tanguile
+T88	Taxon 2952 2974	Illipe ramiflora Merr.
+T89	Taxon 2952 2968	Illipe ramiflora
+T90	Taxon 2983 2993	Sapotaceae
+T91	Taxon 3001 3017	Shorea warburgii
+T92	Taxon 3001 3022	Shorea warburgii Gilg
+T93	Taxon 3214 3227	S. polysperma
+T94	Taxon 3241 3253	S. warburgii
+T95	Taxon 3299 3312	S. polysperma

@@ -1,0 +1,55 @@
+T1	GeographicalLocation 586 606	East Philippines Sea
+T2	TemporalExpression 629 638	September
+T3	GeographicalLocation 747 755	Kuroshio
+T4	GeographicalLocation 867 882	Yonakuni Island
+T5	GeographicalLocation 1614 1630	Taihoku Province
+T6	GeographicalLocation 2091 2104	Uotsuri Shima
+T7	GeographicalLocation 2113 2131	Miyako Archipelago
+T8	GeographicalLocation 2164 2171	Okinawa
+T9	GeographicalLocation 2256 2267	Tanegashima
+T10	TemporalExpression 2486 2491	April
+T11	TemporalExpression 2495 2501	August
+T12	GeographicalLocation 2722 2739	East Fornnosa Sea
+T13	TemporalExpression 2813 2819	August
+T14	GeographicalLocation 2885 2899	East China Sea
+T15	GeographicalLocation 3033 3061	north to the Tsushima Strait
+T16	TemporalExpression 3101 3106	April
+T17	TemporalExpression 3394 3402	December
+T18	TemporalExpression 3807 3814	January
+T19	TemporalExpression 3818 3823	March
+T20	Taxon 145 155	black tuna
+T21	Taxon 372 382	black tuna
+T22	Taxon 413 425	black marlin
+T23	TemporalExpression 621 624	May
+T24	GeographicalLocation 685 708	North Equatorial Curren
+T25	Taxon 1697 1708	spearfishes
+T26	GeographicalLocation 1812 1832	Okinawan archipelago
+T27	Taxon 1940 1951	spearfishes
+T28	Taxon 2231 2241	black tuna
+T29	Taxon 2347 2356;2376 2380	yellowfin tuna
+T30	Taxon 2358 2364;2376 2380	bigeye tuna
+T31	Taxon 2370 2380	black tuna
+T32	Taxon 2418 2429	spearfishes
+T33	GeographicalLocation 2517 2541	east of 125 E. longitude
+T34	Taxon 2576 2588	white marlin
+T35	Taxon 2606 2620	striped marlin
+T36	Taxon 2629 2641	black marlin
+T37	Taxon 2754 2762	sailfish
+T38	TemporalExpression 2799 2805	summer
+T39	GeographicalLocation 3004 3025	waters west of Kyushu
+T40	Taxon 3068 3077	Yellowfin
+T41	TemporalExpression 3108 3111	May
+T42	TemporalExpression 3116 3124	November
+T43	TemporalExpression 3126 3134	December
+T44	Taxon 3222 3233	Bigeye tuna
+T45	TemporalExpression 3259 3267	November
+T46	TemporalExpression 3271 3278	January
+T47	TemporalExpression 3407 3414	January
+T48	Taxon 3368 3378	black tuna
+T49	TemporalExpression 3646 3651	April
+T50	TemporalExpression 3655 3659	June
+T51	Taxon 3783 3791	albacore
+T52	GeographicalLocation 4090 4123	north and south of 25 N. latitude
+T53	Taxon 4209 4218	yellowfin
+T54	Taxon 4321 4331	black tuna
+T55	Taxon 4336 4344	albacore

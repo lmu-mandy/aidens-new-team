@@ -1,0 +1,79 @@
+T1	Taxon 33 49	Dipterocarpaceae
+T2	Taxon 85 108	Dipterocarpus speciosus
+T3	Taxon 85 116	Dipterocarpus speciosus Brandis
+T4	Person 134 140	Curran
+T5	TemporalExpression 142 146	1908
+T6	Person 181 188	Alvarez
+T7	TemporalExpression 190 194	1911
+T8	Person 212 217	Penas
+T9	Person 219 226	Soriano
+T10	Person 229 239	Abellanosa
+T11	TemporalExpression 241 245	1914
+T12	Person 263 270	Alvarez
+T13	TemporalExpression 272 276	1914
+T14	GeographicalLocation 319 337	Camarines Province
+T15	Person 367 373	Curran
+T16	Person 638 646	Villamil
+T17	GeographicalLocation 689 709	British North Borneo
+T18	TemporalExpression 713 717	1915
+T19	Taxon 768 778	ANISOPTERA
+T20	Taxon 768 787	ANISOPTERA Korthals
+T21	Taxon 821 831	Anisoptera
+T22	Taxon 869 879	A. brunnea
+T23	Taxon 959 970	A. eurtisii
+T24	Taxon 1156 1171	A. mindanensis.
+T25	Taxon 1251 1262	A thurifera
+T26	Taxon 1267 1285	ANISOPTERA BRUNNEA
+T27	Taxon 1267 1290	ANISOPTERA BRUNNEA Foxw
+T28	GeographicalLocation 1297 1302	Luzon
+T29	GeographicalLocation 1304 1311	Cagayan
+T30	GeographicalLocation 1313 1325	Ilocos Norte
+T31	GeographicalLocation 1327 1332	Samar
+T32	Taxon 1337 1370	ANISOPTERA CURTISII Dyer. Dagang.
+T33	Taxon 1337 1356	ANISOPTERA CURTISII
+T34	GeographicalLocation 1371 1376	Luzon
+T35	GeographicalLocation 1378 1388	Pangasinan
+T36	GeographicalLocation 1390 1402	Nueva Ecija,
+T37	GeographicalLocation 1403 1409	Laguna
+T38	GeographicalLocation 1411 1418	Tayabas
+T39	GeographicalLocation 1420 1429	Camarines
+T40	GeographicalLocation 1431 1437	Poullo
+T41	GeographicalLocation 1439 1445	Negros
+T42	Taxon 1450 1460	ANISOPTERA
+T43	Taxon 1450 1464	ANISOPTERA sp.
+T44	Taxon 1523 1543	Anisoptera thurifera
+T45	Taxon 1548 1559	A. eurtisii
+T46	GeographicalLocation 1583 1598	Bataan Province
+T47	GeographicalLocation 1600 1605	Luzon
+T48	Taxon 1610 1630	ANISOPTERA THURIFERA
+T49	Taxon 1610 1645	ANISOPTERA THURIFERA (Blanco) Blume
+T50	GeographicalLocation 1647 1652	Luzon
+T51	GeographicalLocation 1654 1661	Cagayan
+T52	GeographicalLocation 1663 1675	Ilocos Norte
+T53	GeographicalLocation 1677 1687	Ilocos Sur
+T54	GeographicalLocation 1689 1693	Abra
+T55	GeographicalLocation 1695 1708	Nueva Viscaya
+T56	GeographicalLocation 1710 1720	Pangasinan
+T57	GeographicalLocation 1722 1734	Nueva Ecija,
+T58	GeographicalLocation 1735 1743	Zambales
+T59	GeographicalLocation 1745 1751	Bataan
+T60	GeographicalLocation 1753 1760	Bulacan
+T61	GeographicalLocation 1762 1767	Rizal
+T62	GeographicalLocation 1769 1775	Laguna
+T63	GeographicalLocation 1777 1786	Camarines
+T64	GeographicalLocation 1788 1793	Albay
+T65	GeographicalLocation 1795 1800	Ticao
+T66	GeographicalLocation 1802 1809	Mindoro
+T67	GeographicalLocation 1811 1818	Masbate
+T68	GeographicalLocation 1820 1827	Sibuyan
+T69	GeographicalLocation 1829 1834	Samar
+T70	GeographicalLocation 1836 1842	Negros
+T71	GeographicalLocation 1844 1849	Panay
+T72	GeographicalLocation 1851 1857	Iloilo
+T73	GeographicalLocation 1859 1864	Capiz
+T74	GeographicalLocation 1866 1874	Mindanao
+T75	GeographicalLocation 1876 1885	Zamboanga
+T76	Taxon 1928 1935	mayapis
+T77	Taxon 1937 1946	palosapis
+T78	Taxon 1952 1957	lauan
+T79	Taxon 1962 1984	ANISOPTERA MINDANENSIS

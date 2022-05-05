@@ -1,0 +1,39 @@
+T1	GeographicalLocation 14 32	PHILIPPINE ISLANDS
+T2	GeographicalLocation 353 364	Balayan Bay
+T3	Taxon 615 633	Bodianus maculatus
+T4	Taxon 891 914	Paracanihistius Bleeker
+T5	GeographicalLocation 211 222	Cebu market
+T6	TemporalExpression 224 238	March 20, 1909
+T7	GeographicalLocation 276 289	Iloilo market
+T8	TemporalExpression 291 303	May 31, 1908
+T9	GeographicalLocation 340 351	Ligpo point
+T10	Taxon 366 382	January 18, 1908
+T11	GeographicalLocation 405 423	Point San Vincente
+T12	GeographicalLocation 425 439	northern Luzon
+T13	TemporalExpression 441 458	November 18, 1908
+T14	Taxon 481 493	PLECTROPOMUS
+T15	Taxon 481 498	PLECTROPOMUS Oken
+T16	Taxon 499 516	Plectropomus Oken
+T17	Taxon 499 522	Plectropomus Oken, Isis
+T18	Taxon 615 639	Bodianus maculatus Bloch
+T19	Person 655 661	Jordan
+T20	Person 663 669	Tanaka
+T21	Person 671 677	Snyder
+T22	GeographicalLocation 699 704	Tokyo
+T23	Taxon 729 740	Plectropoma
+T24	Taxon 729 749	Plectropoma (Cuvier)
+T25	Taxon 729 766	Plectropoma (Cuvier) Quoy and Gaimard
+T26	Taxon 813 834	Plectropoma punctatum
+T27	Taxon 813 851	Plectropoma punctatum Quoy and Gaimard
+T28	Taxon 853 879	Bodian us maculatus Bloch,
+T29	Taxon 891 920	Paracanihistius Bleeker, Verh
+T30	GeographicalLocation 933 942	Amsterdam
+T31	Taxon 971 991	Holocentms leopardus
+T32	TemporalExpression 953 957	1874
+T33	Taxon 971 1000	Holocentms leopardus Lacepede
+T34	GeographicalLocation 1940 1946;1967 1972	Indian Ocean
+T35	GeographicalLocation 1951 1973	western Pacific Oceans
+T36	Person 1984 1993	Boulenger
+T37	Person 2062 2069	Bleeker
+T38	Taxon 2150 2162	Plectropomus
+T39	Taxon 2666 2677	Pleuroperca

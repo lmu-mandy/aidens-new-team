@@ -1,0 +1,25 @@
+T1	Habitat 1097 1109	forest floor
+T2	Taxon 11 35	PHILIPPINE BITING MIDGES
+T3	Person 0 9	DELFINADO
+T4	GeographicalLocation 994 997	tip
+T5	GeographicalLocation 1027 1036	Burungkot
+T6	GeographicalLocation 1038 1041	Upi
+T7	GeographicalLocation 1043 1051	Cotabato
+T8	TemporalExpression 1068 1077;1081 1085	January 1 1947
+T9	TemporalExpression 1068 1075;1078 1085	January 6, 1947
+T10	Person 1114 1123	G. Werner
+T11	Taxon 1294 1324	Culicoides (Culicoides) malaya
+T12	Taxon 1294 1331	Culicoides (Culicoides) malaya Macfie
+T13	Taxon 1332 1349	Culicoides malaya
+T14	Taxon 1332 1356	Culicoides malaya Macfie
+T15	TemporalExpression 1358 1362	1937
+T16	GeographicalLocation 1413 1419	Malaya
+T17	GeographicalLocation 2136 2144	Mindanao
+T18	GeographicalLocation 2146 2151	Pikit
+T19	GeographicalLocation 2153 2161	Cotabato
+T20	TemporalExpression 2163 2180	December 16, 1946
+T21	Person 2195 2205	G. Werner.
+T22	Taxon 2206 2238	Culicoides (Culicoides) recurvus
+T23	Taxon 2274 2282	recurvus
+T24	Taxon 2318 2329	hirtipennis
+T25	Taxon 2366 2374	recurvus

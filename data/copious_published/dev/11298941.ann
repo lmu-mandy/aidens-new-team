@@ -1,0 +1,39 @@
+T1	Taxon 0 6	Vatica
+T2	Taxon 9 25	Dipterocarpaceae
+T3	Habitat 499 516	Moist low country
+T4	GeographicalLocation 525 539	Hiniduma Pattu
+T5	GeographicalLocation 542 549	Hewesse
+T6	GeographicalLocation 552 565	Pasdun Korale
+T7	GeographicalLocation 568 581	Lanegal Kanda
+T8	GeographicalLocation 588 598	Pelmadulla
+T9	Person 603 608	Lewis
+T10	TemporalExpression 615 620	April
+T11	GeographicalLocation 685 692	Hewesse
+T12	TemporalExpression 696 700	June
+T13	Person 834 840	Pierre
+T14	Taxon 887 899	Stemonoporus
+T15	Taxon 906 921	S. (?) disticha
+T16	Taxon 906 928	S. (?) disticha, Trim.
+T17	Taxon 960 991	Vateria {Stemonoporus) disticha
+T18	Taxon 960 996	Vateria {Stemonoporus) disticha Thw.
+T19	Taxon 1008 1031	Vatica disticha^ A. DC.
+T20	Taxon 1008 1023	Vatica disticha
+T21	Taxon 1008 1014	Vatica
+T22	Habitat 1450 1467	Moist low country
+T23	GeographicalLocation 1481 1494	Hinduma Pattu
+T24	GeographicalLocation 1499 1512	Pasdun Korale
+T25	Person 1515 1523	Thwaites
+T26	GeographicalLocation 1557 1570	Lanegal Kanda
+T27	TemporalExpression 1572 1583	March, 1861
+T28	Person 1685 1691	Pierre
+T29	Taxon 1724 1729	Doona
+T30	Taxon 1735 1745	D. nervosa
+T31	Taxon 1752 1758	VATICA
+T32	Taxon 1752 1762	VATICA, L.
+T33	Taxon 1770 1777	Isauxis
+T34	Taxon 1770 1782	Isauxis, Am.
+T35	Person 2201 2207	Arnott
+T36	Taxon 2215 2222	Isauxis
+T37	Taxon 2276 2283	Vateria
+T38	Taxon 2330 2342	Stemonoporus
+T39	Person 2394 2400	A. DC.

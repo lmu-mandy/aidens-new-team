@@ -1,0 +1,38 @@
+T1	GeographicalLocation 155 173	PHILIPPINE ISLANDS
+T2	Person 177 192	KARL P. SCHMIDT
+T3	Taxon 242 262	salt-water crocodile
+T4	Taxon 264 282	Crocodylus porosus
+T5	GeographicalLocation 311 322	East Indies
+T6	GeographicalLocation 355 373	Philippine Islands
+T7	GeographicalLocation 538 543	Luzon
+T8	Person 547 554	Barbour
+T9	GeographicalLocation 617 628	Lake Naujan
+T10	GeographicalLocation 630 644	Mindoro Island
+T11	TemporalExpression 649 653	1891
+T12	Person 658 673	D. C. Worcester
+T13	Person 678 690	F. S. Bourns
+T14	Taxon 755 762	porosus
+T15	Taxon 866 890	Crocodylus novae-guineae
+T16	TemporalExpression 895 898	928
+T17	GeographicalLocation 927 938	Philippines
+T18	TemporalExpression 1007 1011	1929
+T19	Taxon 1057 1064	porosus
+T20	GeographicalLocation 1068 1077	Zamboanga
+T21	GeographicalLocation 1079 1087	Mindanao
+T22	Taxon 1140 1147	porosus
+T23	Taxon 1152 1165	novae-guineae
+T24	GeographicalLocation 1182 1192	New Guinea
+T25	GeographicalLocation 1251 1257	Manila
+T26	Person 1278 1293	Walter A. Weber
+T27	Person 1360 1371	W. H. Brown
+T28	Person 1416 1431	H. R. Montalban
+T29	GeographicalLocation 1565 1576	Lake Naujan
+T30	GeographicalLocation 1608 1625	island of Mindoro
+T31	GeographicalLocation 1738 1745	Chicago
+T32	GeographicalLocation 1794 1801	Mindoro
+T33	GeographicalLocation 1881 1892	Lake Naujan
+T34	Taxon 1927 1947	Crocodylus palustris
+T35	GeographicalLocation 1963 1969	Borneo
+T36	GeographicalLocation 1974 1981	Palawan
+T37	Taxon 1999 2011	C. siamensis
+T38	GeographicalLocation 2015 2032	southeastern Asia

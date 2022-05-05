@@ -1,0 +1,332 @@
+Organization and structure of the mouse interleukin-2 gene.
+Abstract
+We have cloned a chromosomal DNA segment which covers the entire sequence for the murine interleukin-2 gene and analysed the structure of the gene. The coding regions are separated into four blocks by three introns each of which is located similarly to the corresponding human gene. The exon sequences can be aligned perfectly with the previously cloned cDNA sequence. Of particular interests is the presence of sequences within the 5'-flanking region which are highly conserved between mouse and man. The conserved region which spans more than 400 base pairs may play a role in the regulation of IL-2 gene expression.Images
+
+
+
+
+
+
+ Volume 12 Number 24 1984                                   Nucleic Acids Research 
+
+ Organization and structure of the mouse interleukin-2 gene 
+
+ Akira Fuse*, Takashi Fujita, Hidetaro Yasumitsu, Nobukazu Kashima+, Katsushige Hasegawa and Tadatsugu Taniguchi? 
+
+ Department of Biochemistry, Cancer Institute, Japanese Foundation for Cancer Research, Toshimaku, Tokyo 170 and Institute for Molecular and Cellular Biology, Osaka University, Suita-shi, Osaka 565, Japan 
+
+ Received 10 October 1984; Revised and Accepted 20 November 1984 
+
+ ABSTRACT 
+
+ We have cloned a chromosomal DNA segment which covers the entire sequence for the murine interleukin-2 gene and analysed the structure of the gene. The coding regions are separated into four blocks by three introns each of which is located similarly to the corresponding human gene.    The exon sequences can be aligned perfectly with the previously cloned cDNA sequence.  Of particular interests is the presence of sequences within the 5'flanking region which are highly conserved between mouse and man. The conserved region which spans more than 400 base pairs may play a role in the regulation of IL-2 gene expression. 
+
+ INTRODUCTION 
+
+ Interleukin-2 (IL-2) is a lymphokine produced by T cells upon antigenic or mitogenic stimulation and is required for the proliferation of T cells (1,2).      Several other biological activities of IL-2 which appear to be crucial in the immune regulation have also been reported (3, 4. 5. 6. 7.) .        We previously reported isolation and sequence analysis of the cDNA for human IL-2 (8), as well as the chromosomal gene (9). More recently, we have isolated a cDNA which encodes murine IL-2 (Kashima et al., submitted for publication).  The cDNA contains a unique tandem repeat of CAG sequence which would encode 12 consecutive glutamine residues in the active IL-2 molecule. 
+
+ In order to study the structure of the murine IL-2 chromosomal gene and its controlling region, we isolated and analysed a A phage clone containing the gene and its flanking sequences. 
+
+ MATERIALS AND METHODS 
+
+ Southern blotting of total mouse DNA 
+
+ Mouse chromosomal DNA was extracted from liver of BALB/c6 
+
+ ? I R L Press Limited, Oxford, England. 
+
+ Nucleic Acids Research 
+
+ Volume 12 Number 24 1984 
+
+ 9323 
+
+ Nucleic Acids Research 
+
+ mouse as described before (10). High molecular genomic DNA was digested with various restriction enzymes and electrophoresed on 0.8% agarose gel. Blotting analysis of DNA was carried out by the method of Southern (11). Hybridization was carried out as described previously and filters were washed either in 3 x SSC at 650C (lower stringent condition) or in 0.1 x SSC at 650C (higher stringent condition). 
+
+ Screening of genomic DNA library 
+
+ A bacteriophage XCharon 4A/mouse genomic DNA library prepared with partial EcoRI digests of mouse DNA from MPC 11 plasmacytoma cells was kindly provided by Dr. T. Honjo. Mouse IL-2-specific clones were screened by the method of Benton and Davis (12), using 700 bp PstI-AccI fragment of a cDNA clone, pMIL2-45   as  the probe   (Kashima   et  al.,   submitted   for publication).    Hybridization was performed as described previously(13). Positive clones were rescreened at least twice. Subcloninq and sequencing of the mouse IL-2 gene 
+
+ Two EcoRI fragments of 3.3 Kbp and 2.8 Kbp from the positive recombinant X phage were subcloned into EcoRI site of plasmid pBR322.  DNA segments derived from subcloned 3.3 Kbp and 2.8 Kbp fragments were labelled at either 3' end or 5' end, and subjected to sequence analysis by the chemical degradation method (14).  The 0.8 Kbp EcoRI fragment from the same X phage clone was directly subjected to sequence analysis by the dideoxy chain termination method (15). 
+
+ RESULTS 
+
+ Total DNA blotting analysis 
+
+ In order to study structural organization of the mouse IL-2 gene, we first subjected total mouse DNA to the blotting analysis by using various probes specific for IL-2 gene. When mouse DNA was digested with various restriction endonucleases and then probed with a 7 kb human chromosomal DNA segment which contains the human IL-2 gene and its flanking region (Fig. 1 lane 1-8, ref. 9.), single positive band appeared at lower but not at higher stringent condition for washing the filters (see Figure legend).    Additional bands corresponding to those observed by using mouse IL-2 cDNA probes (lane 13-17) also appeared by longer 
+
+ 9324 
+
+ Nucleic Acids Research 
+
+ M 1 2 3 4     M 5 6 7 8      M 9 101112    M 13 141516     17 
+
+ a~ ~ 3 ..  
+
+ I pMIL2-45 SacI           Acc I 
+
+ CZI~~1      1t L2- 20 
+
+ Acc I 
+
+ 1 00 tp lX i 
+
+ Fig. 1.  Blot hybridization analysis of mouse chromosomal DNA. High molecular DNA prepared from Liver BALB/C6 mouse was digested with various restriction endonucleases (BamHI for lanes 1, 5, 9, 13 ; EcoRI for lanes 2, 6, 10, 14, 17 ; HindIII for lanes 3, 7, 11, 15 ; XbaI for lanes 4, 8, 12, 16 ). The resulting digests were fractionated on 0.8 % agarose gel and transferred to a nitrocellulose filter.  Filters were hybridized by the published procedure (13) either with the nick-translated chromosomal DNA containing human IL-2 gene and its flanking region (total length, 7.0 kb, ref. 9) (lane 1-8) or with the nick-translated cDNA for mouse IL-2 (see figure). Filters were then washed either in 3 x SSC at 65 % (lower stringent condition) (lane 1-4, 9-12) or 0.1 x SSC at 65 OC (higher stringent condition) (lane 5-8, 13-17). Lane M each contains 7 size markers with their size being 23.7 kb,  9.5 kb,   6.7 kb,  4.3 kb,   2.3 kb,  2.0 kb and 0.6 kb, respectively.  Brief restriction endonuclease cleavage map for the mouse IL-2 cDNAs is presented in the lower part of the figure. 
+
+ exposure of the film (data not shown).    Those results suggest the presence of highly conserved sequences between human and mouse DNA either in the flanking regions or in the introns of the IL-2 gene, since the coding regions apparently show lower degree of sequence homology as evidenced in this series of blotting analysis (see below).  When the PstI insert of a mouse IL-2 cDNA clone, pMIL2-20, was used as the probe, a simple pattern was 
+
+ 9325 
+
+ Nucleic Acids Research 
+
+ obtained at higher stringent condition (lane 13-17).   While the EcoRI-digested DNA gave rise to two positive bands (2.8 kb and 0.8 kb)(Fig. 1, lane 14) by this analysis, one additional band of 3.3 kb also appeared when the same DNA was probed with a longer cDNA insert from another clone, pMIL2-45 (Fig. 1, lane 17).  The 3.3 kb band was similar in its size with the positive band which became detectable by probing the same DNA with the 7.0 kb human DNA probe (Fig. 1, lane 2). Since this band appeared with the cDNA probe extending further upstream, it is likely that the 5' region of the gene is located within this DNA segment (see below). Indeed, this 3.3 kb band did not appear even after longer exposure of lane 14 (result not shown). BamHI digest of the mouse DNA (Fig. 1, lane 1, 13) constantly gave a very faint signal which would correspond to a DNA larger than 15 kb.         Taken together, the results suggested the presence of a single copy gene for murine IL-2.    On the other hand appearance of the multiple positive bands at lower stringent washing condition (lane 9-12) indicates the presence of IL-2 related sequences within the mouse genome. 
+
+ Screening of recombinant phaqe libraries 
+
+ We next screened a gene library from partial EcoRIdigested DNA from MPC 11 cells and by using 0.8 Kbp SacI-AccI cDNA fragment as the probe and isolated 14 positive clones containing sequences specific to the mouse IL-2 gene. Three of the clones analysed all contained three EcoRI fragments whose size is in agreement with the result of blotting analysis of the chromosomal DNA as shown in Fig. 1 (lane 17). One of these is designated MIL-2G70. 
+
+ Nucleotide sequence analysis 
+
+ Two DNA fragments of 3.3 Kbp and 2.8 Kbp were excised from the phage clone MIL-2G70 by EcoRI digestion and they were subcloned into pBR322.     DNA sequences were determined for selected regions of both inserts and compared to the known cDNA sequences (Kashima et al., submitted for publication).       The strategy used for sequence analysis of the genomic DNA is presented in Fig. 2.    Comparison of the mouse genomic IL-2 sequence with mouse IL-2 cDNA sequence revealed that, like the human gene, the gene is divided into four exons.     A putative 
+
+ 9326 
+
+ Nucleic Acids Research 
+
+ E               E           E    E   E 
+
+ 500bp s    7S P HBH  H   \A 
+
+ 200 bp  *     ,            -   4
+
+ I             4-4----*    *-    --4 
+
+ Fig. 2. Restriction map and sequencing strategy of mouse IL-2 gene. Horizontal lines indicate the length of mouse DNA inserted into the X phage Charon 4A or plasmid subclones.   Filled blocks, dashed blocks and open blocks indicate protein coding regions, untranslated regions and introns, respectively. Horizontal arrows indicate the direction and extent of sequence determination without ambiguity.   Dashed arrows:   determination was done by the chain termination method (15) after subcloning the       0.8 kb fragment into M13.       Rest of the sequence determination was      carried out by the method of Maxam and Gilbert (14).   A AccI site, B; BamHI site, E; EcoRI site, H; HindIII site, P; PstI site, S; SacI site. 
+
+ capping site or the transcription initiation site was located 32 bp downstream from a TATAAA consensus promotor sequence (Fig. 3). The first ATG triplet was located 79 bp downstream from the TATA box. As seen also in the murine IL-2 cDNA, there is an unusual repeat of CAG triplet coding for 12 glutamine residues in a row in the first exon. The second exon (60 bp) is separated from the first exon by a short intron consisting of 97 bp.     The second, the third and the fourth exons are interrupted by longer introns whose size is about 2.3 Kbp and 1.6 Kbp, respectively.  As far as the available sequence data are concerned, it seems that, despite their identical location, intron sequences are distinctly dissimilar except for the junction regions between the human and mouse IL-2 genes.    There are two potential poly (A) addition signals within the mouse gene (nucleotide positions 793 - 798 and 924 - 929 in Fig. 3 ) and, based on our sequence data for various cDNA clones, both signals seem to function and give rise to heterogeneous termini of the mRNA in the LBRM-33 cells (16). 
+
+ We have also determined the sequence of about 500 bp of 5'-flanking region of mouse IL-2 gene, since (i) promoter/regulatory sequences are located in this region in many other genes of eukaryotes and (ii) this region appeared to contain sequences which show strongest cross-hybridization between human and mouse DNA around the IL-2 gene (Fig. 1). Comparison of the nucleotide sequences for the 5' flanking region 
+
+ 9327 
+
+ Nucleic Acids Research 
+
+ -4.0 
+
+ TAGGAGGTAAACCATCTCGAAACGGAAACCAATATCCTTCCTGTCTAATCAACAAATCTAAAG -400                                               -350 
+
+ GATTTATTCTTTTCATCTATCTCCTCTTGCGCCCGTCCACCACAACAGGCTGCTTACAGGTTCAGGATGGTTTTGACAAAGAGAACATTTT 
+
+ -300                                               -250 
+
+ CATGAGTTACTTTTGTGTCTCCACCCCAAAGAGGAAAATTTTGTTCATACGAAAGGCGTTCATTGTATGAATTAAAACTGCCACCTAAGAG 
+
+ -200                                               -150 
+
+ TGGGCTAACCCGACCAAGAGGGATTTCACCTAAATCCATTCAGTCAGTATATGGGGTTTAAACAAATTCCAGAGAGTCATCAGAAGAGGAA 
+
+ -100                                                -50 
+
+ AAACAAAGGTAATACTTTCTGCCACACAGGTAGACTCTTTTGAAAATATGTGTAATATGTAAAACATCGTGACACCCCCATATTATTTTTC CAGCATTAACAGTATAAATTGCCTCCCATGCTGAAGAGCTGCC TCACCCTTGCTAATCACTCCTCACAGTGACCTCAAGTCCTGCAGGC 
+
+ 50                                                                   100 
+
+ ATG TAC AGC ATG CAG CTC GCA TCC TGT GTC ACA TTG ACA CTT GTG CTC CTT GTC AAC AGC GCA CCC ACT Met Tyr Ser Met Gln Leu Ala Ser Cys Val Thr Leu Thr Leu Val Leu Leu Val Asn Ser Ala Pro Thr 
+
+ 150 
+
+ TCA AGC TCC ACT TCA AGC TCT ACA GCG GAA GCA CAG CAG CAG CAG CAG CAG CAG CAG CAG CAG CAG CAG Ser Ser Ser Thr Ser Ser Ser Thr Ala Glu Ala Gln Gln Gln Gln Gln Gln Gln Gln Gln Gln Gln Gln 
+
+ 200 
+
+ CAC CTG GAG CAG CTG TTG ATG GAC CTA CAG GAG CTC CTG AGC AGG ATG GAG    GTAAGTGCACAGCCATCCCATC His Leu Glu Gln Leu Leu Met Asp Leu Gln Glu Leu Leu Ser Arg Met Glu 
+
+ TATAGGCAATACCTTTAGCTTTCTTGCCAAAGGCTGTGTTTAATAACCTTTAATAATAATGTTACGCTTTCTCAG AAT TAC AGG AAC 
+
+ lAsn Tyr Arg Asn 250 
+
+ CTG AAA CTC CCC AGG ATG CTC ACC TTC AAA TTT TAC TTG CCC AAG CAG GTGAGTGAGTTTCTGTTTAACTGGTGC Leu Lys Leu Pro Arg Met Leu Thr Phe Lys Phe Tyr Leu Pro Lys Gln 
+
+ TCTAATG----------------------------------------------------------__ 
+
+ ?_______________----------------------- 2000 bp --------------------?---------------------------------------------------------- AATGTGAACCTTGTAGTTTCTTTGTAGATTGGAACAATAGTCTGAACTTGTGT TATGCATTGGTAGAGAAACACAGACTTTTTACAAAGTCTAATGAAGCCAGAAGAGCTCACTAGAGTGGCCTAACAGTTAAGGTGACCCTTA TGGTTGTGAGCTCTTGCTCTTCTAGATTTATGGCATCGATTACCTCAGTCCCCCTTTACAGAGGACAGGGAGTGGTAAAAGCTATGTGCTG CCTTCTCTTGATTAGAGAGACTGCAGACTAACTTTCTGGCTCTTCAGTATGTGGTGAGCTGAGCTGATGGTTAAGCTTATTACTCCTCTAG 
+
+ 300                                                                 350 
+
+ GCC ACA GAA TTG AAA GAT CTT CAG TGC CTA GAA GAT GAA CTT GGA CCT CTG CGG CAT GTT CTG GAT TTG Ala Thr Glu Leu Lys Asp Leu Gln Cys Leu Glu Asp Glu Leu Gly Pro Leu Arg His Val Leu Asp Leu 
+
+ 490 
+
+ ACT CAA AGC AAA AGC TTT CAA TTG GAA GAT GCT GAG AAT TTC ATC AGC AAT ATC AGA GTA ACT GTT GTA Thr Gln Ser Lys Ser Phe Gln Leu Glu Asp Ala Glu Asn Phe Ile Ser Asn Ile Arg Val Thr Val Val AAA CTA AAG GTAAGGTGTTGCTTTATTTGCTAATCTGGAAATAAAATAGAGAAGAAATGCATTTTTAAGTGGCTTGCCATTTCTGGT Lys Leu Lys 
+
+ CTTTGATGGGTTCTGTGCATTTAGTCAACCAAAGTTTAAAGTCACTGTGCAAGTGAATCC --------------------------------------------------------------------    -1000   bp  ------ --------------------------------------------------------------- GAATTCTACAGAAGTGTTCAGTGTTCCCATCAAATGCTCGTTGGTAATCAACTCTGGAGAGCTT TATTTTTTATGCTTTACCATTTGATATCATAATAAAACATAACCCAATAATTGTGATCATTTCAGAAATGTGAATGTTCAATATATTTAAC 
+
+ CAGTGTTAAAATAAATGCCTAAAAGCTCCGTTGAAGAATAATTATATGCAAAGTAAGCTACCTTAGCCTACAATTTTATATTCTTTTTTAG 
+
+ 450                                                                 500 
+
+ GGC TCT GAC AAC ACA TTT GAG TGC CAA TTC GAT GAT GAG TCA GCA ACT GTG GTG GAC TTT CTG AGG AGA Gly Ser Asp Asn Thr Phe Glu Cys Gln Phe Asp Asp GlU Ser Ala Thr Val Val Asp Phe Leu Arg Arg 
+
+ 550 
+
+ TGG ATA GCC TTC TGT CAA AGC ATC ATC TCA ACA AGC CCT CAA TAACTATGTACCTCCTGCTTACAACACATAAGGC Trp Ile Ala Phe Cys Gln Ser Ile Ile Ser Thr Ser Pro Gln 
+
+ 600                                                650 
+
+ TCTCTATTTAT4TAAATATTTAACTTTAATTTATTTTTGGATGTATTGTTTACTATCTTTTGTAACTACTAGTCTTCAGATGATAAATATG 
+
+ 700                                                750 
+
+ GATCTTTAAAGATTCTTTTTGTAAGCCCCAAGGGCTCAAAAATGTTTTAAACTATTTATCTGAAATTATT+ATTATATTGAATTGTTAAAT 
+
+ < 4>800                                                 850 
+
+ ATCATGTGTAGGTAGACTcATTCA TAAAAGTAmAGATGATTCAAATATAAATAAGCTCAGATGTCTGTCATTTTTAGGACAGCACAAAG 
+
+ 900                         0" 
+
+ TAAGCGCTAAAATAACTTCTCAGTTATTCCTGTGAACTcTATGTTAATCAGTGTTTTCAAGAAATAAAGCTCTCCTCT           AAA GATGGCTTGTGGGAAAAGATCTCCTCTCCAGGGAGCTAACATCAGCTCAGAGTTTACTCAAGAATTC 
+
+ Fig.      3.      Nucleotide sequence of mouse IL-2 gene.                               Four exons are framed.          Numbers refer to nucleotide positions of exons from the presumed cap site. Dots and open circles indicate TATA box and poly A additional signals, respectively. 
+
+ 9328 
+
+ Nucleic Acids Research 
+
+ -4 5 0                               -400 
+
+ TAGGAGGT AAACCA T CTCGAAAC GGAAACCAATATCCTTCCTGTCTAATCAACAAATCTAAAGGATTTATTCTTTTCATCTATCTCC 
+
+ .0     * .0 .- *. * ..* --.  -- .*-@ .. ............  --  -*-* * 
+
+ TAAAAAGGTAAAACCAGTTCT GAAACAGGAAACCAATACACTTCCTGTTTAATCAACAAATCTAAA CATTTATTCTTTTCATCTGTTTAC 
+
+ -350                         -300 
+
+ TCTTGCGCCCGTCCACCACAACAGGCTGCT T ACAGGTTCAGGATGGTTTTGACAAAGAGAACATTTTCATGAGTTACTTTTGTGTCTC TCTTGCTCTTGTTCACCACAATA  TGCTATTCACATGTTCAGTGTAGTTTTATGACAAAGAAAATTTTC TGAGTTACTTTTGTATCCC 
+
+ -250 
+
+ CA CCCC  AAAG  AGGAAAATTTGTTTCATACGAAAGGCGTTCATTGTATGAATTAAAACT CCACCTAAGAGTGGGCTAACCCGA 
+
+ *~~~ ~~   ..... *   .-- *..-  * .-- .**  . *-.   --.   *- *- -  -  *-   0 @  *-- 0 .. .   
+
+ CACCCCCTTAAAGAAAGGAGGAAAAACTGTTTCATACAGAAGGCGTTAATTGCATGAATTAGAGCTATCACCTAAGTGTGGGCTAATGTAA 
+
+ -200                          -150 
+
+ CCAAGAGGGATTTCACCTAAATCCATTCAGTCAGTATAT GGGGTTTAAACAAATTCCAGAGAGTCATCAGAAGAGGAAAAACAAAGGTAA CAAAGAGGGATTTCACCTACATCCATTCAGTCAGTCTTTGGGGGTTTAAA AAATTCCAAAGAGTCATCAGAAGAGGAAAAATGAAGGTAA 
+
+ -100                          -50 
+
+ TACTTTCTGCCACACAGGTAGACTCTTTTGAAAATATGTGTXATATTAAAACATCGTGACACCCCCATATiXrTCCAGCATTAACAG TGTTTTTT CAGACAGGTAAAGTC TTTGAAAATATGTGTAATATGTAAAACATTTTGACACCCCCATAATATTTTTCCAGAATTAACAG ATAAGCCTCCCATGCTGAAGAGCTGCCTATCACCCTTGCTAATCACTCCTCACAGTGACCTCAAGTCCTGCAGGCATG  Mouse rTATGCATCTCTTGTTCAAGAGTTCCCTATCACTCTCTTTAATCACTACACACAGTAACCTCAACTCCTGCCACTATG  Human 
+
+ Fig.  4.   Comparison of 5'-flanking regions of mouse and human IL-2 genes.   In aligning the sequences for both genes, gaps were introduced   to maximize   homology.    Dots   indicate  identical nucleotide sequences.   Number 1 indicates putative transcription initiation site. Inverted repeats are indicated by bars and dashed lines. TATA box is framed. 
+
+ of both genes is illustrated in Fig. 4.    The nucleotide sequence homology from the TATA box to -470 is 85%. The highest region of homology was observed between the TATA box and position -97 (60 bp matches out of 64 bp) of both genes. DISCUSSION 
+
+ We have isolated recombinant clones for mouse IL-2 gene from a phage Charon 4A/mouse genomic DNA library and determined the entire sequence of the gene except for the sequence of the internal portion of the second and third introns.         The mouse IL-2 cDNA sequence was aligned with the genomic sequence and both sequences matched completely each other. The unusual CAG repeats encoding 12 glutamines which was found previously in the cloned cDNA was shown to be present also in the chromosomal gene. This finding further excludes the possibility that the unique repeat is generated by artifacts during the cDNA cloning process. Although we can not rule out the possibility for the deletion of this sequence in the human IL-2 gene, it is more likely that the CAG repeat has been generated in the mouse genome rather recently.    The repeat could have been generated either by a direct insertion of the sequence or by the duplication after insertion of a unit sequence. 
+
+ 9329 
+
+ Nucleic Acids Research 
+
+ Organization of the mouse IL-2 gene resembles to that of the human gene (Fig. 2., ref. 9).   There seems to be little sequence homology between corresponding introns of mouse and human IL-2 genes, except for the intron-exon junctions part of which is thought to be necessary for the RNA splicing (17, 18). Dissimilarity of the intron sequences among the genes which are derived from a common ancestor has been reported in other genes (19, 20).   In spite of the divergence in sequence of introns, the size and position of the introns are very similar between the murine and human IL-2 genes. 
+
+ Of particular interests is the presence of highly conserved sequences in the 5' -flanking region of the human and mouse IL-2 gene (Fig. 4).    Whereas the coding region shows nucleotide sequence homology of 72% between the two genes, the 5' upstream region spanning about 500 bp (Fig. 4) shows 85% homology which was readily detectable by the blotting analysis (Fig. 1, lane 1-4).  Since we have not yet determined the nucleotide sequence further upstream of the mouse gene, we do not know whether or not this similarity extends further.  It is  likely that such sequences are involved in the controlled expression of the IL-2 genes in activated T-lymphocytes.  Work is in progress to identify such DNA sequences by introducing the cloned genes into various lymphocytic cell lines.   Our preliminary results indicate that the 5 '-flanking sequence of the human IL-2 gene mediates mitogen induced expression of the gene in T-lymphocytic cells (Fujita & Taniguchi, unpublished observation). 
+
+ ACKNOWLEDGEMENTS 
+
+ We thank Dr. T. Honjo for mouse gene library.    We are also indepted to Ms. M. Nagatsuka for typing the manuscript. This work was supported in part by Grant-in-Aid for Special Project Research, Cancer-Bioscience from the Ministry of Education, Science and Culture, Japan. 
+
+ ?To whom correspondence should be addressed 
+
+ *Present address: Department of Microbiology, School of Medicine, Chiba University, Chiba 280, Japan 
+
+ +Present address: Central Research Laboratory, Ajinomoto Co.Inc., Totsuka-ku, Yokohama 244, Japan 
+
+ 9330 
+
+ Nucleic Acids Research 
+
+ REFERENCES 
+
+ 1. Morgan, D. A., Ruscetti, F. W. and Gallo, R. (1976) Science, 
+
+ 193, 1007-1008. 
+
+ 2. Gil lis, S. Ferm, M. M., Ou, W. and Smith, K. (1 978) J. 
+
+ Immunol., 120, 2023-2027. 
+
+ 3. Chen, B. M. and Di Sabato, G. (1976) Cell. Immunol., 22, 211
+
+ 224. 
+
+ 4. Henney, C. S., Kuribayashi, K., Kern, D. E. and Gillis, S. 
+
+ (1981) Nature, 291, 335-338. 
+
+ 5. Wagner, H., Hardt, C.,   Heeg, K., Rollinghoff, M. and 
+
+ Pfizenmaier, K. (1980) Nature, 284, 278-280. 
+
+ 6. Farrar, J. J., Benjamin, W. R., Hilfikr M. L., Howard, M., 
+
+ Farrar,W. L. and Fuller-Farrar, J. (1982) Immunol. Rev. 63, 129-166. 
+
+ 7. Pearlstein, K., Palladino, M. A., Welte, K. and Vilcek, J. 
+
+ (1983) Cell. Immunol., 80, 1-9. 
+
+ 8. Taniguchi, T., Matsui, H., Fujita, T., Takaoka, C., Kashima, 
+
+ N., Yoshimoto, R. and Hamuro, J. (1983) Nature 302, 305-310. 
+
+ 9. Fujita,T.,Takaoka,C., Matsui, H. and Taniguchi T. (1983) 
+
+ Proc. Natl. Acad. Sci. USA 80, 7437-7411. 
+
+ 10. Ohno, S. and Taniguchi, T. (1982) Nucleic Acids Res. 10, 967
+
+ 977. 
+
+ 11. Southern, E. M. (1975) J. Mol. Biol. 98, 503-517. 
+
+ 12. Benton, W. D. and Davis, R. W. (1977) Science 196, 180-182. 
+
+ 13. Ohno, S. and Taniguchi, T. (1981) Proc. Natl. Acad. Sci. USA 
+
+ 78, 5305-5309. 
+
+ 14. Maxam, A. M. and Gilbert, W. (1980)  Meth. Enzymol. 65, 560
+
+ 580. 
+
+ 15. Sanger, F., Nicklen, S. and Coulson, A. R. (1977) Proc. Natl. 
+
+ Acad. Sci. USA, 74, 5463-5467. 
+
+ 16. Gillis, S., Scheid, M. and Watson, J. D.(1980) J. Immunol. 
+
+ ,125, 2570-2580. 
+
+ 17. Breathnach, R., Benoist, C., O'Hare, K., Gannon, F. and 
+
+ Chambon, P.(1978) Proc. Natl. Acad. Sci. USA, 75, 4853-4857. 
+
+ 18. Lerner, M. R., Boyle, J. A., Mount, S. M., Wolin, S. L. and 
+
+ Steitz, J. A. (1980) Nature, 283, 220-224. 
+
+ 19. Van Ooyen, A., Van den Berg, J., Mantei, N. and Weissmann, 
+
+ C.(1979) Science, 206, 337-344. 
+
+ 20. Searle, P. F., Davison, B. L., Stuart, G. W., Wilkie, T. M., 
+
+ Norstedt, G. and Palmiter, R. D. (1984) Mol. Cell. Biol. 4, 1221-1230. 
+
+ 9331 

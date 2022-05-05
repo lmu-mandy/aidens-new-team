@@ -1,0 +1,73 @@
+T1	Taxon 27 45	Chirocentrus dorab
+T2	GeographicalLocation 224 234	Kenohe Bay
+T3	Taxon 277 293	Stromatnis niger
+T4	GeographicalLocation 406 418	Indian Ocean
+T5	Taxon 638 654	Pellona filigera
+T6	GeographicalLocation 714 720	Penang
+T7	Taxon 765 786	Lepidaplois lunulatus
+T8	Taxon 883 893	Cyprinidae
+T9	Taxon 1232 1256	Hemiramphus depauperatus
+T10	Taxon 8 25	Great Dog Herring
+T11	GeographicalLocation 46 61	Malacca Straits
+T12	GeographicalLocation 63 70	Red Sea
+T13	GeographicalLocation 72 84	Indian Ocean
+T14	Taxon 1217 1230	Poor Halfbeak
+T15	GeographicalLocation 1257 1278	Tropical Pacific Seas
+T16	TemporalExpression 1290 1307	December 11, 1928
+T17	TemporalExpression 96 113	February 11, 1929
+T18	GeographicalLocation 115 125	Georgetown
+T19	GeographicalLocation 127 133	Penang
+T20	Taxon 138 150	Red Rockfish
+T21	Taxon 152 171	Heucohnus rufescens
+T22	GeographicalLocation 172 193	Western Pacific Ocean
+T23	TemporalExpression 205 222	December 15, 1928
+T24	GeographicalLocation 236 252	Hawaiian Islands
+T25	GeographicalLocation 294 310	East Indian Seas
+T26	Taxon 257 275	Black Harvest Fish
+T27	TemporalExpression 322 339	February 11, 1929
+T28	GeographicalLocation 341 351	Georgetown
+T29	GeographicalLocation 353 359	Penang
+T30	Taxon 364 386	Spotted Butterfly Fish
+T31	Taxon 388 405	Scatophagus argus
+T32	GeographicalLocation 422 431	Australia
+T33	TemporalExpression 443 459	January 23, 1929
+T34	GeographicalLocation 461 468	Manilla
+T35	GeographicalLocation 470 488	Philippine Islands
+T36	Taxon 493 511	Purple Flying Fish
+T37	Taxon 513 529	Cypsuiinis shuns
+T38	Taxon 622 636	Thread Herring
+T39	GeographicalLocation 530 556	Tropical seas about Hawaii
+T40	TemporalExpression 568 585	December 11, 1928
+T41	GeographicalLocation 587 591	Hilo
+T42	GeographicalLocation 593 599	Hawaii
+T43	GeographicalLocation 601 617	Hawaiian Islands
+T44	GeographicalLocation 655 671	East Indian Seas
+T45	TemporalExpression 683 700	February 11, 1929
+T46	GeographicalLocation 702 712	Georgetown
+T47	GeographicalLocation 722 734	Malay States
+T48	Taxon 739 763	Lined Bark-scaled Wrasse
+T49	GeographicalLocation 787 808	Western Pacific Ocean
+T50	TemporalExpression 820 837	December 14, 1929
+T51	GeographicalLocation 839 847	Honolulu
+T52	GeographicalLocation 849 865	Hawaiian Islands
+T53	Taxon 870 881	Indian Carp
+T54	GeographicalLocation 901 913	Saigon River
+T55	GeographicalLocation 915 925	Indo-china
+T56	TemporalExpression 937 953	January 30, 1929
+T57	GeographicalLocation 955 961	Saigon
+T58	GeographicalLocation 963 973	Indo-china
+T59	Taxon 978 1001	Square-tailed Sea Perch
+T60	Taxon 1003 1026	Plectropomus truncafits
+T61	GeographicalLocation 1027 1043	South China Seas
+T62	TemporalExpression 1055 1071	January 23, 1929
+T63	GeographicalLocation 1073 1080	Manilla
+T64	GeographicalLocation 1082 1100	Philippine Islands
+T65	Taxon 1105 1116	Archer Fish
+T66	Taxon 1118 1135	Toxotes jaculator
+T67	GeographicalLocation 1153 1164	East Indies
+T68	TemporalExpression 1176 1192	January 30, 1929
+T69	GeographicalLocation 1194 1200	Saigon
+T70	GeographicalLocation 1202 1212	Indo-china
+T71	GeographicalLocation 1309 1313	Hilo
+T72	GeographicalLocation 1315 1321	Hawaii
+T73	GeographicalLocation 1323 1339	Hawaiian Islands

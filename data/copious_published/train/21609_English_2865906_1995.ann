@@ -1,0 +1,21 @@
+T1	GeographicalLocation 123 137	Sibuyan Island
+T2	Person 176 185	Dickinson
+T3	Habitat 280 285	orest
+T4	Habitat 289 300	forest edge
+T5	GeographicalLocation 655 669	Sibuyan Island
+T6	GeographicalLocation 703 710	Sibuyan
+T7	TemporalExpression 842 848	spring
+T8	GeographicalLocation 929 940	Philippines
+T9	TemporalExpression 959 965	spring
+T10	GeographicalLocation 1053 1067	SIBUYAN ISLAND
+T11	GeographicalLocation 1069 1080	PHILIPPINES
+T12	Person 158 164	dupont
+T13	TemporalExpression 166 170	1971
+T14	TemporalExpression 194 198	1991
+T15	Habitat 204 211	aquatic
+T16	Habitat 223 234	rice fields
+T17	Habitat 237 243;265 270	open areas
+T18	Habitat 247 270	heavily disturbed areas
+T19	TemporalExpression 796 809	boreal winter
+T20	TemporalExpression 948 954	autumn
+T21	Person 1029 1036	GOODMAN

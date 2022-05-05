@@ -1,0 +1,82 @@
+T1	Taxon 209 229	Yungipicus maculatus
+T2	Taxon 377 399	Yungipicus Basilanicus
+T3	Taxon 658 679	Yunigipicus Leytensis
+T4	GeographicalLocation 826 836	Marinduque
+T5	GeographicalLocation 909 914	Panay
+T6	GeographicalLocation 916 922	Negros
+T7	GeographicalLocation 924 928	Cebu
+T8	GeographicalLocation 930 938	Siquijor
+T9	GeographicalLocation 994 1000	Negros
+T10	GeographicalLocation 1002 1012	Marinduque
+T11	GeographicalLocation 1014 1021	Mindoro
+T12	TemporalExpression 1055 1058	May
+T13	Taxon 1156 1166	M. bicolor
+T14	Taxon 1244 1265	Eurystomus orientalis
+T15	GeographicalLocation 1296 1301	Panay
+T16	GeographicalLocation 1303 1309	Negros
+T17	GeographicalLocation 1311 1319	Siquijor
+T18	GeographicalLocation 1321 1326	Samar
+T19	GeographicalLocation 1328 1333	Leyte
+T20	GeographicalLocation 1335 1345	Mariuduque
+T21	GeographicalLocation 1447 1453	Negros
+T22	GeographicalLocation 1455 1463	Siquijor
+T23	GeographicalLocation 1472 1479	Masbate
+T24	Taxon 1492 1512	Pelargopsis gigantea
+T25	GeographicalLocation 1550 1557	Masbate
+T26	Taxon 1563 1587	Pelargopsis leucocephala
+T27	Taxon 33 40	lucidus
+T28	Taxon 180 194	Tiga Everettii
+T29	GeographicalLocation 196 203	Palawan
+T30	GeographicalLocation 231 236	Panay
+T31	Taxon 242 266	Yungipicus validirostris
+T32	GeographicalLocation 268 278	Mariuduque
+T33	GeographicalLocation 280 285	Luzon
+T34	Person 350 355	Blyth
+T35	GeographicalLocation 410 417	Basilan
+T36	Taxon 766 776	TROGONIDJE
+T37	Taxon 782 798	Harpactes ardens
+T38	GeographicalLocation 800 808	Mindanao
+T39	GeographicalLocation 810 817	Basilan
+T40	GeographicalLocation 819 825	Samar,
+T41	GeographicalLocation 838 843	Luzon
+T42	Taxon 845 854	MEROPIDAE
+T43	Taxon 860 878	Merops Philippinus
+T44	GeographicalLocation 880 888	Mindanao
+T45	GeographicalLocation 890 897	Basilan
+T46	GeographicalLocation 899 907	Guimaras
+T47	GeographicalLocation 940 945	Panay
+T48	GeographicalLocation 947 952	Luzon
+T49	Taxon 958 972	Merops bicolor
+T50	GeographicalLocation 974 982	Mindanao
+T51	GeographicalLocation 984 992	Guimaras
+T52	GeographicalLocation 1023 1028	Luzon
+T53	GeographicalLocation 1041 1051	Mariuduque
+T54	Taxon 1089 1107	Merops Philippinus
+T55	Taxon 1130 1135	wasps
+T56	Taxon 1137 1149	dragon flies
+T57	Taxon 1217 1227	honey bees
+T58	Taxon 1229 1238	CORACTDIE
+T59	GeographicalLocation 1267 1275	Mindanao
+T60	GeographicalLocation 1277 1284	Basilan
+T61	GeographicalLocation 1286 1294	Guimaras
+T62	GeographicalLocation 1347 1354	Mindoro
+T63	GeographicalLocation 1356 1361	Luzon
+T64	Taxon 1363 1374	ALCEDINID.E
+T65	Taxon 1380 1398	Alcedo Bengalensis
+T66	GeographicalLocation 1400 1407	Paragua
+T67	GeographicalLocation 1409 1416	Balabac
+T68	GeographicalLocation 1418 1426	Mindanao
+T69	GeographicalLocation 1428 1435	Basilan
+T70	GeographicalLocation 1437 1445	Guimaras
+T71	GeographicalLocation 1465 1470	Samar
+T72	GeographicalLocation 1481 1486	Luzon
+T73	GeographicalLocation 1514 1522	Mindanao
+T74	GeographicalLocation 1524 1531	Basilan
+T75	GeographicalLocation 1533 1538	Samar
+T76	GeographicalLocation 1540 1548	Guimaras
+T77	GeographicalLocation 1589 1596	Paragua
+T78	GeographicalLocation 1598 1605	Mindoro
+T79	Taxon 1611 1624	Ceyx melanura
+T80	GeographicalLocation 1626 1631	Luzon
+T81	Taxon 1637 1645	Melanura
+T82	Taxon 1654 1658	Ceyx

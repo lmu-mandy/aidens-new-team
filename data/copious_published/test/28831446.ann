@@ -1,0 +1,75 @@
+T1	Taxon 5 21	DIPTEROCARPACEAE
+T2	Taxon 5 30	DIPTEROCARPACEAE (Ashton)
+T3	GeographicalLocation 984 991	Malesia
+T4	GeographicalLocation 993 999	Borneo
+T5	GeographicalLocation 1001 1013	N.E. Sarawak
+T6	GeographicalLocation 1015 1021	Brunei
+T7	GeographicalLocation 1023 1033	S.W. Sabah
+T8	Habitat 1049 1061	Heath forest
+T9	Habitat 1078 1096	sandstone plateaux
+T10	Taxon 1114 1130	Meranti kerangas
+T11	GeographicalLocation 1132 1139	Sarawak
+T12	Taxon 1142 1159	seraya daun tajam
+T13	GeographicalLocation 1161 1166	Sabah
+T14	Taxon 1175 1187	Shorea ovata
+T15	Taxon 1175 1203	Shorea ovata DYER ex BRANDIS
+T16	Taxon 1525 1538	S. parvifolia
+T17	Taxon 1525 1555	S. parvifolia (non DYER) KING.
+T18	Taxon 1643 1653	S. plagata
+T19	Taxon 1643 1659	S. plagata FOXW.
+T20	Taxon 1718 1732	S. agsaboensis
+T21	Taxon 1718 1744	S. agsaboensis W.L. STERN.
+T22	Taxon 1783 1794	Pterocarpus
+T23	GeographicalLocation 3940 3947	Malesia
+T24	GeographicalLocation 3949 3955	Malaya
+T25	GeographicalLocation 3957 3964	Sumatra
+T26	GeographicalLocation 3976 3984	Tapanuli
+T27	GeographicalLocation 3986 3993	Sibolga
+T28	GeographicalLocation 3997 4003	Painan
+T29	GeographicalLocation 4005 4015	Bangkinang
+T30	GeographicalLocation 4017 4026	P. Musala
+T31	GeographicalLocation 4029 4035	Borneo
+T32	GeographicalLocation 4037 4054	Kapuas hinterland
+T33	GeographicalLocation 4056 4063	Sarawak
+T34	GeographicalLocation 4067 4077	S.W. Sabah
+T35	GeographicalLocation 4079 4090	S.E. Borneo
+T36	GeographicalLocation 4093 4104	Philippines
+T37	GeographicalLocation 4106 4114	Mindanao
+T38	Habitat 4123 4151	Sandy soils on coastal hills
+T39	GeographicalLocation 4167 4173	Borneo
+T40	Habitat 4176 4189	inland ridges
+T41	GeographicalLocation 4216 4222	Malaya
+T42	GeographicalLocation 4227 4234	Sumatra
+T43	Taxon 4243 4269	Meranti sarang punai bukit
+T44	GeographicalLocation 4271 4277	Malaya
+T45	Taxon 4280 4290	mandirawan
+T46	GeographicalLocation 4292 4299	Sumatra
+T47	Taxon 4302 4320	seraya punai bukit
+T48	GeographicalLocation 4322 4327	Sabah
+T49	Taxon 4398 4408	S. plagata
+T50	Taxon 4413 4427	S. agsaboensis
+T51	GeographicalLocation 4434 4442	Mindanao
+T52	Taxon 4501 4514	S. pauciflora
+T53	Person 4809 4813	ROJO
+T54	TemporalExpression 4847 4851	1977
+T55	Person 4874 4878	ROJO
+T56	GeographicalLocation 4884 4900	Agusan del Norte
+T57	GeographicalLocation 4902 4910	Mindanao
+T58	Taxon 4990 4996	Mutica
+T59	Taxon 4998 5011	S. pauciflora
+T60	Taxon 5027 5039	Brachypterae
+T61	Person 5041 5045	ROJO
+T62	Taxon 5160 5166	Shorea
+T63	Taxon 5182 5188	Mutica
+T64	Taxon 5270 5278	S. ovata
+T65	Taxon 5270 5278	S. ovata
+T66	GeographicalLocation 5429 5435	Borneo
+T67	GeographicalLocation 5494 5501	Sumatra
+T68	GeographicalLocation 5506 5519	West Malaysia
+T69	Person 5599 5603	ROJO
+T70	GeographicalLocation 5628 5636	Mindanao
+T71	Taxon 5677 5685	S. ovata
+T72	GeographicalLocation 5697 5712	northern Borneo
+T73	Habitat 5759 5767	lowlands
+T74	Taxon 5776 5795	Shorea rubra ASHTON
+T75	Taxon 5776 5788	Shorea rubra

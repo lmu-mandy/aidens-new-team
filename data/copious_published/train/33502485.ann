@@ -1,0 +1,111 @@
+T1	Taxon 7 23	DIPTEROCARPACEAE
+T2	Taxon 27 47	Anisoptera tomentosa
+T3	Taxon 27 55	Anisoptera tomentosa Brandis
+T4	Taxon 96 117	Anisoptera calophylla
+T5	Taxon 96 123	Anisoptera calophylla Perk.
+T6	GeographicalLocation 153 158	Luzon
+T7	GeographicalLocation 160 167	Cagayan
+T8	GeographicalLocation 171 179	Sorsogon
+T9	GeographicalLocation 199 206	Mindoro
+T10	GeographicalLocation 208 213	Ticao
+T11	GeographicalLocation 215 222	Masbate
+T12	GeographicalLocation 224 231	Sibuyan
+T13	GeographicalLocation 233 238	Panay
+T14	GeographicalLocation 240 246	Negros
+T15	Habitat 260 275	primary forests
+T16	Habitat 324 341	secondary forests
+T17	Taxon 365 370	Apnit
+T18	Taxon 379 389	bagobalong
+T19	Taxon 404 414	baliuasuas
+T20	Taxon 423 433	bariuisuis
+T21	Taxon 444 450	dagang
+T22	Taxon 475 489	dagang-na-puti
+T23	Taxon 499 504	dagum
+T24	Taxon 513 519	dayang
+T25	Taxon 528 534	doyong
+T26	Taxon 543 548	duung
+T27	Taxon 558 564	duyong
+T28	Taxon 574 580	guyong
+T29	Taxon 590 600	lauan-puti
+T30	Taxon 610 615	letis
+T31	Taxon 637 645	malapaho
+T32	Taxon 656 663	mayapis
+T33	Taxon 679 685	nininu
+T34	Taxon 695 704	palosapis
+T35	Taxon 732 741	palosanis
+T36	Taxon 750 757	payhapi
+T37	Taxon 766 773	sandana
+T38	Taxon 788 797	sinalagan
+T39	Taxon 806 812	tabila
+T40	Taxon 824 839	HOPE A Roxburgh
+T41	Taxon 840 861	HOPEA ACUMINATA Merr.
+T42	Taxon 840 855	HOPEA ACUMINATA
+T43	Taxon 998 1018	Hopea maquilingensis
+T44	Taxon 998 1024	Hopea maquilingensis Foxw.
+T45	GeographicalLocation 1068 1083	Babuyan Islands
+T46	GeographicalLocation 1085 1092	Calayan
+T47	GeographicalLocation 1095 1100	Luzon
+T48	GeographicalLocation 1102 1109	Cagayan
+T49	GeographicalLocation 1113 1121	Sorsogon
+T50	GeographicalLocation 1140 1147	Mindoro
+T51	GeographicalLocation 1149 1154	Samar
+T52	GeographicalLocation 1156 1161	Leyte
+T53	GeographicalLocation 1163 1171	Mindanao
+T54	GeographicalLocation 1173 1178	Davao
+T55	GeographicalLocation 1180 1188	Cotabato
+T56	GeographicalLocation 1190 1197	Misamis
+T57	GeographicalLocation 1199 1208	Zamboanga
+T58	Habitat 1214 1229	primary forests
+T59	Taxon 1300 1317	H. maquilingensis
+T60	Taxon 1300 1323	H. maquilingensis Foxw.
+T61	Taxon 1395 1407	H. acuminata
+T62	Taxon 1395 1413	H. acuminata Merr.
+T63	Person 1427 1433	Medina
+T64	Taxon 1448 1456	Baniakau
+T65	Taxon 1465 1477	barosingsing
+T66	Taxon 1486 1496	dalingding
+T67	Taxon 1505 1517	dalingdingan
+T68	Taxon 1539 1544	kalot
+T69	Taxon 1554 1565	mangachapui
+T70	Taxon 1598 1611	manggachinoro
+T71	Taxon 1621 1633	manggasinoro
+T72	Taxon 1643 1648	siyau
+T73	Taxon 1663 1668	yakal
+T74	Taxon 1677 1693	HOPEA BASILANICA
+T75	Taxon 1677 1699	HOPEA BASILANICA Foxw.
+T76	Taxon 1769 1776	Basilan
+T77	Taxon 1778 1784	Sibutu
+T78	Person 1798 1804	Klemme
+T79	Person 1812 1819	Mendoza
+T80	Person 1827 1832	Belin
+T81	Person 1835 1843	Oliveros
+T82	Habitat 1848 1863	primary forests
+T83	Taxon 1904 1916	Dalingdingan
+T84	Taxon 1925 1930	yakal
+T85	Taxon 1945 1959	HOPEA MALIBATO
+T86	Taxon 1945 1965	HOPEA MALIBATO Foxw.
+T87	GeographicalLocation 2044 2049	Luzon
+T88	GeographicalLocation 2051 2058	Tayabas
+T89	GeographicalLocation 2061 2067	Negros
+T90	GeographicalLocation 2069 2077	Mindanao
+T91	GeographicalLocation 2079 2085	Agusan
+T92	Person 2100 2105	Ramos
+T93	Person 2108 2113	Edano
+T94	Person 2115 2120	Elmer
+T95	Habitat 2131 2146	primary forests
+T96	Taxon 2197 2208	Danginginan
+T97	Taxon 2218 2226	malibato
+T98	Taxon 2235 2258	HOPEA MINDANENSIS Foxw.
+T99	GeographicalLocation 2328 2336	Mindanao
+T100	GeographicalLocation 2338 2347	Zamboanga
+T101	Person 2373 2381	Whitford
+T102	Person 2384 2394	Hutchinson
+T103	Person 2402 2409	Babaran
+T104	Person 2417 2426	Foxworthy
+T105	Person 2428 2435	Be Mesa
+T106	Person 2439 2447	Villamil
+T107	Person 2482 2487	Ramos
+T108	Person 2490 2495	Edano
+T109	Habitat 2500 2515	primary forests
+T110	Taxon 2556 2564	Magasusu
+T111	Taxon 2573 2578	ganon

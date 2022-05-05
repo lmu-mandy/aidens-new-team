@@ -1,0 +1,32 @@
+T1	GeographicalLocation 490 496	Taiwan
+T2	GeographicalLocation 501 506	Japan
+T3	Taxon 646 655	C. rubrum
+T4	GeographicalLocation 1347 1352	Spain
+T5	Taxon 1505 1514	C. rubrum
+T6	Taxon 1519 1529	gorgonians
+T7	GeographicalLocation 1565 1570	Japan
+T8	TemporalExpression 1714 1718	1963
+T9	GeographicalLocation 1737 1744	Okinawa
+T10	GeographicalLocation 1954 1965	Philippines
+T11	GeographicalLocation 2482 2496	American Samoa
+T12	GeographicalLocation 3079 3086	Makapuu
+T13	GeographicalLocation 3262 3267	Nihoa
+T14	GeographicalLocation 3272 3286	Neckar islands
+T15	Taxon 3525 3531	bamboo
+T16	GeographicalLocation 3608 3619	Makapuu bed
+T17	GeographicalLocation 550 556	U.S.A.
+T18	GeographicalLocation 536 541	Italy
+T19	GeographicalLocation 612 625	Mediterranean
+T20	GeographicalLocation 712 729	coast of Provence
+T21	TemporalExpression 1058 1062	1879
+T22	TemporalExpression 1067 1071	1890
+T23	GeographicalLocation 1088 1109	north coast of Africa
+T24	GeographicalLocation 1397 1409	Meda Islands
+T25	TemporalExpression 1536 1547	Before 1868
+T26	GeographicalLocation 1793 1809	south of Okinawa
+T27	GeographicalLocation 2465 2471	Hawaii
+T28	GeographicalLocation 2473 2477	Guam
+T29	GeographicalLocation 3176 3192	Hawaiian islands
+T30	Habitat 3163 3167	beds
+T31	GeographicalLocation 3064 3077	Hawaiian beds
+T32	GeographicalLocation 3232 3243	Wes Pac bed

@@ -1,0 +1,64 @@
+T1	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T2	Taxon 38 56	Myotis macrotarsus
+T3	Taxon 77 100	Vespertilio macrotarsus
+T4	Taxon 162 180	Myotis macrotarsus
+T5	GeographicalLocation 130 136	London
+T6	GeographicalLocation 207 213	London
+T7	GeographicalLocation 248 266	Philippine Islands
+T8	GeographicalLocation 268 273	Luzon
+T9	GeographicalLocation 285 292	Mindoro
+T10	Taxon 308 325	PIPISTRELLUS Kaup
+T11	GeographicalLocation 333 350	Pipistrellus Kaup
+T12	Taxon 428 452	Vespertilio pipistrellus
+T13	Taxon 428 461	Vespertilio pipistrellus Schreber
+T14	Taxon 485 491	Myotis
+T15	Taxon 576 582	Myotis
+T16	Taxon 634 657	Pipistrellus imbricatus
+T17	Taxon 677 699	Vespertilio imbricatus
+T18	Taxon 758 781	Pipistrellus imbricatus
+T19	GeographicalLocation 808 814	London
+T20	GeographicalLocation 725 729	Java
+T21	GeographicalLocation 849 853	Java
+T22	GeographicalLocation 855 860	Luzon
+T23	Taxon 871 893	Pipistrellus irretitus
+T24	Taxon 910 931	Vespertilio irretitus
+T25	Taxon 979 998	Vespertilio vieyeni
+T26	GeographicalLocation 1027 1033	London
+T27	GeographicalLocation 1062 1080	Philippine Islands
+T28	GeographicalLocation 1099 1112	Chusan Island
+T29	GeographicalLocation 1114 1119	China
+T30	GeographicalLocation 1121 1126	Luzon
+T31	Taxon 1136 1155	Pipistrellus tenuis
+T32	Taxon 1174 1192	Vespertilio tenuis
+T33	GeographicalLocation 1245 1249	Java
+T34	GeographicalLocation 1254 1261	Sumatra
+T35	GeographicalLocation 1266 1274	Mindanao
+T36	Taxon 1292 1311	TYLONYCTERIS Peters
+T37	Taxon 1319 1338	Tylonycteris Peters
+T38	Taxon 1390 1410	Vespertilio pachypus
+T39	Taxon 1432 1436	bats
+T40	Taxon 1625 1646	Tylonycteris pachypus
+T41	Taxon 1665 1685	Vespertilio pachypus
+T42	Taxon 1726 1747	Tylonycteris pachypus
+T43	GeographicalLocation 1815 1819	Java
+T44	GeographicalLocation 1824 1831	Sumatra
+T45	GeographicalLocation 1833 1837	Cebu
+T46	GeographicalLocation 1848 1853	Luzon
+T47	GeographicalLocation 1865 1873	Mindanao
+T48	GeographicalLocation 1886 1892	Negros
+T49	Taxon 38 69	Myotis macrotarsus (Waterhouse)
+T50	Taxon 77 111	Vespertilio macrotarsus Waterhouse
+T51	Taxon 162 187	Myotis macrotarsus Thomas
+T52	Taxon 634 669	Pipistrellus imbricatus (Horsfield)
+T53	Taxon 677 709	Vespertilio imbricatus Horsfield
+T54	Taxon 758 788	Pipistrellus imbricatus Thomas
+T55	Taxon 871 902	Pipistrellus irretitus (Cantor)
+T56	Taxon 910 938	Vespertilio irretitus Cantor
+T57	Taxon 979 1009	Vespertilio vieyeni Waterhouse
+T58	Taxon 1136 1166	Pipistrellus tenuis (Temminck)
+T59	Taxon 1174 1201	Vespertilio tenuis Temminck
+T60	Taxon 1319 1347	Tylonycteris Peters, Monatsb
+T61	Taxon 1390 1419	Vespertilio pachypus Temminck
+T62	Taxon 1625 1657	Tylonycteris pachypus (Temminck)
+T63	Taxon 1665 1694	Vespertilio pachypus Temminck
+T64	Taxon 1726 1754	Tylonycteris pachypus Peters

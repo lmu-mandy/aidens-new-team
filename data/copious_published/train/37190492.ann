@@ -1,0 +1,16 @@
+T1	Person 10 14	King
+T2	GeographicalLocation 45 64	Malaysian peninsula
+T3	GeographicalLocation 680 686	Penang
+T4	Person 688 694	Curtis
+T5	GeographicalLocation 732 738	penang
+T6	Person 766 772	Curtis
+T7	Taxon 859 874	Shorea Curtisii
+T8	Taxon 859 880	Shorea Curtisii, Dyer
+T9	GeographicalLocation 2375 2381	Penang
+T10	Person 2383 2389	Curtis
+T11	GeographicalLocation 2416 2421	Perak
+T12	Person 2423 2439	King's Collector
+T13	GeographicalLocation 2482 2488	Penang
+T14	Taxon 2492 2503	Maranti Tai
+T15	Taxon 2508 2522	Shorea sericea
+T16	Taxon 2508 2528	Shorea sericea, Dyer

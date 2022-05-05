@@ -1,0 +1,50 @@
+T1	GeographicalLocation 19 24	Timor
+T2	GeographicalLocation 33 40	Celebes
+T3	GeographicalLocation 42 48	Manado
+T4	GeographicalLocation 56 63	Kandari
+T5	GeographicalLocation 108 117	Halmahera
+T6	GeographicalLocation 163 173	New Guinea
+T7	GeographicalLocation 192 207	Malay Peninsula
+T8	GeographicalLocation 209 215	Penang
+T9	GeographicalLocation 270 275	India
+T10	GeographicalLocation 277 288	Philippines
+T11	Taxon 911 930	Fordonia leucobalia
+T12	Taxon 941 962	Homalopsis leucobalia
+T13	Taxon 1023 1042	Fordonia leucobalia
+T14	Taxon 1098 1118	Fonioiiii leucobalia
+T15	GeographicalLocation 5 10	Sumba
+T16	GeographicalLocation 12 17	Rotti
+T17	GeographicalLocation 26 31	Wetar
+T18	GeographicalLocation 50 54	Kema
+T19	GeographicalLocation 65 74	Pare Pare
+T20	GeographicalLocation 76 80	Raha
+T21	GeographicalLocation 83 97	Sangir Islands
+T22	GeographicalLocation 99 106	Ternate
+T23	GeographicalLocation 119 125	Batjan
+T24	GeographicalLocation 127 131	Buru
+T25	GeographicalLocation 133 138	Ceram
+T26	GeographicalLocation 140 145	Ambon
+T27	GeographicalLocation 147 154	Saparua
+T28	GeographicalLocation 156 161	Coram
+T29	GeographicalLocation 177 190	Pelew Islands
+T30	GeographicalLocation 217 225	Andamans
+T31	GeographicalLocation 227 235	Nicobars
+T32	GeographicalLocation 237 241	Siam
+T33	GeographicalLocation 243 253	Indo China
+T34	GeographicalLocation 255 260	Burma
+T35	GeographicalLocation 262 268	Ceylon
+T36	GeographicalLocation 293 302	Australia
+T37	Habitat 320 329	sea-coast
+T38	Taxon 350 363	Fordonia Gray
+T39	Person 366 370	Gray
+T40	GeographicalLocation 835 840	Burma
+T41	GeographicalLocation 842 848	Cochin
+T42	GeographicalLocation 849 854	China
+T43	GeographicalLocation 856 874	Indian Archipelago
+T44	GeographicalLocation 879 888	Australia
+T45	Taxon 911 939	Fordonia leucobalia (Schleg)
+T46	Taxon 941 971	Homalopsis leucobalia Schlegel
+T47	TemporalExpression 988 992	1837
+T48	Taxon 1023 1052	Fordonia leucobalia Boulenger
+T49	TemporalExpression 1067 1071	1896
+T50	Taxon 1098 1127	Fonioiiii leucobalia (Schleg)

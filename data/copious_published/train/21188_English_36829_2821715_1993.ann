@@ -1,0 +1,56 @@
+T1	Taxon 21 50	Artiodactyla Cervus mariannus
+T2	Taxon 51 63	Sus barbatus
+T3	Taxon 104 114	fruit bats
+T4	Taxon 121 131	fruit bats
+T5	Taxon 132 147	Microchiroptera
+T6	GeographicalLocation 233 240	LEYTE  
+T7	GeographicalLocation 254 259	Leyte
+T8	GeographicalLocation 281 289	Mindanao
+T9	GeographicalLocation 324 343	oceanic Philippines
+T10	GeographicalLocation 361 391	outside of oceanic Philippines
+T11	Taxon 567 571	pigs
+T12	Taxon 576 580	deer
+T13	GeographicalLocation 584 592	Maripipi
+T14	GeographicalLocation 913 918	Leyte
+T15	Taxon 920 939	Batomys salomonseni
+T16	Habitat 958 979	high-elevation forest
+T17	GeographicalLocation 1084 1091	Biliran
+T18	GeographicalLocation 1112 1120	Maripipi
+T19	Taxon 1231 1252	Philippine native rat
+T20	Taxon 1254 1269	Rattus everetti
+T21	GeographicalLocation 1319 1324	Leyte
+T22	GeographicalLocation 1352 1357	Luzon
+T23	Habitat 1432 1458	lowland dipterocarp forest
+T24	Habitat 1462 1489	high-elevation mossy forest
+T25	GeographicalLocation 1562 1570	Maripipi
+T26	Taxon 1689 1699	fruit bats
+T27	GeographicalLocation 1756 1761	Leyte
+T28	GeographicalLocation 1766 1773	Biliran
+T29	Taxon 1775 1796	Haplonycterisfischeri
+T30	Taxon 1801 1818	Ptenochirus minor
+T31	Habitat 1879 1907	outside of forested habitats
+T32	GeographicalLocation 1999 2007	Maripipi
+T33	GeographicalLocation 2056 2061	Leyte
+T34	GeographicalLocation 2211 2225	Southeast Asia
+T35	GeographicalLocation 2414 2421	Biliran
+T36	GeographicalLocation 2426 2434	Maripipi
+T37	Person 2511 2517	Heaney
+T38	GeographicalLocation 2560 2565	Leyte
+T39	GeographicalLocation 2570 2576	Negros
+T40	Habitat 2588 2605	forested habitats
+T41	Taxon 2650 2660	fruit bats
+T42	Habitat 2686 2694	lowlands
+T43	Taxon 2758 2768	fruit bats
+T44	Habitat 2788 2806	agricultural areas
+T45	Habitat 2938 2952	lowland forest
+T46	Taxon 3049 3059	fruit bats
+T47	Habitat 3099 3113	primary forest
+T48	Taxon 3212 3222	fruit bats
+T49	Taxon 3226 3233	Biliran
+T50	Taxon 3238 3248	Maripipi (
+T51	Habitat 3332 3363	lowest elevation forested sites
+T52	Habitat 3436 3448	mossy forest
+T53	GeographicalLocation 3550 3555	LEYTE
+T54	GeographicalLocation 3557 3564	BILIRAN
+T55	GeographicalLocation 3570 3586	MARIPIPI ISLANDS
+T56	Taxon 1142 1159	Apomys littoralis

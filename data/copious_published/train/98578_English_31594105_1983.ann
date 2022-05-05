@@ -1,0 +1,137 @@
+T1	Taxon 0 15	Tridacna crocea
+T2	GeographicalLocation 53 68	Malay Peninsula
+T3	GeographicalLocation 69 87	east to Micronesia
+T4	GeographicalLocation 92 119	north to the Ryukyu Islands
+T5	GeographicalLocation 121 126	Japan
+T6	GeographicalLocation 138 146	Thailand
+T7	GeographicalLocation 148 157	Singapore
+T8	GeographicalLocation 159 170	Philippines
+T9	GeographicalLocation 172 181	Indonesia
+T10	GeographicalLocation 183 195	North Borneo
+T11	GeographicalLocation 197 213	Papua New Guinea
+T12	GeographicalLocation 219 234	Solomon Islands
+T13	GeographicalLocation 240 256	Caroline Islands
+T14	TemporalExpression 340 344	1969
+T15	GeographicalLocation 381 386	Palau
+T16	GeographicalLocation 394 410	Caroline Islands
+T17	Taxon 417 426	T. derasa
+T18	GeographicalLocation 445 456	Philippines
+T19	GeographicalLocation 458 467	Indonesia
+T20	GeographicalLocation 555 571	Caroline Islands
+T21	Taxon 578 586	T. gigas
+T22	GeographicalLocation 603 614	Philippines
+T23	GeographicalLocation 618 628	Micronesia
+T24	GeographicalLocation 652 666	Ryukyu Islands
+T25	GeographicalLocation 668 679	Philippines
+T26	GeographicalLocation 681 690	Indonesia
+T27	GeographicalLocation 714 724	Queensland
+T28	GeographicalLocation 726 742	Papua New Guinea
+T29	GeographicalLocation 744 759	Solomon Islands
+T30	GeographicalLocation 786 802	Caroline Islands
+T31	Taxon 844 853	T. maxima
+T32	Taxon 858 869	T. squamosa
+T33	GeographicalLocation 914 921	Red Sea
+T34	GeographicalLocation 930 948	East African coast
+T35	GeographicalLocation 956 975	Tuamotu Archipelago
+T36	GeographicalLocation 980 995	Pitcairn Island
+T37	GeographicalLocation 1006 1020	southern Japan
+T38	GeographicalLocation 1110 1120	Mozambique
+T39	GeographicalLocation 1141 1153	Saudi Arabia
+T40	GeographicalLocation 1223 1228	Japan
+T41	GeographicalLocation 1230 1241	Philippines
+T42	GeographicalLocation 1243 1252	Indonesia
+T43	GeographicalLocation 1254 1266	North Borneo
+T44	GeographicalLocation 1268 1277	Australia
+T45	GeographicalLocation 1318 1326	Marianas
+T46	GeographicalLocation 1328 1344	Caroline Islands
+T47	Taxon 1429 1438	T. maxima
+T48	GeographicalLocation 1467 1479	South Africa
+T49	GeographicalLocation 1524 1539	Solomon Islands
+T50	GeographicalLocation 1583 1594	Wake Island
+T51	GeographicalLocation 1613 1629	Henderson Island
+T52	Taxon 1852 1861	T. maxima
+T53	GeographicalLocation 1957 1966	Indonesia
+T54	Taxon 2017 2026	T. derasa
+T55	Taxon 2031 2039	T. gigas
+T56	Taxon 2170 2181	Tridacnidae
+T57	Taxon 2338 2346	T. gigas
+T58	Taxon 2480 2489	T. derasa
+T59	Taxon 2673 2684	H. hippopus
+T60	Taxon 2792 2801	T. maxima
+T61	Taxon 2917 2926	T. crocea
+T62	Taxon 3158 3169	T. squamosa
+T63	Habitat 3328 3340	marine lakes
+T64	Taxon 3527 3535	T. gigas
+T65	Taxon 3551 3562	H. hippopus
+T66	Taxon 3714 3725;3742 3757	Symbiodinum microadriaticum
+T67	GeographicalLocation 298 316	Great Barrier Reef
+T68	GeographicalLocation 318 327	Australia
+T69	GeographicalLocation 469 479	Irian Jaya
+T70	GeographicalLocation 482 486	Guam
+T71	GeographicalLocation 488 509	Cocos-keeling Islands
+T72	GeographicalLocation 511 520	Australia
+T73	GeographicalLocation 522 538	Papua New Guinea
+T74	GeographicalLocation 540 553	New Caledonia
+T75	GeographicalLocation 692 709	western Australia
+T76	GeographicalLocation 761 768	Vanuatu
+T77	GeographicalLocation 771 783	New Hebrides
+T78	GeographicalLocation 804 820	Marshall Islands
+T79	GeographicalLocation 822 837	Gilbert Islands
+T80	GeographicalLocation 1028 1052	coast of New South Wales
+T81	GeographicalLocation 1122 1127	Kenya
+T82	GeographicalLocation 1129 1139	Madagascar
+T83	GeographicalLocation 1155 1160	Egypt
+T84	GeographicalLocation 1162 1172	Seychelles
+T85	GeographicalLocation 1174 1183	Mauritius
+T86	GeographicalLocation 1185 1193	Maldives
+T87	GeographicalLocation 1195 1201	Chagos
+T88	GeographicalLocation 1203 1211	Thailand
+T89	GeographicalLocation 1213 1221	Malaysia
+T90	GeographicalLocation 1279 1295	Papua New Guinea
+T91	GeographicalLocation 1297 1310	New Caledonia
+T92	GeographicalLocation 1312 1316	Fiji
+T93	GeographicalLocation 1346 1362	Marshall Islands
+T94	GeographicalLocation 1364 1379	Gilbert Islands
+T95	GeographicalLocation 1381 1387	Tuvalu
+T96	GeographicalLocation 1389 1403	Ellice Islands
+T97	GeographicalLocation 1406 1411	Samoa
+T98	GeographicalLocation 1413 1418	Tonga
+T99	GeographicalLocation 1420 1427	Tuamotu
+T100	GeographicalLocation 1481 1490	Sri Lanka
+T101	GeographicalLocation 1492 1507	Andaman Islands
+T102	GeographicalLocation 1509 1514	China
+T103	GeographicalLocation 1516 1522	Taiwan
+T104	GeographicalLocation 1541 1548	Vanuatu
+T105	GeographicalLocation 1550 1562	New Hebrides
+T106	GeographicalLocation 1565 1581	Lord Howe Island
+T107	GeographicalLocation 1596 1608	Line Islands
+T108	GeographicalLocation 1742 1760	Great Barrier Reef
+T109	Taxon 1761 1770	T. crocea
+T110	Habitat 1825 1839	closed lagoons
+T111	GeographicalLocation 1843 1850	Tuamotu
+T112	GeographicalLocation 1972 1980	Vogelkop
+T113	Habitat 2067 2072	reefs
+T114	Habitat 2151 2163	shallow reef
+T115	Habitat 2307 2336	shallow waters of coral reefs
+T116	Habitat 2356 2363	on sand
+T117	Habitat 2368 2389	among corals on reefs
+T118	Habitat 2514 2534	outer edges of reefs
+T119	Habitat 2630 2665	reefs adjacent to large land masses
+T120	Habitat 2697 2728	sandy substrates on coral reefs
+T121	Habitat 2754 2785	on sea grass beds near the reef
+T122	Habitat 2819 2827	reef-top
+T123	Habitat 2846 2873	on the surfaces of the reef
+T124	Habitat 2886 2910	partly embedded in coral
+T125	Habitat 2979 3014	into coral boulders on the reef-top
+T126	Habitat 3039 3060	valve margins visible
+T127	Habitat 3085 3125	on top of small, detached coral boulders
+T128	Habitat 3126 3151	on the interior reef flat
+T129	Habitat 3188 3207	coral reef surfaces
+T130	Habitat 3279 3291	reef canyons
+T131	Habitat 3279 3283;3296 3304	reef fissures
+T132	Habitat 3306 3323	sheltered lagoons
+T133	Habitat 2846 2868;2877 2881	on the surfaces of the sand
+T134	Taxon 3569 3580	Giant clams
+T135	Taxon 3599 3607	plankton
+T136	Taxon 3729 3739	Gymnodinum
+T137	Taxon 3781 3796	dinoflagellates

@@ -1,0 +1,65 @@
+T1	Person 11 15	King
+T2	GeographicalLocation 47 64	Malayan Peninsula
+T3	Taxon 78 89	D. costahis
+T4	Person 103 111	Roxburgh
+T5	Person 138 146	Gaertner
+T6	Person 158 162	Dyer
+T7	Person 205 216	De Candolle
+T8	Taxon 235 248	angustifolius
+T9	Taxon 235 256	angustifolius W. & A.
+T10	Person 268 272	Dyer
+T11	GeographicalLocation 363 371	Calcutta
+T12	Taxon 408 419	D. costatus
+T13	Taxon 408 428	D. costatus, Gaertn.
+T14	Person 510 518	Roxburgh
+T15	Taxon 521 530	D. alatus
+T16	GeographicalLocation 604 610	Burmah
+T17	Person 614 618	Kurz
+T18	Person 650 657	Brandis
+T19	Person 700 708	Gaertner
+T20	Person 776 784	Roxburgh
+T21	Taxon 807 818	D. costahis
+T22	Taxon 807 828	D. costahis, Graertn.
+T23	Person 852 860	Gaertner
+T24	Person 874 878	Dyer
+T25	Taxon 934 945	D. Lemeslei
+T26	Taxon 934 953	D. Lemeslei, Vesque
+T27	GeographicalLocation 993 1004	Pulo Condor
+T28	GeographicalLocation 1013 1028	Cambodian coast
+T29	Taxon 1047 1056	D. alatus
+T30	Taxon 1047 1063	D. alatus, Roxb.
+T31	Taxon 1047 1056	D. alatus
+T32	Taxon 1047 1063	D. alatus, Roxb.
+T33	GeographicalLocation 1124 1133	Anda-mans
+T34	GeographicalLocation 1206 1213	Andaman
+T35	Taxon 1329 1342	Dipterocarpus
+T36	GeographicalLocation 1396 1418	British Malayan region
+T37	Person 1517 1523	Curtis
+T38	GeographicalLocation 1540 1546	Penang
+T39	GeographicalLocation 1601 1606	Perak
+T40	Person 1623 1634	Scortechini
+T41	Taxon 1695 1704	D. Loioii
+T42	Taxon 1695 1707	D. Loioii H.
+T43	Taxon 1713 1727	D. intri-catus
+T44	Taxon 1713 1733	D. intri-catus, Dyer
+T45	Taxon 1739 1752	D. lamellatus
+T46	Taxon 1739 1758	D. lamellatus, Hook
+T47	GeographicalLocation 1788 1796	Andamans
+T48	Taxon 1829 1842	D. Griffithii
+T49	Taxon 1829 1848	D. Griffithii, Miq.
+T50	Taxon 1959 1969	D. pilosus
+T51	Taxon 1959 1976	D. pilosus, Roxb.
+T52	GeographicalLocation 1983 1988	Perak
+T53	Person 2004 2015	Scortechini
+T54	Taxon 2084 2095	D. fagineus
+T55	Taxon 2084 2103	D. fagineus, Vesque
+T56	GeographicalLocation 2155 2160	Perak
+T57	Taxon 2240 2251	D. fagineus
+T58	Taxon 2240 2259	D. fagineus, Vesque
+T59	Taxon 2265 2276	D. gracilis
+T60	Taxon 2265 2281	D. gracilis, Bl.
+T61	GeographicalLocation 2327 2332	Perak
+T62	Person 2334 2338	Wray
+T63	Taxon 2368 2381	D. Griffithii
+T64	Taxon 2368 2387	D. Griffithii, Miq.
+T65	Taxon 2450 2463	D. Grifjithii

@@ -1,0 +1,45 @@
+T1	Taxon 9 23	dipterocarpeae
+T2	Taxon 26 33	Monotes
+T3	Taxon 39 52	B. hypoleucus
+T4	Taxon 55 66	V. africana
+T5	Taxon 55 89	V. africana, var. liypoleuca Oliv.
+T6	Taxon 134 152	y. hypoleuca Welw.
+T7	GeographicalLocation 167 173	Huilla
+T8	GeographicalLocation 222 230	Mumpulla
+T9	GeographicalLocation 235 239	Nene
+T10	TemporalExpression 255 264	Oct. 1859
+T11	TemporalExpression 281 290	Dec. 1859
+T12	GeographicalLocation 442 448	Huilla
+T13	Taxon 495 505	Proteacese
+T14	GeographicalLocation 514 521	Lopollo
+T15	GeographicalLocation 526 532	Monino
+T16	TemporalExpression 548 557	Nov. 1859
+T17	TemporalExpression 563 572	Dec. 1859
+T18	TemporalExpression 589 598	Jan. 1860
+T19	GeographicalLocation 652 658	Huilla
+T20	Taxon 796 805	MALVACEAE
+T21	Taxon 811 820	Malvaceae
+T22	GeographicalLocation 824 830	Angola
+T23	Habitat 975 980	coast
+T24	Habitat 1024 1032	plateaux
+T25	Habitat 1268 1275	meadows
+T26	Habitat 1280 1286	plains
+T27	Habitat 1292 1299	jungles
+T28	Habitat 1309 1329	margins of the woods
+T29	Habitat 1334 1351	cultivated places
+T30	GeographicalLocation 1451 1461	Mossamedes
+T31	Habitat 1470 1482	high plateau
+T32	GeographicalLocation 1486 1493	Pluilla
+T33	Taxon 1506 1515	Malvaceae
+T34	Habitat 1619 1639	dry hot sandy drifts
+T35	Habitat 1647 1663	stony situations
+T36	Habitat 1742 1770	margins of primitive forests
+T37	Habitat 1777 1796	inhabited districts
+T38	Taxon 2195 2199	Sida
+T39	Taxon 2201 2209	Abutilon
+T40	Taxon 2322 2327	Urena
+T41	Taxon 2329 2337	Hibiscus
+T42	Taxon 2339 2348	Gossypiwm
+T43	Taxon 2655 2659	Sida
+T44	Taxon 2661 2669	Abutilon
+T45	Taxon 2675 2683	Hibiscus

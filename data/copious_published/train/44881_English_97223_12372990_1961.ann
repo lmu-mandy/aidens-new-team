@@ -1,0 +1,37 @@
+T1	Person 87 95	Delacour
+T2	GeographicalLocation 389 396	Palawan
+T3	Person 629 637	Delacour
+T4	Taxon 902 914	Accipitridae
+T5	Taxon 942 952	A. jerdoni
+T6	Taxon 1752 1767	Aviceda jerdoni
+T7	GeographicalLocation 1775 1786	Philippines
+T8	GeographicalLocation 1824 1831	Romblon
+T9	Person 1937 1946	Worcester
+T10	Taxon 1972 1986	Baza leucopais
+T11	GeographicalLocation 2000 2007	Romblon
+T12	Person 2353 2362	Worcester
+T13	Taxon 62 77	j. magnirostris
+T14	Person 100 104	Mayr
+T15	Taxon 146 156	leticopias
+T16	Person 201 207	Sharpe
+T17	Taxon 237 246	hlicopias
+T18	Taxon 370 377	Aviceda
+T19	Person 450 459	Whitehead
+T20	TemporalExpression 461 465	1890
+T21	Person 642 646	Mayr
+T22	Taxon 678 685	Aviceda
+T23	Taxon 942 964	A. jerdoni ceylonensis
+T24	Taxon 1185 1200	j. magnirostris
+T25	Taxon 1339 1348	leucopias
+T26	Taxon 1376 1383	Aviceda
+T27	Taxon 1435 1444	leucopias
+T28	Taxon 1509 1516	Aviceda
+T29	Taxon 1880 1887	Aviceda
+T30	Person 1926 1932	Bourns
+T31	Taxon 1972 1993	Baza leucopais Sharpe
+T32	GeographicalLocation 2012 2017	Samar
+T33	GeographicalLocation 2145 2152	Romblon
+T34	Taxon 2233 2240	Aviceda
+T35	Taxon 2272 2288	Spilornis cheela
+T36	TemporalExpression 2300 2317	September T, 1892
+T37	Person 2342 2348	Bourns

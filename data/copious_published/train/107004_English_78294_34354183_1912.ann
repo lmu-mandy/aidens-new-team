@@ -1,0 +1,51 @@
+T1	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T2	Taxon 363 379	Bullimus bagobus
+T3	Taxon 394 410	Bullimus bagobus
+T4	Taxon 467 473	Todaya
+T5	Taxon 898 915	Limnomys sibuanus
+T6	Taxon 930 947	Limnomys sibuanus
+T7	Person 171 177	Thomas
+T8	GeographicalLocation 196 202	London
+T9	Taxon 363 386	Bullimus bagobus Mearns
+T10	TemporalExpression 388 392	1905
+T11	Taxon 394 417	Bullimus bagobus Mearns
+T12	GeographicalLocation 475 494	Mount Apo, Mindanao
+T13	GeographicalLocation 496 504	Mindanao
+T14	Taxon 515 536	Genus LIMNOMYS Mearns
+T15	Taxon 515 529	Genus LIMNOMYS
+T16	TemporalExpression 538 542	1905
+T17	Taxon 544 559	Limnomys Mearns
+T18	Taxon 544 565	Limnomys Mearns, Proc
+T19	Taxon 600 624	Limnomys sibuanus Mearns
+T20	Taxon 600 617	Limnomys sibuanus
+T21	Taxon 634 637	rat
+T22	Taxon 898 922	Limnomys sibuanus Mearns
+T23	Taxon 930 954	Limnomys sibuanus Mearns
+T24	GeographicalLocation 1004 1023	Mount Apo, Mindanao
+T25	GeographicalLocation 1039 1047	Mindanao
+T26	Taxon 1058 1080	Genus TRYPHOMYS Miller
+T27	Taxon 1058 1073	Genus TRYPHOMYS
+T28	TemporalExpression 1082 1086	1910
+T29	Taxon 1088 1111	Tryphomys Miller, Proc.
+T30	Taxon 1088 1104	Tryphomys Miller
+T31	TemporalExpression 1137 1146	August 19
+T32	Taxon 1156 1180	Tryphomys adustus Miller
+T33	Taxon 1156 1173	Tryphomys adustus
+T34	Taxon 1205 1208	rat
+T35	Taxon 1440 1464	Tryphomys adustus Miller
+T36	Taxon 1440 1457	Tryphomys adustus
+T37	TemporalExpression 1466 1470	1910
+T38	Taxon 1472 1496	Tryphomys adustus Miller
+T39	Taxon 1472 1489	Tryphomys adustus
+T40	TemporalExpression 1529 1538	August 19
+T41	GeographicalLocation 1557 1592	Haights-in-the-oaks, Benguet, Luzon
+T42	GeographicalLocation 1594 1599	Luzon
+T43	Taxon 1610 1628	Genus MUS Linnaaus
+T44	Taxon 1610 1619	Genus MUS
+T45	TemporalExpression 1630 1634	1758
+T46	Taxon 1636 1648	Mus LINNAEUS
+T47	Taxon 1683 1702	Mus musculus LLNNUS
+T48	Taxon 1683 1695	Mus musculus
+T49	Taxon 1710 1714	mice
+T50	Taxon 1724 1742	common house mouse
+T51	TemporalExpression 204 208	1907

@@ -1,0 +1,50 @@
+T1	Taxon 616 629	P. leiognathi
+T2	Taxon 976 989	P. leiognathi
+T3	Taxon 2005 2013	ponyfish
+T4	Person 2964 2980	Kuhlmorgen-hille
+T5	Person 3003 3006	Abe
+T6	GeographicalLocation 3098 3108	Manila Bay
+T7	GeographicalLocation 3110 3115	Luzon
+T8	GeographicalLocation 3120 3128	Bais Bay
+T9	GeographicalLocation 3147 3165	Philippine Islands
+T10	Taxon 3167 3181	Gazza achlamys
+T11	Taxon 3183 3192	G. minuta
+T12	Taxon 3194 3212	Leiognathus bindus
+T13	Taxon 3231 3241	L. equulus
+T14	Taxon 3243 3255	L. fasciatus
+T15	Taxon 3257 3269	L. splendens
+T16	GeographicalLocation 3319 3324	Japan
+T17	Taxon 3719 3731	L. elongatus
+T18	Taxon 3736 3748	L. rivulatus
+T19	GeographicalLocation 3754 3764	Suruga Bay
+T20	GeographicalLocation 3773 3783	Sagami Sea
+T21	GeographicalLocation 3785 3790	Japan
+T22	Taxon 0 8	PONYFISH
+T23	Taxon 355 363	ponyfish
+T24	Taxon 1601 1609	ponyfish
+T25	Taxon 2291 2299	ponyfish
+T26	Taxon 2450 2458	ponyfish
+T27	Person 2950 2955	Munro
+T28	Person 2989 2994	James
+T29	Person 3015 3018	Rau
+T30	Person 3023 3026	Rau
+T31	Person 3039 3045	Dunlap
+T32	Person 3050 3061	Mcfall-ngai
+T33	Taxon 3070 3078	Ponyfish
+T34	TemporalExpression 2957 2961	1964
+T35	TemporalExpression 2982 2986	1974
+T36	TemporalExpression 2996 3000	1975
+T37	TemporalExpression 3008 3012	1976
+T38	TemporalExpression 3028 3032	1980
+T39	TemporalExpression 3063 3067	1984
+T40	GeographicalLocation 3130 3145	Negros Oriental
+T41	Taxon 3214 3229	L. brevirostris
+T42	Taxon 3275 3293	Sccutor insidiator
+T43	GeographicalLocation 3303 3309	Misaki
+T44	GeographicalLocation 3311 3317	Honshu
+T45	Taxon 3326 3338	L. nuchal is
+T46	Person 3421 3432	Mcfall-ngai
+T47	Person 3437 3443	Dunlap
+T48	TemporalExpression 3445 3449	1983
+T49	GeographicalLocation 3534 3545	Los Angeles
+T50	TemporalExpression 3901 3919	less than one week

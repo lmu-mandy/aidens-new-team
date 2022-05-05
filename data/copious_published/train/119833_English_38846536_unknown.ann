@@ -1,0 +1,55 @@
+T1	GeographicalLocation 22 27	Ticao
+T2	TemporalExpression 28 42	April 17, 1902
+T3	Taxon 112 126	GIALITIS DUBIA
+T4	Taxon 112 133	GIALITIS DUBIA (Scop)
+T5	GeographicalLocation 154 161	Calayan
+T6	Taxon 163 185	aegialitis alexandrina
+T7	Taxon 163 192	aegialitis alexandrina (Linn)
+T8	GeographicalLocation 213 220	Calayan
+T9	Taxon 222 239	AEGIALITIS PERONI
+T10	Taxon 222 244	AEGIALITIS PERONI (Bp)
+T11	GeographicalLocation 284 288	Fuga
+T12	GeographicalLocation 293 300	Calayan
+T13	GeographicalLocation 351 358	Calayan
+T14	Taxon 360 381	Heteractitis brevipes
+T15	Taxon 360 390	Heteractitis brevipes (Vieill)
+T16	GeographicalLocation 406 413	Calayan
+T17	TemporalExpression 414 424	October 21
+T18	GeographicalLocation 479 484	Ticao
+T19	TemporalExpression 485 497	May 27, 1902
+T20	GeographicalLocation 525 530	Ticao
+T21	Taxon 537 558	Tringoides hypoleucus
+T22	GeographicalLocation 579 586	Calayan
+T23	Taxon 588 609	Rhyacophilus glareola
+T24	Taxon 537 565	Tringoides hypoleucus (Linn)
+T25	Taxon 588 614	Rhyacophilus glareola (Gm)
+T26	GeographicalLocation 634 641	Calayan
+T27	Taxon 643 663	LIMONITES RUFICOLLIS
+T28	Taxon 643 670	LIMONITES RUFICOLLIS ( Pall
+T29	TemporalExpression 696 706	October 23
+T30	GeographicalLocation 710 717	Calayan
+T31	Taxon 719 736	GALLINAGO STENURA
+T32	Taxon 719 743	GALLINAGO STENURA (Kuhl)
+T33	GeographicalLocation 768 775	Calayan
+T34	GeographicalLocation 872 880	Mindanao
+T35	Taxon 888 917	Manila Gallinago megala Swinh
+T36	Taxon 959 978	G. gallinago (Linn)
+T37	Taxon 959 971	G. gallinago
+T38	GeographicalLocation 999 1007	Pandacan
+T39	GeographicalLocation 1021 1027	Manila
+T40	Taxon 1094 1103	Gallinago
+T41	Taxon 1287 1296	G. genera
+T42	Taxon 1353 1362	G. megala
+T43	Taxon 1458 1486	Nycticorax nycticorax (Linn)
+T44	Taxon 1458 1479	Nycticorax nycticorax
+T45	GeographicalLocation 1663 1670	Calayan
+T46	Taxon 1677 1702	MESOPHOYX INTERMEDIA Wagl
+T47	GeographicalLocation 1724 1731	Calayan
+T48	Habitat 268 275	beaches
+T49	Taxon 302 323	OCHTHODROMUS MONGOLUS
+T50	Taxon 302 330	OCHTHODROMUS MONGOLUS (Pall)
+T51	Taxon 895 911	Gallinago megala
+T52	Habitat 1558 1563	beach
+T53	Taxon 1677 1697	MESOPHOYX INTERMEDIA
+T54	Habitat 1649 1661	small stream
+T55	Taxon 1758 1765	Jmmlcus

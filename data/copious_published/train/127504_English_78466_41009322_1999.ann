@@ -1,0 +1,126 @@
+T1	GeographicalLocation 315 325	Sabang Bay
+T2	GeographicalLocation 363 370	Sumatra
+T3	GeographicalLocation 509 518	Indonesia
+T4	GeographicalLocation 550 566	Papua New Guinea
+T5	GeographicalLocation 642 657	Andaman Islands
+T6	GeographicalLocation 666 677	Philippines
+T7	GeographicalLocation 708 725	Laccadive Islands
+T8	GeographicalLocation 755 762	Sumatra
+T9	Taxon 953 977	Stephanometra spinipinna
+T10	GeographicalLocation 1089 1096	Sumatra
+T11	Taxon 1142 1156	HIMEROMETRIDAE
+T12	Taxon 1161 1182	Amphimetra tessellata
+T13	GeographicalLocation 1277 1287	Sabang Bay
+T14	GeographicalLocation 1298 1305	Sumatra
+T15	Taxon 1351 1375	Himerometra robustipinna
+T16	GeographicalLocation 1492 1499	Sumatra
+T17	Taxon 1543 1556	MARIAMETRIDAE
+T18	Taxon 1561 1580	Lamprometra palmata
+T19	GeographicalLocation 1990 1997	Sumatra
+T20	Taxon 2050 2070	Stephanometra indica
+T21	Taxon 2206 2220	COLOBOMETRIDAE
+T22	Taxon 2225 2240	Cenometra bella
+T23	GeographicalLocation 2379 2386	Sumatra
+T24	Taxon 2432 2454	Colobometra perspinosa
+T25	GeographicalLocation 2661 2671	Sabang Bay
+T26	GeographicalLocation 2709 2716	Sumatra
+T27	Taxon 2800 2820	Decametra brevicirra
+T28	GeographicalLocation 2918 2928	Sabang Bay
+T29	GeographicalLocation 2939 2946	Sumatra
+T30	Taxon 3069 3082	D. brevicirra
+T31	Taxon 3177 3187	D. mylitta
+T32	GeographicalLocation 3368 3375	Sumatra
+T33	Taxon 3531 3539	D. parva
+T34	Taxon 3727 3742	Decametra parva
+T35	Taxon 13 24	ECHINODERMS
+T36	GeographicalLocation 0 12	INDIAN OCEAN
+T37	GeographicalLocation 281 289	Seukundo
+T38	GeographicalLocation 291 295	Klah
+T39	GeographicalLocation 297 303	Ug Bau
+T40	GeographicalLocation 305 313	Seulakoe
+T41	GeographicalLocation 327 336	Ug Murung
+T42	GeographicalLocation 341 352	Ug Seukundo
+T43	GeographicalLocation 354 361	Pula We
+T44	Habitat 398 416	Subtidal rockcoral
+T45	Habitat 418 428	coral reef
+T46	Habitat 430 440	soft coral
+T47	Person 458 462	Rowe
+T48	TemporalExpression 471 475	1986
+T49	Person 570 577	Messing
+T50	TemporalExpression 580 584	1994
+T51	GeographicalLocation 697 706	Chetlat I
+T52	GeographicalLocation 727 731	Klah
+T53	GeographicalLocation 736 744	Seukundo
+T54	GeographicalLocation 746 753	Pula We
+T55	Habitat 789 799	Coral reef
+T56	GeographicalLocation 927 939	Indo-pacific
+T57	Taxon 953 994	Stephanometra spinipinna (Hartlaub, 1890)
+T58	Person 1000 1005	Clark
+T59	Person 1010 1014	Rowe
+T60	GeographicalLocation 1072 1078	Ug Bau
+T61	GeographicalLocation 1080 1087	Pula We
+T62	Habitat 1117 1127	Coral reef
+T63	Taxon 1161 1200	Amphimetra tessellata (Miiller, 1 841 )
+T64	Person 1206 1211	Clark
+T65	Person 1216 1220	Rowe
+T66	GeographicalLocation 1289 1296	Pula We
+T67	Taxon 1326 1337	Ongorgonian
+T68	Taxon 1351 1393	Himerometra robustipinna (Carpenter, 1881)
+T69	Person 1399 1404	Clark
+T70	Person 1409 1413	Rowe
+T71	GeographicalLocation 1475 1481	Ug Bau
+T72	GeographicalLocation 1483 1490	Pula We
+T73	Habitat 1520 1530	On a wreck
+T74	Taxon 1561 1596	Lamprometra palmata (Miiller, 1841)
+T75	Person 1602 1607	Clark
+T76	Person 1612 1616	Rowe
+T77	TemporalExpression 1618 1623	197 1
+T78	GeographicalLocation 1753 1758	Galle
+T79	GeographicalLocation 1763 1772	Unawatuna
+T80	GeographicalLocation 1774 1783	Sri Lanka
+T81	Habitat 1811 1824	Subtidal rock
+T82	Habitat 1826 1831	coral
+T83	Habitat 1833 1843	coral reef
+T84	Taxon 1855 1870	Oxymetrafinschi
+T85	Taxon 1855 1887	Oxymetrafinschi (Hartlaub, 1890)
+T86	Person 1893 1898	Clark
+T87	Person 1903 1907	Rowe
+T88	TemporalExpression 1909 1914	197 1
+T89	GeographicalLocation 1968 1979	Ug Seukundo
+T90	GeographicalLocation 1981 1988	Pula We
+T91	Habitat 2024 2037	Subtidal rock
+T92	Taxon 2050 2084	Stephanometra indica (Smith, 1876)
+T93	Person 2090 2095	Clark
+T94	Person 2100 2104	Rowe
+T95	Taxon 2225 2257	Cenometra bella (Hartlaub, 1880)
+T96	Person 2263 2276	Clarkand Rowe
+T97	GeographicalLocation 2362 2368	Ug Bau
+T98	GeographicalLocation 2370 2377	Pula We
+T99	Taxon 2407 2418	Ongorgonian
+T100	Taxon 2432 2472	Colobometra perspinosa (Carpenter, 1881)
+T101	Person 2478 2483	Clark
+T102	Person 2488 2492	Rowe
+T103	GeographicalLocation 2645 2653	Seukundo
+T104	GeographicalLocation 2655 2659	Klah
+T105	GeographicalLocation 2673 2682	Ug Murung
+T106	GeographicalLocation 2687 2698	Ug Seukundo
+T107	Habitat 2764 2787	coral reef on gorgonian
+T108	Person 2845 2850	Clark
+T109	GeographicalLocation 2700 2707	Pula We
+T110	Habitat 2744 2762	Subtidal rockcoral
+T111	Taxon 2800 2839	Decametra brevicirra (A.H. Clark, 1912)
+T112	Person 2855 2859	Rowe
+T113	GeographicalLocation 2930 2937	Pula We
+T114	Habitat 2967 2980	Subtidal rock
+T115	Habitat 2985 2989	sand
+T116	Person 3005 3010	Clark
+T117	Person 3013 3017	Rowe
+T118	TemporalExpression 3019 3023	1971
+T119	Taxon 3177 3206	D. mylitta (A.H. Clark, 1912)
+T120	Taxon 3212 3221	chadwicki
+T121	Taxon 3212 3241	chadwicki (A.H. Clark, 191 1)
+T122	GeographicalLocation 3313 3326	Bay of Bengal
+T123	TemporalExpression 3717 3721	1971
+T124	Taxon 3727 3761	Decametra parva (A.H. Clark, 1912)
+T125	Person 3767 3772	Clark
+T126	Person 3777 3781	Rowe

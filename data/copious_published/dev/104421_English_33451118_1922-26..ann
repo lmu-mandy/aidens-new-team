@@ -1,0 +1,77 @@
+T1	Taxon 54 61	Balioko
+T2	Taxon 69 75	barani
+T3	Taxon 83 95	paja de mesa
+T4	Taxon 103 111	tang-lad
+T5	Taxon 130 135	salai
+T6	Taxon 144 147	sai
+T7	Taxon 167 172	salai
+T8	Taxon 180 200	ANDROPOGON CONTORTUS
+T9	Taxon 180 205	ANDROPOGON CONTORTUS Linn
+T10	Taxon 376 386	Blancoanae
+T11	Taxon 398 426	Heteropogon contortus Beauv.
+T12	Taxon 398 419	Heteropogon contortus
+T13	Taxon 648 672	Heteropogon polystachyus
+T14	Taxon 719 741	Heteropogon roxburghii
+T15	GeographicalLocation 803 808	Luzon
+T16	GeographicalLocation 810 822	Ilocos Norte
+T17	GeographicalLocation 824 829	Union
+T18	GeographicalLocation 831 838	Lepanto
+T19	GeographicalLocation 840 851	Nueva Ecija
+T20	GeographicalLocation 853 866	Nueva Vizcaya
+T21	GeographicalLocation 868 878	Pangasinan
+T22	GeographicalLocation 880 888	Pampanga
+T23	GeographicalLocation 890 895	Rizal
+T24	GeographicalLocation 897 905	Zambales
+T25	GeographicalLocation 908 915	Mindoro
+T26	GeographicalLocation 917 925	Mindanao
+T27	GeographicalLocation 927 935	Bukidnon
+T28	GeographicalLocation 937 944	Misamis
+T29	GeographicalLocation 1053 1064	Philippines
+T30	Habitat 1066 1075	Pantropic
+T31	Taxon 1089 1102	Sibat-sibatan
+T32	Taxon 1162 1180	hispidissimus Hack
+T33	Taxon 1216 1238	ANDROPOGON FASTIGIATUS
+T34	Taxon 1216 1242	ANDROPOGON FASTIGIATUS Sw.
+T35	GeographicalLocation 1362 1367	Luzon
+T36	GeographicalLocation 1369 1376	Lepanto
+T37	GeographicalLocation 1378 1384	Bontoc
+T38	GeographicalLocation 1386 1396	Pangasinan
+T39	Habitat 1436 1439;1452 1458	dry slopes
+T40	Habitat 1440 1444;1452 1458	open slopes
+T41	Habitat 1445 1458	grassy slopes
+T42	Habitat 1488 1497	Pantropic
+T43	Taxon 1499 1521	ANDROPOGON FESTUCOIDES
+T44	Taxon 1655 1665	Blancoanae
+T45	Taxon 1677 1693	Andropogon anias
+T46	Taxon 1820 1840	Andropogon muricatus
+T47	Taxon 1914 1935	Andropogon nigritanus
+T48	Taxon 1820 1845	Andropogon muricatus Retz
+T49	Taxon 1914 1942	Andropogon nigritanus Benth.
+T50	Taxon 1974 2001	Andropogon squarrosus Linn.
+T51	Taxon 1974 1995	Andropogon squarrosus
+T52	Taxon 2061 2082	Vetiveria zizanioides
+T53	Taxon 2061 2088	Vetiveria zizanioides Stapf
+T54	GeographicalLocation 2135 2140	Paris
+T55	GeographicalLocation 2156 2161	Luzon
+T56	GeographicalLocation 2163 2171	Pampanga
+T57	GeographicalLocation 2173 2184	Nueva Ecija
+T58	Habitat 2244 2260	open level lands
+T59	Habitat 2262 2278	rice-paddy banks
+T60	GeographicalLocation 2303 2318	Tropical Africa
+T61	GeographicalLocation 2320 2324	Java
+T62	Taxon 2338 2343	Anias
+T63	Taxon 2417 2439	Andropogon zizanioides
+T64	Taxon 2488 2511	ANDROPOGON FILIPENDULUS
+T65	Taxon 2549 2561	LACHNATHERUS
+T66	Taxon 2671 2700	Andropogon lachnatherus Benth
+T67	Taxon 2671 2694	Andropogon lachnatherus
+T68	Taxon 719 746	Heteropogon roxburghii Nees
+T69	Taxon 1677 1700	Andropogon anias Llanos
+T70	Taxon 2549 2569	LACHNATHERUS (Benth)
+T71	Taxon 2549 2574	LACHNATHERUS (Benth) Hack
+T72	Taxon 1820 1867	Andropogon muricatus Retz. var. aristatus Biise
+T73	Taxon 2061 2109	Vetiveria zizanioides Stapf var. nigritana Camus
+T74	Habitat 950 965	open grasslands
+T75	Taxon 1974 2025	Andropogon squarrosus Linn. f. var. nigritanus Hack
+T76	Taxon 2488 2518	ANDROPOGON FILIPENDULUS Hochst
+T77	Taxon 1499 1527	ANDROPOGON FESTUCOIDES Presl

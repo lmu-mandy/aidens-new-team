@@ -1,0 +1,32 @@
+T1	GeographicalLocation 298 310	Florida Keys
+T2	TemporalExpression 1038 1042	1879
+T3	GeographicalLocation 1087 1100	Andros Island
+T4	TemporalExpression 1211 1215	1939
+T5	TemporalExpression 1470 1481	early 1960s
+T6	Taxon 1517 1536	Spongia officinalis
+T7	GeographicalLocation 3671 3682	Philippines
+T8	GeographicalLocation 3749 3754	Japan
+T9	GeographicalLocation 4028 4035	Jamaica
+T10	GeographicalLocation 4237 4249	Lakes Malawi
+T11	GeographicalLocation 4251 4261	Tanganyika
+T12	GeographicalLocation 4289 4297	Tiberias
+T13	GeographicalLocation 33 39	U.S.A.
+T14	Habitat 220 232	shallow beds
+T15	GeographicalLocation 1027 1034	Florida
+T16	GeographicalLocation 1108 1115	Bahamas
+T17	GeographicalLocation 1132 1138	Belize
+T18	GeographicalLocation 1275 1283;1297 1299	Marshall Is
+T19	GeographicalLocation 1288 1299	Caroline Is
+T20	GeographicalLocation 1410 1420	Yugoslavia
+T21	GeographicalLocation 1498 1504	Greece
+T22	Habitat 1925 1938	shallow water
+T23	GeographicalLocation 2781 2788	Bahamas
+T24	GeographicalLocation 3049 3056	Tunisia
+T25	TemporalExpression 1759 1768	5-7 years
+T26	GeographicalLocation 3462 3469	Tunisia
+T27	GeographicalLocation 4008 4024	Runaway Bay cave
+T28	Habitat 4074 4084	deep shelf
+T29	Taxon 4202 4233	freshwater 'thalassoid' sponges
+T30	GeographicalLocation 4263 4269	Baikal
+T31	GeographicalLocation 4271 4277	Ochrid
+T32	GeographicalLocation 4279 4284	Posso

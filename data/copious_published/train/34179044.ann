@@ -1,0 +1,52 @@
+T1	Taxon 9 25	DIPTEROCARPACEAE
+T2	Taxon 27 40	Dipterocarpus
+T3	Taxon 51 72	Dipterocarpus pilosus
+T4	Taxon 51 79	Dipterocarpus pilosus, Roxb.
+T5	Taxon 151 166	D. tuberculatus
+T6	Taxon 151 173	D. tuberculatus, Roxb.
+T7	GeographicalLocation 641 658	Eastern Peninsula
+T8	GeographicalLocation 664 668	Pegu
+T9	GeographicalLocation 672 680	Cambodia
+T10	GeographicalLocation 700 711	25Â° N. Lat.
+T11	Habitat 742 759	extensive forests
+T12	Habitat 763 771	laterite
+T13	Habitat 779 796	foot of the hills
+T14	GeographicalLocation 800 805	Lower
+T15	GeographicalLocation 810 821	Upper Burma
+T16	Taxon 859 869	Terminalia
+T17	Taxon 871 878	Eugenia
+T18	Taxon 880 888	Dillenia
+T19	Taxon 890 899	Symplocos
+T20	TemporalExpression 943 948	April
+T21	TemporalExpression 954 957	May
+T22	Taxon 1050 1059	D. alatus
+T23	Taxon 1050 1066	D. alatus, Roxb.
+T24	GeographicalLocation 1367 1371	Pegu
+T25	GeographicalLocation 1373 1383	Tenasserim
+T26	GeographicalLocation 1385 1389	Siam
+T27	GeographicalLocation 1391 1399	Cambodia
+T28	TemporalExpression 1405 1410	April
+T29	TemporalExpression 1418 1421	May
+T30	Habitat 1456 1469	mixed forests
+T31	Taxon 1739 1750	D. costatus
+T32	Taxon 1739 1758	D. costatus, Gaertn
+T33	GeographicalLocation 1764 1775	Lower Burma
+T34	GeographicalLocation 1777 1791	South Tipperah
+T35	Habitat 1802 1807	coast
+T36	Taxon 1851 1861	D. incanus
+T37	Taxon 1851 1868	D. incanus, Roxb.
+T38	GeographicalLocation 1869 1873	Pegu
+T39	GeographicalLocation 1875 1888	South Andaman
+T40	GeographicalLocation 1899 1909	Chittagong
+T41	GeographicalLocation 1922 1929	Tongkah
+T42	GeographicalLocation 1933 1937	Siam
+T43	Habitat 1950 1955	coast
+T44	GeographicalLocation 1963 1978	Malay Peninsula
+T45	GeographicalLocation 2219 2229	Travancore
+T46	Habitat 2231 2247	evergreen forest
+T47	Habitat 2255 2266	low country
+T48	Taxon 2522 2533	D. insignis
+T49	Taxon 2522 2543	D. insignis, Thwaites
+T50	GeographicalLocation 2548 2554	Ceylon
+T51	Taxon 2573 2583	ANISOPTERA
+T52	Taxon 2573 2593	ANISOPTERA, Korthals

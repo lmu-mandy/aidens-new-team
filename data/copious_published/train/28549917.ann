@@ -1,0 +1,47 @@
+T1	Person 8 16	Thwaites
+T2	Taxon 50 67	Valeria acuminata
+T3	Taxon 123 140	Valeria acuminate
+T4	Taxon 123 146	Valeria acuminate Hayne
+T5	Taxon 179 194	Valeria jucunda
+T6	Person 228 232	Dyer
+T7	Person 240 246	Trimen
+T8	Person 251 257	Ashton
+T9	Person 251 257	Ashton
+T10	Taxon 335 352	Vateria acuminate
+T11	Taxon 335 358	Vateria acuminate Hayne
+T12	Taxon 406 423	Valeria acuminata
+T13	Taxon 406 428	Valeria acuminata Thw.
+T14	Taxon 466 478	Stemonoporus
+T15	Person 500 506	Ashton
+T16	GeographicalLocation 522 532	Pelmadulla
+T17	GeographicalLocation 534 548	Kirilialiralle
+T18	Habitat 550 563	bamboo forest
+T19	TemporalExpression 579 584	March
+T20	Person 664 673	Kosterman
+T21	Person 698 702	Waas
+T22	GeographicalLocation 709 719	Marathagaa
+T23	GeographicalLocation 721 737	Ratnapura Distr.
+T24	TemporalExpression 747 751	June
+T25	GeographicalLocation 855 871	Ambagamuwa Prov.
+T26	TemporalExpression 873 882	Nov. 1850
+T27	TemporalExpression 886 890	1852
+T28	GeographicalLocation 914 935	W. of Eldorado Estate
+T29	GeographicalLocation 937 944	Hakwana
+T30	Person 946 951	Lewis
+T31	Person 971 977	Ashton
+T32	Person 994 1005	Gunalilleke
+T33	GeographicalLocation 1014 1047	Deniyaya side of Sinharaja forest
+T34	TemporalExpression 1056 1060	Dec.
+T35	Person 1077 1087	Kostermans
+T36	TemporalExpression 1102 1107	March
+T37	Taxon 1130 1158	Stemonoporus moonii Thwaites
+T38	Taxon 1130 1149	Stemonoporus moonii
+T39	Taxon 1256 1270	Valeria moonii
+T40	Taxon 1320 1333	Vatica moonii
+T41	Taxon 1653 1667	Vateria moonii
+T42	Taxon 1653 1687	Vateria moonii Thw. He nth. ex Taw
+T43	Taxon 1873 1886	Vatica moonii
+T44	Taxon 1873 1898	Vatica moonii Thw. A. DC.
+T45	Taxon 2110 2124	Agrostistachys
+T46	Taxon 2126 2139	Euphorbiaceae
+T47	GeographicalLocation 2164 2171	Sinhala

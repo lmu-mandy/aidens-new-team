@@ -1,0 +1,88 @@
+T1	GeographicalLocation 19 28	Indonesia
+T2	TemporalExpression 84 88	1976
+T3	GeographicalLocation 131 136	Japan
+T4	GeographicalLocation 324 329	Sabah
+T5	GeographicalLocation 358 371	Kota Kinabalu
+T6	GeographicalLocation 416 430	Sulawesi coast
+T7	GeographicalLocation 471 478	Kendari
+T8	TemporalExpression 591 595	1976
+T9	GeographicalLocation 866 877	Philippines
+T10	TemporalExpression 944 949	1970s
+T11	TemporalExpression 954 958	1979
+T12	GeographicalLocation 1015 1024	Singapore
+T13	GeographicalLocation 1065 1091	south east Asian countries
+T14	GeographicalLocation 1231 1236	Japan
+T15	GeographicalLocation 1297 1311	Mainland China
+T16	GeographicalLocation 1498 1503	Spain
+T17	GeographicalLocation 1602 1607	India
+T18	GeographicalLocation 1672 1680	Palk Bay
+T19	GeographicalLocation 1966 1971	India
+T20	GeographicalLocation 2050 2055	India
+T21	TemporalExpression 2156 2160	1976
+T22	GeographicalLocation 2203 2208	Japan
+T23	GeographicalLocation 2344 2349	India
+T24	TemporalExpression 2364 2368	1978
+T25	GeographicalLocation 2546 2553	Florida
+T26	Taxon 2624 2636	Millepora sp
+T27	GeographicalLocation 2727 2734	Florida
+T28	TemporalExpression 2753 2757	1976
+T29	GeographicalLocation 2897 2911	Port au Prince
+T30	GeographicalLocation 2916 2923	Leogane
+T31	TemporalExpression 3025 3029	1977
+T32	TemporalExpression 3145 3149	1979
+T33	TemporalExpression 3238 3242	1976
+T34	GeographicalLocation 3299 3306	Tunisia
+T35	GeographicalLocation 3382 3389	Tabarka
+T36	GeographicalLocation 3516 3523	Algeria
+T37	GeographicalLocation 145 147	US
+T38	Habitat 261 273	living reefs
+T39	GeographicalLocation 347 353	Labuan
+T40	Taxon 386 397	Black coral
+T41	GeographicalLocation 480 493	Ujung Pandang
+T42	GeographicalLocation 498 505	Jakarta
+T43	GeographicalLocation 533 541	Thailand
+T44	GeographicalLocation 627 636	Hong Kong
+T45	Taxon 638 650	Stony corals
+T46	GeographicalLocation 674 693	coast around Phuket
+T47	Person 695 706	J.A. Burton
+T48	GeographicalLocation 820 829	Hong Kong
+T49	GeographicalLocation 889 898	Hong Kong
+T50	Taxon 1131 1143	stony corals
+T51	GeographicalLocation 1176 1190	Mainland China
+T52	GeographicalLocation 1238 1243	Italy
+T53	GeographicalLocation 1252 1254	UK
+T54	Taxon 1362 1373	stony coral
+T55	TemporalExpression 1459 1463	1976
+T56	TemporalExpression 1468 1472	1977
+T57	GeographicalLocation 1505 1517	West Germany
+T58	GeographicalLocation 1519 1524	Kenya
+T59	GeographicalLocation 1533 1535	US
+T60	GeographicalLocation 1656 1670	Gulf of Mannar
+T61	GeographicalLocation 1695 1723	northern shore of Rameswaram
+T62	Taxon 1739 1750	stony coral
+T63	Taxon 1764 1771	Porites
+T64	Habitat 2001 2011	coral reef
+T65	TemporalExpression 2045 2049	1977
+T66	GeographicalLocation 2100 2108	Maldives
+T67	Taxon 2129 2141	stony corals
+T68	TemporalExpression 2165 2169	1977
+T69	GeographicalLocation 2193 2198	Italy
+T70	GeographicalLocation 2306 2308	UK
+T71	GeographicalLocation 2313 2318	Italy
+T72	TemporalExpression 2373 2377	1980
+T73	GeographicalLocation 2379 2387	Honduras
+T74	GeographicalLocation 2392 2397	Haiti
+T75	GeographicalLocation 2448 2450	US
+T76	GeographicalLocation 2462 2467	Haiti
+T77	Taxon 2515 2530	Atlantic corals
+T78	Taxon 2605 2619	Acropora s pp.
+T79	GeographicalLocation 2844 2846	US
+T80	GeographicalLocation 2851 2857	Europe
+T81	GeographicalLocation 2933 2946	Bay of Gonave
+T82	TemporalExpression 3061 3070	two years
+T83	TemporalExpression 3247 3251	1980
+T84	GeographicalLocation 3256 3258	US
+T85	GeographicalLocation 3341 3356	Tunisian waters
+T86	TemporalExpression 3423 3435	18th century
+T87	GeographicalLocation 3479 3499	North African waters
+T88	GeographicalLocation 3504 3511	Tunisia

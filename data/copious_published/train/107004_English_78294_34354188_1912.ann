@@ -1,0 +1,57 @@
+T1	Taxon 412 431	Tarsius carbonarius
+T2	Taxon 605 624	Tarsius fraterculus
+T3	GeographicalLocation 701 706	Bohol
+T4	Taxon 758 778	Tarsius philippensis
+T5	GeographicalLocation 876 884	Mindanao
+T6	GeographicalLocation 886 891	Leyte
+T7	GeographicalLocation 1063 1069	Cavite
+T8	Taxon 1139 1147	macaques
+T9	GeographicalLocation 1336 1347	Sulu Island
+T10	GeographicalLocation 1349 1357	Sulu Sea
+T11	Taxon 1438 1451	Simia Linnsus
+T12	Taxon 1486 1501	Barbary macaque
+T13	Taxon 14 28	Family TARSIID
+T14	Taxon 30 50	Genus TARSI US Storr
+T15	Taxon 30 41	Genus TARSI
+T16	TemporalExpression 52 56	1780
+T17	Taxon 111 158	Lemur tarsius 'Erxleben' Lemur tarsier Erxleben
+T18	Taxon 161 169	Tarsiers
+T19	GeographicalLocation 897 902	Samar
+T20	GeographicalLocation 975 995	Family CERCOPITHECID
+T21	GeographicalLocation 904 909	Leyte
+T22	GeographicalLocation 920 925	Luzon
+T23	GeographicalLocation 941 949	Mindanao
+T24	GeographicalLocation 960 965	Samar
+T25	Taxon 998 1022	Genus PITH ECUS Geoffrey
+T26	Taxon 998 1013	Genus PITH ECUS
+T27	TemporalExpression 1035 1039	1795
+T28	Taxon 1041 1058	Pithecus Geoffroy
+T29	Taxon 1113 1120	monkeys
+T30	Taxon 1217 1235	Pithecus cagayanus
+T31	Taxon 1217 1243	Pithecus cagayanus (Means)
+T32	TemporalExpression 1245 1249	1905
+T33	Taxon 1251 1278	Cynomolgus cagayanus Mearns
+T34	Taxon 1251 1271	Cynomolgus cagayanus
+T35	GeographicalLocation 1359 1366	Cagayan
+T36	GeographicalLocation 1367 1371	Sulu
+T37	GeographicalLocation 1407 1413	London
+T38	TemporalExpression 1415 1419	1911
+T39	Taxon 1511 1517	monkey
+T40	Taxon 1519 1539	Simia intus Linnteus
+T41	Taxon 1519 1530	Simia intus
+T42	Taxon 1581 1601	long-tailed macaques
+T43	Taxon 1617 1625	Pithecus
+T44	Taxon 1660 1665	Simia
+T45	Taxon 1752 1760	Pithecus
+T46	Taxon 571 597	Tarsius fraterculus Miller
+T47	Taxon 571 590	Tarsius fraterculus
+T48	GeographicalLocation 553 561	Mindanao
+T49	Taxon 412 437	Tarsius carbonarius Heude
+T50	TemporalExpression 406 410	1899
+T51	GeographicalLocation 528 541	Gulf of Davao
+T52	GeographicalLocation 543 551	Mindanao
+T53	GeographicalLocation 708 713	Bohol
+T54	Taxon 724 744	Tarsius philippensis
+T55	Taxon 724 750	Tarsius philippensis Meyer
+T56	TemporalExpression 752 756	1895
+T57	Taxon 605 631	Tarsius fraterculus Miller

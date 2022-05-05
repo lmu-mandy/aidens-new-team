@@ -1,0 +1,502 @@
+Further studies on partially purified calf thymus DNA polymerase a.
+Abstract
+Attempts to prevent the urea conversion of a 200-230,000 molecular weight DNA polymerase alpha to a 150-170,000 molecular weight form by the inclusion of protease inhibitors have not been successful. No other method has been found capable of dissociating a 50-70,000 fragment or subunit from the DNA polymerase subunit. Addition of this 50-70,000 subunit to the polymerase subunit does not aid the binding of the enzyme to DNA, but does have an effect on the utilisation of synthetic template-initiator complexes by the polymerase subunit.
+
+
+
+
+ Volume 6 Number 10 1979 
+
+ Nucleic Acids Research 
+
+ Further studies on partially purified calf thymus DNA polymerase a Keith McKune and Andrew M.Holmes* 
+
+ Biochemistry Department, Strathclyde University, The Todd Centre, 31 Taylor Street, Glasgow, G4 ONR, UK 
+
+ Received I June 1979 ABSTRACT 
+
+ Attempts to prevent the urea conversion of a 200-230, 000 molecular weight DNA polymerase a to a 150-170, 000 molecular weight form by the 
+
+ inclusion of protease inhibitors have not been successful. No other method has been found capable of dissociating a 50-70, 000 fragment or subunit from the DNA polymerase subunit. Addition of this 50-70, 000 subunit to the polymerase subunit does not aid the binding of the enzyme to DNA, but does have an effect on the utilisation of synthetic template-initiator complexes by the polymerase subunit. 
+
+ INTRODUCTION 
+
+ In mammals DNA polymerase a is thought to be the replicative 
+
+ enzyme, but due to low levels of activity, even in tissues actively making DNA, and to enzyme heterogeneity it has been found difficult to purify 
+
+ However, small samples of DNA polymerase a have been highly purified 
+
+ 2, 3, 4, 5 from several sources and partially characterised 
+
+ Heterogeneity has been observed in DNA polymerase a from a var
+
+ 6           7 
+
+ iety of sources, including rat liver and spleen , Hela cells, baby hamster 
+
+ 8                9, 10                   11 
+
+ kidney cells , mouse myeloma    , Drosophila embryos  and calf thymus 
+
+ 1,6, 12, 13 . We have previously observed several species of calf thymus 
+
+ DNA polymerase a differing in size and charge  . In order of elution from DEAE cellulose they are enzyme A1 (200-230, 000 molecular weight), A2 (200-230, 000), B (100-110, 000) and C (150-170, 000). A poly (dA). oligo 
+
+ (dT)10 preferring enzyme, enzyrrme D (140-150, 000 molecular weight) elutes just after enzyme B. The A enzymes seem identical in all properties except their charge. 5.0-5. 5S enzymes, analagous to B, have been observed to 
+
+ C Information Retrieval Limited 1 Falconberg Court London Wl V 5FG England 
+
+ 3341 
+
+ Nucleic Acids Research 
+
+ arise as the result of proteolytic action  ' , similarly the B enzyme above 14 
+
+ ,but the relationship of the other observed species is not clear, nor is 
+
+ the problem of which, if any, of these species is the replicative enzyme, 
+
+ although circumstantial evidence has implicated a DNA polymerase a to be 
+
+ 15 the replicative enzyme in adenovirus infected KB cells 
+
+ We have previously shown that several of these enzymes are inter
+
+ 16 
+
+ convertible . In particular, mild urea treatment can convert both A 
+
+ enzymes to C enzyme, with the loss of a subunit or fragment of 50-70, 000 molecular weight. The C enzyme retains DNA polymerase activity, but 
+
+ does show differences compared to A enzyme in heat sensitivity and sensitivity to N-ethylmaleimide. 
+
+ Highly purified samples of A and C enzymes when subjected to sodium dodecyl sulphate polyacrylamide gel electrophoresis have shown a corre
+
+ lation of DNA polymerase activity with a polypeptide band 155, 000 molecular weight . Contaminating material of 50-70, 000 molecular weight appeared 
+
+ to obscure the putative 50-70, 000 subunit in gels of A enzyme. The conclusions drawn were that DNA polymerase a is a 155, 000 molecular weight 
+
+ polypeptide (C enzyrrme) which can and does associated with material of 50
+
+ 70, 000 molecular weight to give A enzyme, and that enzyme B is a proteol
+
+ 14 
+
+ ytic degradation product . The relationship of enzyme D to the others is 
+
+ not clear. 
+
+ It is possible that during the enzyme isolation procedure proteolytic action may have taken place on a 200-230, 000 molecular weight enzyme releasing 155, 000 and 50-70, 000 fragments which remain in association 
+
+ until urea treatment separates them. It is also possible that urea treatment itself renders the enzyme susceptible to contaminating proteases. Further experiments to ascertain whether or not this is the case and, if so, to prevent it, have been carried out. 
+
+ A enzyme can be reconstituted from C enzyme formed by the action 
+
+ of urea on A enzyme by concentrating it with the 50-70, 000 molecular weight material. The A enzyrme obtained in this manner is highly purified, as is 
+
+ the C enzyme formed by the urea treatment, and has been used in attempts to show differences in synthetic template-initiator complex utilisation 
+
+ 3342 
+
+ Nucleic Acids Research 
+
+ b y the se two enzyme s . 
+
+ MATERIALS AND METHODS 
+
+ Calf thymus was obtained from 10-16 week old calves and frozen at 
+
+ -20?C until required. Chromatographic media and chemicals were obtained 
+
+ 6 
+
+ from sources previously referred to . Radioactive deoxynucleoside tri
+
+ phosphates were obtained from the Radiochemical Centre, Amersham, Bucks. Synthetic oligo and polynucleotides were obtained from P. L. Biochemicals 
+
+ Inc., except for poly (dC) which was a gift from Dr. I.R. Johnston and pre
+
+ 17 
+
+ pared from oligo d(C)5 as described  . N-a-p Tosyl-L-lysine chloromethy
+
+ lketone HCl and phenylmethylsulphonylfluoride were obtained from Sigma and Trasylol from Bayer. 
+
+ Except where indicated all buffers contained 20% w/v glycerol and 
+
+ 1 mM dithiothreitol. Standard linear phosphate gradients were run between 0.03 M and 0.25 M potassium phosphate, pH 7.8. Gradient salt concentr
+
+ 2 
+
+ ations were measured using a conductivity meter as described . Urea was 
+
+ prepared as a 4. 8 M solution in 20% w/v glycerol, stirred with Amberlite 
+
+ MB3 and filtered. Dithiothreitol was added to a final concentration of 1 mM before use. 
+
+ 6 DNA polymerase was assayed using activated DNA as described 
+
+ except that the buffer was 50 mM tris HC1, pH 7.8. One unit of DNA polymerase activity incorporates ln mol [ H] dTMP into an acid insoluble form in one hour at 370C. Assays using synthetic template-initiator complexes were carried out at 30?C in 0. 12 ml. The template-initiator complexes 
+
+ 6 
+
+ were prepared and assays processed as described . All assays contained 
+
+ 1 mM dithiothreitol, 62. 5 p.g bovine serum albumin, 1 ,ug template-initiator complex, enzyme protein and the relevant [ H] deoxynucleoside triphosphate at 0.1 mM and 12-15 cpm/pmol. These assays were carried out at either pH 6.4 in 20 mM sodium-potassium phosphate, or at pH 7.8 in 50 mM tris HCl and contained either 10 mM MgCl2 or 1 mM MnCl2 as indicated. 
+
+ Preliminary purification of DNA polymerase a to Fraction IV was as 
+
+ 6 
+
+ described , the purification steps being phosphocellulose chromatography, 
+
+ ammonium sulphate precipitation and gel filtration on Sepharose 6B. 
+
+ 3343 
+
+ Nucleic Acids Research 
+
+ Enzyme obtained from the DEAE cellulose step is referred to as Fraction 
+
+ V enzyme. Samples were prepared for sodium dodecyl sulphate polyacrylamide gel electrophoresis and scanned as previously described2 
+
+ RESULTS AND DISCUSSION 
+
+ (a)   Interconversion Studies 
+
+ A enzyme was routinely converted to C enzyme by incubating 200500 units/ml of Fraction V A enzyme in 2.4 M urea in 0. 02 M potassium 
+
+ phosphate, pH 7.8, for 60 minutes at 0?C. The mixture was then loaded on to a DEAE cellulose, washed with 0. 03 M potassium phosphate pH 7. 8, and enzyrme eluted either with the standard phosphate gradient or batchwise. Under these conditions usually about 50-60% of recovered activity was 
+
+ enzyme C (Fig 1 a). Overall recovery was 70-80%. A enzyme was recon
+
+ 14 
+
+ stituted essentially as described . The flow through material from the 
+
+ DEAE cellulose column after the urea treatment was loaded on to a 1 x 0. 8 cm phosphocellulose column, washed with 0.03 M potassium phosphate, pH 7.8, and the protein eluted with 0.25 M potassium phosphate, pH 7. 8. This material, the putative subunit, was vacuum dialysed with the C enzyme produced by the urea treatment, rechromatographed on DEAE cellulose and enzyme eluted batchwise (Fig 1 b). Recovery from this procedure was 
+
+ usually 50-70% A enzyme. Overall recovery was 30-40% of the C enzyme dialysed. If the material eluted from the phosphocellulose by the 0. 25 M potassium phosphate was heated to 90?C for 5 minutes prior to vacuum 
+
+ dialysis with the C enzyme the recovery from the DEAE cellulose column 
+
+ was significantly higher (60-70% of the original C enzyme activity), but all recoverable DNA polymerase activity was C enzyme. This, together with the fact that the 60 minute treatment with urea has, on occasions, given 
+
+ rise to a 50% increase in DNA polymerase activity prior to loading on to the DEAE cellulose column, would indicate that A enzyme is less active on 
+
+ activated DNA than is C enzyme. If the DEAE cellulose flow through material came from urea treatment of A2 enzyme then A2 was produced on reconstitution; if from A1 then A1 was produced. 
+
+ Although the mild urea treatment of A has been used to prepare C of 
+
+ 3344 
+
+ Nucleic Acids Research 
+
+ b 
+
+ 120       180 C 
+
+ I         I    ^ 
+
+ Figure la  DEAE cellulose chromatography after 2.4 M urea treatment. 
+
+ 4, 5000 units, 4.4 mg of Fraction II A2 enzyme were incubated with urea at a final concentration of 2.4 M for 60 minutes at 0?C, loaded on to a 5 x 1.4 cm DEAE cellulose column, the column was washed with 0. 03 M potassium phosphate, pH 7.8 and a 200 ml standard phosphate gradient applied. 2.3 ml fractions were collected and 10 Rl assayed for 5 minutes. (o-o) no 
+
+ phenylmethylsulphonylfluoride (*-*) 3 mM phenylmethylsulphonylfluoride ( - ) phosphate gradient. 
+
+ Figure lb  The reconstitution of A2 enzyme. 3000 units for C enzyme 
+
+ derived by urea treatment of A2 were vacuum dialysed with the DEAE cellulose flow through material after phosphocellulose chromatography and 
+
+ chromatographed on a 2 x 1. 2 cm DEAE cellulose column. After washing with 0.03 M potassium phosphate, pH 7.7, the enzymes were eluted batchwise with the above concentrations of potassium phosphate, pH 7.8. 1 ml fractions were collected and 10 .l assayed for 10 minutes. 
+
+ 3345 
+
+ Nucleic Acids Research 
+
+ high specific activity it is possible that conversion of the 200-230, 000 molecular weight enzymes to a 155- 170, 000 species maybe due to unfolding of the molecule to allow limited attack by contaminating proteases. Accord
+
+ ingly the urea conversion of A to C was investigated in the presence of certain protease inhibitors. The presence of the serine protease inhibitor 
+
+ phenylmethylsulphonyl-fluoride in the incubation and chromatography buffers did not affect the conversion of A2to C (Fig 1 a). Likewise trasylol and Na-p Tosyl-L-lysine chloromethylketone HC1 had no effect. However, protease action could have occurred earlier in the purification procedure and the urea could be separating two fragments. Usually the DEAE cellulose profile shows that the majority of the enzyme activity is present as A 
+
+ enzyme (Fig 2). In this instance A1 and A2 have not been separated. When the temperature of the material in the original blending procedure was kept below 0?C or phenylmethylsulphonylfluoride, N-a-p Tosyl-L-lysine chloromethylketone HCl or trasylol was included in the isolation buffers the DEAE cellulose profile was similar. The A enzymes were still capable of conversion by mild urea treatment to C enzyme, indicating that if protease activity is involved then it is not susceptible to these inhibitors. When the calf 
+
+ 20FI: Now ~ ~      ~      20 20Fr Na      06 
+
+ Figure 2  DEAE cellulose elution profile of calf thymus DNA polymerase a. 47, 000 units, 97 mg of Fraction IV enzyme prepared from 415 g of calf 
+
+ thymus were loaded on to a 10 x 1.8 cm DEAE cellulose column, after washing with 0. 03 M potassium phosphate, pH 7. 8 a 400 ml standard phosphate gradient was applied. 5 ml fractions were collected and 10 ,ul assayed for 5 minutes. 
+
+ 3346 
+
+ Nucleic Acids Research 
+
+ thymus was allowed to warm up during the blending procedure, or the supernatant prior to phosphocellulose chromatography was heated to 37 ?C for 30 minutes, there was a marked decrease in the amount of A enzyme with a concomitant increase in the amount of B and C (unpublished observation). The presence of phenylmethylsulphonylfluoride, N- a-p T osyl- L-lysine 
+
+ chloromethylketone HCl or trasylol under these conditions only had a marginal effect on the appearance of C enzyme, but did reduce the amount of B 
+
+ enzyme. Heating the enzyme to 37?C after the phosphocellulose step had no effect on the DEAE cellulose elution profile. Attempts to convert A enzyme to C using trypsin have not been successful. A enzyme activity is lost without the appearance of any other species (unpublished observation), although 
+
+ 14 the action of trypsin on C enzyme can give rise to small amounts of B 
+
+ Although the conversion of A enzyme to C does not appear to be the result of serine protease action, proteases other than serine proteases 
+
+ 18 
+
+ could have been responsible  . Also, the fact that A enzyme can be recon
+
+ stituted from C plus the flow through material from the DEAE cellulose after urea treatment does not necessarily mean we are dealing with two subunits as fragments produced by proteases mray be reassembled to give active 
+
+ enzyme 9    . However, the fact that a 200-230, 000 molecular weight polypeptide band has never been observed in sodium dodecylsulphate polyacrylamride gels of highly purified A enzyme , or even cruder fractions of A 
+
+ enzyrre (unpublished observation), may be significant. One might expect 
+
+ some of the enzyme not to have been attacked by whatever is responsible for cleaving the molecule, if, indeed, this does happen. It would appear, therefore, that the A enzyme consists of subunits of 155, 000 and 50-70, 000 molecular weight with the small subunit having a slightly different charge in the 
+
+ case of A  and A2. It has also been concluded that the heterogeneity in the 
+
+ 1                                     ~~~~~~~~~~~~~~~~~3 mouse myeloma DNA polymerase a fraction is not due to proteolysis . However, the 50-70, 000 molecular weight subunit has not yet been identified. 
+
+ Sodiurrm dodecylsulphate polyacrylamide gels of reconstituted A enzyme have shown polypeptide bands at 150-160, 000 and 50-70, 000 molecular weight 
+
+ (Fig. 3), but the ratio of staining intensity of the bands does not correspond to a 1: 1 relationship. The ratio of the two bands is variable but is usually between 1:2 and 1:3, indicating, perhaps, that more than one subunit of 50
+
+ 3347 
+
+ Nucleic Acids Research 
+
+ TOP      123   4 5   6 
+
+ Figure 3  Scan of a 5% sodium dodecyl sulphate polyacrylamide gel of 
+
+ reconstituted A2 enzyme. 1500 units of reconstituted A2 enzyme were subjected to polyacrylamide gel electrophoresis under non-denaturing conditions. The gels were sliced, enzyme extracted and assayed and the peak 
+
+ fraction of DNA polymerase activity from three gels were pooled, subjected to sodium dodecyl sulphate polyacrylamide gel electrophoresis on a single 
+
+ gel, stained and scanned at 2 volt sensitivity as described2. The molecular weight standards were: (1) bovine serum albumin dimer (134, 000), (2) ,3 galactosidase (130, 000), (3) phosphorylase a (94, 000), (4) bovine serum 
+
+ albumin (68, 000), (5) pyruvate kinase (57, 000) and (6) lactate dehydrogenase (35, 000). 
+
+ 70, 000 molecular weight can associate with the 155, 000 subunit. The proportion of the lower molecular weight polypeptide band is higher in the reconstituted A enzyrrme than in the C enzyme preparation from which it was formed, but even the C enzyme contained some material in the region. 
+
+ Breakdown of material from 155, 000 to 50-70, 000 may be partly responsible for the contamination, but the presence of phenylmethylsulphonylfluoride in samples in preparation for sodium dodecylsulphate polyacrylamide gel electrophoresis has not been successful in preventing it. The human KB cell 
+
+ DNA polymerase a, equivalent to the C enzyme, has been reported to consist 
+
+ 4 
+
+ of subunits of 76, 000 and 66, 000 molecular weight , but at no time have we 
+
+ observed polypeptide bands at 76, 000 and 66, 000 rising and falling with 
+
+ enzyme activity in any gels of calf thyrrmus enzymes A1, A  and C (and 
+
+ 2 unpublished observations). (b)    Template Studies 
+
+ Use has been made of the urea conversion of A to C and of the reconstitution of A enzyme to obtain samples of highly purified DNA polymerase, 
+
+ specific activity in excess of 50, 000 units/mg, in order to study the effect of this 50-70, 000 molecular weight subunit on the DNA polymerase subunit. Previous results have indicated that A enzyrrme is stabler to heat and less 
+
+ 3348 
+
+ Nucleic Acids Research 
+
+ 14, 21 
+
+ susceptible to N-ethylmaleimide than C enzyme  . It has been reported 
+
+ that highly purified DNA polymerase a can be associated with a protein capable of binding to DNA containing no 3' OH ends and capable of being released during the DNA polymerase assay  . Attempts to dissociate the 50
+
+ 70, 000 molecular weight subunit from the polymerase subunit by incubating A2 with DNA polymerase reaction mixes containing activated DNA, poly 
+
+ (dA-T) and poly (dT). oligo (A)10 followed by ultracentrifugation in high salt have been unsuccessful. Similarly A absorbed and eluted from either native or denatured DNA cellulose remained A enzyme. Both A and C enzymes 
+
+ were eluted from the DNA celluloses by less than 0. 1 M NaCl so it does not appear that the subunit enhances the binding of the DNA polymerase subunit to DNA. However, there are differences in the response of A and C 
+
+ enzymes to synthetic template-initiator complexes (Table 1). Even if one takes into account the fact that A enzyme is less active on activated DNA 
+
+ than C enzyme (the addition of the 50-70, 000 subunit to the polymerase subunit appears to result in a decrease of about 30% of polymerase activity on activated DNA) the A enzyme is still more active on these templates. 
+
+ Although there is a variation in activity on these template-initiator comp
+
+ lexes each time assays are carried out on them depending on the method of preparing the complexes and the base ratio of template to initiator, A enzyme always seems to be significantly more active than C. The A2 
+
+ enzyme at pH 7.8, with extra subunit(s) is clearly more effective on the 
+
+ oligoribonucleotide initiator, oligo(A)10 than is enzyme C. In view of the proposed RNA initiation of Okazaki pieces this may indicate a role of this subunit in Okazaki piece synthesis, in that it may aid the DNA polymerase to'take over' from the RNA polymerase. Using poly (dA). oligo (dT) 10 
+
+ (A:T=20: 1) and following the incorporation of [ H] dTMP as a function of time a short lag was observed for C enzyme, but not for A2 (Fig. 4). 
+
+ Similar re sult s we re obtained when poly (dC). oligo (dG) 1 0 (C: G= 5: 1) wa s 
+
+ used as temrrplate-initiator, but not when poly (dT). oligo (A)10 (T:A=1: 1) was used. Neither enzyme showed a lag on this template-initiator complex or on activated DNA. Incorporation versus enzyme concentration also showed this lag for C enzyme on poly (dA). oligo (dT)10. It is not certain what causes 
+
+ 3349 
+
+ Nucleic Acids Research 
+
+ TABLE 1 Template utilisation by reconstituted A and C derived from A. 
+
+ 3H] dNTP Divalent cation  A2 at pH    C at pH 
+
+ Template                          _      6.4   7.8    6.4   7.8 Activated DNA         dTTP         Mg++            100          100 Activated DNA         dATP         Mg++             91          85 Activated DNA         dGTP         Mg++             85          82 poly(dA).oligo(dT)10  dTTP         Mg      66.0    4.0    20    91 
+
+ (A:T = 20: 1) 
+
+ poly(dA). oligo(dT)   dTTP         Mu      19.0    4. 5  6. 5  2.5 
+
+ poly(dA. oig~10 (A:T = 20:1) 
+
+ poly(dT). oligo(dA)10  dATP        Mg       2.5   <1 (1       (1 
+
+ (T:A = 5:1) 
+
+ poly(dT) .oligo(dA)1  dATP         Mn ++   15.5   23.0   9. 0  3. 0 
+
+ poly(dT). oligo(A)10  dATP         Mg      15.0  230.0  10.0  77. 5 
+
+ (T:A = 1:1) 
+
+ poly(dT) * oligo(A) 10  dATP       Mn      41.5   75. 5 19.5  21.5 
+
+ (T:A = 1:1) 
+
+ poly(dC). oligo(dG)   dGTP         Mg++     6. 0   15.5  4. 5  7. 5 
+
+ (C:G = 5:1)   10 
+
+ poly(dC). oligo(dG)10  dGTP        Mn +     6. 0  29.5   5. 0  6. 5 
+
+ (C:G  = 5: 1)                                 .    . 
+
+ Values given are relative to incorporation of [ H] dTMP at pH 7. 8 on activated DNA. For A2 this was 176.5 pmol, for C 232 pmol. dATP, dCTP, dGTP and dTTP were included for assays using activated DNA, only the deoxynucleoside triphosphate stated was used in the synthetic template
+
+ initiator complex assays. Assays were for 10 minutes. The buffers and concentrations of the divalent cations were as in Materials and Methods. 
+
+ this lag, but the annealing of template to initiator is only transient '  and the DNA polymerase subunit may have difficulty in stabilising the complex and the 50-70, 000 molecular weight subunit may be able to help the poly
+
+ merase subunit to overcome this. Addition of the 50-70, 000 subunit to the polymerase subunit prior to assaying with these templates had no effect on activity and it may be that a preincubation period is required before the two 3350 
+
+ Nucleic Acids Research 
+
+ Figure 4 Activity of A2 and C enzymes on poly (dA). oligo (dT)jO (A:T = 
+
+ 20:1) as a function of time. 50 ,ul samples were withdrawn at various times from a 0. 6 inl incubation mix at 30?C and added to 0. 5 ml 0. 1 M sodium 
+
+ pyrophosphate containing 100 ,ug/ml native calf thymus DNA and processed for counting in the usual manner6. The mix contained 1 mM dithiothreitol, 50 mM tris HC1, pH 7.8 10 mM MgC12, 0. 1 mM [3H] dTTP (15 cpm/pmol), 312.5 ,ug bovine serum albumin, 5 Fg poly (dA). oligo (dT)  (A:T = 20:1) and enzyme protein (*-*) 3.3 units reconstituted A2, (o-o) 16. 0 units urea derived C enzyme. 
+
+ subunits become fully associated. After the lag phase is over the C enzyme is still less active on these template-initiators than A enzyme . That is the A enzyme seems capable of elongating the initiator faster than the C enzyme. Experiments to determine whether the differences in rates of elongation of these template-initiator complexes are differences in processivity of the 
+
+ enzymes under the different pH and divalent cation conditions are under way. 
+
+ ACKNOWLEDGEMENTS 
+
+ We thank the Medical Research Council for a research grant. 
+
+ Communications concerning the paper should be sent to:
+
+ Dr. A. M. Holmes, Department of Biochemistry, University of Strathclyde, The Todd Centre, 31 Taylor Street, Glasgow G4 ONR, U.K. 
+
+ 3351 
+
+ Nucleic Acids Research 
+
+ REFERENCES 
+
+ (1)    Bollum, F.J. (1975). Prog. Nucleic Acid Res. Mol. Biol. 15, 
+
+ 109-144. 
+
+ (2)    Holmes, A.M., Hesslewood, I.P. and Johnston, I.R. (1976). Eur. 
+
+ J. Biochem. 62, 229-235. 
+
+ (3)    Matsukage, A., Sivarajan, M. and Wilson, S.H. (1976). Biochem
+
+ istry 15, 5305-5314. 
+
+ (4)    Fisher, P.A. and Korn, D. (1977). J. Biol. Chem. 252, 6528
+
+ 6535. 
+
+ (5)    Fichot, O., Pascal, M., Mechali, M. and De Recondo, A, -M. 
+
+ (1979). Biochim. Biophys. Acta, 561, 28-41. 
+
+ (6)    Holmes, A.M., Hesslewood, I.R. and Johnston, I.R. (1974). Eur. 
+
+ J. Biochemn. 43, 487-499. 
+
+ (7)    Noy, G.P. and Weissbach, A. (1977). Biochim. Biophys. Acta, 
+
+ 447, 70-83. 
+
+ (8)    Craig, R.K. and Keir, H. M. (1975). Biochem. J. 145, 225-232. 
+
+ (9)    Matsukage, A., Bohn, E.W. and Wilson, S.H. (1974). Proc. Natl. 
+
+ Acad. Sci. U.S.A. 71, 578-582. 
+
+ 110)   Hachmann, H.J. and Lezius, A.G. (1975). Eur. J. Biochem. 50, 
+
+ 357- 366. 
+
+ (11)   Brakel, C.L. and Blumenthal, A.B. (1977). Biochemistry, 16, 
+
+ 3137-3143. 
+
+ (12)   Momparler, R.L., Rossi, M. and Labitan, A. (1973). J. Biol. 
+
+ Chem. 248, 285-293. 
+
+ (13)   Yoshida, S., Konda, T. and Ando, T. (1974). Biochim. Biophys. 
+
+ Acta, 353, 463-474. 
+
+ (14)   Holmes, A.M., Hesslewood, I.P., Wickremasinghe, R.G. and 
+
+ Johnston, I.R. (1977). Biochem. Soc. Symp. 42, 17-36. 
+
+ (15)   De Jong, A., Van der Vliet, P. and Jansz, H.S. (1977). Biochim. 
+
+ Biophys. Acta, 476, 156-165. 
+
+ (16)   Holmes, A.M., Hesslewood, I.P. and Johnston, I.R. (1975). 
+
+ Nature (London) 255, 420-422. 
+
+ (17)   Bollum, F. J. (1966). Procedures in Nucleic Acid Research 
+
+ (Cantoni, G.L. and Davis, D.R. eds). pp 577-583, Harper and Row, New York. 
+
+ (18)   Barrett, A.J. (1975). Proteases and Biological Control pp 467-482, 
+
+ Cold Spring Harbor Laboratory, Cold Spring Harbor. 
+
+ (19)   Richards, F. M. and Vithayathil, P.J. (1960). Brookhaven Symp. 
+
+ Biol. 13, 115-134. 
+
+ (20)   Lowe, P.A., and Malcolm, A.B.D. (1976). Eur. J. Biochem. 64, 
+
+ 177- 188. 
+
+ (21)   Hesslewood, I.P., Holmes, A.M., Wakeling, W.F. and Johnston, 
+
+ I.R. (1978). Eur. J. Biochenr.. 84, 123-131. 
+
+ (22)   Mechali, M. and De Recondo, A. -M. (1978). Biochim. Biophys. 
+
+ Res. Comm, 82, 255-264. 
+
+ (23)   Chang, L.M.S., Cassani, G.R. and Bollum, F.J. (1972). J. Biol. 
+
+ Che. 247, 7718-7723. 
+
+ (24)   Wickremasinghe, R.G. and Johnston, I.R. (1974). Biochim. 
+
+ Biophys. Acta, 361, 37-52. 
+
+ 3352 

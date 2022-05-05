@@ -1,0 +1,18 @@
+T1	Person 10 14	King
+T2	GeographicalLocation 45 62	Malayan Peninsula
+T3	GeographicalLocation 130 135	Perak
+T4	Person 207 213	Curtis
+T5	GeographicalLocation 215 221	Penang
+T6	Taxon 297 324	Dipterocarpus oblongifolius
+T7	Taxon 297 331	Dipterocarpus oblongifolius, Blume
+T8	Taxon 1332 1346	D. stenopterus
+T9	Taxon 1332 1354	D. stenopterus, Vesque
+T10	GeographicalLocation 1415 1420	Perak
+T11	Person 1422 1433	Scortechini
+T12	GeographicalLocation 1444 1450	Borneo
+T13	GeographicalLocation 1452 1459	Sumatra
+T14	GeographicalLocation 1498 1503	Perak
+T15	Taxon 1651 1677	Dipterocarpus grandiflorus
+T16	Taxon 1651 1685	Dipterocarpus grandiflorus, Blanco
+T17	Taxon 2817 2827	D. Blancoi
+T18	Taxon 2817 2832	D. Blancoi, Bl.

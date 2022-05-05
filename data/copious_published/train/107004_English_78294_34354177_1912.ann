@@ -1,0 +1,78 @@
+T1	GeographicalLocation 374 388	South Mindanao
+T2	Taxon 1147 1157	PETAURISTA
+T3	Taxon 1569 1590	Sciuropterus crinitus
+T4	Taxon 38 61	Sciurus juvencus Thomas
+T5	Taxon 38 54	Sciurus juvencus
+T6	TemporalExpression 63 67	1908
+T7	Taxon 69 92	Sciurus juvencus Thomas
+T8	Taxon 69 85	Sciurus juvencus
+T9	TemporalExpression 133 141	December
+T10	GeographicalLocation 160 167	Palawan
+T11	GeographicalLocation 169 176	Palawan
+T12	Taxon 187 213	Sciurus mindanensis Steere
+T13	Taxon 187 206	Sciurus mindanensis
+T14	TemporalExpression 215 219	1890
+T15	Taxon 221 247	Sciu-us mindanensis Steere
+T16	GeographicalLocation 283 294	Philippines
+T17	GeographicalLocation 417 424	Basilan
+T18	GeographicalLocation 407 415	Mindanao
+T19	TemporalExpression 300 307	July 14
+T20	TemporalExpression 309 313	1890
+T21	Taxon 315 333	Sciurus cagsi Meye
+T22	Taxon 315 328	Sciurus cagsi
+T23	GeographicalLocation 353 359	London
+T24	GeographicalLocation 448 456	Mindanao
+T25	Taxon 467 496	Sciurus mollendorffi Matschie
+T26	Taxon 467 487	Sciurus mollendorffi
+T27	TemporalExpression 498 502	1898
+T28	Taxon 504 533	Sciurus mollendorffi Matschie
+T29	Taxon 504 524	Sciurus mollendorffi
+T30	TemporalExpression 571 575	1898
+T31	TemporalExpression 589 592	May
+T32	GeographicalLocation 611 617	Culion
+T33	GeographicalLocation 619 625	Culion
+T34	Taxon 638 671	Sciurus philippinensis Waterhouse
+T35	Taxon 638 660	Sciurus philippinensis
+T36	TemporalExpression 673 677	1839
+T37	Taxon 679 712	Sciurus philippinensis Waterhouse
+T38	Taxon 679 701	Sciurus philippinensis
+T39	GeographicalLocation 731 737	London
+T40	GeographicalLocation 764 772	Mindanao
+T41	GeographicalLocation 774 781	Balabac
+T42	GeographicalLocation 792 799	Basilan
+T43	GeographicalLocation 811 819	Mindanao
+T44	Taxon 833 858	Sciurus samarensis Steere
+T45	Taxon 833 851	Sciurus samarensis
+T46	Taxon 866 891	Sciurus samarensis Steere
+T47	Taxon 866 884	Sciurus samarensis
+T48	TemporalExpression 860 864	1890
+T49	GeographicalLocation 926 937	Philippines
+T50	TemporalExpression 943 950	July 14
+T51	GeographicalLocation 969 974	Samar
+T52	GeographicalLocation 976 981	Leyte
+T53	GeographicalLocation 993 998	Samar
+T54	Taxon 1009 1033	Sciurus steerii Giinther
+T55	Taxon 1041 1064	Sciurus steerii Gunther
+T56	Taxon 1041 1056	Sciurus steerii
+T57	Taxon 1009 1024	Sciurus steerii
+T58	TemporalExpression 1035 1039	1876
+T59	TemporalExpression 1091 1095	1876
+T60	GeographicalLocation 1083 1089	London
+T61	Taxon 1159 1179	Genus SCIUROPTERUS F
+T62	Taxon 1159 1177	Genus SCIUROPTERUS
+T63	GeographicalLocation 1120 1127	Balabac
+T64	TemporalExpression 1189 1193	1825
+T65	Taxon 1250 1269	Sciurus volans Linn
+T66	Taxon 1250 1264	Sciurus volans
+T67	Taxon 1308 1324	Flying-squirrels
+T68	GeographicalLocation 1392 1402	Philippine
+T69	Taxon 1530 1561	Sciuropterus crinitus Hollister
+T70	Taxon 1530 1551	Sciuropterus crinitus
+T71	TemporalExpression 1563 1567	1911
+T72	Taxon 1569 1600	Sciuropterus crinitus Hollister
+T73	TemporalExpression 1642 1649	June 23
+T74	TemporalExpression 1626 1630	1911
+T75	GeographicalLocation 1668 1682	Basilan Island
+T76	GeographicalLocation 1684 1691	Basilan
+T77	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T78	GeographicalLocation 367 372	Davao

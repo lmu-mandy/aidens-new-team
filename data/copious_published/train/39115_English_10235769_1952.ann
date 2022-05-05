@@ -1,0 +1,31 @@
+T1	TemporalExpression 387 393	spring
+T2	TemporalExpression 397 401	1933
+T3	GeographicalLocation 2000 2005	Japan
+T4	Taxon 2029 2040	Sagami Wano
+T5	TemporalExpression 2146 2153	October
+T6	GeographicalLocation 2177 2189	Shonan Maru5
+T7	GeographicalLocation 2237 2256	East Philippine Sea
+T8	TemporalExpression 2277 2281	July
+T9	Taxon 199 218	broadbill swordfish
+T10	GeographicalLocation 222 237	Japanese waters
+T11	TemporalExpression 262 269	Augu st
+T12	TemporalExpression 269 279	sept ember
+T13	GeographicalLocation 407 414	Ominato
+T14	GeographicalLocation 416 432	Chiba Prefecture
+T15	GeographicalLocation 1588 1611	coastal waters of Japan
+T16	TemporalExpression 1687 1693	spring
+T17	Taxon 1767 1777	black tuna
+T18	Taxon 1817 1825	albacore
+T19	Taxon 1830 1852	short -nosed speaofish
+T20	Habitat 1910 1924	coastal waters
+T21	GeographicalLocation 2073 2095	waters east of Formosa
+T22	GeographicalLocation 2258 2272	lOÂ° No  15Â° No
+T23	TemporalExpression 2283 2286	193
+T24	GeographicalLocation 2369 2382	3Â° No  10Â° No
+T25	TemporalExpression 2387 2393	August
+T26	Person 2421 2429	Nakamura
+T27	Person 2431 2440	Hidenario
+T28	TemporalExpression 2441 2445	1935
+T29	TemporalExpression 2446 2448	36
+T30	GeographicalLocation 2508 2515	Ominato
+T31	TemporalExpression 2157 2165	December

@@ -1,0 +1,34 @@
+T1	GeographicalLocation 1600 1609	Subic Bay
+T2	GeographicalLocation 1611 1628	Santa Cruz Harbor
+T3	GeographicalLocation 1630 1640	Marinduque
+T4	GeographicalLocation 1660 1672	Ticao Island
+T5	GeographicalLocation 1737 1749	Port Matalvi
+T6	GeographicalLocation 1751 1756	Luzon
+T7	GeographicalLocation 1762 1769	Romblon
+T8	Taxon 1828 1838	LEODICIDAE
+T9	GeographicalLocation 1985 1997	Batan Island
+T10	GeographicalLocation 2199 2216	Tanguingui Island
+T11	GeographicalLocation 2227 2231	Cebu
+T12	Taxon 0 21	POLYCHAETOUS ANNELIDS
+T13	GeographicalLocation 27 42	PHILIPPINE SEAS
+T14	GeographicalLocation 1642 1658	San Miguel arbor
+T15	Taxon 1846 1861	LEODICE Savigny
+T16	Taxon 1863 1882	LEODICE APHRODITOIS
+T17	Taxon 1863 1889	LEODICE APHRODITOIS Pallas
+T18	Taxon 1891 1909	Eunice aphroditois
+T19	Taxon 1891 1916	Eunice aphroditois PALLAS
+T20	Person 1924 1930	EHLERS
+T21	TemporalExpression 1932 1936	1864
+T22	TemporalExpression 1937 1941	1868
+T23	TemporalExpression 1918 1922	1766
+T24	Taxon 2005 2022	AGLAURIDES Ehlers
+T25	Taxon 2024 2042	AGLAURIDES FULGIDA
+T26	Taxon 2024 2051	AGLAURIDES FULGIDA Saviffny
+T27	Taxon 2053 2071	Aylaurides fulgida
+T28	Taxon 2053 2079	Aylaurides fulgida SAVIGNY
+T29	TemporalExpression 2081 2085	1820
+T30	Taxon 2158 2165	Leodice
+T31	TemporalExpression 2101 2105	1878
+T32	Person 2094 2099	GRUBE
+T33	GeographicalLocation 2128 2141	station D5179
+T34	GeographicalLocation 2184 2197	station D5401

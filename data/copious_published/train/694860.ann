@@ -1,0 +1,37 @@
+T1	Person 10 19	Foxworthy
+T2	Taxon 32 48	Dipterocarpaceae
+T3	GeographicalLocation 1406 1413	Basilan
+T4	Person 1431 1440	Foxworthy
+T5	Person 1442 1449	De Mesa
+T6	Person 1452 1460	Villamil
+T7	TemporalExpression 1462 1476	April 27, 1912
+T8	Taxon 1605 1612	kalunti
+T9	GeographicalLocation 1659 1666	Basilan
+T10	GeographicalLocation 1671 1688	southern Mindanao
+T11	Person 1747 1756	Foxworthy
+T12	Person 1758 1765	De Mesa
+T13	Person 1768 1776	Villamil
+T14	GeographicalLocation 1778 1785	Basilan
+T15	TemporalExpression 1787 1801	April 27, 1912
+T16	GeographicalLocation 1820 1829	Zamboanga
+T17	TemporalExpression 1848 1858	June, 1912
+T18	Person 1881 1889	Whitford
+T19	Person 1892 1902	Hutchinson
+T20	GeographicalLocation 1904 1913	Zamboanga
+T21	TemporalExpression 1915 1924	Dec. 1907
+T22	TemporalExpression 1949 1958	Jan. 1908
+T23	Person 1976 1985	Foxworthy
+T24	Person 1987 1994	De Mesa
+T25	Person 1997 2005	Villamil
+T26	GeographicalLocation 2007 2016	Zamboanga
+T27	TemporalExpression 2018 2030	May 17, 1912
+T28	Taxon 2050 2066	kalunti Colorado
+T29	Person 2119 2128	Foxworthy
+T30	Person 2130 2137	De Mesa
+T31	Person 2140 2148	Villamil
+T32	GeographicalLocation 2159 2174	Olutanga Island
+T33	TemporalExpression 2176 2188	May 16, 1912
+T34	Taxon 2257 2268	mangasinoro
+T35	Taxon 2652 2667	PARASHOREA Kurz
+T36	Taxon 2652 2662	PARASHOREA
+T37	Taxon 2701 2711	Parashorea

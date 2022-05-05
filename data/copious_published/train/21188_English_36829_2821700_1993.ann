@@ -1,0 +1,46 @@
+T1	Taxon 68 87	vespertilionid bats
+T2	Taxon 119 130	Scotophilia
+T3	GeographicalLocation 137 142	Leyte
+T4	GeographicalLocation 144 151	Biliran
+T5	GeographicalLocation 157 173	Maripipi islands
+T6	GeographicalLocation 258 265	Biliran
+T7	Habitat 286 300	primary forest
+T8	GeographicalLocation 360 365	Leyte
+T9	GeographicalLocation 369 377	Maripipi
+T10	GeographicalLocation 400 407	Biliran
+T11	GeographicalLocation 457 468	Catanduanes
+T12	GeographicalLocation 748 758	Leyte Prov
+T13	GeographicalLocation 953 966	southern Asia
+T14	GeographicalLocation 993 1004	Philippines
+T15	GeographicalLocation 1037 1042	Leyte
+T16	Habitat 1071 1095	disturbed lowland forest
+T17	Habitat 1119 1133	primary forest
+T18	GeographicalLocation 1187 1194	Biliran
+T19	Habitat 1266 1288	primary lowland forest
+T20	Habitat 1316 1338	primary montane forest
+T21	GeographicalLocation 1392 1400	Maripipi
+T22	GeographicalLocation 1466 1471	Nepal
+T23	GeographicalLocation 1524 1532	Mindanao
+T24	GeographicalLocation 1537 1543	Negros
+T25	GeographicalLocation 1548 1553	Leyte
+T26	Habitat 1582 1604	primary lowland forest
+T27	GeographicalLocation 1687 1694	Biliran
+T28	GeographicalLocation 1698 1706	Maripipi
+T29	GeographicalLocation 1777 1787	Leyte Prov
+T30	Taxon 89 95	Murina
+T31	Taxon 97 103	Myotis
+T32	Taxon 105 113	Philetor
+T33	GeographicalLocation 529 536	BILIRAN
+T34	Habitat 563 576	over a stream
+T35	GeographicalLocation 595 599	Viga
+T36	Taxon 1405 1426	Philetor brachypterus
+T37	TemporalExpression 650 660	late April
+T38	GeographicalLocation 741 746	LEYTE
+T39	GeographicalLocation 796 803	BILIRAN
+T40	GeographicalLocation 859 867	MARIPIPI
+T41	Taxon 887 902	Myotis muricola
+T42	Taxon 887 909	Myotis muricola browni
+T43	Taxon 887 915	Myotis muricola browni Taylo
+T44	TemporalExpression 918 922	1934
+T45	GeographicalLocation 1475 1485	New Guinea
+T46	GeographicalLocation 1770 1775	LEYTE

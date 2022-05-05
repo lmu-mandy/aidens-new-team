@@ -1,0 +1,40 @@
+T1	GeographicalLocation 94 105	Philippines
+T2	Taxon 249 268	Sciurus mindanensis
+T3	Taxon 273 286	S. samarensis
+T4	Taxon 400 412	Felis minuta
+T5	Taxon 644 664	Vespertilio abravius
+T6	Taxon 666 687	Tylonycteris pachypus
+T7	Taxon 710 730	Hipposideros bicolor
+T8	Taxon 736 754	Rhinolophus luctus
+T9	Taxon 792 803	Emballonura
+T10	Taxon 920 941	Emballonura monticola
+T11	GeographicalLocation 1000 1014	Malayan Region
+T12	Taxon 1085 1107	Nannosciurus concinnus
+T13	GeographicalLocation 1346 1369	East Indian Archipelago
+T14	Taxon 1451 1467	Urogale everetti
+T15	Taxon 1473 1491	Tragulus nigricans
+T16	GeographicalLocation 1542 1553	Philippines
+T17	Taxon 1631 1652	Sciuropterus nigripes
+T18	Taxon 1693 1710	Tupaia ferruginea
+T19	Taxon 1782 1812	Tupaia ferruginea palawanensis
+T20	Taxon 1947 1967	Kerivoula whiteheadi
+T21	GeographicalLocation 2017 2031	Northern Luzon
+T22	Taxon 2141 2162	Rhynchomys soricoides
+T23	Taxon 2164 2184	Chrotomys whiteheadi
+T24	Taxon 2186 2205	Celxnoniys silaceus
+T25	Taxon 2207 2225	Carpomys melanurus
+T26	Taxon 2227 2237	C. phxurus
+T27	Taxon 2239 2253	Batomys granti
+T28	Taxon 2259 2275	Epimys luzonicus
+T29	GeographicalLocation 2299 2306	Celebes
+T30	GeographicalLocation 2308 2314	Borneo
+T31	GeographicalLocation 2324 2335	Philippines
+T32	Taxon 2451 2477	Harpyionycteris whiteheadi
+T33	TemporalExpression 201 208	July 14
+T34	TemporalExpression 211 215	1890
+T35	Taxon 689 708	Pipistrellus tenuis
+T36	TemporalExpression 1420 1425	March
+T37	TemporalExpression 1600 1604	July
+T38	Taxon 1844 1848	Bats
+T39	Taxon 1856 1871	Genus Kerivoula
+T40	Person 2050 2064	John Whitehead

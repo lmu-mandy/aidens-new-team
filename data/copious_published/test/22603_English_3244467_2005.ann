@@ -1,0 +1,151 @@
+T1	Person 527 539	J. E. Powers
+T2	GeographicalLocation 622 636	gulf of Mexico
+T3	GeographicalLocation 641 650	Caribbean
+T4	Taxon 921 941	Epinephelus guttatus
+T5	Taxon 1462 1481	Poecilia reticulata
+T6	GeographicalLocation 1615 1638	southern Gulf of Mexico
+T7	Person 1852 1865	Charnov, E. L
+T8	GeographicalLocation 2127 2153	southeastern United States
+T9	Taxon 2295 2305	Serranidae
+T10	GeographicalLocation 2314 2336	eastern Gulf of Mexico
+T11	GeographicalLocation 2556 2583	northeastern Gulf of Mexico
+T12	GeographicalLocation 2838 2849	Makati City
+T13	GeographicalLocation 2851 2862	Philippines
+T14	Taxon 3216 3237	Semicossyphus pulcher
+T15	Taxon 3346 3367	Semicossyphus pulcher
+T16	Taxon 3880 3902	Plectropomus leopardus
+T17	GeographicalLocation 4459 4469	Boca Raton
+T18	Person 4579 4591	W. E. Schaaf
+T19	Taxon 5128 5145	Pandalus borealis
+T20	GeographicalLocation 5154 5167	Scotian Shelf
+T21	Person 5203 5211	Kruuk, L
+T22	Person 5274 5288	F. E. Guinness
+T23	Person 44 53	Alonzo, S
+T24	Person 65 71	Mangel
+T25	TemporalExpression 73 77	2004
+T26	Person 190 206	Apostolaki, P, E
+T27	Person 208 225	J. Milner-gulland
+T28	Person 230 243	K. Mcallister
+T29	Person 252 263	P. Kirkwood
+T30	TemporalExpression 265 269	2002
+T31	Person 388 400	Ainsworth, P
+T32	TemporalExpression 405 409	2001
+T33	Person 499 514	Bannerot, S, W.
+T34	Person 518 521	Fox
+T35	TemporalExpression 541 545	1987
+T36	Taxon 593 601	snappers
+T37	Taxon 606 614	groupers
+T38	Taxon 664 672	snappers
+T39	Taxon 677 685	groupers
+T40	Person 726 737	J. Polovina
+T41	Person 742 752	S. Ralston
+T42	Person 801 809	Beets, J
+T43	Person 815 829	A. Friedlander
+T44	TemporalExpression 831 835	1999
+T45	GeographicalLocation 950 953	U.S
+T46	GeographicalLocation 955 969	Virgin Islands
+T47	Person 1001 1013	Beverton, R.
+T48	TemporalExpression 1020 1024	1987
+T49	Person 1133 1147	A. D. Woodhead
+T50	Person 1152 1165	K.H. Thompson
+T51	GeographicalLocation 1198 1206	New York
+T52	GeographicalLocation 1212 1224	Beverton, R.
+T53	TemporalExpression 1231 1235	1992
+T54	Person 1352 1365	Breden, F, D.
+T55	Person 1366 1374	Novinger
+T56	Person 1380 1392	A. Schubert.
+T57	TemporalExpression 1393 1397	1995
+T58	Taxon 1446 1460	Trinidad guppy
+T59	Person 1515 1524	Brule, T.
+T60	Person 1525 1534	C. Deniel
+T61	Person 1536 1552	T. Colas-marrufo
+T62	Person 1558 1575	M. Sanchez-crespo
+T63	TemporalExpression 1577 1581	1999
+T64	Taxon 1583 1594	Red grouper
+T65	Person 1674 1687	Charnov, E. L
+T66	TemporalExpression 1689 1693	1982
+T67	TemporalExpression 1770 1774	1986
+T68	TemporalExpression 1883 1887	1989
+T69	Person 1986 1993	Coleman
+T70	Person 2001 2010	A. Eklund
+T71	Person 2019 2028	B. Grimes
+T72	TemporalExpression 2030 2034	1999
+T73	Habitat 2067 2081	temperate reef
+T74	Taxon 2096 2103	grouper
+T75	Taxon 2104 2111	snapper
+T76	Person 2186 2197	Coleman, F.
+T77	Person 2204 2213	C. Koenig
+T78	Person 2222 2232	A. Collins
+T79	Taxon 2263 2285	shallow-water groupers
+T80	TemporalExpression 2234 2238	1996
+T81	Person 2424 2434	Collins, L
+T82	Person 2442 2452	G. Johnson
+T83	Person 2461 2468	P. Keim
+T84	TemporalExpression 2470 2474	1996
+T85	Taxon 2513 2524	red snapper
+T86	Taxon 2525 2545	lutianus campechanus
+T87	Taxon 2623 2640	tropical groupers
+T88	Taxon 2645 2653	snappers
+T89	Person 2655 2674	F. Arreguin-sanchez
+T90	Person 2676 2687	J. L. Munro
+T91	Person 2689 2700	M. C. Lagos
+T92	Person 2706 2714	D. Pauly
+T93	Person 2884 2897	K. de la Mare
+T94	Person 2902 2910	J. Agnew
+T95	Person 2912 2922	I. Everson
+T96	Person 2928 2937	D. Miller
+T97	TemporalExpression 2939 2943	2000
+T98	Habitat 2980 2996	Antarctic marine
+T99	Habitat 3074 3090	Antarctic marine
+T100	Person 3147 3155	Cowen, R
+T101	TemporalExpression 3160 3164	1985
+T102	Person 3423 3431	Cowen, R
+T103	Person 3445 3453	Lwiza, S
+T104	Person 3455 3467	Sponaugle, C
+T105	Person 3469 3477	B. Paris
+T106	Person 3486 3494	B. Olson
+T107	TemporalExpression 3496 3500	2000
+T108	Person 3574 3583	Fu, C, T.
+T109	Person 3584 3592	J. Quinn
+T110	Person 3605 3615	C. Shirley
+T111	TemporalExpression 3617 3621	2001
+T112	Taxon 3671 3679	Pandanus
+T113	Person 3759 3768	Fault, B.
+T114	Person 3745 3754	Fulton, E
+T115	Person 3769 3777	Mapstone
+T116	Person 3783 3793	M. Sheaves
+T117	TemporalExpression 3795 3799	1999
+T118	Person 3960 3966	Greene
+T119	Person 3971 3985	J. Ltmbanhowar
+T120	Taxon 4681 4688	graysby
+T121	Person 3987 3996	M. Mangel
+T122	Person 4002 4009	T. Caro
+T123	TemporalExpression 4011 4015	1998
+T124	Person 4156 4163	T. Caro
+T125	GeographicalLocation 4201 4209	New York
+T126	Person 4215 4227	Gunderson, D
+T127	TemporalExpression 4232 4236	1997
+T128	Person 4368 4377	Haddon, M
+T129	TemporalExpression 4379 4383	2001
+T130	Person 4441 4448	Chapman
+T131	Person 4453 4457	Hall
+T132	Person 4475 4485	Helfman, G
+T133	TemporalExpression 4490 4494	1997
+T134	Person 4559 4570	Huntsman, G
+T135	TemporalExpression 4593 4597	1994
+T136	Person 4723 4731	Iwasa, Y
+T137	TemporalExpression 4733 4737	1990
+T138	Person 4808 4818	Janetos, A
+T139	Person 4921 4935	Jennings, S, M
+T140	Person 4937 4946	J. Kaiser
+T141	Person 4955 4966	D. Reynolds
+T142	TemporalExpression 4968 4972	2001
+T143	Person 5038 5051	Koeller, P, R
+T144	Person 5053 5057	Mohn
+T145	Person 5063 5071	M. Etter
+T146	TemporalExpression 5073 5077	2000
+T147	Person 5225 5241	Clutton-brock, S
+T148	Person 5243 5251	D. Albon
+T149	Person 5256 5268	M. Pemberton
+T150	TemporalExpression 5290 5294	1999
+T151	Taxon 5346 5354	red deer

@@ -1,0 +1,60 @@
+T1	Taxon 13 25	DIPTEKOCARPS
+T2	Taxon 277 290	Pachynocarpus
+T3	Taxon 591 611	Vatica Zollingeriana
+T4	Taxon 591 619	Vatica Zollingeriana, A. DC.
+T5	Taxon 741 757	Vatica Wallichii
+T6	Taxon 791 811	Vatica Zollingeriana
+T7	Taxon 791 817	Vatica Zollingeriana, A.DC
+T8	Taxon 997 1013	V. Zollingeriana
+T9	Taxon 1114 1126	V. Wallichii
+T10	GeographicalLocation 1335 1363	Tasek Gelugor Forest Reserve
+T11	Taxon 1463 1479	Vatica Wallichii
+T12	GeographicalLocation 1498 1516	Province Wellesley
+T13	GeographicalLocation 1525 1553	Tasek Gelugor Forest Reserve
+T14	TemporalExpression 1570 1584	September 1921
+T15	Person 1586 1593	Burkill
+T16	GeographicalLocation 1601 1607	Penang
+T17	Person 1635 1642	Wallich
+T18	GeographicalLocation 1654 1659	Perak
+T19	GeographicalLocation 1661 1673	Ulu Sapetang
+T20	TemporalExpression 1695 1704	Feb. 1909
+T21	Person 1711 1717	Hashim
+T22	GeographicalLocation 1724 1729	Larut
+T23	Habitat 1762 1774	dense jungle
+T24	TemporalExpression 1796 1808	January 1884
+T25	Person 1810 1826	King's Collector
+T26	Habitat 1837 1846	low hills
+T27	TemporalExpression 1862 1875	February 1884
+T28	Person 1877 1893	King's Collector
+T29	GeographicalLocation 1901 1906	Briah
+T30	GeographicalLocation 1916 1927	Larut plain
+T31	TemporalExpression 1949 1962	December 1892
+T32	Person 1964 1968	Wray
+T33	Habitat 1976 1981	banks
+T34	GeographicalLocation 1989 2001	Bernam river
+T35	TemporalExpression 2039 2049	April 1886
+T36	Person 2051 2067	King's Collector
+T37	GeographicalLocation 2074 2080	Pahang
+T38	GeographicalLocation 2082 2090	Temerloh
+T39	TemporalExpression 2106 2119	November 1921
+T40	Person 2121 2131	Awang Lela
+T41	GeographicalLocation 2140 2147	Kuantan
+T42	GeographicalLocation 2155 2175	Baloh Forest Reserve
+T43	TemporalExpression 2191 2202	March 19i20
+T44	Person 2204 2208	Yeob
+T45	GeographicalLocation 2216 2223	Kelebor
+T46	GeographicalLocation 2229 2241	Kuala Rompin
+T47	TemporalExpression 2257 2267	April 1921
+T48	Person 2269 2274	Bidin
+T49	GeographicalLocation 2281 2289	Selangor
+T50	GeographicalLocation 2291 2314	Kelamber Forest Reserve
+T51	GeographicalLocation 2320 2325	Klang
+T52	Habitat 2330 2335	swamp
+T53	TemporalExpression 2350 2364	September 1919
+T54	Person 2366 2371	Hamid
+T55	Person 2376 2381	Yeol)
+T56	GeographicalLocation 2389 2396	Malacca
+T57	Person 2448 2455	Maingay
+T58	GeographicalLocation 2462 2474	Sungei Udang
+T59	TemporalExpression 2490 2500	July, 1894
+T60	Person 2502 2513	Good-enough

@@ -1,0 +1,79 @@
+T1	GeographicalLocation 231 246	Babuyan Charmel
+T2	GeographicalLocation 317 325	Claveria
+T3	GeographicalLocation 327 343	Cagayan Province
+T4	GeographicalLocation 345 365	Northern Philippines
+T5	GeographicalLocation 488 502	Mt Nanguringan
+T6	GeographicalLocation 618 629	Fuga Island
+T7	GeographicalLocation 640 655	Babuyan Islands
+T8	GeographicalLocation 657 678	north of Luzon Island
+T9	GeographicalLocation 747 752	Barit
+T10	GeographicalLocation 794 805	Irao Island
+T11	GeographicalLocation 1169 1173	Fuga
+T12	Taxon 1471 1483	Di ploastrea
+T13	Taxon 1488 1495	Galaxea
+T14	GeographicalLocation 1589 1601	Barit Island
+T15	Taxon 1958 1968	barracudas
+T16	GeographicalLocation 2156 2167	Fuga Island
+T17	GeographicalLocation 2297 2308	Philippines
+T18	GeographicalLocation 2424 2435	Fuga Island
+T19	GeographicalLocation 2761 2772	Fuga Island
+T20	GeographicalLocation 2897 2901	Fuga
+T21	GeographicalLocation 3466 3480	Palawan Island
+T22	GeographicalLocation 4214 4228	Marcelo Island
+T23	GeographicalLocation 4230 4244	Pulling Island
+T24	GeographicalLocation 4397 4412	Buguias Islands
+T25	GeographicalLocation 4499 4517	Makesi Island reef
+T26	GeographicalLocation 4638 4662	Meara-fraser Island reef
+T27	GeographicalLocation 4685 4726	Kalungpang-parunponon Buguias Island reef
+T28	GeographicalLocation 4828 4837	Honda Bay
+T29	TemporalExpression 5053 5057	June
+T30	TemporalExpression 5061 5067	August
+T31	TemporalExpression 5153 5161	February
+T32	GeographicalLocation 5177 5185	Tandayak
+T33	Habitat 0 11	Coral Reefs
+T34	GeographicalLocation 183 194	FUGA ISLAND
+T35	GeographicalLocation 757 763	Maybag
+T36	Habitat 1028 1044	shallow platform
+T37	Habitat 1079 1084	caves
+T38	Habitat 1111 1115	Reef
+T39	GeographicalLocation 1217 1223	Maybag
+T40	GeographicalLocation 1316 1328	Barit Island
+T41	Taxon 1437 1443	Pontes
+T42	Taxon 1445 1453	Acropora
+T43	Taxon 1455 1460	Favia
+T44	Taxon 1462 1469	Favites
+T45	GeographicalLocation 1497 1501	Fuga
+T46	Habitat 1517 1530	fringing reef
+T47	Habitat 1608 1620	barrier reef
+T48	Taxon 1775 1781	marlin
+T49	Taxon 1789 1797	sailfish
+T50	Taxon 1799 1804	wahoo
+T51	GeographicalLocation 1838 1855	Kuro Shio Current
+T52	Taxon 1891 1902	Hammerheads
+T53	Taxon 1904 1914	Black-tips
+T54	Taxon 1919 1929	White-tips
+T55	GeographicalLocation 3348 3357	HONDA BAY
+T56	GeographicalLocation 3482 3501	950-10N, 11844-119E
+T57	GeographicalLocation 3412 3441	north-east of Puerto Princesa
+T58	Habitat 3565 3577	shallow reef
+T59	Habitat 4052 4057	Reefs
+T60	Habitat 4078 4092	fringing reefs
+T61	Habitat 4094 4105	patch reefs
+T62	Habitat 4115 4121	shoals
+T63	Habitat 4128 4139	patch reefs
+T64	Habitat 4161 4169	mangrove
+T65	GeographicalLocation 4249 4269	Isla Puting Buhangin
+T66	GeographicalLocation 4370 4380	Kalungpang
+T67	GeographicalLocation 4382 4392	Parunponon
+T68	Habitat 4311 4315	reef
+T69	Habitat 4428 4432	reef
+T70	GeographicalLocation 4447 4480	Meara-fraser Islands reef complex
+T71	Habitat 4542 4547	reefs
+T72	Person 4800 4805	Bruce
+T73	TemporalExpression 4956 4964	November
+T74	TemporalExpression 4968 4976	February
+T75	TemporalExpression 5166 5171	April
+T76	GeographicalLocation 5190 5204	Babuyan Rivers
+T77	Habitat 5249 5253	Reef
+T78	Habitat 5279 5293	fringing reefs
+T79	Habitat 5319 5337	shallow reef flats

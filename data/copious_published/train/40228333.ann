@@ -1,0 +1,51 @@
+T1	GeographicalLocation 776 784	Malaysia
+T2	GeographicalLocation 786 801	Malay Peninsula
+T3	GeographicalLocation 803 812	Singapore
+T4	GeographicalLocation 814 820	Johore
+T5	GeographicalLocation 822 831	Trengganu
+T6	GeographicalLocation 834 840	Borneo
+T7	Habitat 851 864	swampy ground
+T8	Habitat 868 878	riversides
+T9	Habitat 882 889	primary
+T10	Habitat 893 914	secondary rain-forest
+T11	Habitat 916 940	Dipterocarpaceous-forest
+T12	GeographicalLocation 957 968	Mt Kinabalu
+T13	TemporalExpression 992 995	May
+T14	TemporalExpression 1001 1004	Dec
+T15	TemporalExpression 1005 1009	July
+T16	GeographicalLocation 1180 1186	Borneo
+T17	Taxon 1188 1196	Pitoling
+T18	Taxon 1198 1204	bubuak
+T19	Taxon 1206 1221	tampasak busong
+T20	Taxon 1223 1234	sireh-sireh
+T21	GeographicalLocation 1236 1244	Sandakan
+T22	Taxon 1248 1255	piramoh
+T23	GeographicalLocation 1257 1262	Dusun
+T24	Taxon 1266 1274	impupuak
+T25	Taxon 1276 1290	kayu tahi gagi
+T26	GeographicalLocation 1292 1305	Dusun Kinabat
+T27	Taxon 1309 1324	kepayang bangai
+T28	GeographicalLocation 1326 1333	P. Laut
+T29	Taxon 1336 1347	chandar(a)i
+T30	GeographicalLocation 1349 1355	Brunei
+T31	Taxon 1358 1371	sumpit-sumpit
+T32	GeographicalLocation 1373 1383	SE. Borneo
+T33	GeographicalLocation 1506 1514	Mt Dulit
+T34	GeographicalLocation 1516 1523	Sarawak
+T35	Taxon 1548 1568	Ryparosa minor Ridl.
+T36	Taxon 1548 1562	Ryparosa minor
+T37	GeographicalLocation 2360 2368	Malaysia
+T38	GeographicalLocation 2370 2376	Borneo
+T39	GeographicalLocation 2378 2385	Sarawak
+T40	GeographicalLocation 2387 2394	Kuching
+T41	Habitat 2416 2429	swampy jungle
+T42	Taxon 2448 2466	Bergsmia acuminata
+T43	Taxon 2448 2471	Bergsmia acuminata Miq.
+T44	Taxon 2524 2534	Annonaceae
+T45	Taxon 2671 2684	ELEUTHERANDRA
+T46	GeographicalLocation 3493 3501	Malaysia
+T47	GeographicalLocation 3503 3513	S. Sumatra
+T48	GeographicalLocation 3518 3520	SE
+T49	GeographicalLocation 3522 3532	NE. Borneo
+T50	Taxon 3537 3560	Eleutherandra pes-cervi
+T51	Taxon 3537 3566	Eleutherandra pes-cervi Sloot

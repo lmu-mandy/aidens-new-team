@@ -1,0 +1,35 @@
+T1	Taxon 55 85	Megophrys monticola stejnegeri
+T2	Taxon 99 111	M. m. nasuta
+T3	Taxon 125 140	M. m. monticola
+T4	Taxon 152 165	M. m. ligayae
+T5	Taxon 275 301	Megophrys monticola nasuta
+T6	Taxon 554 572	Megalophrys nasuta
+T7	Taxon 691 710	Megalophrys montana
+T8	Taxon 826 845	Megophrys monticola
+T9	GeographicalLocation 990 996	Borneo
+T10	Taxon 55 74	Megophrys monticola
+T11	GeographicalLocation 269 273	Java
+T12	Taxon 275 310	Megophrys monticola nasuta Schlegel
+T13	Taxon 311 330	Ceratophryne nasuta
+T14	Taxon 311 339	Ceratophryne nasuta Schlegel
+T15	TemporalExpression 341 345	1858
+T16	GeographicalLocation 385 392	Sumatra
+T17	Taxon 394 410	Megophrys nasuta
+T18	Taxon 394 416	Megophrys nasuta Smith
+T19	TemporalExpression 418 422	1930
+T20	GeographicalLocation 536 545	Binnengew
+T21	Taxon 554 582	Megalophrys nasuta Boulenger
+T22	TemporalExpression 584 588	1908
+T23	GeographicalLocation 607 613	London
+T24	TemporalExpression 615 619	1908
+T25	GeographicalLocation 658 668	Indo-austr
+T26	Taxon 691 720	Megalophrys montana Boulenger
+T27	TemporalExpression 722 726	1908
+T28	GeographicalLocation 745 751	London
+T29	TemporalExpression 753 757	1908
+T30	Person 771 781	van Kampen
+T31	TemporalExpression 783 787	1923
+T32	GeographicalLocation 795 805	Indo-austr
+T33	Taxon 826 851	Megophrys monticola Smith
+T34	TemporalExpression 853 857	1931
+T35	Taxon 1048 1057	monticola

@@ -1,0 +1,85 @@
+T1	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T2	Taxon 194 210	Epimys Luzonicus
+T3	GeographicalLocation 469 477	Mindanao
+T4	GeographicalLocation 605 611	Todaya
+T5	GeographicalLocation 1257 1270	Negros Island
+T6	GeographicalLocation 1382 1389	Class I
+T7	Taxon 38 58	Epitnys luteiventris
+T8	Taxon 38 66	Epitnys luteiventris (Allen)
+T9	Taxon 74 95	Mus hdeiventris Allen
+T10	Taxon 74 89	Mus hdeiventris
+T11	TemporalExpression 131 141	January 29
+T12	GeographicalLocation 160 175	Iwahig, Palawan
+T13	GeographicalLocation 177 184	Palawan
+T14	Taxon 194 219	Epimys Luzonicus (Thomas)
+T15	Taxon 227 247	Mus luzonicus Thomas
+T16	Taxon 227 240	Mus luzonicus
+T17	GeographicalLocation 304 331	Highlands of northern Luzon
+T18	GeographicalLocation 333 338	Luzon
+T19	Taxon 349 368	Epimys magnirostris
+T20	Taxon 349 377	Epimys magnirostris (Mearns)
+T21	TemporalExpression 379 383	1905
+T22	Taxon 385 408	Mus magnirostris Mearns
+T23	Taxon 385 401	Mus magnirostris
+T24	GeographicalLocation 458 467	Zamboanga
+T25	GeographicalLocation 479 487	Mindanao
+T26	Taxon 498 516	Epimys mindanensis
+T27	Taxon 498 525	Epimys mindanensis (Mearns)
+T28	TemporalExpression 527 531	1905
+T29	Taxon 533 555	Mus mindanensis Mearns
+T30	Taxon 533 548	Mus mindanensis
+T31	GeographicalLocation 613 622	Mount Apo
+T32	GeographicalLocation 624 632	Mindanao
+T33	GeographicalLocation 648 656	Mindanao
+T34	Taxon 667 685	Epimys mindorensis
+T35	Taxon 667 694	Epimys mindorensis (Thomas)
+T36	TemporalExpression 696 700	1897
+T37	Taxon 702 725	Mus mindorensis Thomas,
+T38	Taxon 702 717	Mus mindorensis
+T39	TemporalExpression 762 775	June 15, 1897
+T40	TemporalExpression 777 784	June 19
+T41	GeographicalLocation 803 826	Mount Dulangan, Mindoro
+T42	GeographicalLocation 828 835	Mindoro
+T43	Taxon 846 862	Epimys neglectus
+T44	Taxon 846 872	Epimys neglectus (Jentink)
+T45	TemporalExpression 874 878	1880
+T46	Taxon 880 901	Mus neglectus Jentink
+T47	Taxon 880 893	Mus neglectus
+T48	TemporalExpression 929 941	14, January.
+T49	TemporalExpression 1001 1009	April 25
+T50	TemporalExpression 942 946	1911
+T51	Taxon 948 969	Epimys neglectus Lyon
+T52	Taxon 948 964	Epimys neglectus
+T53	GeographicalLocation 1028 1034	Borneo
+T54	GeographicalLocation 1036 1043	Mindoro
+T55	Taxon 1054 1069	Epimys negrinus
+T56	Taxon 1054 1078	Epimys negrinus (Thomas)
+T57	TemporalExpression 1080 1084	1898
+T58	Taxon 1086 1115	Mus ephippium negrinus Thomas
+T59	Taxon 1086 1108	Mus ephippium negrinus
+T60	GeographicalLocation 1135 1141	London
+T61	TemporalExpression 1162 1166	June
+T62	TemporalExpression 1168 1172	1911
+T63	Taxon 1174 1199	Epimys negrinus Hollister
+T64	Taxon 1174 1189	Epimys negrinus
+T65	GeographicalLocation 1286 1292	Negros
+T66	Taxon 1303 1320	Epimys norvegicus
+T67	TemporalExpression 1232 1238	May 15
+T68	TemporalExpression 1333 1337	1777
+T69	Taxon 1339 1362	Mus norvegicus Erxleben
+T70	Taxon 1339 1353	Mus norvegicus
+T71	Taxon 1303 1331	Epimys norvegicus (Erxleben)
+T72	TemporalExpression 1402 1406	1908
+T73	GeographicalLocation 1494 1499	Luzon
+T74	GeographicalLocation 1511 1516	Samar
+T75	GeographicalLocation 1529 1536	Masbate
+T76	GeographicalLocation 1548 1555	Mindoro
+T77	Taxon 1567 1585	Epimys pantarensis
+T78	Taxon 1567 1594	Epimys pantarensis (Mearns)
+T79	Taxon 1408 1433	Epimys norwegicus Satunin
+T80	Taxon 1408 1425	Epimys norwegicus
+T81	Taxon 1602 1624	Mus pantarensis Mearns
+T82	Taxon 1602 1617	Mus pantarensis
+T83	GeographicalLocation 1674 1690	Pantar, Mindanao
+T84	GeographicalLocation 1704 1712	Mindanao
+T85	GeographicalLocation 1486 1492	Norway

@@ -1,0 +1,43 @@
+T1	Person 7 14	Perkins
+T2	Taxon 16 32	Dipterocarpaceae
+T3	Person 39 46	Peekins
+T4	Taxon 48 61	Dipterocarpus
+T5	Taxon 48 69	Dipterocarpus Gaertn.
+T6	Taxon 73 97	Dipterocarpus lasiopodus
+T7	Taxon 73 103	Dipterocarpus lasiopodus Perk.
+T8	Person 135 142	Merrill
+T9	GeographicalLocation 804 809	Luzon
+T10	GeographicalLocation 811 827	Prov. of Tayabas
+T11	GeographicalLocation 829 840	Guinayangan
+T12	Habitat 853 863	sandy soil
+T13	Habitat 865 874	sandstone
+T14	Person 876 883	Merrill
+T15	TemporalExpression 907 912	April
+T16	Person 916 923	Merrill
+T17	Taxon 963 987	Dipterocarpus Warbiirgii
+T18	Taxon 963 995	Dipterocarpus Warbiirgii Brandis
+T19	Taxon 1057 1070	D. lasiopodus
+T20	Person 1128 1135	Merrill
+T21	Habitat 1242 1249	forests
+T22	Taxon 1256 1287	Dipterocarpus speciosus Brandis
+T23	Taxon 1256 1279	Dipterocarpus speciosus
+T24	GeographicalLocation 1289 1294	Luzon
+T25	GeographicalLocation 1296 1310	Prov. Principe
+T26	GeographicalLocation 1312 1317	Baler
+T27	Person 1319 1326	Merrill
+T28	TemporalExpression 1340 1344	1903
+T29	Taxon 1351 1374	Dipterocarpus velutinus
+T30	Taxon 1351 1379	Dipterocarpus velutinus Yid.
+T31	GeographicalLocation 1380 1385	Luzon
+T32	GeographicalLocation 1387 1399	Prov. Bataan
+T33	GeographicalLocation 1401 1412	Dinalupihan
+T34	GeographicalLocation 1414 1421	Merrill
+T35	TemporalExpression 1432 1445	February 1903
+T36	GeographicalLocation 1448 1462	Prov. Zambales
+T37	GeographicalLocation 1464 1469	Subig
+T38	Person 1471 1478	Merrill
+T39	TemporalExpression 1489 1499	April 1903
+T40	Taxon 1504 1514	Anisoptera
+T41	Taxon 1504 1523	Anisoptera Korthals
+T42	Taxon 1528 1550	Anisoptera ealopliylla
+T43	Taxon 1528 1556	Anisoptera ealopliylla Perk.

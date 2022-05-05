@@ -1,0 +1,38 @@
+T1	GeographicalLocation 43 48	Leyte
+T2	GeographicalLocation 50 60	Bi I i ran
+T3	GeographicalLocation 66 82	Maripipi Islands
+T4	GeographicalLocation 84 95	Philippines
+T5	GeographicalLocation 207 225	Philippine islands
+T6	GeographicalLocation 229 234	Leyte
+T7	GeographicalLocation 236 243	Biliran
+T8	GeographicalLocation 249 257	Maripipi
+T9	GeographicalLocation 381 386	Leyte
+T10	GeographicalLocation 388 395	Biliran
+T11	GeographicalLocation 401 409	Maripipi
+T12	Person 96 111	Eric A. Rickart
+T13	Person 131 147	Paul D. Heideman
+T14	Person 112 130	Lawrence R. Heaney
+T15	Person 148 167	Ruth C. B. Utzurrum
+T16	GeographicalLocation 594 612	island of Mindanao
+T17	Taxon 670 688	vespertilionid bat
+T18	GeographicalLocation 733 741	Mindanao
+T19	GeographicalLocation 861 880	oceanic Philippines
+T20	GeographicalLocation 965 972	Biliran
+T21	GeographicalLocation 986 994	Maripipi
+T22	Taxon 1013 1031	insectivorous bats
+T23	GeographicalLocation 1061 1066	Leyte
+T24	GeographicalLocation 1135 1140	Leyte
+T25	TemporalExpression 1327 1345	last 1 2,000 years
+T26	Taxon 1488 1498	fruit bats
+T27	GeographicalLocation 2082 2093	Philippines
+T28	GeographicalLocation 2704 2712	Mindanao
+T29	GeographicalLocation 2800 2818	Philippine Islands
+T30	GeographicalLocation 2953 2971	Philippine islands
+T31	Habitat 3120 3140	Philum-sized islands
+T32	Habitat 3271 3307	highlands of the two largest islands
+T33	GeographicalLocation 3309 3314	Luzon
+T34	GeographicalLocation 799 807	Mindanao
+T35	GeographicalLocation 935 946	Philippines
+T36	GeographicalLocation 1183 1191	Mindanao
+T37	Habitat 2374 2399	small land-bridge islands
+T38	Habitat 1788 1813	small land-bridge islands

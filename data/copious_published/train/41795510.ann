@@ -1,0 +1,49 @@
+T1	Taxon 9 21	DIPTEROCARPS
+T2	Taxon 256 272	Dipterocarpaceae
+T3	GeographicalLocation 764 770	Penang
+T4	TemporalExpression 788 792	July
+T5	TemporalExpression 794 801	October
+T6	TemporalExpression 806 820	December, 1918
+T7	TemporalExpression 816 820	1918
+T8	Taxon 944 956	Dipterocarps
+T9	GeographicalLocation 960 966	Penang
+T10	Person 1026 1040	Mohamed Haniff
+T11	GeographicalLocation 1049 1066	Waterfall Gardens
+T12	Person 1214 1229	F. W. Foxworthy
+T13	Person 1235 1247	W. E. Kinsey
+T14	GeographicalLocation 1327 1336	Peninsula
+T15	GeographicalLocation 1381 1396	Botanic Gardens
+T16	GeographicalLocation 1398 1407	Singapore
+T17	Habitat 1478 1484	forest
+T18	Taxon 1764 1776	Dipterocarps
+T19	GeographicalLocation 2165 2171	Penang
+T20	GeographicalLocation 2180 2189	Singapore
+T21	Taxon 2192 2209	Shorea gratissima
+T22	Taxon 2192 2214	Shorea gratissima Dyer
+T23	Taxon 2216 2228	S. leprosula
+T24	Taxon 2216 2233	S. leprosula Miq.
+T25	Taxon 2234 2263	Balanocarpus Zcilanjbus Thw.,
+T26	Taxon 2234 2257	Balanocarpus Zcilanjbus
+T27	Taxon 2268 2291	Pachynocarpus Wallichii
+T28	Taxon 2268 2297	Pachynocarpus Wallichii, King
+T29	GeographicalLocation 2338 2353	Botanic Gardens
+T30	GeographicalLocation 2355 2364	Singapore
+T31	Taxon 2366 2382	Hopea Mengarawan
+T32	Taxon 2366 2388	Hopea Mengarawan, Miq.
+T33	GeographicalLocation 2398 2407	Singapore
+T34	Taxon 2417 2439	Dipterocarpus cornutus
+T35	Taxon 2451 2465	Hopea Curtisii
+T36	Taxon 2451 2471	Hopea Curtisii, King
+T37	GeographicalLocation 2490 2496	Penang
+T38	Taxon 2497 2519	Dipterocarpus crinitus
+T39	Taxon 2497 2525	Dipterocarpus crinitus, Dyer
+T40	Taxon 2527 2542	D. grandiflorus
+T41	Taxon 2527 2550	D. grandiflorus, Blanco
+T42	Taxon 2552 2561	D. Kerrii
+T43	Taxon 2552 2567	D. Kerrii, King
+T44	Taxon 2572 2594	Dryobalanops aromatica
+T45	Taxon 2572 2605	Dryobalanops aromatica, Gaertn.f.
+T46	GeographicalLocation 2624 2638	Negri Sembilan
+T47	Taxon 2640 2666	Dipterocarpus Scorteohinii
+T48	Taxon 2640 2672	Dipterocarpus Scorteohinii, King
+T49	GeographicalLocation 2703 2711	Selangor

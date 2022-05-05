@@ -1,0 +1,61 @@
+T1	Person 7 16	Foxworthy
+T2	Taxon 29 45	Dipterocarpaceae
+T3	Taxon 93 101	Angulati
+T4	Taxon 131 136	Alati
+T5	GeographicalLocation 138 143	Luzon
+T6	GeographicalLocation 145 152	Tayabas
+T7	GeographicalLocation 154 163	Camarines
+T8	GeographicalLocation 169 184	Albay Provinces
+T9	GeographicalLocation 186 192	Negros
+T10	GeographicalLocation 194 201	Basilan
+T11	Taxon 207 232	DIPTEROCARPUS BASILANICUS
+T12	GeographicalLocation 1113 1120	Basilan
+T13	GeographicalLocation 1122 1135	Mount Basilan
+T14	Person 1185 1192	Miranda
+T15	TemporalExpression 1194 1209	August 27, 1912
+T16	Person 1234 1241	Miranda
+T17	Person 1259 1265	Reillo
+T18	TemporalExpression 1267 1279	August, 1912
+T19	GeographicalLocation 1470 1475	Perak
+T20	Taxon 1570 1588	D. fagineus Vesque
+T21	Taxon 1570 1581	D. fagineus
+T22	Taxon 1771 1779	Angulati
+T23	Taxon 1906 1928	Dipterocarpua fagineus
+T24	Taxon 1906 1935	Dipterocarpua fagineus Vesque
+T25	GeographicalLocation 1944 1959	Malay Peninsula
+T26	GeographicalLocation 1964 1970	Borneo
+T27	Taxon 2133 2159	DIPTEROCARPUS GRANDIFLORUS
+T28	Taxon 2133 2166	DIPTEROCARPUS GRANDIFLORUS Blanco
+T29	Taxon 2168 2175	Apitong
+T30	GeographicalLocation 2177 2182	Luzon
+T31	GeographicalLocation 2184 2191	Cagayan
+T32	GeographicalLocation 2193 2200	Isabela
+T33	GeographicalLocation 2202 2212	Ilocos Sur
+T34	GeographicalLocation 2214 2218	Abra
+T35	GeographicalLocation 2220 2227	Benguet
+T36	GeographicalLocation 2229 2239	Pangasinan
+T37	GeographicalLocation 2241 2252	Nueva Ecija
+T38	GeographicalLocation 2254 2262	Zambales
+T39	GeographicalLocation 2264 2270	Bataan
+T40	GeographicalLocation 2272 2279	Bulacan
+T41	GeographicalLocation 2281 2286	Rizal
+T42	GeographicalLocation 2288 2294	Laguna
+T43	GeographicalLocation 2296 2303	Tayabas
+T44	GeographicalLocation 2305 2314	Camarines
+T45	GeographicalLocation 2316 2321	Albay
+T46	GeographicalLocation 2323 2330	Mindoro
+T47	GeographicalLocation 2332 2339	Sibuyan
+T48	GeographicalLocation 2341 2346	Panay
+T49	GeographicalLocation 2348 2353	Capiz
+T50	GeographicalLocation 2355 2361	Necros
+T51	GeographicalLocation 2363 2368	Samar
+T52	GeographicalLocation 2370 2377	Biliran
+T53	GeographicalLocation 2379 2386	Palawan
+T54	GeographicalLocation 2388 2396	Mindanao
+T55	GeographicalLocation 2398 2404	Agusan
+T56	GeographicalLocation 2406 2413	Misamis
+T57	Taxon 2419 2447	DIPTEROCARPUS PHILIPPINENSIS
+T58	Taxon 2485 2503	D. marginato Korth
+T59	Taxon 2485 2497	D. marginato
+T60	Taxon 2628 2643	D. vernicifiuus
+T61	Taxon 2628 2650	D. vernicifiuus Blanco

@@ -1,0 +1,19 @@
+T1	GeographicalLocation 109 118	Zamboanga
+T2	Habitat 252 258	forest
+T3	Habitat 619 625	forest
+T4	GeographicalLocation 783 792	Zamboanga
+T5	Habitat 1300 1306	forest
+T6	GeographicalLocation 1943 1952	Zamboanga
+T7	GeographicalLocation 2061 2074	Moro Province
+T8	Person 4 9	SMITH
+T9	GeographicalLocation 63 69	Boston
+T10	GeographicalLocation 268 274	Boston
+T11	Taxon 336 346	Orhitoides
+T12	Taxon 395 405	Eichthofen
+T13	TemporalExpression 636 646	three days
+T14	GeographicalLocation 800 812	Tumaga Elver
+T15	TemporalExpression 1327 1337	three days
+T16	Habitat 1527 1550	steep side of the cliff
+T17	GeographicalLocation 1966 1975	SAN RAMON
+T18	GeographicalLocation 2027 2041	San Ramon Farm
+T19	GeographicalLocation 2568 2586	Richthofen, F. von

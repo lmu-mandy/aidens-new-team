@@ -1,0 +1,59 @@
+T1	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T2	Taxon 324 338	Manis javanica
+T3	Taxon 356 370	Manis javanica
+T4	Taxon 846 867	Nycticebus menagensis
+T5	Taxon 1052 1073	Nycticebus menagensis
+T6	GeographicalLocation 1144 1150	Bongao
+T7	GeographicalLocation 1155 1164	Tawi Tawi
+T8	GeographicalLocation 1304 1312	Mindanao
+T9	GeographicalLocation 1411 1417	Bongao
+T10	GeographicalLocation 1422 1431	Tawi Tawi
+T11	Taxon 38 53	Order PHOLIDOTA
+T12	Taxon 55 66	Family MAND
+T13	Taxon 68 89	Genus MAN IS Linnaeus
+T14	Taxon 68 80	Genus MAN IS
+T15	TemporalExpression 91 95	1758
+T16	Taxon 146 173	Manis pentadactyla Linnaeus
+T17	Taxon 146 164	Manis pentadactyla
+T18	Taxon 175 184	Pangolins
+T19	Taxon 188 203	scaly anteaters
+T20	GeographicalLocation 424 430	Culion
+T21	GeographicalLocation 441 448	Palawan
+T22	Taxon 324 349	Manis javanica Desmarest.
+T23	TemporalExpression 350 354	1822
+T24	Taxon 356 380	Manis javanica Desmarest
+T25	Taxon 470 484	Order PRIMATES
+T26	Taxon 486 502	Family LEMURIDAE
+T27	Taxon 504 529	Genus NYCTICEBUS Geoffroy
+T28	Taxon 504 520	Genus NYCTICEBUS
+T29	TemporalExpression 531 535	1812
+T30	Taxon 537 561	Nycticebus Geoffroy, Ann
+T31	Taxon 537 556	Nycticebus Geoffroy
+T32	Taxon 603 634	Nycticebus bengalensis Geoffroy
+T33	Taxon 603 625	Nycticebus bengalensis
+T34	Taxon 671 677	lemurs
+T35	Taxon 695 702	lorises
+T36	Taxon 846 878	Nycticebus menagensis (Lydekker)
+T37	TemporalExpression 880 884	1893
+T38	Taxon 886 911	Lemur menagensis Lydekker
+T39	Taxon 886 902	Lemur menagensis
+T40	Taxon 940 944	1908
+T41	Taxon 946 976	Nycticebus philippinus Cabrera
+T42	Taxon 946 968	Nycticebus philippinus
+T43	TemporalExpression 1027 1032	March
+T44	GeographicalLocation 1035 1043	Mindanao
+T45	TemporalExpression 1046 1050	1908
+T46	Taxon 1052 1080	Nycticebus menagensis Thomas
+T47	TemporalExpression 1121 1125	June
+T48	GeographicalLocation 1196 1201	Bohol
+T49	GeographicalLocation 1166 1172	Bongao
+T50	GeographicalLocation 1212 1222	Mindanao  
+T51	Person 1343 1350	Cabrera
+T52	Taxon 1361 1375	N. philippinus
+T53	GeographicalLocation 1234 1243	Tawi Tawi
+T54	Taxon 1463 1474	philippinus
+T55	Taxon 1507 1517	menagensis
+T56	Person 1525 1532	Cabrera
+T57	GeographicalLocation 418 422	Java
+T58	TemporalExpression 925 929	1892
+T59	Taxon 1281 1286	lemur

@@ -1,0 +1,34 @@
+T1	TemporalExpression 162 172	late April
+T2	Taxon 466 483	Pteropus vampyrus
+T3	GeographicalLocation 800 807	Biliran
+T4	GeographicalLocation 811 819	Maripipi
+T5	GeographicalLocation 828 833	Leyte
+T6	GeographicalLocation 962 971	Leyte Pro
+T7	Taxon 1053 1069	giant flying fox
+T8	GeographicalLocation 1087 1101	Southeast Asia
+T9	Habitat 1127 1141	primary forest
+T10	GeographicalLocation 1157 1168	Philippines
+T11	GeographicalLocation 1206 1211	Leyte
+T12	Person 1215 1221	Steere
+T13	GeographicalLocation 1268 1274	Tambis
+T14	Taxon 1333 1374	Rousettus amplexicaudatus amplexicaudatus
+T15	Taxon 1399 1418	roussette fruit bat
+T16	GeographicalLocation 1431 1439	Thailand
+T17	GeographicalLocation 1447 1462	Solomon Islands
+T18	GeographicalLocation 1517 1522	LEYTE
+T19	GeographicalLocation 1524 1531	BILIRAN
+T20	GeographicalLocation 1537 1553	MARIPIPI ISLANDS
+T21	TemporalExpression 177 186	early May
+T22	GeographicalLocation 328 336	MARIPIPI
+T23	GeographicalLocation 444 449	LEYTE
+T24	Taxon 466 492	Pteropus vampyrus lanensis
+T25	Taxon 466 499	Pteropus vampyrus lanensis Mearns
+T26	TemporalExpression 501 506	1 905
+T27	Taxon 562 574	mabolo trees
+T28	Taxon 576 585	Diospyros
+T29	Taxon 719 731	flying foxes
+T30	GeographicalLocation 955 960	LEYTE
+T31	TemporalExpression 1223 1227	1890
+T32	GeographicalLocation 1279 1284	Patok
+T33	Taxon 1333 1358	Rousettus amplexicaudatus
+T34	Person 1491 1498	RICKART

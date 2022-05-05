@@ -1,0 +1,105 @@
+T1	Taxon 35 55	Mocanera verniciflua
+T2	Taxon 35 62	Mocanera verniciflua Blanco
+T3	Taxon 86 94	D fulvus
+T4	Taxon 86 100	D fulvus Blume
+T5	Taxon 1040 1055	D. grandiflorus
+T6	Taxon 1209 1221	D. hasseltii
+T7	TemporalExpression 1272 1279	January
+T8	TemporalExpression 1281 1286	March
+T9	TemporalExpression 1288 1293	April
+T10	TemporalExpression 1295 1298	May
+T11	TemporalExpression 1304 1308	June
+T12	TemporalExpression 1340 1345	April
+T13	TemporalExpression 1347 1350	May
+T14	TemporalExpression 1352 1356	June
+T15	TemporalExpression 1362 1366	July
+T16	GeographicalLocation 1368 1373	LUZON
+T17	GeographicalLocation 1375 1394	Province of Cagayan
+T18	Person 1419 1426	Darling
+T19	Person 1465 1471	Curran
+T20	GeographicalLocation 1473 1497	Province of Ilocos Norte
+T21	Person 1524 1531	Merritt
+T22	Person 1534 1541	Darling
+T23	GeographicalLocation 1543 1565	Province of Ilocos Sur
+T24	Person 1583 1590	Merritt
+T25	Person 1593 1600	Darling
+T26	GeographicalLocation 1602 1621	Province of Isabela
+T27	Person 1639 1646	Alvarez
+T28	GeographicalLocation 1648 1670	Province of Pangasinan
+T29	Person 1687 1693	Curran
+T30	Person 1696 1702	Meritt
+T31	Person 1720 1726	Medina
+T32	GeographicalLocation 1728 1751	Province of Nueva Ecija
+T33	Person 1769 1776	Alvarez
+T34	GeographicalLocation 1778 1797	Province of Bulacan
+T35	Person 1813 1819	Curran
+T36	Person 1836 1843	Aguilar
+T37	GeographicalLocation 1845 1865	Province of Pampanga
+T38	Person 1882 1888	Curran
+T39	GeographicalLocation 1890 1910	Province of Zambales
+T40	Person 1912 1917	Vidal
+T41	Person 1923 1930	Merrill
+T42	Person 1936 1942	Garcia
+T43	TemporalExpression 1944 1954	April 1903
+T44	Person 2000 2006	Curran
+T45	Person 2024 2030	Cortes
+T46	Person 2047 2052	Agama
+T47	GeographicalLocation 2054 2072	Province of Bataan
+T48	Person 2074 2081	Merrill
+T49	Person 2087 2093	Garcia
+T50	Person 2095 2103	Williams
+T51	TemporalExpression 2109 2119	March 1904
+T52	Person 2132 2140	Whitford
+T53	TemporalExpression 2151 2159	May 1904
+T54	Person 2172 2180	Whitford
+T55	Person 2276 2282	Barnes
+T56	Person 2308 2314	Barnes
+T57	TemporalExpression 2316 2326	March 1904
+T58	Person 2378 2384	Borden
+T59	TemporalExpression 2386 2396	April 1904
+T60	Person 2433 2439	Borden
+T61	TemporalExpression 2440 2449	June 1904
+T62	Person 2477 2483	Border
+T63	TemporalExpression 2485 2495	March 1905
+T64	Person 2582 2588	Borden
+T65	Person 2605 2614	Foxworthy
+T66	Person 2636 2642	Curran
+T67	Person 2659 2665	Curran
+T68	TemporalExpression 2667 2680	January, 1907
+T69	TemporalExpression 2685 2691	flower
+T70	Person 2707 2713	Curran
+T71	TemporalExpression 2715 2724	June 1907
+T72	Person 2752 2759	Alvarez
+T73	GeographicalLocation 2761 2778	Province of Rizal
+T74	Person 2780 2785	Vidal
+T75	Person 2795 2802	Merrill
+T76	Person 2808 2813	Ramos
+T77	TemporalExpression 2815 2824	June 1903
+T78	Person 2836 2843	Merrill
+T79	Person 2849 2854	Ramos
+T80	TemporalExpression 2856 2865	July 1903
+T81	Person 2900 2913	Ahernâ€™s Coll.
+T82	TemporalExpression 2915 2925	March 1904
+T83	Person 2953 2958	Ramos
+T84	Person 2983 2989	Curran
+T85	GeographicalLocation 2991 3012	Province of La Laguna
+T86	Person 3044 3050	Curran
+T87	Person 3067 3076	Foxworthy
+T88	TemporalExpression 3078 3087	July 1909
+T89	Person 3115 3121	Cortez
+T90	Person 3146 3153	Tamesis
+T91	Person 3171 3178	Mariano
+T92	GeographicalLocation 3180 3199	Province of Tayabas
+T93	Person 3217 3223	Curran
+T94	Person 3241 3247	Curran
+T95	TemporalExpression 3249 3257	May 1908
+T96	Person 3286 3293	Darling
+T97	TemporalExpression 3295 3304	Nov. 1909
+T98	GeographicalLocation 3316 3337	PRovince of Camarines
+T99	Person 3355 3361	Curran
+T100	GeographicalLocation 3363 3380	Province of Albay
+T101	Person 3382 3387	Vidal
+T102	GeographicalLocation 3394 3401	Polillo
+T103	Person 3417 3423	Hagger
+T104	TemporalExpression 3425 3434	July 1904
+T105	Person 3462 3470	McGregor

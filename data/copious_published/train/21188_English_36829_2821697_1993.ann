@@ -1,0 +1,24 @@
+T1	TemporalExpression 75 83;97 101	23 March 1987
+T2	TemporalExpression 88 101	27 April 1987
+T3	GeographicalLocation 213 218	Leyte
+T4	GeographicalLocation 223 230	Biliran
+T5	GeographicalLocation 297 308	Catanduanes
+T6	GeographicalLocation 344 350	Negros
+T7	GeographicalLocation 435 445	Leyte Prov
+T8	Taxon 606 623	Rhinolophus rufus
+T9	GeographicalLocation 709 714	Bohol
+T10	GeographicalLocation 716 727	Catanduanes
+T11	GeographicalLocation 736 744	Mindanao
+T12	GeographicalLocation 750 757	Mindoro
+T13	TemporalExpression 805 809	1963
+T14	GeographicalLocation 855 860	LEYTE
+T15	GeographicalLocation 862 869	BILIRAN
+T16	GeographicalLocation 875 891	MARIPIPI ISLANDS
+T17	Person 310 316	Heaney
+T18	TemporalExpression 324 330	1 99 1
+T19	GeographicalLocation 428 433	LEYTE
+T20	GeographicalLocation 546 553	BILIRAN
+T21	Taxon 606 640	Rhinolophus rufus Eydoux & Gervais
+T22	TemporalExpression 642 646	1836
+T23	Person 829 836	RICKART
+T24	GeographicalLocation 729 734	Luzon

@@ -1,0 +1,41 @@
+T1	Taxon 0 13	Dipterocarpus
+T2	Taxon 19 33	DIPTEROCARPEAE
+T3	Taxon 41 55	Ancistrocladus
+T4	Taxon 333 346	Dipterocarpus
+T5	Taxon 412 426	Ancistrocladus
+T6	Taxon 496 502	Shorea
+T7	Taxon 534 539	Hopea
+T8	Taxon 578 585	Vateria
+T9	Taxon 590 603	DIPTEROCARPUS
+T10	Taxon 590 612	DIPTEROCARPUS, Gaertn.
+T11	TemporalExpression 753 759	repand
+T12	Taxon 1338 1351	D. turbinatus
+T13	Taxon 1338 1363	D. turbinatus, Gaertn. f.
+T14	Taxon 1407 1417	D. indicns
+T15	Taxon 1407 1424	D. indicns, Bedd.
+T16	Taxon 1484 1497	Wood Oil Tree
+T17	Taxon 1499 1507	Ghallane
+T18	GeographicalLocation 1512 1526	Eastern Bengal
+T19	GeographicalLocation 1531 1548	Eastern Peninsula
+T20	GeographicalLocation 1555 1559	Pegu
+T21	GeographicalLocation 1563 1572	Singapore
+T22	GeographicalLocation 1574 1591	Western Peninsula
+T23	Habitat 1601 1623	ghat evergreen forests
+T24	GeographicalLocation 1651 1663	North Kanara
+T25	GeographicalLocation 1693 1705	South K^nara
+T26	GeographicalLocation 1735 1747	North Kanara
+T27	GeographicalLocation 1749 1764	Gairsoppah Ghat
+T28	Habitat 1918 1936	Chittagong forests
+T29	Person 1942 1952	D. Brandis
+T30	Taxon 1959 1972	D. turbinatus
+T31	Taxon 1959 1981	D. turbinatus, Gaertn.
+T32	Taxon 1997 2007	D. indicus
+T33	Taxon 1997 2014	D. indicus, Bedd.
+T34	Taxon 2122 2136	Dipterocarpeae
+T35	TemporalExpression 2184 2188	Dec.
+T36	TemporalExpression 2190 2194	Jan.
+T37	TemporalExpression 2204 2207	May
+T38	GeographicalLocation 2501 2506	Burma
+T39	GeographicalLocation 2530 2540	West Coast
+T40	Taxon 2642 2656	ANCISTROCLADUS
+T41	Taxon 2642 2662	ANCISTROCLADUS, Wall

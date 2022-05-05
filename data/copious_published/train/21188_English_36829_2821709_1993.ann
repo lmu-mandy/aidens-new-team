@@ -1,0 +1,35 @@
+T1	GeographicalLocation 57 67	Leyte Prov
+T2	Habitat 420 442	primary lowland forest
+T3	GeographicalLocation 630 637	Biliran
+T4	GeographicalLocation 642 650	Maripipi
+T5	Taxon 836 847	Paradoxurus
+T6	GeographicalLocation 941 951	Leyte Prov
+T7	Taxon 989 1015	Paradoxurus hermaphroditus
+T8	Taxon 1045 1063	Viverra tangalunga
+T9	Taxon 1079 1089	palm civet
+T10	GeographicalLocation 1102 1107	India
+T11	GeographicalLocation 1111 1125	Southeast Asia
+T12	GeographicalLocation 1151 1162	Philippines
+T13	Taxon 1175 1186	Malay civet
+T14	Taxon 1191 1200	tangalung
+T15	GeographicalLocation 1216 1235	peninsular Malaysia
+T16	GeographicalLocation 1239 1247	Sulawesi
+T17	GeographicalLocation 1290 1295	LEYTE
+T18	GeographicalLocation 1297 1304	BILIRAN
+T19	GeographicalLocation 1310 1326	MARIPIPI ISLANDS
+T20	GeographicalLocation 50 55	LEYTE
+T21	GeographicalLocation 203 210	BILIRAN
+T22	GeographicalLocation 284 292	MARIPIPI
+T23	Taxon 355 364	Carnivora
+T24	Taxon 372 382	Viverridae
+T25	Taxon 384 390	Civets
+T26	Taxon 745 755	palm civet
+T27	Person 882 890	Heideman
+T28	TemporalExpression 898 902	1987
+T29	GeographicalLocation 934 939	LEYTE
+T30	Taxon 989 1030	Paradoxurus hermaphroditus philippinensis
+T31	Taxon 989 1038	Paradoxurus hermaphroditus philippinensis Jourdan
+T32	TemporalExpression 1040 1044	1837
+T33	Taxon 1045 1068	Viverra tangalunga Gray
+T34	TemporalExpression 1070 1074	1832
+T35	Person 1264 1271	RICKART

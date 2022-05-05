@@ -1,0 +1,48 @@
+T1	GeographicalLocation 45 63	PHILIPPINE ISLANDS
+T2	Person 70 86	Edward H. Taylor
+T3	GeographicalLocation 90 96	Manila
+T4	GeographicalLocation 98 116	Philippine Islands
+T5	GeographicalLocation 242 253	Philippines
+T6	GeographicalLocation 669 683	NORTHERN LUZON
+T7	GeographicalLocation 702 720	Philippine Islands
+T8	GeographicalLocation 730 743	United States
+T9	TemporalExpression 747 751	1920
+T10	GeographicalLocation 767 773	Manila
+T11	TemporalExpression 777 785	March 30
+T12	TemporalExpression 790 798	April 11
+T13	GeographicalLocation 815 821	Baguio
+T14	Person 843 857	H. Otley Beyer
+T15	Person 866 885	Robert L. Schofield
+T16	TemporalExpression 887 895	April 12
+T17	Taxon 910 924	Kaloula rigida
+T18	Taxon 934 949	Rana luzonensis
+T19	Taxon 955 975	Sphenomorphus jagori
+T20	GeographicalLocation 996 1002	Bagnio
+T21	TemporalExpression 1004 1012	April 13
+T22	GeographicalLocation 1029 1035	Baguio
+T23	Taxon 1124 1147	Polypedates leucomystax
+T24	Taxon 1149 1164	Rana luzonensis
+T25	Taxon 1170 1180	Rana magna
+T26	TemporalExpression 1217 1225	April 14
+T27	Taxon 1248 1269	Oxyrhabdium leporinum
+T28	TemporalExpression 1285 1293	April 15
+T29	GeographicalLocation 1348 1353	Pauai
+T30	Person 1332 1338	Haight
+T31	Person 1406 1412	Haight
+T32	TemporalExpression 1453 1461	April 16
+T33	Person 1498 1504	Haight
+T34	TemporalExpression 1558 1566	April 17
+T35	Taxon 1582 1604	Cornufer subterrestris
+T36	Person 1647 1652	Beyer
+T37	GeographicalLocation 1662 1671	Cervantes
+T38	TemporalExpression 1673 1681	April 18
+T39	Taxon 1697 1714	Peropus mutilatus
+T40	GeographicalLocation 1746 1754	Subangan
+T41	Taxon 1771 1777	Mabuya
+T42	GeographicalLocation 1836 1854	Philippine Islands
+T43	GeographicalLocation 1922 1928	Manila
+T44	GeographicalLocation 1979 1997	Philippine Islands
+T45	GeographicalLocation 2033 2039	Manila
+T46	GeographicalLocation 2092 2110	Philippine Islands
+T47	GeographicalLocation 2146 2152	Manila
+T48	Taxon 910 932	Kaloula rigida sp. nov

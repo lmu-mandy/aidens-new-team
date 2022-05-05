@@ -1,0 +1,202 @@
+The ineffectiveness of tobramycin combination therapy in Streptococcus faecium endocarditis.
+Abstract
+A patient required mitral valve replacement following ineffective antibiotic treatment of enterococcal endocarditis caused by Streptococcus faecium. Endocarditis had relapsed despite therapy with ampicillin and tobramycin for six weeks. A second relapse had occurred following treatment with penicillin and gentamicin. Initial failure of antibiotic therapy may be related to the known lack of in vitro and in vivo synergy between penicillin and tobramycin against S. faecium. Effective therapy of enterococcal endocarditis requires considerations of bacterial speciation, determination of high-level aminoglycoside resistance, and preferably adequate antibiotic synergy studies to assure effective therapy.
+
+
+
+
+ THE YALE JOURNAL OF BIOLOGY AND MEDICINE 56 (1983), 243-249 
+
+ The Ineffectiveness of Tobramycin Combination Therapy 
+
+ in Streptococcus Faecium Endocarditis 
+
+ JUDITH A. GOLDSTEIN, M.D.,a HOWARD COHEN, M.D.,a AND 
+
+ FRANK J. BIA, M.D., M.P.H.a,b 
+
+ aInfectious Disease Section of the Department of Medicine, and bThe Department of 
+
+ Laboratory Medicine, Veterans Administration Medical Center, 
+
+ West Haven, and Yale University School of Medicine, 
+
+ New Haven, Connecticut 
+
+ Received July 11, 1983 
+
+ A patient required mitral valve replacement following ineffective antibiotic treatment of enterococcal endocarditis caused by Streptococcusfaecium. Endocarditis had relapsed despite therapy with ampicillin and tobramycin for six weeks. A second relapse had occurred following treatment with penicillin and gentamicin. Initial failure of antibiotic therapy may be related to the known lack of in vitro and in vivo synergy between penicillin and tobramycin against S. faecium. Effective therapy of enterococcal endocarditis requires considerations of bacterial speciation, determination of high-level aminoglycoside resistance, and preferably adequate antibiotic synergy studies to assure effective therapy. 
+
+ INTRODUCTION 
+
+ Enterococcal endocarditis requires special therapeutic considerations because the responsible organisms are relatively penicillin-resistant streptococci which require synergistic combinations of antibiotics to achieve acceptable cure rates [1,2]. The group D enterococci include three main species S. faecalis, S. faecium, and S. durans. S. faecium cause a minority of all cases of enterococcal endocarditis, in those instances in which enterococci have been speciated [3], but they have been more resistant both to penicillin and penicillin-aminoglycoside combinations than S. faecalis [4,5,6]. 
+
+ We describe a 64-year-old man with S. faecium endocarditis in whom a six-week course of ampicillin and tobramycin, followed by additional courses of penicillin and other aminoglycosides, failed to eradicate the organism from the patient's mitral valve. This case is of interest because therapeutic failure of ampicillin and tobramycin in S. faecium endocarditis has not been reported previously, but might have been predicted on the basis of previous in vitro and in vivo studies [6]. Although the need for both a penicillin derivative and an aminoglycoside in the therapy of enterococcal endocarditis is widely known, it is important to distinguish between the differing efficacies of penicillin-aminoglycoside combinations for treating various species of enterococci such as S. faecium. 
+
+ 243 
+
+ Address reprint requests to: Judith A. Goldstein, M.D., Section of Infectious Diseases, Department of Medicine, Long Island Jewish-Hillside Medical Center, Queen's Hosp. Center Affiliate, 82-68 164th Street, Jamaica, NY 11432 
+
+ Copyright c 1983 by The Yale Journal of Biology and Medicine, Inc. All rights of reproduction in any form reserved. 
+
+ GOLDSTEIN ET AL. 
+
+ CASE REPORT 
+
+ A 64-year-old male was in good health until December 1980, when he noted intermittent night sweats, malaise, fever, and fatigue. He received oral erythromycin for 14 days with transient improvement of symptoms. However, after completing therapy, symptoms reappeared and he noted a 15-pound weight loss with low-grade fever (99-100.5?F) during the two months preceding admission. There was no previous history of rheumatic or congenital heart disease. 
+
+ In March 1981, the patient was admitted to his community hospital where evaluation revealed a new apical systolic murmur radiating to the axilla. There were no petechiae, Janeway lesions, Osler's nodes, Roth spots, or splenomegaly. The hematocrit was 34.8 percent, WBC count 9,300 cells per cu mm with a differential count of 67 segmented forms, 9 bands, 15 lymphocytes, 7 monocytes, 1 eosinophil, and 1 basophil. The erythrocyte sedimentation rate (ESR) was 62 mm per hour (nl < 10 mm per hour) and the serum rheumatoid factor titer was 1:320. Chest films and electrocardiogram were reportedly normal. Group D streptococci grew from three sets of blood cultures. Enterococcal endocarditis was diagnosed and he was treated with six weeks of parenteral ampicillin (12 grams per day) and tobramycin (3 mg per kg per day). Resolution of symptoms occurred within several days after antibiotics were begun. Serum bactericidal titers against the organism, obtained during peak antibiotic levels, were 1:8 or greater on several occasions, and blood cultures were negative while the patient was receiving antibiotics. M-mode echocardiography demonstrated left atrial enlargement but no definable abnormalities of the mitral or aortic valves. Intravenous pyelogram, oral cholecystogram, cystoscopy, liver-spleen scan, and upper and lower gastrointestinal series were normal except for a few sigmoid diverticuli. Flexible signoidoscopy demonstrated both a small perianal fissure and hemorrhoids. Blood cultures two weeks after therapy were negative. 
+
+ Second Admission (June 19-August 4, 1981) 
+
+ In June 1981, he again noted intermittent fever, night sweats, and fatigue. Group D streptococci grew from three sets of blood cultures and he was admitted to the West Haven VA Medical Center for recurrent endocarditis. On examination a somewhat louder apical systolic murmur was noted. The ESR was 50 mm/hour and rheumatoid factor titer was 1:320. Serum complement levels were normal and cryoglobulins were not detectable. Chest films, EKG, and urinalysis were normal. Cardiac M-mode echocardiogram revealed a globular mass attached to the posterior mitral valve leaflet with prolapse into a slightly enlarged left atrium. A twodimensional echocardiogram confirmed mitral valve prolapse and suggested a posterior leaflet vegetation. Gallium citrate scan was negative. 
+
+ Three separate morphologic colony variants were isolated from blood, each identified as S. faecium by Dr. R.R. Facklam (Center for Disease Control, Atlanta, Georgia). The patient received intravenous penicillin (20 million units per day) and gentamicin (3 mg per kg per day) for six weeks with improvement. Peak serum bactericidal titers of 1:8 or greater were achieved against two of the colony variants; however, against the large colony morphotype, a titer of only 1:2 was obtained. An enlarged left atrium with intermittent fluttering and prolapse of the mitral valve was noted on echocardiography three weeks into therapy. Multiple blood cultures taken while the patient was receiving antibiotics were negative, as were those obtained 48 and 72 hours after discontinuation of antibiotics. 
+
+ 244 
+
+ S. FAECIUM ENDOCARDITIS 
+
+ Third Admission (August 12-October 4, 1981) 
+
+ Withing a week following discharge, the patient again developed fever, nocturnal sweats, and malaise. S. faecium (large colony morphotype, and poorly growing small colony morphotype) grew from six sets of blood cultures obtained on admission. Penicillin (30 million units/day) and gentamicin (3 mg/kg/day) were again administered, initially achieving peak serum inhibitory and bactericidal dilutions of 1:16 and 1:8 against the organism, respectively. However, the organism had a lowlevel resistance to streptomycin (MIC < 125 /Ag/ml), and streptomycin (2 grams per day) was substituted for gentamicin two weeks into antibiotic therapy. Repeat echocardiograms showed irregular and shaggy densities of both mitral valve leaflets with partial prolapse. Cardiac catheterization demonstrated marked mitral valve prolapse with mitral regurgitation. A radiolucent filling defect was noted, suggesting a coronary artery embolus at the origin of the left anterior descending (LAD) artery, causing 75 percent occlusion of the lumen. The patient underwent mitral valve replacement, receiving a number 31 porcine Hancock bioprosthesis and bypass graft to the midportion of the LAD. The mitral valve was thickened with several ruptured chordae of the posterior leaflet noted, but no vegetations. The aortic valve appeared normal, with no visible septal or ring abscesses. The occlusion in the LAD was not approached to avoid embolizing distal fragments. 
+
+ Histopathologically the mitral valve showed mild fibrosis and myxoid degeneration without inflammatory changes. Bacterial and fungal stains were negative but S. faecium grew from fragments of the resected valve. Following surgery the patient received six additional weeks parenteral penicillin and streptomycin. Repeat blood cultures on this regimen and following therapy were negative. Evaluation six months following discontinuation of antibiotics showed no evidence of recurrent endocarditis. 
+
+ LABORATORY EVALUATION 
+
+ The minimum inhibitory and bactericidal concentrations of penicillin, ampicillin, and tobramycin against the S. faecium isolated from the patient's blood cultures 
+
+ TABLE 1 
+
+ Minimum Inhibitory and Bactericidal Concentrations of Antibiotics, 
+
+ Against Streptococcus faecium Isolates from Blood Cultures 
+
+ Date       Penicillin     Ampicillin         Tobramycin 
+
+ Organism         Isolated      MIC        MIC       MBC      MIC       MBC S. faecium, prior to ampicillin/ 
+
+ tobramycin therapy    3/17/81        2          1        2        >32       >32 S. faecium, after ampicillin/ 
+
+ tobramycin therapy 
+
+ a. Large colony 
+
+ variant           6/16/81        2          1        1        >32      >32 b. Medium colony 
+
+ variant           6/16/81        2          1        2         32        32 c. Small colony 
+
+ variant           6/16/81        4          2        4        >32      >32 aMIC and MBC are minimum inhibitory and bactericidal concentrations of antibiotics, respectively, in tig/ml. 
+
+ 245 
+
+ GOLDSTEIN ET AL. 
+
+ FIG. 1. Time-kill curve demonstrat8 3-  \   "''                                    ing the effects of various penicillinO                                                  aminoglycoside combinations on S. {73 2-  \         >,                             faecium obtained from the patient's 
+
+ blood cultures immediately prior to mitral valve excision. Note the lack of 4u,                synergy between penicillin and tobra25kg/rm Streporrrychn t                  mycin against this organism when 
+
+ /0 units/mI Penicillin _         compared to synergistic combinations 0     4     8    12    6    20    24            of penicillin-gentamicin and penicillin
+
+ HOURS                            streptomycin. 
+
+ after initial oral erythromycin therapy, and prior to therapy for endocarditis, are shown in Table 1. Following combined therapy with ampicillin and tobramycin and relapse of endocarditis, three morphological variants were isolated from blood cultures and also evaluated. 
+
+ Twenty-four hour time-kill curves for penicillin in combination with various aminoglycosides were performed by Dr. Robert Moellering on the S. faecium isolated from the patient's blood immediately prior to mitral valve excision and replacement (Fig. 1). Synergy was readily demonstrable against this organism by penicillin-streptomycin and penicillin-gentamicin combinations in vitro, but not by penicillin-tobramycin. 
+
+ DISCUSSION 
+
+ Among streptococci, the enterococci are unusual in their relative resistance to a broad spectrum of antimicrobial agents, and single-agent therapy is rarely bactericidal against them [2]. Since Hunter's original observations in 1947, it has become increasingly clear that effective synergistic combinations of antibiotics are necessary to successfully treat enterococcal endocarditis [1]. 
+
+ Although S. faecalis represents the majority of clinical enterococcal isolates, S. faecium nonetheless comprises 5-10 percent of these isolates in some series [3,4]. Moreover, major differences exist in antimicrobial susceptibility and resistance to penicillin-aminoglycoside synergism between these two enterococcal species. The MIC of penicillin against S. faecium is higher and this organism is more resistant to a number of different combinations of penicillin and various aminoglycosides than is S. faecalis [6]. 
+
+ The mechanisms of resistance exhibited by enterococci to penicillin-aminoglycoside synergy have been investigated. Clinically achievable levels of amino
+
+ 246 
+
+ S. FAECIUM ENDOCARDITIS 
+
+ glycosides are generally ineffective against enterococci. This intrinsic low-level resistance (MIC c 250 isg/ml) is thought to be the result of poor antibiotic penetration of the bacterial cell wall. However, in the presence of antibiotics that interfere with cell wall synthesis, there is enhanced aminoglycoside uptake [7]. In concert, these events are the basis for penicillin-aminoglycoside synergism. Ribosomal resistance of the 30S subunit to streptomycin and defective uptake of gentamicin in the presence of penicillin have been reported mechanisms of resistance among enterococcal isolates [8,9]. However, in the majority of instances, failure of synergy involves plasmid-mediated production of aminoglycoside-modifying enzymes. For streptomycin and kanamycin, plasmid-mediated enzymatic inactivation confers high-level resistance (MIC > 2,000 Ag/ml) and correlates with failure of these aminoglycosides to exert a synergistic effect when combined with penicillin [10,11]. Plasmid-mediated modifying enzymes have been found in both S. faecalis and S. faecium' [12]. Currently, approximately one-half of clinical enterococcal isolates demonstrate high-level resistance to streptomycin and kanamycin [13]. 
+
+ Combinations of penicillin with kanamycin, tobramycin, sisomicin, and netilmicin have consistently failed to demonstrate synergistic killing of S. faecium in vitro [6]. This failure of synergy occurs even when high-level resistance to these aminoglycosides is not present. The mechanism of resistance appears to be related to the production of an inactivating enzyme that acetylates the aminoglycoside substrate at the 6' position1 [14]. The genetic basis for production of this enzyme has not been well-defined and plasmid transfer experiments have thus far been unsucessful in demonstrating the encodement of this enzyme by extrachromosomal DNA [14]. 
+
+ Moellering et al. demonstrated in vivo, utilizing the rabbit model of endocarditis, that penicillin and netilmicin were not efficacious in the treatment of endocarditis caused by a low-level aminoglycoside-resistant strain of S. faecium [6]. Although combinations of penicillin with tobramycin, kanamycin, or sisomicin were not evaluated, the authors postulated that the same ineffectual result would have occurred. In the present case, the recurrence of S. faecium endocarditis after six weeks of therapy with ampicillin and tobramycin confirms the therapeutic and clinical significance of their data, and emphasizes that tobramycin is not an aminoglycoside to be used for treatment of serious S. faecium infections. 
+
+ Bacterial tolerance has been suggested as a possible basis for therapeutic failures, particularly in the treatment of infections caused by Staphylococcus aureus with defects in the production of autolysins. MBCs are generally several-fold higher than MICs and this phenomenon appears to be associated with the autolysin defect [5]. Lorian has also described the formation of numerous aberrant cross-walls by S. faecalis grown in the presence of subinhibitory concentrations of penicillin [15]. MBCs were only slightly higher than MICs for the three S. faecium variants obtained from our patient, and they did not appear to be tolerant strains of S. faecium. There was no evidence that any of the morphological variants isolated were unusually resistant to antibiotics. Therefore, subsequent failure of therapy could not be explained on the basis of antibiotic resistance patterns. The initial failure of ampicillin and tobramycin therapy may have allowed the infecting organism to become better established and more difficult to eradicate from the valve. Alternatively, a 
+
+ 'Wennersten C, Moellering RC Jr: Mechanism of resistance to penicillin-aminoglycoside synergism in Streptococcus faecium. Proceedings of the 1th International Congress of Chemotherapy and 19th Interscience Conference on Antimicrobial Agents and Chemotherapy 1:710-711, 1979 
+
+ 247 
+
+ 248                             GOLDSTEIN ET AL. 
+
+ persistent focus of infection causing the LAD lesion seen by arteriography may have slowly resolved and accounted for the apparent failure to respond to synergistic combinations of antibiotics. 
+
+ In summary, our patient was treated for Streptococcusfaecium endocarditis with both ampicillin and the aminoglycoside antibiotic, tobramycin. Relapse of endocarditis might have been anticipated on the basis of previous experimental data showing lack of synergy when tobramycin is used against this organism. This case graphically illustrates the relevance of synergy studies to therapeutic considerations in the treatment of endocarditis. However, subsequent therapy with synergistic combinations of antibiotics did not result in cure. The data do not implicate tolerant organisms as a cause for relapses. Failure of therapy may have been related to the presence of protected organisms in vegetations which were seen on echocardiograms, and also suggested by the presence of a possible coronary artery embolus seen on coronary arteriograms. 
+
+ In conclusion, speciation of isolates suspected of causing endocarditis and adequate synergy studies of antibiotic combinations are indicated before a long and expensive course of therapy with antimicrobial agents is undertaken for this disease. However, as this case also illustrates, demonstration of synergism in vitro does not assure clinical cure. 
+
+ ACKNOWLEDGEMENTS 
+
+ Dr. Goldstein was supported by training grant Al 07033-05 from the National Institute of Allergy and Infectious Diseases. 
+
+ The authors gratefully acknowledge the advice, laboratory assistance, and careful review of this manuscript by Dr. Robert C. Moellering, Jr. 
+
+ The authors also wish to thank Dr. Howard S. Forster for referring this patient to us, Ms. Mary Murray and Deborah Beauvais for manuscript preparation, and Ms. Gertrude Barden, MT (ASCP), MHS, for technical assistance and advice in evaluation of this patient. 
+
+ REFERENCES 
+
+ 1. Hunter TH: Use of streptomycin in the treatment of bacterial endocarditis. Am J Med 2:436-442, 
+
+ 1947 
+
+ 2. Moellering RC Jr, Krogstad DJ: Antibiotic resistance in enterococci. Microbiology 293-298, 1979 3. Facklam RR: Recognition of group D streptococcal species of human origin by biochemical and 
+
+ physiological tests. Appl Microbiol 23:1131-1139, 1972 
+
+ 4. Toala P, McDonald A, Wilcox C, et al: Susceptibility of group D streptococcus (enterococcus) to 21 
+
+ antibiotics in vitro, with special reference to species differences. Am J Med Sci 258:416-430, 1969 5. Shungu DL, Cornett JB, Shockman GD: Morphological and physiological study of autolytic
+
+ defective Streptococcus faecium strains. J Bacteriol 138:598-608, 1979 
+
+ 6. Moellering RC Jr, Korzeniowski OM, Sande MA, et al: Species-specific resistance to antimicrobial 
+
+ synergism in Streptococcusfaecium and Streptococcusfaecalis. J Infect Dis 140:203-208, 1979 
+
+ 7. Moellering RC Jr, Weinberg AN: Studies on antibiotic synergism against enterococci. 11. Effect of 
+
+ various antibiotics on the uptake of '4C-labelled streptomycin by enterococci. J Clin Invest 50:2580-2584, 1971 
+
+ 8. Zimmermann RA, Moellering RC Jr, Weinberg AN: Mechanisms of resistance to antibiotic 
+
+ synergism in enterococci. J Bacteriol 105:873-879, 1971 
+
+ 9. Moellering RC Jr, Murray BE, Schoenbaum SC, et al: A novel mechanism of resistance to penicillin
+
+ gentamicin synergism in S. faecalis. J Infect Dis 141:81-86, 1980 
+
+ 10. Krogstad DJ, Korfhagen TR, Moellering RC Jr, et al: Plasmid-mediated resistance to antibiotic 
+
+ synergism in enterococci. J Clin Invest 61:1645-1653, 1978 
+
+ 11. Krogstad DJ, Korfhagen TR, Moellering RC Jr, et al: Aminoglycoside-inactivating enzymes in 
+
+ clinical isolates of Streptococcusfaecalis: An explanation for resistance to antibiotic synergism. J Clin Invest 62:480-486, 1978 
+
+ S. FAECIUM ENDOCARDITIS                 249 
+
+ 12. Courvalin PM, Shaw WV, Jacob AE: Plasmid-mediated mechanisms of resistance to 
+
+ aminoglycoside-aminocyclitol antibiotics and to chloramphenicol in group D streptococci. Antimicrob Agents Chemother 13:716-725, 1978 
+
+ 13. Calderwood SA, Wennersten C, Moellering RC Jr, et al: Resistance to six aminoglycosidic 
+
+ aminocyclitol antibiotics among enterococci: Prevalence, evolution, and relationship to synergism with penicillin. Antimicrob Agents Chemother 12:401-405, 1977 
+
+ 14. Bisno AL: Treatment of infective endocarditis. New York, Grune and Stratton, 1981, p 90 
+
+ 15. Lorian V: Effects of subminimum inhibitory concentrations of antibiotics on bacteria. In Antibiotics 
+
+ in Laboratory Medicine. Edited by V Lorian. Baltimore, Williams and Wilkins, 1980, p 342 

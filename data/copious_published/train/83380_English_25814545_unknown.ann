@@ -1,0 +1,64 @@
+T1	Person 206 211	Sakai
+T2	Person 216 224	Nakamura
+T3	Person 342 351	Kuramochi
+T4	Taxon 937 952	Gobiopsis sensu
+T5	GeographicalLocation 981 1000	southeastern Africa
+T6	Taxon 1069 1078	Gobiopsis
+T7	Taxon 1096 1119	Gobiopsis sensu stricto
+T8	GeographicalLocation 1163 1178	Gilbert Islands
+T9	GeographicalLocation 1305 1315	Philippine
+T10	GeographicalLocation 1320 1333	Palau islands
+T11	GeographicalLocation 1364 1379	Solomon Islands
+T12	GeographicalLocation 1512 1517	India
+T13	GeographicalLocation 1787 1805	Great Barrier Reef
+T14	GeographicalLocation 1833 1844	Rapa Island
+T15	Taxon 25 32	Vitrina
+T16	Habitat 34 44	coral-reef
+T17	GeographicalLocation 89 102	Pacific Plate
+T18	Taxon 147 155	Lentipes
+T19	GeographicalLocation 163 170	Ryukyus
+T20	TemporalExpression 14 18	1978
+T21	TemporalExpression 226 230	1979
+T22	Taxon 276 287	Kelloggella
+T23	Person 303 308	Hoese
+T24	TemporalExpression 310 314	1975
+T25	TemporalExpression 353 357	1980
+T26	Person 360 365	Hoese
+T27	Taxon 540 551	Kelloggella
+T28	Taxon 610 621	Kelloggella
+T29	GeographicalLocation 660 673	Pacific Plate
+T30	Taxon 746 763	Indo-pacific goby
+T31	GeographicalLocation 687 704	Indo-west Pacific
+T32	GeographicalLocation 798 811	Pacific Plate
+T33	Taxon 815 824	Gobiopsis
+T34	Taxon 826 839	sensu stricto
+T35	Habitat 924 935	coral reefs
+T36	Taxon 937 960	Gobiopsis sensu stricto
+T37	GeographicalLocation 1008 1043	western margin of the Pacific Plate
+T38	Taxon 1096 1111	Gobiopsis sensu
+T39	GeographicalLocation 1138 1155	Indo-west Pacific
+T40	Taxon 1209 1220	Signigobius
+T41	Habitat 1240 1244	reef
+T42	GeographicalLocation 1341 1359	Great Barrier Reef
+T43	GeographicalLocation 1410 1449	east by the margin of the Pacific Plate
+T44	Taxon 1451 1460	Oxuderces
+T45	Habitat 1475 1487	muddy bottom
+T46	GeographicalLocation 1525 1544	Gulf of Carpentaria
+T47	GeographicalLocation 1546 1555	Australia
+T48	Taxon 1609 1613	Feia
+T49	Person 1631 1638	Lachner
+T50	Person 1643 1651	Mckinney
+T51	TemporalExpression 1653 1657	1979
+T52	GeographicalLocation 1723 1740	Indo-west Pacific
+T53	GeographicalLocation 1752 1762	Mozambique
+T54	GeographicalLocation 1764 1774	Seychelles
+T55	GeographicalLocation 1776 1781	Banda
+T56	GeographicalLocation 1846 1859	Pacific Plate
+T57	Taxon 1957 1963	Eviota
+T58	Taxon 2005 2022	coral-reef gobies
+T59	GeographicalLocation 2046 2058	Indo-Pacific
+T60	Person 2060 2069	S. Jewett
+T61	Person 2084 2091	Lachner
+T62	Taxon 2145 2156	gobiid fish
+T63	Taxon 2163 2174	Kelloggella
+T64	Person 2193 2203	D.F. Hoese

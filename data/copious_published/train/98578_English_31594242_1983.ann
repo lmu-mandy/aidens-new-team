@@ -1,0 +1,46 @@
+T1	Taxon 26 40	T. tridentatus
+T2	GeographicalLocation 76 90	southern Japan
+T3	GeographicalLocation 92 98	Taiwan
+T4	GeographicalLocation 100 111	Philippines
+T5	GeographicalLocation 113 125	North Borneo
+T6	GeographicalLocation 148 157	Indonesia
+T7	Taxon 167 175	T. gigas
+T8	Taxon 180 195	C. rotundicauda
+T9	GeographicalLocation 233 238	India
+T10	GeographicalLocation 260 269	Singapore
+T11	GeographicalLocation 271 280	Indonesia
+T12	GeographicalLocation 286 297	Philippines
+T13	GeographicalLocation 302 308	Borneo
+T14	GeographicalLocation 406 419	Kota Kinabalu
+T15	GeographicalLocation 477 486	Indonesia
+T16	Taxon 491 505	T. tridentatus
+T17	Taxon 510 525	C. rotundicauda
+T18	GeographicalLocation 606 613	Palawan
+T19	TemporalExpression 708 712	1956
+T20	GeographicalLocation 783 795	Cape Cod Bay
+T21	Taxon 820 833	L. polyphemus
+T22	GeographicalLocation 959 976	north of Cape Ann
+T23	GeographicalLocation 1124 1136	Delaware Bay
+T24	TemporalExpression 1149 1153	1977
+T25	GeographicalLocation 1327 1335	Cape May
+T26	GeographicalLocation 1339 1352	Atlantic City
+T27	Taxon 1504 1522	Limulus polyphemus
+T28	GeographicalLocation 1598 1605	Florida
+T29	GeographicalLocation 1607 1621	Gulf of Mexico
+T30	GeographicalLocation 1857 1871	Atlantic coast
+T31	Taxon 1881 1896	C. rotundicauda
+T32	Taxon 7 25	Limulus polyphemus
+T33	GeographicalLocation 127 134	Vietnam
+T34	GeographicalLocation 139 146	Sumatra
+T35	GeographicalLocation 427 453	north-west coast of Borneo
+T36	GeographicalLocation 560 595	south-west coast of the Philippines
+T37	GeographicalLocation 884 908	east coast of the U.S.A.
+T38	GeographicalLocation 944 957	Massachusetts
+T39	GeographicalLocation 1085 1109	east coast of the U.S.A.
+T40	TemporalExpression 1158 1162	1979
+T41	GeographicalLocation 1242 1271	coastal waters off New Jersey
+T42	Taxon 1415 1430	Horseshoe crabs
+T43	Habitat 1468 1473;1484 1488	sandy bays
+T44	Habitat 1478 1488	muddy bays
+T45	Habitat 1493 1502	estuaries
+T46	Taxon 1770 1776	Limuli

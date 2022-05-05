@@ -1,0 +1,26 @@
+T1	Taxon 3 9	Shorea
+T2	Taxon 17 33	DIPTEROCARPACEAE
+T3	Taxon 17 33	DIPTEROCARPACEAE
+T4	Taxon 65 71	Shorea
+T5	Taxon 65 77	Shorea, Roxb
+T6	Taxon 529 539	S. robusta
+T7	Taxon 529 547	S. robusta, Gaertn
+T8	Taxon 584 592	Sal tree
+T9	Habitat 630 642	deep valleys
+T10	GeographicalLocation 646 654	Singbhum
+T11	GeographicalLocation 656 661	Bonai
+T12	GeographicalLocation 666 673	Gangpur
+T13	Habitat 800 820	hills of clay schist
+T14	GeographicalLocation 914 923	Parasnath
+T15	GeographicalLocation 1004 1020	Himalayan region
+T16	Person 1199 1205	Gamble
+T17	GeographicalLocation 1246 1251	S. P.
+T18	GeographicalLocation 1256 1265	Talpahari
+T19	TemporalExpression 1306 1311	March
+T20	TemporalExpression 1312 1317	April
+T21	TemporalExpression 1360 1363	May
+T22	TemporalExpression 1369 1373	June
+T23	TemporalExpression 1374 1378	July
+T24	TemporalExpression 1408 1413	March
+T25	Person 1668 1676	Campbell
+T26	TemporalExpression 1711 1718	October

@@ -1,0 +1,17 @@
+T1	Person 10 14	King
+T2	GeographicalLocation 46 63	Malayan Peninsula
+T3	Taxon 902 917	D. grandiflorus
+T4	Taxon 902 924	D. grandiflorus Griff.
+T5	Person 948 954	Blanco
+T6	GeographicalLocation 957 967	S. Andaman
+T7	Person 970 974	Kurz
+T8	Person 976 992	King's Collector
+T9	Taxon 1017 1032	D. grandiflorus
+T10	Taxon 1017 1040	D. grandiflorus, Blanco
+T11	Taxon 1017 1032	D. grandiflorus
+T12	Taxon 1348 1369	Dipterocarpus incanus
+T13	Taxon 1348 1376	Dipterocarpus incanus, Roxb.
+T14	GeographicalLocation 2601 2611	S. Andaman
+T15	GeographicalLocation 2631 2637	Burmah
+T16	Person 2639 2643	Kurz
+T17	Taxon 2711 2721	D. incanus

@@ -1,0 +1,262 @@
+Enzymatic multiplex DNA sequencing.
+Abstract
+The problem of reading DNA sequence films has been reformulated using an easily implemented, multiplex version of enzymatic DNA sequencing. By utilizing a uniquely tagged primer for each base-specific sequencing reaction, the four reactions can be pooled and electrophoresed in a single lane. This approach has been previously proposed for use with fluorescently labelled probes (1), and is analogous to the principle used in four-dye fluorescence sequencing except that the signals are resolved following electrophoresis (2). After transfer to a nylon membrane, images are obtained separately for each of the four reactions by hybridization using oligonucleotide probes. The images can then be superimposed to reconstitute a complete sequence pattern. In this way the correction of gel distortion effects and accurate band registration are considerably simplified, as each of the four base-specific ladders require very similar corrections. The methods therefore provide the basis for a second generation of more accurate and reliable film reading programs, as well as being useful for conventional multiplex sequencing. Unlike the original multiplex protocol (3), the approach described is suitable for small projects, as multiple cloning vectors are not used. Although more than one vector can be utilized, only a library of fragments cloned into any single phage, phagemid or plasmid vector is actually required, together with a set of tagged oligonucleotide primers.Images
+
+
+
+
+
+
+ Nucleic Acids Research, Vol. 19, No. 12 3301 
+
+ Enzymatic multiplex DNA sequencing 
+
+ Mark Chee 
+
+ Medical Research Council Laboratory of Molecular Biology, Hills Road, Cambridge CB2 20H, UK 
+
+ Received March 15, 1991; Revised and Accepted May 2, 1991 
+
+ ABSTRACT 
+
+ The problem of reading DNA sequence films has been reformulated using an easily implemented, multiplex version of enzymatic DNA sequencing. By utilizing a uniquely tagged primer for each base-specific sequencing reaction, the four reactions can be pooled and electrophoresed in a single lane. This approach has been previously proposed for use with fluorescently labelled probes (1), and is analogous to the principle used in four-dye fluorescence sequencing except that the signals are resolved following electrophoresis (2). After transfer to a nylon membrane, images are obtained separately for each of the four reactions by hybridization using oligonucleotide probes. The images can then be superimposed to reconstitute a complete sequence pattern. In this way the correction of gel distortion effects and accurate band registration are considerably simplified, as each of the four basespecific ladders require very similar corrections. The methods therefore provide the basis for a second generation of more accurate and reliable film reading programs, as well as being useful for conventional multiplex sequencing. Unlike the original multiplex protocol (3), the approach described is suitable for small projects, as multiple cloning vectors are not used. Although more than one vector can be utilized, only a library of fragments cloned into any single phage. phagemid or plasmid vector is actually required, together with a set of tagged oligonucleotide primers. 
+
+ INTRODUCTION 
+
+ The community of biologists is undertaking the sequencing of representative genomes of various free-living organisms, ranging in size from Mycoplasma (800kb) to mammals (3 Gb) (4). However, the largest contiguous DNA sequences which have been determined so far are the genomes of several dsDNA eukaryotic viruses (5, 6, 7, 8, 9) and plant chloroplasts (10, 11, 12). The largest of these is the 229kb genome of human cytomegalovirus (8). The difficulty in sequencing millions of base pairs of DNA is that several steps in the methods are relatively labour intensive, although the sequencing reactions themselves are rapid and easily performed. Two limiting steps in conventional procedures are the size fractionation of sequencing reaction products by gel electrophoresis and the subsequent reading of sequence ladders. The former problem can be overcome by multiplexing, which theoretically allows an enormous amount of 
+
+ data to be obtained from a single gel by processing clones as mixtures rather than individually (3). Each sequence in the mixture is labelled by a unique short oligonucleotide 'tag' sequence. This allows the mixture to be resolved following electrophoresis: the superimposed sequence ladders are blotted from the gel to a nylon membrane, and detected one at a time by hybridization using tag-specific oligonucleotide probes. In practice, at least 50 sets of sequences can be obtained from a single gel (3). 
+
+ Unfortunately, a bottleneck in the multiplex procedure is the reading of sequence films. In previous large-scale sequencing projects this task has been performed with the aid of a sonic digitizer (13, 14). Although film reading programs have been under development for some time (15), and some programs are commercially available, their error rates are presently more variable and unpredictable than that of a skilled person and the accurate interpretation of film-imaged sequence ladders by computer programs is difficult to achieve in routine practice. Programs specifically designed to read multiplex films have an advantage. This is because a sequence image can be used as an 'internal standard' to help interpret other images derived from the same membrane (3). However, the original implementation of the multiplex strategy used chemical sequencing (16), which yields a more complex sequence ladder than the enzymatic dideoxynucleotide chain-termination method (17). Most successful large scale sequencing projects have used the chaintermination method and bacteriophage M13 vectors, which allows the routine production of clean and easily interpretable sequences (18). It was therefore decided to adapt the original multiplex protocol for use with enzymatic sequencing, using tagged primers. 
+
+ MATERIALS AND METHODS 
+
+ Eight oligonucleotide sequencing primers were synthesized, each 37 nucleotides in length. The 3' end of each primer consists of the 17 nucleotide M13 universal priming sequence [GTAAAACGACGGCCAGT3']. The 5' ends of the primers bear different 20mer tag sequences (Figure 1). In four of the primers, UEO1C, UPOIC, UE02C and UP02C, these tags are complementary to the EO1, PO1, E02 and P02 probe sequences respectively (copied from the original 'plex' vectors (3)). A second set of four primers, UJOL14C, UJOL15C, UJOL16C and UJOL17C, have the following tag sequences: 5' CAAGTTTGAAGGTACTCATT, TATCAATTAAATTGTllTGAC, GTGTTGCTACCCAAGAAGCA, and TGTCACTAGAGCTGTCACTT, respectively. The 
+
+ ?=) 1991 Oxford University Press 
+
+ 3302 Nucleic Acids Research, Vol. 19, No. 12 
+
+ oligonucleotides were gel-purified (19) and used to sequence ssDNA templates prepared by phenol extraction (20) or SDS denaturation (21). Conventional sequencing reactions were performed as previously described (20). 
+
+ For hybridization experiments, radioactively labelled nucleotides were omitted from the sequencing reactions. Instead, the 21d of each nucleotide mix added to the reaction mixture consisted of the following: 'A' mix: 6.25MtM dATP, 62.5lM ddATP; 'C' mix: 6.25MM dCTP, 40MtM ddCTP; 'G' mix: 6.25MtM dGTP, 80MtM ddGTP; 'T' mix: 6.25MM dTTP, 250yM ddTTP; as well as 125MM of each of the three other dNTPs in each mix. Apart from the use of these modified mixes, no changes were made to the conventional sequencing procedure (20). 
+
+ Sequencing reactions were pooled and ethanol precipitated as appropriate. Precipitation in microtitre trays was carried out as follows: a mixture of 3.2M1 3M NaAc pH 5.0 and 112Mi1 EtOH was dispensed to individual wells of a microtitre plate (Falcon 3911 or Corning 25855) using an 8-channel pipettor. Each set of four reactions was added to the EtOH/NaAc mixture, and the tray sealed using a Falcon 3073 plate sealer. The samples were mixed by inversion and stored at -20?C for 30 minutes. The DNA was collected by a 20 minute centrifugation at 4 000 rpm in an IEC Centra 3C centrifuge. The sealer was removed, and the plate inverted to discard the supernatant. After blotting the tray on tissue paper, 200MI of 95 % EtOH was added to each well. The plate was covered with a plastic lid and recentrifuged for 2 minutes. The EtOH was discarded and the plate inverted for several minutes on tissue paper, then left for 20 minutes to air dry. Precipitated samples were resuspended in 6M1 deionized water by vortexing on an SMI multi-tube vortexer for 1 minute. Samples were denatured and electrophoresed on 6 % polyacrylamide buffer gradient gels as previously described (20). 
+
+ Following electrophoresis, the gel was transferred to a dry piece of Whatman 3MM blotting paper, and placed on a second sheet of blotting paper supported on a glass plate and saturated in 4 x SSC (SSC: 150mM NaCl, l5mM trisodium citrate). This sheet was wicked in a tray containing 1 litre of 4 x SSC. The DNA was transferred to a nylon membrane (Amersham Hybond N) by capillary blotting overnight (22). DNA was fixed to the membranes by U.V. crosslinking (23). 
+
+ Plex oligonucleotide probes were a kind gift of Dr.George Church. Probes were tailed at their 3' ends using [a-32p] dCTP as previously described (3). For the preparation of digoxigenin (DIG) labelled probes, identical tailing reactions were carried out substituting  I0pmols of DIG-II dUTP (Boehringer Mannheim) for [a-32P] dCTP. Membranes were prehybridized for at least 10 minutes in 4 x SSC, 5 x Denhardts' (0.1 % (w/v) each of BSA (heated at 80?C for 30 minutes to inactivate any alkaline phosphatase activity), Ficoll (Pharmacia) and polyvinylpyrrolidone), 0.5% (w/v) SDS, 5mM NaHPO4 (23). Hybridization was carried out in 25-50M1 of prehybridization buffer per cm2 of membrane. The probe concentration was approximately lnM. After lh at 42?C, unbound probe was removed by five 1 minute washes at room temperature in 1 x SSC, 0.5% SDS (200MI/cm2 membrane). Radioactive blots were covered in Saran wrap and exposed to film immediately. Detection of DIG labelled probes used an anti-DIG antibodyalkaline phosphatase conjugate (Boehringer Mannheim) according to the manufacturer's instructions, except that all volumes were reduced by 70% and the conjugate was used at a 1:10 000 dilution. Blots were developed in 25M1 of 100mM Tris.Cl pH9.5, 
+
+ mantane4-methoxy4(3 "-phosphoryloxy)phenyl-1 ,2-dioxetane); Tropix)/cm2 for 30 minutes at 37?C, prior to exposure to film. Probes and dioxetane were stripped from the membranes by two 10 minute washes at 700C with 0.2% SDS, 2mM EDTA (200,ul/cm2 membrane). 
+
+ The hybridization and washing procedures were carried out in plastic bags. However, washing steps have also been performed with gentle agitation in a perspex tub (43 x 27 x 15cm) mounted on a reciprocal shaker, with equivalent results. In the latter case a minimum wash volume of 500mls was used. The use of a tub is more convenient for batch processing and should be straightforward to automate. 
+
+ RESULTS 
+
+ Autoradiograms revealed no difference in sequence quality when tagged primers were used instead of the 17mer universal primer in conventional [a-35S] dATP labelled sequencing reactions and in multiplex hybridization experiments using [a-32P] dCTP-tailed probes (results not shown). Experiments were then conducted to determine the feasibility of pooling the four base reactions for each clone and fractionating them in a single lane to obtain a superimposed but interpretable set of sequence ladders. The question addressed was whether or not difficulties in band registration might arise as a result of mobility differences between the different primer sequences and/or distortion of the membrane between probings. It is relevant that an automated film reader employing an internal standard requires that the nylon membrane does not undergo significant distortions between probings (George Church, personal communication). Clones were sequenced using the four tagged primers UEOlC, UPOIC, UE02C, and UP02C, one for each base reaction (Figure 1). The A, C, G and T reactions for each clone were pooled, and processed as described above. A complete set of sequence autoradiograms was obtained from four consecutive rounds of probing with [a-32P] dCTP-labelled oligonucleotides. Alignment of the films showed that sequence-specific mobility effects and distortion of the membrane between probings were sufficiently minor to allow accurate registration of the bands, and hence accurate reading of the sequence. At least 200 nucleotides of sequence could be read accurately from a single clone by simply tracing the four sets of bands using different colours, overlaying the tracings, and reading the bands sequentially. In order to assess the practicality of reading the sequences by machine, the images were scanned to provide optical density profiles (Figure 2). These profiles were overlaid, and were found to be sufficiently in register to allow accurate interpretation of the sequence for at least 300 nucleotides. This was essentially the limit of resolution of the gel for accurate manual reading. 
+
+ In order to ensure that the relatively minor mobility differences observed between the four primers were not coincidental to the oligonucleotides used, a second set of four tagged M13 universal primers was synthesised, this time incorporating 20mer sequences derived from the genome of murine herpesvirus-68 (UJOL14C, 15C, 16C, 17C). Sequencing reactions were performed using [cx-35S] dATP to label the DNA directly. Various templates were sequenced, and in all cases correctly ordered sequence ladders were obtained following conventional electrophoresis in which the four reactions were run side-by-side (results not shown). 
+
+ Initial hybridization experiments were conducted using [f -32p] 
+
+ dCTP tailed oligonucleotide probes. However, the use of 
+
+ lOOmM NaCl, 5OmM MgC12, 0.15mM AMPPD ([3-(2'-ada
+
+ B 
+
+ C 
+
+ 'Ordinary'                       Plex'      4-CJ3              4-rn     + 
+
+ Primeir                        Primer 
+
+ "All      "C"       "G"   "   T" 
+
+ 'Plex'                       'Ordinary'                                        Pool and 
+
+ Vector                          Vector                                          fractionate 
+
+ Resolve by sequential 
+
+ hybridizations 
+
+ Sequencing reactions 
+
+ SequencingreactIo product 
+
+ Sequencing reaction product 
+
+ -           n;   
+
+ =      = 
+
+ -   =   
+
+ -   n:  = 
+
+ Figure 1. Approaches to enzymatic multiplex DNA sequencing. a) A set of sequence-tagged vectors can be used. The tag site is shown in red, and the insert to be sequenced in blue. However, the original plex vectors (3) are plasmids, and therefore amenable only to dsDNA sequencing. Sets of bacteriophage M13 vectors have been constructed bearing either one (32) or two [Chee, unpublished] of the plex tag sites flanking the polylinker, which can be used for this approach. b) The strategy used in this paper. In this case the tag site is carried on the primer. c) If tagged primers are used, there is no practical impediment to performing each base reaction using a different primer, as depicted. The reactions can then be pooled in any combination desired. The configuration shown, in which the four reactions are electrophoresed in a single lane, is designed to facilitate accurate band registration and reading by an automatic film reader. In order to read the sequence manually, base reactions would be run side-by-side. The logistics of processing the reactions are essentially the same with either configuration; the same number of probings are required. 
+
+ Figure 2. Four overlaid one-dimensional optical density profiles for a single clone shown in two overlapping sections. The optical density profiles are unprocessed, except for a simple transform to correct for the relative displacement (translation and rotation) of the four images from which they are extracted. The profiles read 5' to 3' from right to left. Nucleotides positions 66 to 214 from the start of the universal priming site are shown. The sequence is that of Bluescribe M13+ (template DNA obtained by rescue with M13K07 helper phage (30)), and was determined using the primers UEOIC, UPOIC, UE02C, and UP02C for the T, C, G and A 
+
+ specific reactions respectively. Detection was by autoradiography following hybridization with [a- 32p] dCTP tailed plex probes. 
+
+ A 
+
+ Nucleic Acids Research, Vol. 19, No. 12 3303 
+
+ I 
+
+ 3304 Nucleic Acids Research, Vol. 19, No. 12 
+
+ a) 
+
+ 175-... 
+
+ -w
+
+ .m; 
+
+ b) 
+
+ 182
+
+ a :...... 
+
+ F.VW 
+
+ an 
+
+ - w 
+
+ -1 
+
+ S              -  K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i 
+
+ 'F C C; A                                I1 'CG A 
+
+ Figure 3. Four separate base-specific reactions imaged from a single lane using chemiluminescent detection. The clones sequenced are: a) Bluescribe M13 + (obtained by rescue with M13K07 helper phage (30)) and b) an M13 recombinant clone prepared in a microtitre tray (21) (a kind gift of Victoria Smith). Nucleotide positions shown on the figure are numbered from the start of the universal priming site. The clones were sequenced using UEOlC, UPOIC, UE02C, and UP02C for the T, C, G and A specific reactions respectively. The blot was probed with corresponding DIG-11-dUTP labelled oligonucleotides. 
+
+ radioactivity on the scale envisioned for a large sequencing project is undesirable for reasons of safety. The relatively long exposure times required (6 to 24 hours) and the short half lives of the probes might also be inconvenient. It has been shown that a biotin/streptavidin/alkaline phosphatase based detection system used in conjunction with a chemiluminescent dioxetane substrate overcomes these disadvantages (24, 25, 26). We utilized a different bridging system with similar results. Digoxigenin (DIG) labelled oligonucleotide probes were detected using anti-DIG antibody-alkaline phosphatase conjugates and a chemiluminescent dioxetane substrate. Exposure times of 10 to 15 minutes were typically required, following a one hour preincubation period (Figure 3). In our hands the DIG bridging system was similar in sensitivity to the streptavidin based system (24), and the practical lower limit of template ssDNA required in order to obtain an easily interpretable sequencing ladder was estimated to be in the range of 20 to 50fmols per reaction. However, the sensitivity of detection was limited only by enzymaticallytriggered background luminescence, and not by the level of signal obtained. The nonradioactive methods described have been used successfully in an 8-plex system. 
+
+ DISCUSSION 
+
+ Although the original multiplex protocol was based on a set of tagged vectors (3), tagged primers have also been used or proposed for various forms of multiplex DNA sequencing (George Church, personal communication; 2, 27). For example, a proposal was recently put forward for multiplex sequencing using sequence-labelled primers and fluorophor-labelled probes 
+
+ (1), similar in principle to the methods used here. However, we use tagged primers and the superposition of the four sequencing reactions to address the problem of reading DNA sequence films; a part of this solution is to utilize M13 dideoxynucleotide sequencing, thereby improving the quality of the data to be analyzed. In addition, the proposal for fluorophor-labelled probes does not take into consideration any of the practical sequencing problems addressed here, and, in the version described, remains a promising but unproven scheme for large scale DNA sequencing. 
+
+ There are several advantages to tagging primers instead of vectors. Firstly, there is no need to prepare multiple libraries of clones in special vectors. This means that workers can use vector/host combinations that yield good results in their hands, and an increased depth of multiplexing can easily be accomodated by synthesizing more primers. This should make multiplexing more accessible to workers undertaking smaller projects. A theoretical disadvantage of tagged primers is that the procedure can only be multiplexed following primer annealing (1), or following the sequencing reactions (this paper; in practice, pooling immediately after the annealing step might lead to increased backgrounds if one or more primers were present in excess over their template DNAs). This is a relatively late stage. In the original procedure (3), clones were pooled prior to amplification by growth, an early step. However, we do not believe the sacrifice to be of practical importance when using phage vectors. In our experience, recombinant M13 phage have variable growth rates and the effects of competition are likely to severely limit the number of clones that can usefully be pooled for growth. In contrast, by growing clones individually, the depth of multiplexing is only really limited by probe sensitivity. We have not investigated the factors influencing variability in phage growth rates. 
+
+ It is worth noting that reliable protocols have been developed for growing large numbers of individual M13 clones and preparing high quality ssDNA templates in microtitre trays (28, 21). It is relatively simple to prepare manually two microtitre trays of ssDNA templates (192 clones) in a day. Sufficient clones can be prepared in a week to sequence a 20kb fragment to a redundancy of 10 (Victoria Smith, personal communication). In this laboratory, ssDNA is now prepared with the aid of a commercially available robotic workstation (21). As sequencing reactions are also carried out in microtitre trays, manually or robotically (20, 29), the entire M13-based dideoxynucleotide sequencing procedure is amenable to automation (29). For these reasons we see little practical advantage in pooling clones early. Finally, by not pooling clones early, the ability to easily retrieve individual clones is retained, which may facilitate directed sequencing later in a project should this become necessary. 
+
+ Multiplex DNA sequencing is currently limited by the lack of a robust computer program which can correct for the large variety of gel and sequencing artefacts that are normally encountered. The foundation of a film reading program is the ability to bring into register precisely vertical arrays of base-specific bands. This requires the ability to track lanes, correct for distortions, and order bands based on their relative spacing. A method of sequencing which has successfully overcome the problem of sequence reading uses real-time detection of fluorescently labelled DNA samples migrating through the gel (2). This system also utilizes the principle of running the four base reactions down the same lane (2). However, bands are detected at a fixed location 
+
+ in space, and their detection is separated in time. Hence the 
+
+ Nucleic Acids Research, Vol. 19, No. 12 3305 
+
+ problem of gel distortion is essentially avoided, although corrections for the different mobilities of the four dyes must be carried out. In contrast, we utilize the advantages of single lane electrophoresis to address the problem of superimposing four relatively large and complex two-dimensional images. Furthermore, by using sequence-tagged oligonucleotides which are detected by hybridization, a much greater depth of multiplexing can realistically be achieved than by real-time detection. 
+
+ The use of two-dimensional colour traces to depict the processed output of a film reader is consistent with the method of displaying fluorescence traces, and should facilitate the checking and editing of sequence databases in which both kinds of data have been entered. The sequence compilation programs used in this laboratory, which are already capable of handling large shotgun databases (8, 31), have recently undergone extensive improvements (Rodger Staden, personal communication). There is now an interactive database editor which allows the graphical display of fluorescence traces, and it is envisaged that this feature could be extended to allow the handling of data from a film reader when a suitable machine is developed. 
+
+ ACKNOWLEDGEMENTS 
+
+ I am particularly grateful to George Church for thought-provoking discussions and gifts of vectors and oligonucleotide probes and to John Sulston for advice. I also thank Victoria Smith for the gift of DNA samples, Bart Barrell for long-term support, Tom O'Keefe of Milligen/Biosearch for lessons in multiplexing and Amersham International for the optical density overlays shown in Figure 2. M.C. is supported by a fellowship from Applied Biosystems. 
+
+ 12. Hiratsuka, J., Shimada, H., Whittier, R., Ishibashi, T., Sakamoto, M., Mori, 
+
+ M., Kondo, C., Honju, Y., Sun, C. -R, Meng, B. -Y, Li, Y. -Q, Kanno, A., Nisizawa, Y., Hirai, A., Shinozaki, K. and Sugiura, M. (1989) Molecular and General Genetics, 217, 185-194. 
+
+ 13. Komaromy, M. and Govan, H. (1984) Nucleic Acids Research, 12, 675-678. 14. Staden, R. (1984) Nucleic Acids Research, 12, 499-503. 
+
+ 15. Elder, J. K., Green, D. K. and Southern, E. M. (1986) Nucleic Acids 
+
+ Research, 14, 417-424. 
+
+ 16. Maxam, A. M. and Gilbert, W. (1977) Proceedings of the National Academy 
+
+ of Sciences, U.S.A., 74, 560-564. 
+
+ 17. Sanger, F., Nicklen, S. and Coulson, A. R. (1977) Proceedings of the National 
+
+ Academy of Sciences, U.S.A., 74, 5463-5467. 
+
+ 18. Sanger, F., Coulson, A. R., Barrell, B. G., Smith, A. J. H. and Roe, B. 
+
+ A. (1980) Journal of Molecular Biology, 143, 161-178. 19. Applied Biosystems User Bulletin (1987) 13, 11-16. 
+
+ 20. Bankier, A. T., Weston, K. M. and Barrell, B. G. (1987) Methods in 
+
+ Enzymology, 155, 51-93. 
+
+ 21. Smith, V., Brown, C. M., Bankier, A. T. and Barrell, B. G. (1990) DNA 
+
+ Sequence, 1, 73-78. 
+
+ 22. Southern, E. M. (1975) Journal of Molecular Biology, 98, 503-517. 
+
+ 23. Church, G. M. and Gilbert, W. (1984) Proceedings of the National Academy 
+
+ of Sciences, U.S.A., 81, 1991-1995. 
+
+ 24. Beck, S., O'Keefe, T., Coull, J. M. and Koster, H. (1989) Nucleic Acids 
+
+ Research, 17, 5115-5123. 
+
+ 25. Tizard, R., Cate, R. L., Ramachandran, K. L., Wysk, M., Voyta, J. C., 
+
+ Murphy, 0. J. and Bronstein, I. (1990) Proceedings of the National Academy of Sciences, U.S.A., 87, 4514-4518. 
+
+ 26. Beck, S. and Koster, H. (1990) Analytical Chemistry, 62, 2558-2570. 
+
+ 27. Jacobson, K. B., Arlinghaus, H. F., Schmitt, H. W., Sachleben, R. A., 
+
+ Brown, G. M., Thonnard, N., Sloop, F. V., Foote, R. S., Larimer, F. W., Woychik, R. P., England, M. W., Burchett, K. L. and Jacobson, D. A. (1991) Genomics, 9, 51-59. 
+
+ 28. Eperon, I. C. (1986) Analytical Biochemistry, 56, 406-412. 
+
+ 29. Bankier, A. T. and Barrell, B. G. (1989) In Howe, C. J. and Ward, E. 
+
+ S. (ed), Nucleic acids sequencing: a practical approach. IRL Press, Oxford, Vol. 1, pp. 37-78. 
+
+ 30. Vieira, J. and Messing, J. (1987) Methods in Enzymology, 153, 3-11. 31. Davison, A. DNA Sequence, in press. 
+
+ 32. Heller, C., Radley, E., Khurshid, F. A. and Beck, S. Gene, in press. 
+
+ REFERENCES 
+
+ 1. Yang, M. M. and Youvan, D. C. (1989) Biotechnology, 7, 576-580. 
+
+ 2. Smith, L. M., Sanders, J. Z., Kaiser, R. J., Hughes, P., Dodd, C., Connell, 
+
+ C. R., Heiner, C., Kent, S. B. H. and Hood, L. E. (1986) Nature, 321, 674-679. 
+
+ 3. Church, G. M. and Kieffer-Higgins, S. (1988) Science, 240, 185-188. 4. Watson, J. D. (1990) Science, 248, 44-49. 
+
+ 5. Baer, R., Bankier, A. T., Biggin, M. D., Deininger, P. L., Farrell, P. J., 
+
+ Gibson, T. J., Hatfull, G., Hudson, G. S., Satchwell, S. C., Seguin, C., Tuffnell, P. S. and Barrell, B. G. (1984) Nature, 310, 207-211. 
+
+ 6. Davison, A. J. and Scott, J. E. (1986) Journal of General Virology, 67, 
+
+ 1759-1816. 
+
+ 7. McGeoch, D. J., Dalrymple, M. A., Davison, A. J., Dolan, A., Frame, 
+
+ M. C., McNab, D., Perry, L. J., Scott, J. E. and Taylor, P. (1988) Journal of General Virology, 69, 1531-1574. 
+
+ 8. Chee, M. S., Bankier, A. T., Beck, S., Bohni, R., Brown, C. M., Cerny, 
+
+ R., Horsnell, T., Hutchison III, C. A., Kouzarides, T., Martignetti, J. A., Satchwell, S. C., Tomlinson, P., Weston, K. M. and Barrell, B. G. (1990) Current Topics in Microbiology and Immunology, 154, 125-169. 
+
+ 9. Goebel, S. J., Johnson, G. P., Perkus, M. E., Davis, S. W., Winslow, J. 
+
+ P. and Paoletti, E. (1990) Virology, 179, 247-266. 
+
+ 10. Ohyama, K., Fukuzawa, H., Kohchi, T., Shirai, H., Sano, T., Sano, S., 
+
+ Umesono, K., Shiki, Y., Takeuchi, M., Chang, Z., Aota, S. -I, Inokuchi, H. and Ozeki, H. (1986) Nature, 322, 572-574. 
+
+ 11. Shinozaki, K., Ohme, M., Tanaka, M., Wakasugi, T., Hayashida, N., 
+
+ Matsubayashi, T., Zaita, N., Chunwongse, J., Obokata, J., YamaguchiShinozaki, K., Ohto, C., Torazawa, K., Meng, B. Y., Sugita, M., Deno, H., Kamogashira, T., Yamada, K., Kusuda, J., Takaiwa, F., Kato, A., Tohdoh, N., Shimada, H. and Sugiura, M. (1986) EMBO Journal, 5, 2043-2049. 

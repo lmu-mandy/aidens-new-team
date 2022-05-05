@@ -1,0 +1,89 @@
+T1	GeographicalLocation 14 32	PHILIPPINE ISLANDS
+T2	GeographicalLocation 55 67	Batag Island
+T3	GeographicalLocation 175 185	Bolalo Bay
+T4	GeographicalLocation 187 201	Palawan Island
+T5	GeographicalLocation 294 310	Destacado Island
+T6	GeographicalLocation 361 376	Endeavor Strait
+T7	GeographicalLocation 378 392	Palawan Island
+T8	GeographicalLocation 459 474	Quinapundan Bay
+T9	GeographicalLocation 525 537	Lahuy Island
+T10	GeographicalLocation 539 549	Pocket Bay
+T11	GeographicalLocation 613 625	Langao Point
+T12	GeographicalLocation 627 641	southern Luzon
+T13	GeographicalLocation 692 702	Manila Bay
+T14	GeographicalLocation 802 812	Port Busin
+T15	GeographicalLocation 814 827	Burias Island
+T16	GeographicalLocation 871 882	Port Jamelo
+T17	GeographicalLocation 934 946	Port Langcan
+T18	GeographicalLocation 948 962	Dumaran Island
+T19	GeographicalLocation 1026 1043	Quinalasag Island
+T20	GeographicalLocation 1045 1056	Masamat Bay
+T21	GeographicalLocation 1176 1190	Taganak Island
+T22	GeographicalLocation 1192 1200	Jolo Sea
+T23	GeographicalLocation 1253 1264	Tara Island
+T24	GeographicalLocation 1266 1280	Mindoro Strait
+T25	GeographicalLocation 1329 1340	Tara Island
+T26	GeographicalLocation 1382 1390	Tutu Bay
+T27	GeographicalLocation 1392 1403	Jolo Island
+T28	GeographicalLocation 1953 1970	Malay Archipelago
+T29	GeographicalLocation 2034 2044	Santa Cruz
+T30	GeographicalLocation 2046 2051	Luzon
+T31	Taxon 2062 2090	Paracanthistius oligacanthus
+T32	GeographicalLocation 2158 2165	Celebes
+T33	Taxon 2238 2263	Acanthistius oligacanthus
+T34	GeographicalLocation 69 85	east coast Luzon
+T35	TemporalExpression 87 99	June 3, 1909
+T36	GeographicalLocation 123 137	Bisucay Island
+T37	TemporalExpression 139 152	April 9, 1909
+T38	TemporalExpression 203 220	December 21, 1908
+T39	GeographicalLocation 243 256	Burias Island
+T40	TemporalExpression 258 271	March 5, 1909
+T41	TemporalExpression 312 326	March 13, 1909
+T42	TemporalExpression 394 405;410 414	December 22 1908
+T43	TemporalExpression 394 402;406 414	December 24, 1908
+T44	TemporalExpression 483 496	July 28, 1909
+T45	GeographicalLocation 445 457	Gigoso Point
+T46	GeographicalLocation 476 481	Samar
+T47	GeographicalLocation 551 567	east coast Luzon
+T48	TemporalExpression 569 582	June 11, 1909
+T49	TemporalExpression 643 656	June 24, 1909
+T50	GeographicalLocation 679 690	Luzon Point
+T51	TemporalExpression 704 720	January 21, 1909
+T52	GeographicalLocation 743 757	Near Palag Bay
+T53	GeographicalLocation 759 764	Luzon
+T54	TemporalExpression 766 779	June 16, 1909
+T55	TemporalExpression 829 842	March 8, 1909
+T56	GeographicalLocation 884 889	Luzon
+T57	TemporalExpression 891 904	July 13, 1908
+T58	GeographicalLocation 964 988	vicinity eastern Palawan
+T59	TemporalExpression 990 1003	April 8, 1909
+T60	GeographicalLocation 1058 1074	east coast Luzon
+T61	TemporalExpression 1076 1089	June 12, 1909
+T62	GeographicalLocation 1112 1119	Surigao
+T63	GeographicalLocation 1121 1140	east coast Mindanao
+T64	TemporalExpression 1142 1153	May 8, 1908
+T65	TemporalExpression 1202 1217	January 7, 1909
+T66	TemporalExpression 1282 1299	December 14, 1908
+T67	TemporalExpression 1342 1359	December 15, 1908
+T68	TemporalExpression 1405 1423	September 19, 1909
+T69	GeographicalLocation 1446 1462	Zamboanga market
+T70	TemporalExpression 1464 1476	May 26, 1908
+T71	Taxon 1492 1503	Pleuroperca
+T72	Taxon 1529 1552	Phctropoma oligacanthus
+T73	Taxon 1529 1560	Phctropoma oligacanthus Bleeker
+T74	Taxon 1699 1724	PLECTROPOMUS OLIGACANTHUS
+T75	Taxon 1699 1732	PLECTROPOMUS OLIGACANTHUS Bleeker
+T76	Taxon 1733 1757	Plectropoma oligacanthus
+T77	Taxon 1733 1765	Plectropoma oligacanthus Bleeker
+T78	GeographicalLocation 1779 1788	Nederland
+T79	GeographicalLocation 1819 1826	Batavia
+T80	GeographicalLocation 1828 1832	Java
+T81	Person 1836 1843	Gunther
+T82	Person 1898 1907	Boulenger
+T83	GeographicalLocation 1975 1984	Carolines
+T84	GeographicalLocation 2053 2059	Cavite
+T85	Taxon 2062 2098	Paracanthistius oligacanthus Bleeker
+T86	GeographicalLocation 2152 2156	Java
+T87	GeographicalLocation 2167 2174	Amboina
+T88	Person 2179 2185	Fowler
+T89	Taxon 2238 2271	Acanthistius oligacanthus Bleeker

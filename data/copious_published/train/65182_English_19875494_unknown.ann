@@ -1,0 +1,41 @@
+T1	Taxon 55 63	NEREIDAE
+T2	Taxon 437 456	Nereis masolocensis
+T3	GeographicalLocation 827 833	Bongao
+T4	GeographicalLocation 835 850	Varadero Harbor
+T5	GeographicalLocation 852 859	Mindoro
+T6	GeographicalLocation 868 879	Tava Island
+T7	GeographicalLocation 902 914	Varadero Bay
+T8	GeographicalLocation 974 993	Capitancillo Island
+T9	GeographicalLocation 1003 1008	Leyte
+T10	GeographicalLocation 1013 1017	Cebu
+T11	GeographicalLocation 1159 1179	Labuan Blanda Island
+T12	GeographicalLocation 1328 1333	Luzon
+T13	Taxon 1343 1354	PLATYNEREIS
+T14	Taxon 0 21	POLYCHAETOUS ANNELIDS
+T15	GeographicalLocation 27 42	PHILIPPINE SEAS
+T16	Taxon 130 136	Nereis
+T17	Taxon 393 399	NEREIS
+T18	Taxon 393 408	NEREIS Linnaeus
+T19	Taxon 410 429	NEREIS MASOLOCENSIS
+T20	Taxon 410 435	NEREIS MASOLOCENSIS Grube
+T21	Taxon 437 462	Nereis masolocensis GRUBE
+T22	TemporalExpression 464 468	1878
+T23	Taxon 496 505	Albatross
+T24	Person 579 584	Grube
+T25	GeographicalLocation 861 866	Subic
+T26	GeographicalLocation 882 899	San Miguel Harbor
+T27	GeographicalLocation 916 923	Mindoro
+T28	TemporalExpression 944 957	July 20, 1908
+T29	GeographicalLocation 959 972	station D5403
+T30	Taxon 1050 1068	NEREIS PECTINIFERA
+T31	Taxon 1050 1074	NEREIS PECTINIFERA Grube
+T32	Taxon 1076 1094	Nereis pectinifera
+T33	Taxon 1076 1100	Nereis pectinifera GRUBE
+T34	TemporalExpression 1102 1106	1878
+T35	Taxon 1181 1202	NEREIS TONGATABUENSIS
+T36	Taxon 1181 1211	NEREIS TONGATABUENSIS Mclntosh
+T37	Taxon 1213 1235	Nereis tonffatabucnsis
+T38	Taxon 1213 1244	Nereis tonffatabucnsis MCINTOSH
+T39	TemporalExpression 1246 1250	1885
+T40	GeographicalLocation 1320 1327	Nasugbu
+T41	Taxon 1335 1363	NEREIS (PLATYNEREIS) INTEGER

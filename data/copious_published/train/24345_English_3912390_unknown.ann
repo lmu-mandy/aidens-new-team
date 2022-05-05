@@ -1,0 +1,39 @@
+T1	GeographicalLocation 24 42	PHILIPPINE ISLANDS
+T2	Taxon 48 59	D. lunulata
+T3	Taxon 893 903	Nephrodium
+T4	Taxon 908 916	Aspidium
+T5	Taxon 970 981	Cyclopeltis
+T6	Taxon 1074 1088	P. auriculatum
+T7	Taxon 1159 1171	P. aculeatum
+T8	Taxon 1204 1214	P. obtusus
+T9	Taxon 1261 1271	P. amabile
+T10	Taxon 1397 1409	P. aristatum
+T11	Taxon 1431 1445	P. coniifolium
+T12	Taxon 1467 1481	P. horizontale
+T13	Taxon 1591 1602	P. falcatum
+T14	Taxon 1607 1620	P. preslianum
+T15	GeographicalLocation 2175 2186	Catanduanes
+T16	GeographicalLocation 2335 2340	Luzon
+T17	GeographicalLocation 2345 2353	Mindanao
+T18	Taxon 2508 2522	P. auriculatum
+T19	Taxon 3 16	POLYPODIACE.E
+T20	Taxon 48 64	D. lunulata Desv
+T21	GeographicalLocation 356 361	Luzon
+T22	Person 363 369	Cuming
+T23	Person 375 381	Steere
+T24	GeographicalLocation 383 392	Mount Apo
+T25	Person 394 400	Devore
+T26	Person 405 411	Hoover
+T27	Taxon 460 471	POLYSTICHUM
+T28	Taxon 460 476	POLYSTICHUM Roth
+T29	Taxon 987 999	P. presumium
+T30	Taxon 1037 1050	Eupolystichum
+T31	Taxon 1503 1512	P. varium
+T32	Taxon 1607 1634	P. preslianum (J. Sm) Moore
+T33	GeographicalLocation 2163 2170	Masbate
+T34	GeographicalLocation 2221 2227	Malaya
+T35	Person 2188 2195	Baranda
+T36	GeographicalLocation 2198 2205	Tayabas
+T37	Person 2207 2214	Merrill
+T38	Person 2483 2488	Smith
+T39	Taxon 2491 2502	Cyclopeltis

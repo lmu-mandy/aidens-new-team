@@ -1,0 +1,55 @@
+T1	GeographicalLocation 574 579	Luzon
+T2	GeographicalLocation 728 733	Takao
+T3	GeographicalLocation 813 818	Takao
+T4	GeographicalLocation 939 954	South China Sea
+T5	GeographicalLocation 1396 1410	Formosa Strait
+T6	GeographicalLocation 1425 1440	South China Sea
+T7	GeographicalLocation 1517 1525	Sulu Sea
+T8	GeographicalLocation 1527 1538	Celebes Sea
+T9	GeographicalLocation 1544 1563	East Philippine Sea
+T10	TemporalExpression 1968 1974	August
+T11	Taxon 2019 2028	barennawa
+T12	TemporalExpression 2125 2129	1935
+T13	TemporalExpression 2218 2223	March
+T14	GeographicalLocation 2525 2540	South China Sea
+T15	TemporalExpression 2580 2589	September
+T16	GeographicalLocation 2716 2724	Sulu Sea
+T17	GeographicalLocation 2806 2818	Steward Bank
+T18	GeographicalLocation 2823 2840	Macclesfield Bank
+T19	TemporalExpression 2939 2944	March
+T20	GeographicalLocation 3232 3244	Cochin China
+T21	GeographicalLocation 3900 3905	Annam
+T22	GeographicalLocation 3914 3930	Hainan I. region
+T23	GeographicalLocation 4662 4667	Takao
+T24	TemporalExpression 841 845	1913
+T25	TemporalExpression 1237 1241	1936
+T26	TemporalExpression 1859 1868	September
+T27	TemporalExpression 1917 1920	May
+T28	TemporalExpression 1960 1964	June
+T29	Taxon 1989 1997	sailfish
+T30	TemporalExpression 2227 2237	early June
+T31	Taxon 2167 2177	black tuna
+T32	Taxon 2268 2280	black marlin
+T33	GeographicalLocation 2370 2377	Formosa
+T34	TemporalExpression 2921 2935	around January
+T35	Taxon 3402 3411	yellowfin
+T36	Taxon 4469 4479	black tuna
+T37	TemporalExpression 4501 4505	1935
+T38	Taxon 3938 3949	spearfishes
+T39	Taxon 4050 4060	black tuna
+T40	Taxon 4176 4186	black tuna
+T41	Taxon 3647 3658	spearfishes
+T42	Taxon 3527 3536	spearfish
+T43	Taxon 3786 3795	barennawa
+T44	GeographicalLocation 3249 3254	Annam
+T45	GeographicalLocation 3350 3356	Hainan
+T46	Taxon 3628 3639	bigeye tuna
+T47	Taxon 3586 3595	yellowfin
+T48	Taxon 3823 3834	bigeye tuna
+T49	Taxon 3839 3847	sailfish
+T50	Taxon 4129 4139	black tuna
+T51	Taxon 4208 4220	black marlin
+T52	Taxon 4238 4248	black tuna
+T53	GeographicalLocation 4295 4302	Formosa
+T54	Taxon 4384 4395	spearfishes
+T55	GeographicalLocation 508 513	Annam

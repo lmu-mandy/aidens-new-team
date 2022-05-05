@@ -1,0 +1,40 @@
+T1	Person 154 161	Wallace
+T2	GeographicalLocation 568 585	Arabian Peninsula
+T3	GeographicalLocation 618 649	Ethiopian region covers central
+T4	GeographicalLocation 654 669	southern Africa
+T5	GeographicalLocation 761 769	Pakistan
+T6	GeographicalLocation 782 795	Pacific Ocean
+T7	GeographicalLocation 810 821	Philippines
+T8	GeographicalLocation 826 835	Indonesia
+T9	GeographicalLocation 949 962	North America
+T10	GeographicalLocation 988 1004	Aleutian Islands
+T11	GeographicalLocation 1039 1045	Mexico
+T12	GeographicalLocation 1083 1100	Caribbean Islands
+T13	GeographicalLocation 1114 1127	South America
+T14	Taxon 1870 1882	F. pratensis
+T15	Taxon 1885 1892	F. rufa
+T16	TemporalExpression 165 169	1876
+T17	Taxon 1855 1867	F. polyctena
+T18	Taxon 1903 1920	Parnassius apollo
+T19	Taxon 1938 1953	Maculinea arion
+T20	Taxon 1921 1937	Apollo Butterfly
+T21	Taxon 1954 1974	Large Blue Butterfly
+T22	Taxon 1813 1830	Formica aquilonia
+T23	Taxon 1813 1835	Formica aquilonia Wood
+T24	Taxon 1840 1852	F. lurufaris
+T25	GeographicalLocation 420 426	Europe
+T26	GeographicalLocation 428 436	U.S.S.R.
+T27	GeographicalLocation 441 446	China
+T28	GeographicalLocation 506 535	Mediterranean coast of Africa
+T29	GeographicalLocation 698 702	Asia
+T30	GeographicalLocation 703 717	south of China
+T31	GeographicalLocation 727 756	western border of Afghanistan
+T32	GeographicalLocation 870 886	Papua New Guinea
+T33	GeographicalLocation 888 897	Australia
+T34	GeographicalLocation 902 913	New Zealand
+T35	GeographicalLocation 973 982	Greenland
+T36	GeographicalLocation 1102 1109;1120 1127	Central America
+T37	GeographicalLocation 1129 1144	Oceanic islands
+T38	Habitat 1226 1240	brackish water
+T39	Habitat 1245 1252	lagoons
+T40	GeographicalLocation 1806 1812	EUROPE

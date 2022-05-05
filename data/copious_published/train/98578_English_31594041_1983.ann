@@ -1,0 +1,86 @@
+T1	Taxon 40 57	Corallium elatius
+T2	Taxon 71 83	C. japonicum
+T3	Taxon 129 138	C. rubrum
+T4	Taxon 404 415	CORALLIIDAE
+T5	Taxon 457 466	Corallium
+T6	Taxon 555 564	C. rubrum
+T7	TemporalExpression 612 624	19th century
+T8	Taxon 728 737	Corallium
+T9	GeographicalLocation 750 755	Japan
+T10	GeographicalLocation 757 763	Taiwan
+T11	GeographicalLocation 785 805	Hawaiian Archipelago
+T12	GeographicalLocation 1318 1333	Western Pacific
+T13	Taxon 1767 1779	C. japonicum
+T14	Taxon 1788 1798	C. elatius
+T15	Taxon 1821 1831	C. konojoi
+T16	Taxon 1842 1853	C. secundum
+T17	Taxon 1922 1931	C. rubrum
+T18	Taxon 2119 2128	C. rubrum
+T19	Taxon 2254 2263	Corallium
+T20	TemporalExpression 2380 2384	1978
+T21	Taxon 2685 2696	C. secundum
+T22	GeographicalLocation 2744 2764	Hawaiian Archipelago
+T23	Taxon 2839 2850	C. secundum
+T24	GeographicalLocation 2876 2882	Hawaii
+T25	GeographicalLocation 2976 2992	Hancock Seamount
+T26	Taxon 3002 3014	C. japonicum
+T27	Taxon 3019 3029	C. konojoi
+T28	GeographicalLocation 3047 3061;3070 3072	Ogaswara-gunto Is
+T29	GeographicalLocation 3079 3084	Japan
+T30	GeographicalLocation 3129 3146	Continental Shelf
+T31	GeographicalLocation 3151 3187	offshore islands south-west of Japan
+T32	GeographicalLocation 3197 3204	Okinawa
+T33	Taxon 3212 3224	C. japonicum
+T34	Taxon 3241 3251	C. elatius
+T35	Taxon 3262 3272	C. elatius
+T36	GeographicalLocation 3287 3294	Okinawa
+T37	GeographicalLocation 3308 3319	Philippines
+T38	Taxon 3384 3397	Corallium spp
+T39	Taxon 40 64	Corallium elatius Ridley
+T40	TemporalExpression 66 70	1882
+T41	Taxon 71 94	C. japonicum Kishinouye
+T42	Taxon 101 122	C. konojoi Kishinouye
+T43	Taxon 101 111	C. konojoi
+T44	Taxon 129 155	C. rubrum (Linnaeus, 1758)
+T45	Taxon 156 172	C. secundum Dana
+T46	Taxon 156 167	C. secundum
+T47	TemporalExpression 96 100	1903
+T48	TemporalExpression 124 128	1903
+T49	TemporalExpression 174 178	18f8
+T50	Taxon 198 206	CNIDARIA
+T51	Taxon 213 221	ANTHOZOA
+T52	Taxon 222 226	Boke
+T53	Taxon 228 234	Maguey
+T54	Taxon 236 250	Momoiro-marigo
+T55	Taxon 251 260	Aka-sango
+T56	Taxon 262 275	Oxblood Coral
+T57	Taxon 276 287	Shiro-sango
+T58	Taxon 289 314	White Coral Mediterranean
+T59	Taxon 318 329	Noble Coral
+T60	Taxon 330 340	Pink Coral
+T61	Taxon 342 357	Angelskin Coral
+T62	Taxon 358 379	Midway Deep Sea Coral
+T63	Taxon 386 396	GORGONACEA
+T64	GeographicalLocation 581 594	Mediterranean
+T65	GeographicalLocation 676 689	Mediterranean
+T66	Taxon 819 833	Pacific corals
+T67	TemporalExpression 893 902;912 921	late 19th centuries
+T68	TemporalExpression 907 921	20th centuries
+T69	GeographicalLocation 1147 1160	Mediterranean
+T70	GeographicalLocation 2012 2021	Marseille
+T71	GeographicalLocation 2184 2193	Marseille
+T72	Taxon 2340 2361	Midway Deep Sea Coral
+T73	GeographicalLocation 2509 2516	Pacific
+T74	GeographicalLocation 2671 2683	north of 22N
+T75	Taxon 2705 2726	Midway Deep Sea Coral
+T76	GeographicalLocation 2775 2792	Emperor Seamounts
+T77	GeographicalLocation 2825 2837	north as 36N
+T78	GeographicalLocation 2994 2999	30Â° N
+T79	GeographicalLocation 2884 2887	19N
+T80	GeographicalLocation 2595 2602	Pacific
+T81	GeographicalLocation 2894 2933	southern limit of Midway Deep Sea Coral
+T82	GeographicalLocation 3063 3068	Bonin
+T83	GeographicalLocation 3085 3103	south to about 25N
+T84	GeographicalLocation 3189 3192	35N
+T85	GeographicalLocation 3427 3440	South Pacific
+T86	Taxon 3226 3236	C. konojoi

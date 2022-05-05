@@ -1,0 +1,139 @@
+T1	Taxon 145 158	R. clecollata
+T2	GeographicalLocation 202 220	San Nicolas Island
+T3	Taxon 386 405	Micrarionta feralis
+T4	Taxon 610 621	R. decouata
+T5	Taxon 677 687	M. feralis
+T6	Taxon 760 777	Xerorionta tryoni
+T7	TemporalExpression 894 898	1981
+T8	Taxon 1153 1166	Helix aspersa
+T9	Taxon 1505 1518	Helix aspersa
+T10	Taxon 1630 1640	H. aspersa
+T11	Taxon 1687 1704	Riimino decollata
+T12	GeographicalLocation 1708 1726	San Nicolas Island
+T13	Person 1973 1984	Frank Focha
+T14	Person 2111 2125	Alicia Cordero
+T15	Taxon 2176 2188	R. decollata
+T16	GeographicalLocation 2192 2210	San Nicolas Island
+T17	Taxon 2284 2302	Riiiuina decollata
+T18	Taxon 2315 2326	Achatinidae
+T19	GeographicalLocation 2733 2754	eastern North America
+T20	GeographicalLocation 2756 2771	north of Mexico
+T21	Taxon 2812 2828	Rumina decollata
+T22	Taxon 2847 2858	Achatinidae
+T23	GeographicalLocation 2874 2893	southern California
+T24	GeographicalLocation 3039 3049	California
+T25	Person 3093 3103	R. E. Orth
+T26	Taxon 3236 3247	Micrarionta
+T27	Taxon 3249 3259	Gastropoda
+T28	Taxon 3261 3270	Pulmonata
+T29	GeographicalLocation 3307 3325	San Nicolas Island
+T30	Taxon 3400 3410	Gastropoda
+T31	Taxon 3412 3421	Pulmonata
+T32	GeographicalLocation 3425 3443	San Nicolas Island
+T33	GeographicalLocation 3445 3455	California
+T34	Taxon 3921 3931	Gastropoda
+T35	Taxon 3933 3942	Pulmonata
+T36	Taxon 4047 4066	Cochlicella barbara
+T37	Taxon 4085 4096	Hygromiidae
+T38	GeographicalLocation 4101 4109	southern
+T39	GeographicalLocation 4114 4132	central California
+T40	Taxon 4619 4635	Rumina decollata
+T41	Taxon 4716 4735	Titiscania limacina
+T42	Taxon 4793 4811	Ciencias Naturales
+T43	Taxon 5069 5081	Titiscanidae
+T44	Taxon 5103 5122	Titiscania limacina
+T45	Taxon 5140 5158	T. shinkishihataii
+T46	GeographicalLocation 5247 5258	Philippines
+T47	GeographicalLocation 5432 5441	Mauritius
+T48	GeographicalLocation 5486 5507	Eastern Pacific Ocean
+T49	GeographicalLocation 5517 5535	Gulf of California
+T50	GeographicalLocation 5539 5545	Panama
+T51	GeographicalLocation 5615 5629	Eniwetok Atoll
+T52	GeographicalLocation 37 59	San Luis Obispo County
+T53	Taxon 264 283	Micrarionta opuntia
+T54	Taxon 264 288	Micrarionta opuntia Roth
+T55	TemporalExpression 289 293	1975
+T56	Taxon 551 564	Helix aspersa
+T57	GeographicalLocation 733 751	San Nicolas Island
+T58	GeographicalLocation 1192 1211	southern California
+T59	TemporalExpression 1271 1281	6-8 months
+T60	TemporalExpression 1374 1384	25-45 days
+T61	Taxon 1417 1435	Xerarioiita tryoni
+T62	Person 1805 1816	Jim Carlton
+T63	Person 1818 1827	Rob Cowie
+T64	Person 1829 1839	Tim Pearce
+T65	Person 1845 1859	David Robinson
+T66	Person 1909 1920	Jim Strampe
+T67	Person 1989 2001	John Warrick
+T68	Person 2072 2082	Tim Pearce
+T69	Person 2084 2096	Sally Walker
+T70	Person 2098 2109	Ken Warheit
+T71	Person 2127 2141	David Lindberg
+T72	Person 2229 2238	Batts, J.
+T73	TemporalExpression 2242 2246	1957
+T74	Taxon 2304 2313	Pulmonata
+T75	TemporalExpression 2419 2423	1998
+T76	TemporalExpression 2558 2573	12 January 2000
+T77	Person 2575 2585	Dundee, D.
+T78	TemporalExpression 2589 2593	1970
+T79	Person 2680 2689	Dundee, D
+T80	TemporalExpression 2694 2698	1974
+T81	Person 2792 2801	FISHER, T
+T82	TemporalExpression 2806 2810	1966
+T83	Taxon 2812 2845	Rumina decollata (Linnaeus, 1758)
+T84	TemporalExpression 2944 2948	1985
+T85	GeographicalLocation 3051 3060	Riverside
+T86	Person 3079 3089	Fisher, T.
+T87	Person 3109 3119	C. Swanson
+T88	TemporalExpression 3121 3125	1980
+T89	Person 3186 3196	Pearce, T.
+T90	TemporalExpression 3200 3204	1990
+T91	GeographicalLocation 3327 3337	California
+T92	TemporalExpression 3381 3385	1993
+T93	Taxon 3387 3398	Micrarionta
+T94	Person 3532 3541	Potts, D.
+T95	TemporalExpression 3545 3549	1975
+T96	Taxon 3619 3632	Helix aspersa
+T97	Person 3683 3694	Robinson, D
+T98	TemporalExpression 3696 3700	1999
+T99	GeographicalLocation 3800 3813	United States
+T100	Person 3838 3846	Roth, B.
+T101	TemporalExpression 3847 3851	1996
+T102	Taxon 3875 3911	Micrarionta (Micrarionta) intermedia
+T103	Taxon 3875 3919	Micrarionta (Micrarionta) intermedia Pilsbry
+T104	Person 3999 4006	Roth, B
+T105	Person 4013 4021	M. Hertz
+T106	TemporalExpression 4023 4027	1997
+T107	Taxon 4047 4083	Cochlicella barbara (Linnaeus, 1758)
+T108	Person 4158 4170	Selander, R.
+T109	Person 4179 4189	W. Kaufman
+T110	TemporalExpression 4191 4195	1973
+T111	Person 4354 4365	Selander, R
+T112	Person 4375 4385	O. Hudson.
+T113	TemporalExpression 4386 4390	1976
+T114	Taxon 4459 4465	Rumina
+T115	GeographicalLocation 4469 4484	southern France
+T116	Person 4523 4534	Selander, R
+T117	Person 4539 4549	Kaufman, D
+T118	Person 4559 4567	S. Ralin
+T119	TemporalExpression 4569 4573	1974
+T120	Taxon 4684 4715	Shell-less Neritacean Gastropod
+T121	GeographicalLocation 4743 4760	Galapagos Islands
+T122	Person 4761 4774	Jose Templado
+T123	Person 4820 4842	Jose Gutierrez Abascal
+T124	GeographicalLocation 4853 4859	Madrid
+T125	GeographicalLocation 4861 4866	Spain
+T126	GeographicalLocation 4988 4994	Oviedo
+T127	GeographicalLocation 4996 5001	Spain
+T128	Person 5210 5221	Carl Semper
+T129	Person 5286 5291	Bergh
+T130	Person 5325 5331	Semper
+T131	GeographicalLocation 4959 4980	Universidad de Oviedo
+T132	Person 5349 5354	Bergh
+T133	Taxon 5103 5128	Titiscania limacina Bergh
+T134	Taxon 5140 5164	T. shinkishihataii Taki,
+T135	TemporalExpression 5130 5135	1875,
+T136	TemporalExpression 5165 5169	1955
+T137	Taxon 5022 5054	shell-less neritacean gastropods
+T138	TemporalExpression 5293 5297	1875
+T139	TemporalExpression 5356 5360	1890

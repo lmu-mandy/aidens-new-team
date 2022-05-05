@@ -1,0 +1,27 @@
+T1	GeographicalLocation 160 175	Camiguin Island
+T2	GeographicalLocation 539 547	Mindanao
+T3	GeographicalLocation 747 755	Mindanao
+T4	Taxon 767 775	gymnures
+T5	Taxon 777 788	Podogymnura
+T6	Taxon 791 802	tree shrews
+T7	Taxon 804 811	Urogale
+T8	Taxon 828 841	murid rodents
+T9	Taxon 847 854	Batomys
+T10	Taxon 856 864	Limnomys
+T11	Taxon 870 878	Tarsomys
+T12	Habitat 1128 1144	lower elevations
+T13	Taxon 1748 1756	tarsiers
+T14	Taxon 1758 1771	flying lemurs
+T15	Taxon 1832 1840	tarsiers
+T16	GeographicalLocation 1844 1852	Mindanao
+T17	Taxon 1872 1888	flying squirrels
+T18	Taxon 1893 1906	flying lemurs
+T19	Taxon 2212 2220	tarsiers
+T20	Taxon 2222 2231	squirrels
+T21	Taxon 2237 2250	flying lemurs
+T22	GeographicalLocation 2413 2421	Camiguin
+T23	Habitat 2591 2608	agricultural land
+T24	GeographicalLocation 2955 2967	Mt. Timpoong
+T25	Taxon 3232 3245	Suncus murium
+T26	TemporalExpression 3460 3474	during the day
+T27	GeographicalLocation 3582 3593	Philippines

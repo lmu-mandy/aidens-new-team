@@ -1,0 +1,71 @@
+T1	Taxon 45 64	SHOREA TEYSMANNIANA
+T2	Taxon 45 70	SHOREA TEYSMANNIANA Dyer.
+T3	GeographicalLocation 71 76	Luzon
+T4	GeographicalLocation 78 85	Cagayan
+T5	GeographicalLocation 87 99	Ilocos Norte
+T6	GeographicalLocation 101 112	Nueva Ecija
+T7	GeographicalLocation 114 121	Bulacan
+T8	GeographicalLocation 123 129	Laguna
+T9	GeographicalLocation 130 137	Tayabas
+T10	GeographicalLocation 138 147	Camarines
+T11	GeographicalLocation 149 157	Sorsogon
+T12	GeographicalLocation 159 166	Polillo
+T13	GeographicalLocation 168 176	Mindanao
+T14	GeographicalLocation 178 184	Agusan
+T15	Taxon 248 267	SHOREA SCROBICULATA
+T16	Taxon 248 274	SHOREA SCROBICULATA Burck.
+T17	GeographicalLocation 275 280	Luzon
+T18	GeographicalLocation 282 298	Tayabas Province
+T19	TemporalExpression 317 330	July 30, 1914
+T20	Taxon 361 380	Shorea scrobiculata
+T21	Taxon 580 595	S. scrobiculata
+T22	Taxon 636 641	yacal
+T23	GeographicalLocation 691 697	Borneo
+T24	Taxon 705 723	SHOREA NEGROSENSIS
+T25	Taxon 705 729	SHOREA NEGROSENSIS Foxw.
+T26	GeographicalLocation 730 735	LUZON
+T27	GeographicalLocation 737 744	Cagayan
+T28	GeographicalLocation 746 753	Isabela
+T29	GeographicalLocation 755 761	Laguna
+T30	GeographicalLocation 763 770	Tayabas
+T31	GeographicalLocation 772 777	Albay
+T32	GeographicalLocation 779 787	Sorsogon
+T33	GeographicalLocation 789 795	NEGROS
+T34	GeographicalLocation 797 805	MINDANAO
+T35	GeographicalLocation 807 814	Surigao
+T36	GeographicalLocation 816 822	Agusan
+T37	Taxon 829 843	SHOREA PLAGATA
+T38	Taxon 855 866	Anthoshorea
+T39	Taxon 1519 1528	red lauan
+T40	Taxon 1620 1625	guijo
+T41	Taxon 1682 1694	Dipterocarps
+T42	Habitat 1698 1709	tall forest
+T43	GeographicalLocation 1904 1912	MINDANAO
+T44	GeographicalLocation 1914 1932	Zamboanga District
+T45	GeographicalLocation 1934 1944	Port Banga
+T46	Person 1963 1972	Foxworthy
+T47	Person 1974 1981	De Mesa
+T48	Person 1984 1992	Villamil
+T49	TemporalExpression 1994 2007	June 17, 1912
+T50	Person 2052 2060	Whitford
+T51	Person 2063 2073	Hutchinson
+T52	TemporalExpression 2126 2134	December
+T53	TemporalExpression 2139 2152	January, 1907
+T54	TemporalExpression 2157 2161	1908
+T55	GeographicalLocation 2236 2255	Zamboanga Peninsula
+T56	Person 2275 2284	Foxworthy
+T57	Person 2286 2293	De Mesa
+T58	Person 2296 2304	Villamil
+T59	TemporalExpression 2306 2316	June, 1912
+T60	Taxon 2332 2350	malacayan colorado
+T61	Person 2370 2381	Stadtmiller
+T62	Person 2384 2392	Ferraris
+T63	TemporalExpression 2394 2406	January 1913
+T64	Taxon 2428 2435	plagata
+T65	Taxon 2499 2512	Hopea plagata
+T66	Taxon 2530 2551	Shorea selanica Blume
+T67	Taxon 2530 2545	Shorea selanica
+T68	Taxon 2601 2617	Shorea warburgii
+T69	Taxon 2601 2622	Shorea warburgii Gilg
+T70	Taxon 2630 2648	SHOREA MINDANENSIS
+T71	Taxon 2660 2671	Anthoshorea

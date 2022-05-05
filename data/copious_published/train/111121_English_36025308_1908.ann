@@ -1,0 +1,30 @@
+T1	TemporalExpression 244 253	Deeeraber
+T2	GeographicalLocation 455 463	Mindanao
+T3	GeographicalLocation 472 484	Sulu Islands
+T4	GeographicalLocation 629 637	Mindanao
+T5	GeographicalLocation 948 956	Sulu Sea
+T6	GeographicalLocation 1231 1239	Mindanao
+T7	GeographicalLocation 1248 1252	Sulu
+T8	GeographicalLocation 1621 1630	Zamboanga
+T9	GeographicalLocation 2138 2150	Sakol Island
+T10	GeographicalLocation 2276 2285	Zamboanga
+T11	GeographicalLocation 2635 2641	Manila
+T12	GeographicalLocation 2789 2811	Rio Grande de Mindanao
+T13	GeographicalLocation 27 35	MINDANAO
+T14	GeographicalLocation 40 44	SULU
+T15	GeographicalLocation 68 81	Camp Keithley
+T16	TemporalExpression 258 265	January
+T17	GeographicalLocation 346 357	New England
+T18	GeographicalLocation 371 384	United States
+T19	TemporalExpression 392 398	spring
+T20	GeographicalLocation 574 581	Pacific
+T21	GeographicalLocation 845 849	Asia
+T22	Person 871 876	Algue
+T23	Person 1053 1058	Algae
+T24	Habitat 1706 1715	foothills
+T25	Habitat 1877 1893	salt-water marsh
+T26	Habitat 1967 1979	paddy fields
+T27	GeographicalLocation 1989 2001	Tumaga River
+T28	GeographicalLocation 2772 2780	Cotabato
+T29	Person 2954 2965	Algal, Jose
+T30	Habitat 2704 2727	banks of a large stream

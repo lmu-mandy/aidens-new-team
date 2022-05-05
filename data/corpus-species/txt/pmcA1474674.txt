@@ -1,0 +1,262 @@
+Physiological and chemical characterization of cyanobacterial metallothioneins.
+Abstract
+Techniques have been developed for detection, quantitation, and isolation of bacterial metallothioneins (MTs) from cyanobacterial species. These methods involve differential pulse polarography and reverse-phase high-performance liquid chromatography (HPLC) and have allowed detection of picomole quantities of these high sulfhydryl content proteins. The prokaryotic molecule was found to be induced in the presence of Cd or Zn salts with regulation at the level of transcription. Cu was not found to induce synthesis of the prokaryotic MT. Exposure to the former metals resulted in a growth lag followed by simultaneous induction of MT synthesis and onset of growth. Amino acid analysis and N-terminal sequence analysis indicated that the bacterial MTs from cyanobacteria are unique, having many aromatic and aliphatic residues and no apparent association of hydroxylated or basic amino acids with cysteines. Although the characteristic Cys-X-Cys sequences were present, no apparent amino acid sequence homology with the eukaryotic MTs was found in the first 42 residues.
+
+
+
+
+ Environmental Health Perspectives Vol. 65, pp. 71-75, 1986 
+
+ Physiological and Chemical 
+
+ Characterization of Cyanobacterial Metallothioneins 
+
+ by Robert W. Olafson* 
+
+ Techniques have been developed for detection, quantitation, and isolation of bacterial metallothioneins (MTs) from cyanobacterial species. These methods involve differential pulse polarography and reverse-phase high-performance liquid chromatography (HPLC) and have allowed detection of picomole quantities of these high sulfhydryl content proteins. The prokaryotic molecule was found to be induced in the presence of Cd or Zn salts with regulation at the level of transcription. Cu was not found to induce synthesis of the prokaryotic MT. Exposure to the former metals resulted in a growth lag followed by simultaneous induction of MT synthesis and onset of growth. Amino acid analysis and N-terminal sequence analysis indicated that the bacterial MTs from cyanobacteria are unique, having many aromatic and aliphatic residues and no apparent association of hydroxylated or basic amino acids with cysteines. Although the characteristic CysX-Cys sequences were present, no apparent amino acid sequence homology with the eukaryotic MTs was found in the first 42 residues. 
+
+ Introduction 
+
+ Metallothioneins have now been isolated and characterized from a large variety of eukaryotic organisms (1) and shown to be involved in heavy metal detoxification and/or homeostasis (2-4). These proteins are highly homologous with respect to amino acid sequence and complex metals in characteristic metal-thiolate cluster arrangements, the structures of which have been recently 
+
+ investigated by 113Cd-NMR (6). 
+
+ Although metallothionein (MT) is found throughout the eukaryotic world, few reports of the presence of this type of high sulfhydryl content metal-binding protein exist for prokaryotes. We earlier reported the presence of a prokaryotic MT in cyanobacteria (7,8) and have recently provided primary sequence evidence substantiating these data. This manuscript is intended to summarize the present state of knowledge regarding the physiological and chemical characterization of these bacterial MTs, with an emphasis on the techniques employed in such studies. 
+
+ Analytical Procedure 
+
+ In order to facilitate rapid detection, isolation, and quantitation of MT from various sources, we have routinely employed a differential pulse polarographic tech
+
+ *Department of Biochemistry and Microbiology, University of Victoria, Victoria, British Columbia V8W 2Y2, Canada. 
+
+ nique first described by Brdicka (9-11). This procedure avoids use of radioisotopes and circumvents problems such as species specificity and metal stoichiometric assumptions associated with radioimmunoassays and metal binding assays. Figure 1 shows a typical polarographic wave for MT using the Brdicka procedure. Measurement of the wave height can be performed from either the 
+
+ 0.20
+
+ glJ   MT-1 
+
+ O 0.15
+
+ E 
+
+ 0 0.10 0 
+
+ E 0.05    _  _ 
+
+ -1.35   -1.45    -1.55    -1.65 
+
+ V vs Agt/AgC1 
+
+ FIGURE 1. Differential pulse polarographic wave for murine MT-1. 
+
+ Wave heights were calculated from the broken tangent line between minima rather than the supporting electrolyte baseline at the bottom of the figure. 
+
+ R. W OLAFSON 
+
+ supporting electrolyte baseline or a tangent to the minima as shown in the preceding figure. In the cobalt hexaminechloride supporting electrolyte, the half-wave potential for all MTs studied to date is approximately -1.45 V versus a Ag/AgCl reference electrode. This electrochemical reaction results in highly reproducible and linear current responses which can be used with samples containing picomole levels of MT (Fig. 2). Since this is an exceedingly sensitive instrument, attention to detail is particularly important for successful use of the Brdicka procedure (11). Routine use of a reference standard MT is highly recommended to compensate for small day-today variations in response. For absolute values, standards must be identical to the species of protein quantitated; otherwise commercially available standard is adequate. Although certain tissues and cellular types can be shown to have no other polarographically active material other than MT, with samples from new species, it is necessary to evaluate this potential problem by gelperneation chromatography and, if necessary, take steps to remove contaminants before assaying. In most cases, 
+
+ 0 
+
+ E i 
+
+ m 0 
+
+ 0 E 
+
+ 0.31 
+
+ 0.11 
+
+ O   0.1       0.3       0.5 
+
+ MT (nanomoles) 
+
+ FIGURE 2. Standard curve for polarographic determination of me
+
+ tallothionein. 
+
+ FIGURE 3. Cyclic voltamogram obtained by equilibration at -1.0 V 
+
+ for 4 min followed by cyclic scanning to OV and -1.4 V at a scan rate of 200 mV/sec with a PAR Model 303 static mercury drop electrode in the hanging drop mode. The mercury drop electrode was set in the large drop position producing a drop of 0.0226 cm3. The supporting electrolyte was 20 mM HEPES buffer, pH 7.3. The dotted line is the equilibrium trace. Adapted Olafson and Sim (10). 
+
+ this is easily managed by heat denaturation, if care is taken to assess the degree of MT losses due to coprecipitation. Such losses later can usually be minimized to less than 10% by adjustment of the tissue homogenate density prior to denaturation. 
+
+ It should be indicated that additional utility can be found with a polarographic analyzer beyond application of the Brdicka procedure. For example, metal levels can be readily determined by using differential pulse or anodic stripping voltametry procedures (10), while Figure 3 shows a cyclic voltamogram of bacterial MT. The latter technique is potentially useful in assessing metal speciation and integrity of the protein tertiary structure near metal clusters, particularly after metal reconstitution studies. 
+
+ E 
+
+ 'C2A-                                    E   24 
+
+ 0           30                            40 E0 
+
+ *~~~~~~~~~~~~ 
+
+ o                           C~~~~~~~~~~~~~~~~~~~~C 
+
+ Fraction Number (18ml) 
+
+ FIGURE 4. Sephadex G-75 chromatography profile of bacterial cell 
+
+ lysate applied to a 5 x 100 cm column and eluted with 10 mM anunoium bicarbonate, 5 mM mercaptoethanol (7). 
+
+ Elution  Time  (min) 
+
+ FIGURE 5. Reverse-phase high-performance chromatography profile 
+
+ of Sephadex G-75 fractionated bacterial MT. The 300 A pore size propyl column was eluted with 20 mM triethylamine phosphate, pH 7.0, by using an acetonitrile organic modifier (phase B). Column effluent was monitored at 250 nm with a sensitivity of 1.0 AUFS (12). 
+
+ 72 
+
+ CYANOBACTERIAL METALLOTHIONEINS 
+
+ Isolation of Cyanobacterial MT 
+
+ Synechococcus strain Tx-20 cyanobacteria were maintained in axenic culture on BG-11 medium (7) and harvested from aerated 20 L cultures grown at 280C under fluorescent light. Cells were broken in a French pressure cell at 0?C in 0.5 M Tris-HCI, pH 8.6, and the lysate exposed to 10 ,uCi of 109CdCl. The 40,000g supernatant was applied to a Sephadex G-75 column developed with 10 mM ammonium bicarbonate and 5 mM mercaptoethanol resulting in the profile shown in Figure 4. Polarographic activity and radionuclide binding were coincident with a 10,000 MW ultraviolet absorbing fraction. Further purification of this material could be undertaken by DEAE-cellulose chromatography or isoelectric focusing but maximum resolution of isoproteins was best attained by reverse-phase high-performance liquid chromatogra
+
+ 0              5 
+
+ DAYS 
+
+ I0 
+
+ 5 
+
+ phy. Figure 5 shows such a separation performed on a 300 A pore size C-3 column (Beckman Instruments). Four baseline resolved MT peaks appear between 40 and 70 min. Peaks eluting at 80 min contain at least four additional MT components resolvable by adjustment of the applied organic modifier ramp. Preliminary evidence indicates that these isoproteins are microheterogeneous with respect to both amino acid composition and metal speciation resulting in the observed reverse-phase separation. 
+
+ Physiological Characteristics of Cyanobacterial MT 
+
+ Using the Brdicka polarographic procedure, it is possible to measure basal MT levels in Synechococcus strain 
+
+ 5 
+
+ DAYS 
+
+ 10 
+
+ 15 
+
+ FIGURE 6. Cell numbers and MT concentrations as a function of time after inoculation of wild-type cyanobacteria in the presence and absence 
+
+ of (A) 22.5 ,uM CdCl2; (B) control; (C) 50 ,uM ZnSO4; (D) 50 ,uM CuCl2 (8). 
+
+ 73 
+
+ 74                            ~~~~~~~~~~R. W  OLAFSON 
+
+ Table 1. Amino acid compositions of cyanobacterial 
+
+ metallothioneins compared with eukaryotic metallothioneins. 
+
+ Nearest integer residues per molecule Human (MT-2)    Crab (MT-2)     Tx-20t CysA                  20            18            9.5 Asx                    4             6            5.7 Thr                    2             3            4.8 Ser                    8             5            3.8 Glx                    2             5            2.0 Gly                    5             3            8.0 Ala                    7              1           4.0 Val                    1             -            2.3 Met                    1                    -       
+
+ Ile                    1             -1.1 
+
+ Leu Tyr Phe His Lys Arg Pro 
+
+ 8 2 
+
+ 8 2 6 
+
+ 2.9 2.3 
+
+ 2.8 2.6 1.0 1.9 
+
+ RRIMP NI cells cultured in the absence of added metal, as shown in Figure 6B (8). Comparison with cultures exposed to cadmium chloride (Fig. 6A) or zinc sulfate (Fig. 6C) showed that introduction of metal salts resulted in a growth lag and that resumption of growth occurred coincident with an increase in cellular levels of MT. In addition, it should be noted that, like mammalian MT, cadmium appears to be a more potent inducer than zinc. Twice as much cadmium-thionein was synthesized on exposure to half as much metal as was used in the zinc induction experiment. A further interesting finding was that copper exposure resulted in an even greater growth lag than observed with cadmium, but on resumption of growth in the presence copper, MT synthesis was not noted (Fig. 6D). Recent results suggest that this copper resistance is manifest via a membrane exclusion mechanism (unpublished results). 
+
+ HOURS 
+
+ FIGURE 7. Inhibition of cadmium induced synthesis by actinomycin 
+
+ D (hatched bar) and chloramphenicol (solid bar). Control cells are shown by unmarked bars. 
+
+ In order that the level of regulation of metal induction be determined for cyanobacteria, logarithmically growing cultures were exposed to cadmium and MT concentrations measured at several time intervals thereafter. Two cultures were exposed to either chloramphenicol or actinomycin D 30 min prior to introduction of metal, while a third culture was used as a control. The results of this experiment are shown in Figure 7 and indicate induction at the level of transcription, as was found in eukaryotic organisms. 
+
+ The assumption at this stage in these investigations was that the growth lag observed in cultures exposed to 
+
+ Table 2. Amino acid sequence analysis. 
+
+ Amino acid 
+
+ 1                      10                       20                        30 Cyanobacteria T S T T L V K C A C E P C L C N V D P S K A I D R N G L Y Y Scylla        P DP C      C       NDK C DC K EG             EC KT GC K CT S C Human    Ac MD P NC     S C AA G DS       CT     C  AG  S C KC     KE    C KC     T  S C 
+
+ Neurospora 
+
+ G D C G C S G A S S C N C G S G C S C S N 
+
+ C G S K 
+
+ Table 2. Continued. 
+
+ Amino acid 
+
+ 40           50          60 C C EAC A H GHT G G 
+
+ R CP PC EQ C S SGC K CA NK E DC RK TC SK PC SCC P K K SCC S CCP V GC A KCA Q BC I C K GA SDK C S CC A 
+
+ 74 
+
+ I 
+
+ II 
+
+ I I 
+
+ CYANOBACTERIAL METALLOTHIONEINS                       75 
+
+ cadmium or zinc was due to a rather protracted time of MT induction, perhaps associated with toxic burden. If the above cadmium-resistant cells were transferred into fresh media in the absence of cadmium and allowed to grow up between three successive transfers, levels of MT dropped to near basal values as synthesis was repressed in the absence of metal. However, when these cells were now transferred into cadmium-containing media, instead of the predicted growth lag, they grew immediately. Thus, these cells were truly cadmium resistant. Since 50 tubes of wild-type cells at a dilution of 104 grew, after the usual lag on exposure to cadmium-containing media, the acquisition of cadmium resistance in this strain of Synechococcus was therefore considered unlikely to be related to a chromosomal mutational event. Such a mutation frequency would be unreasonably high. Although no direct evidence exists at this time, this metal resistance phenomenon is best explained by the amplification of an extrachromosomal gene, especially since this strain is known to have plasmids. 
+
+ Structure of Cyanobacterial MT 
+
+ The structural determination of cyanobacterial MT is not yet complete, although a substantial amount of information is now known. For example, Table 1 compares the amino acid composition of a Synechococcus TX-20 isoprotein with two eukaryotic MTs. These data indicate that the bacterial form is unique. While cysteine was still the predominant amino acid in this protein, levels of the amino acid were half that seen in the eukaryotes. In addition, the bacterial protein had two tyrosines, three histidines, and five long-chain aliphatics-all residues rarely found in eukaryotic MTs. Thus, the amino acid composition indicates that prokaryotic MTs are not as structurally homologous with eukaryotes as they are physiologically homologous. This was further exemplified on amino terminal amino acid sequence analysis (12). With the exception of the typical Cys-X-Cys sequences, the first 42 residues of the prokaryotic MT were essentially without homology on comparison with the crab (Scylla), human, or Neurospora crassa MTs (Table 2). Of the above-mentioned uncommon MT residues, two tyrosines were found together in positions 29 and 30, all five of the long-chain aliphatic amino acids were located in the first 28 residues, and two histidines were situated at positions 37 and 39. Perhaps of greater interest was the complete lack of association of basic residues or hydroxylated residues with cysteines, as is found in eukaryotes (11). Instead, a block of four hydroxylated amino acids was found at the amino terminus. 
+
+ The sequence of this unique MT is now nearing completion, opening the way for an X-ray crystallographic investigation. However, the degree of similarity between the metal cluster arrangement of these bacterial molecules with the eukaryotic structures will initially be undertaken spectroscopically. Reliable interpretation of the 113Cd-NMR data for this molecule will be dependent upon adequate isolation of isoproteins using RP-HPLC and assessment of conformational integrity of metal reconstituted molecules, using procedures such as cyclic voltametry. Studies along these lines are presently underway in this laboratory 
+
+ The author gratefully acknowledges the financial support of the Australian Institute of Marine Science and the National Science and Engineering Research Council of Canada. Excellent technical assistance was provided by R. G. Sim and S. Kielland in carrying out the polarographic and sequence analyses, respectively. 
+
+ REFERENCES 
+
+ 1. Kagi, J. H. R., and Nordberg, M. (Eds.). Metallothionein. Birk
+
+ hauser Verlag, Basel, 1979, pp. 5-55. 
+
+ 2. Olafson, R. W Differential pulse polarographic determination of 
+
+ murine metallothionein induction kinetics. J. Biol. Chem. 256:12631268 (1981). 
+
+ 3. Olafson, R. W Intestinal metallothionein: effect of parenteral and 
+
+ enteral zinc exposure on tissue levels of mice on controlled zinc diets. J. Nutr. 113: 268-275 (1983). 
+
+ 4. McCarter, J.A., and Roch, M. Chronic exposure of Coho salmon 
+
+ to sublethal concentrations of copper. III. Kinetics of metabolism of metallothionein. Comp. Biochem. Physiol. 77C: 83-87 (1984). 
+
+ 5. Lerch, K., Ammer, D., and Olafson, R. W Crab metallothionein
+
+ primary structures of metallothioneins 1 and 2. J. Biol. Chem. 257: 2420-2426 (1982). 
+
+ 6. Otvos, J. D., Olafson, R.W, and Armitage, I. M. Structure of an 
+
+ invertebrate metallothionein from Scylla serrata. J. Biol. Chem. 257: 2427-2431 (1982). 
+
+ 7. Olafson, R. W, Abel, K., and Sim, R. G. Prokaryotic metallothi
+
+ onein: preliminary characteristics of a blue-green alga heavy metalbinding protein. Biochem. Biophys. Res. Commun. 89: 36-40 (1979). 8. Olafson, R. W, Loya, S., and Sim, R. G. Physiological parameters 
+
+ of prokaryotic metallothionein induction. Biochem. Biophys. Res. Commun. 95: 1495-1503 (1980). 
+
+ 9. Brdicka, R. Pblarographic studies with the dropping mercury ka
+
+ thode.-Part XXXI.-A new test for proteins in the presence of cobalt salts in ammoniacal solutions of ammonium chloride. Collect. Czech. Chem. Commun. 5: 112-128 (1933). 
+
+ 10. Olafson, R. W, and Sim, R. G. An electrochemical approach to 
+
+ quantitation and characterization of metallothionein. Anal. Biochem. 100: 343-351 (1979). 
+
+ 11. Olafson, R. W Differential pulse polarographic determination of 
+
+ murine metallothionein induction kinetics. J. Biol. Chem. 256: 12631268 (1981). 
+
+ 12. Olafson, R. W Prokaryotic metallothionein: amino terminal se
+
+ quence analysis of a unique metallothionein. Int. J. Peptide Protein Res. 24: 303-308 (1984). 

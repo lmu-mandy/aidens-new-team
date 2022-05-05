@@ -1,0 +1,53 @@
+T1	Person 8 16	HUGH Low
+T2	GeographicalLocation 43 48	Perak
+T3	GeographicalLocation 91 106	Botanic Gardens
+T4	GeographicalLocation 110 119	Singapore
+T5	GeographicalLocation 156 161	Perak
+T6	GeographicalLocation 281 293	Malay States
+T7	GeographicalLocation 308 324	Colonial Gardens
+T8	GeographicalLocation 375 387	Malay States
+T9	GeographicalLocation 429 445	Colonial Gardens
+T10	GeographicalLocation 512 524	Malay States
+T11	GeographicalLocation 536 551	Botanic Gardens
+T12	GeographicalLocation 555 564	Singapore
+T13	GeographicalLocation 569 575	Penang
+T14	GeographicalLocation 708 717	Peninsula
+T15	Person 837 854	Christopher Smith
+T16	Taxon 875 882	Nutmegs
+T17	Taxon 887 893	Cloves
+T18	GeographicalLocation 897 903	Penang
+T19	Person 1004 1015	N. Cantley,
+T20	GeographicalLocation 1034 1050	Economic Gardens
+T21	GeographicalLocation 1054 1063	Singapore
+T22	GeographicalLocation 1147 1162	Malay Peninsula
+T23	GeographicalLocation 1196 1211	MALAY PENINSULA
+T24	TemporalExpression 1215 1219	1904
+T25	Person 1396 1408	BURN-MURDOCH
+T26	GeographicalLocation 1423 1431	Selangor
+T27	GeographicalLocation 1433 1439	Merbau
+T28	GeographicalLocation 1525 1535	Ulu Langat
+T29	Taxon 1547 1552	Penak
+T30	GeographicalLocation 1591 1602	Kwala Pilah
+T31	GeographicalLocation 1615 1629	Negri Sembilan
+T32	Taxon 1637 1649	Gutta-percha
+T33	Taxon 1658 1681	Palaquium oblongifolium
+T34	Person 1708 1714	HARPER
+T35	Taxon 1816 1825	Palaquium
+T36	Taxon 1844 1855	Dipterocarp
+T37	GeographicalLocation 1901 1915	Negri Sembilan
+T38	Taxon 1941 1946	Penak
+T39	Taxon 1949 1961	Balanocarpus
+T40	Taxon 2030 2050	Balanocarpus maximus
+T41	TemporalExpression 2055 2059	June
+T42	TemporalExpression 2063 2069	August
+T43	Taxon 2071 2076	Kumus
+T44	Taxon 2078 2092	Shorea ciliata
+T45	TemporalExpression 2098 2105	October
+T46	Taxon 2107 2114	Meranti
+T47	Taxon 2119 2127	Serayahs
+T48	Taxon 2128 2135	Shoreas
+T49	Taxon 2159 2164	Hopea
+T50	TemporalExpression 2169 2173	July
+T51	TemporalExpression 2177 2183	August
+T52	Taxon 2185 2197	S. Acuminata
+T53	Taxon 2198 2209	S. Oprosula

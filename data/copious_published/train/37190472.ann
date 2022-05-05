@@ -1,0 +1,23 @@
+T1	GeographicalLocation 44 61	Malayan Peninsula
+T2	GeographicalLocation 420 427	Malacca
+T3	Person 429 436	Maingay
+T4	GeographicalLocation 461 466	Perak
+T5	Person 468 479	Scortechini
+T6	GeographicalLocation 500 506	Borneo
+T7	Person 521 528	Beccari
+T8	Taxon 607 618	D. Tamparan
+T9	Taxon 607 626	D. Tamparan, Korth.
+T10	Person 627 635	Korthals
+T11	Taxon 743 769	Dipterocarpus scortechinii
+T12	Taxon 743 775	Dipterocarpus scortechinii, King
+T13	GeographicalLocation 1748 1753	Perak
+T14	Person 1755 1766	Scortechini
+T15	Taxon 1804 1815	D. crinitus
+T16	Taxon 1804 1821	D. crinitus, Dyer
+T17	Taxon 1804 1815	D. crinitus
+T18	Person 1998 2009	Scortechini
+T19	TemporalExpression 2071 2089	beginning of March
+T20	Taxon 2097 2108	D. crinitus
+T21	TemporalExpression 2141 2153	end of April
+T22	Taxon 2158 2180	Dipterocarpus skinneri
+T23	Taxon 2158 2186	Dipterocarpus skinneri, King

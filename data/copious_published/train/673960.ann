@@ -1,0 +1,40 @@
+T1	Taxon 17 39	Dipterocarpus gracilis
+T2	Taxon 17 45	Dipterocarpus gracilis Blume
+T3	GeographicalLocation 877 882	Luzon
+T4	GeographicalLocation 884 905	Province of Camarines
+T5	Person 923 929	Curran
+T6	TemporalExpression 931 940	July 1908
+T7	GeographicalLocation 952 959	MINDORO
+T8	Person 982 989	Merritt
+T9	TemporalExpression 991 999	May 1906
+T10	Taxon 1037 1044	anahaun
+T11	Taxon 1054 1061	apitong
+T12	Habitat 1084 1091	forests
+T13	GeographicalLocation 1095 1104	West Java
+T14	GeographicalLocation 1110 1121	Philippines
+T15	Taxon 1126 1149	Dipterocarpus hasseltii
+T16	Taxon 1126 1155	Dipterocarpus hasseltii Blume
+T17	GeographicalLocation 1160 1164	Java
+T18	Taxon 1673 1685	D. trinervis
+T19	Taxon 1979 1994	D. vernicifluus
+T20	GeographicalLocation 2113 2118	Luzon
+T21	GeographicalLocation 2120 2143	Province of Nueva Ecija
+T22	Person 2161 2168	Alvarez
+T23	GeographicalLocation 2170 2191	Province of La Laguna
+T24	Person 2209 2215	Curran
+T25	GeographicalLocation 2217 2223	NEGROS
+T26	GeographicalLocation 2225 2239	Gimagaan Kiver
+T27	Person 2257 2262	Meyer
+T28	Person 2265 2274	Foxworthy
+T29	TemporalExpression 2276 2285	Aug. 1909
+T30	GeographicalLocation 2297 2305	Mindanao
+T31	GeographicalLocation 2307 2328	District of Zamboanga
+T32	Person 2346 2356	Hutchinson
+T33	Taxon 2372 2377	panao
+T34	Taxon 2386 2397	pagsahingan
+T35	GeographicalLocation 2420 2427	Malacca
+T36	GeographicalLocation 2429 2436	Sumatra
+T37	GeographicalLocation 2438 2442	Java
+T38	GeographicalLocation 2448 2459	Philippines
+T39	Taxon 2466 2492	Dipterocarpus vernicifluus
+T40	Taxon 2466 2499	Dipterocarpus vernicifluus Blanco

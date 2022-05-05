@@ -1,0 +1,63 @@
+T1	Taxon 551 558	Partula
+T2	Taxon 1037 1050	Helix pomatia
+T3	Taxon 1131 1144	Helix aspersa
+T4	Taxon 1163 1178	Achatina fulica
+T5	Taxon 1398 1414	Liguus virgineus
+T6	GeographicalLocation 1420 1425	Haiti
+T7	Taxon 1427 1439	L. fasciatus
+T8	GeographicalLocation 1445 1452	Florida
+T9	GeographicalLocation 1468 1472	Cuba
+T10	GeographicalLocation 1512 1523	Philippines
+T11	GeographicalLocation 1528 1544	Papua New Guinea
+T12	GeographicalLocation 1791 1806	Pacific islands
+T13	GeographicalLocation 2090 2099	Polynesia
+T14	GeographicalLocation 2101 2112	Rapa Island
+T15	GeographicalLocation 2125 2134	Mangareva
+T16	GeographicalLocation 2140 2154	Hawaiian Chain
+T17	GeographicalLocation 2252 2261	Mangareva
+T18	GeographicalLocation 2300 2311	Rapa Island
+T19	GeographicalLocation 2439 2448	Marquesas
+T20	TemporalExpression 2468 2473	1970s
+T21	GeographicalLocation 2494 2508	Samoan Islands
+T22	Taxon 2743 2757	Achatinellidae
+T23	Taxon 2798 2812	Achatinellinae
+T24	Taxon 2996 3007	Achatinella
+T25	Taxon 3022 3031	Partulina
+T26	Taxon 3048 3057	Newcombia
+T27	GeographicalLocation 3194 3201	Molokai
+T28	GeographicalLocation 3303 3308	Lanai
+T29	GeographicalLocation 3398 3405	Molokai
+T30	Taxon 3524 3534	Partulidae
+T31	Taxon 3624 3642	Samoana abbreviata
+T32	TemporalExpression 3786 3790	1975
+T33	Taxon 3849 3861	Endodontidae
+T34	GeographicalLocation 3956 3965	Rarotonga
+T35	TemporalExpression 3993 3997	1965
+T36	GeographicalLocation 4071 4080	Mangareva
+T37	TemporalExpression 4111 4114	193
+T38	Taxon 1184 1203	Giant African Snail
+T39	GeographicalLocation 1241 1247	Taiwan
+T40	Taxon 1454 1462	Polymita
+T41	GeographicalLocation 2114 2123	Marquesas
+T42	GeographicalLocation 2163 2176	Austral Group
+T43	TemporalExpression 2219 2226	By 193f
+T44	TemporalExpression 2369 2372	193
+T45	TemporalExpression 2381 2390	mid-1960s
+T46	GeographicalLocation 2455 2460	Kauai
+T47	GeographicalLocation 2565 2571	Hawaii
+T48	GeographicalLocation 2856 2862	Hawaii
+T49	Taxon 3033 3043	Perdicella
+T50	GeographicalLocation 3071 3084	Hawaii Island
+T51	Taxon 3093 3102	Partulina
+T52	GeographicalLocation 3137 3141	Oahu
+T53	Taxon 3454 3464	Perdicella
+T54	Taxon 3575 3582	Moorean
+T55	Taxon 3600 3623	Short Samoan Tree Snail
+T56	TemporalExpression 3667 3671	1926
+T57	GeographicalLocation 3724 3731	Tutuila
+T58	GeographicalLocation 3804 3811	Pacific
+T59	TemporalExpression 3893 3906	last 50 years
+T60	TemporalExpression 3920 3925	1830s
+T61	GeographicalLocation 3973 3985	Cook Islands
+T62	TemporalExpression 4026 4031	18tos
+T63	GeographicalLocation 4088 4103	Gambler Islands

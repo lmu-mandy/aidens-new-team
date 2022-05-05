@@ -1,0 +1,83 @@
+T1	TemporalExpression 81 85	1929
+T2	TemporalExpression 86 90	1940
+T3	GeographicalLocation 195 206	Kota Tinggi
+T4	TemporalExpression 208 215	January
+T5	Habitat 409 414	ridge
+T6	TemporalExpression 418 423	March
+T7	TemporalExpression 424 434	April 1931
+T8	Habitat 478 483	ridge
+T9	Habitat 508 528	lowland swamp-forest
+T10	Habitat 533 563	mountain Leptos per mum-forest
+T11	Habitat 629 641	swamp-forest
+T12	TemporalExpression 685 692	January
+T13	TemporalExpression 761 769	November
+T14	TemporalExpression 774 782	December
+T15	Taxon 804 815	Calophyllum
+T16	Taxon 823 829	rengas
+T17	TemporalExpression 1068 1075	January
+T18	TemporalExpression 1079 1082	May
+T19	TemporalExpression 1118 1121	May
+T20	TemporalExpression 1125 1132	October
+T21	Taxon 1217 1227	Buchanania
+T22	Taxon 1233 1250	Ixora grandifolia
+T23	TemporalExpression 1254 1258	Jan.
+T24	TemporalExpression 1259 1263	Feb.
+T25	TemporalExpression 1271 1275	July
+T26	TemporalExpression 1276 1280	Aug.
+T27	Taxon 1291 1311	Kopsia singapurensis
+T28	Taxon 1339 1344	Ixora
+T29	Habitat 1371 1389	forest-undergrowth
+T30	TemporalExpression 1393 1397	Jan.
+T31	TemporalExpression 1399 1403	Feb.
+T32	TemporalExpression 1408 1413	Sept.
+T33	TemporalExpression 1415 1419	Oct.
+T34	Taxon 1420 1443	Pentaspadon officinalis
+T35	Taxon 1445 1467	Pterospermum javanicum
+T36	Taxon 1483 1494	Mesua rosea
+T37	TemporalExpression 1510 1515	April
+T38	TemporalExpression 1520 1527	October
+T39	Taxon 1655 1661	Kopsia
+T40	Taxon 1666 1671	Ixora
+T41	Taxon 1827 1836	Nephelium
+T42	Taxon 1841 1852	Xerospermum
+T43	Taxon 1941 1965	Macaranga baccaureifolia
+T44	TemporalExpression 1991 1999	February
+T45	Taxon 2166 2178	dipterocarps
+T46	Person 2259 2265	Medway
+T47	Taxon 2306 2318	dipterocarps
+T48	GeographicalLocation 2322 2330	Selangor
+T49	Person 2382 2389	Burgess
+T50	Taxon 2420 2435	Shorea curtisii
+T51	Taxon 2506 2518	dipterocarps
+T52	GeographicalLocation 2526 2539	Sedili region
+T53	TemporalExpression 2548 2556	May 1935
+T54	TemporalExpression 2562 2569	January
+T55	Taxon 2642 2654	Kostermansia
+T56	TemporalExpression 2658 2668	Sept. 1932
+T57	GeographicalLocation 2746 2763	south east Johore
+T58	TemporalExpression 2815 2832	end of March 1940
+T59	GeographicalLocation 2974 2983	Jemaluang
+T60	Taxon 3006 3018	Kostermansia
+T61	TemporalExpression 3033 3038	March
+T62	Taxon 3105 3111	lanjut
+T63	Taxon 3113 3133	Mangifera lagenifera
+T64	GeographicalLocation 3173 3185	Sedili Besar
+T65	Taxon 3264 3277	Gluta renghas
+T66	TemporalExpression 3319 3323	1963
+T67	TemporalExpression 3324 3328	1969
+T68	Taxon 3361 3379	Swintonia schenkii
+T69	Taxon 3440 3453	Anacardiaceae
+T70	Taxon 3543 3559	P enlace corneri
+T71	GeographicalLocation 3608 3614	Borneo
+T72	GeographicalLocation 3619 3630	east Johore
+T73	Taxon 3632 3648	Pentace triptera
+T74	Taxon 3679 3691	Kostermansia
+T75	Person 3693 3699	Medway
+T76	Taxon 3741 3761	Pentace strychnoidea
+T77	TemporalExpression 3775 3779	1963
+T78	TemporalExpression 3780 3784	1969
+T79	TemporalExpression 3787 3794	January
+T80	Taxon 3851 3874	Buchanania sessilifolia
+T81	Taxon 3943 3965	Melanorrhoea wallichii
+T82	Taxon 4126 4145	Tristania sumatrana
+T83	Habitat 4170 4185	Tristania-banks

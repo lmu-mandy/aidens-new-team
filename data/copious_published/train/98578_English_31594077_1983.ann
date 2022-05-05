@@ -1,0 +1,67 @@
+T1	Taxon 121 138	Trochus niloticus
+T2	Taxon 143 159	Turbo marmoratus
+T3	Taxon 191 202	Pinctada sp
+T4	Taxon 204 215	Haliotis sp
+T5	GeographicalLocation 384 390	Taiwan
+T6	GeographicalLocation 395 406	South Korea
+T7	Taxon 520 527	Trochus
+T8	GeographicalLocation 550 561	Philippines
+T9	GeographicalLocation 566 575	Indonesia
+T10	Taxon 603 614	Pinctada sp
+T11	GeographicalLocation 620 629	Indonesia
+T12	GeographicalLocation 635 650	Solomon Islands
+T13	Taxon 684 701	Trochus niloticus
+T14	Taxon 706 722	Turbo marmoratus
+T15	GeographicalLocation 1284 1295	Philippines
+T16	TemporalExpression 1353 1357	1979
+T17	TemporalExpression 1440 1444	1969
+T18	GeographicalLocation 1548 1555	Florida
+T19	GeographicalLocation 1701 1706	Japan
+T20	GeographicalLocation 1823 1832	Caribbean
+T21	Taxon 1890 1904	Cypraea tigris
+T22	Taxon 2171 2177	Cassis
+T23	GeographicalLocation 2426 2437	Philippines
+T24	Taxon 2502 2518	Placuna placenta
+T25	TemporalExpression 2599 2603	1979
+T26	Taxon 2739 2750	Giant Clams
+T27	GeographicalLocation 3274 3289	south Australia
+T28	GeographicalLocation 3294 3300	Mexico
+T29	Taxon 3307 3328	Haliotis tuberculatus
+T30	GeographicalLocation 3366 3381	English Channel
+T31	GeographicalLocation 3452 3462	California
+T32	GeographicalLocation 4005 4019	Atlantic coast
+T33	TemporalExpression 4059 4063	1920
+T34	GeographicalLocation 4139 4150	Philippines
+T35	GeographicalLocation 4152 4161	Australia
+T36	Taxon 86 101	Pinctada maxima
+T37	Taxon 103 121	P. margaritifera  
+T38	GeographicalLocation 736 749	South Pacific
+T39	GeographicalLocation 926 931	3apan
+T40	GeographicalLocation 377 382	3apan
+T41	GeographicalLocation 1384 1389	U.S.A
+T42	GeographicalLocation 1534 1539	U.S.A
+T43	GeographicalLocation 1805 1818	Indo-pacif ic
+T44	TemporalExpression 1469 1473	1978
+T45	GeographicalLocation 661 676	Pacific islands
+T46	Taxon 1846 1857	Queen Conch
+T47	Taxon 1858 1874	Strombus gigas  
+T48	Taxon 1878 1889	Tiger Cowry
+T49	Taxon 1920 1938	Chambered Nautilus
+T50	Taxon 1939 1957	Nautilus pompilius
+T51	Taxon 1910 1916;1930 1938	Pearly Nautilus
+T52	GeographicalLocation 2067 2073	Naples
+T53	GeographicalLocation 2077 2082	Italy
+T54	GeographicalLocation 2148 2160	Indo-pacific
+T55	Taxon 3177 3184	Abalone
+T56	GeographicalLocation 2863 2877	Pacific atolls
+T57	GeographicalLocation 3233 3238	Japan
+T58	GeographicalLocation 3240 3246	China,
+T59	GeographicalLocation 3247 3259	South Africa
+T60	GeographicalLocation 3261 3272	New Zealand
+T61	GeographicalLocation 3464 3470	U.S.A.
+T62	TemporalExpression 3471 3491	earlier this century
+T63	Taxon 3498 3505	Oysters
+T64	TemporalExpression 3861 3868	By 1964
+T65	GeographicalLocation 3934 3940	U.S.A.
+T66	GeographicalLocation 4163 4176	Great Britain
+T67	GeographicalLocation 4188 4214	Pacific coast of the U.S.A

@@ -1,0 +1,105 @@
+T1	Taxon 41 61	HOPEA PHILIPPINENSIS
+T2	Taxon 41 66	HOPEA PHILIPPINENSIS Dyer
+T3	GeographicalLocation 350 355	Luzon
+T4	GeographicalLocation 357 363	Laguna
+T5	GeographicalLocation 365 372	Tayabas
+T6	GeographicalLocation 374 383	Camarines
+T7	GeographicalLocation 385 390	Albay
+T8	GeographicalLocation 394 399	Samar
+T9	GeographicalLocation 401 408	Biliran
+T10	GeographicalLocation 410 415	Leyte
+T11	GeographicalLocation 417 423	Negros
+T12	GeographicalLocation 425 430	Panay
+T13	GeographicalLocation 432 440	Mindanao
+T14	GeographicalLocation 442 448	Agusan
+T15	GeographicalLocation 450 455	Lanao
+T16	GeographicalLocation 457 466	Zamboanga
+T17	Habitat 472 487	primary forests
+T18	Taxon 542 551	Bagitarim
+T19	Taxon 560 569	baguatsan
+T20	Taxon 579 587	bagupsan
+T21	Taxon 596 603	bantaya
+T22	Taxon 619 624	gisok
+T23	Taxon 658 669	gisok-gisok
+T24	Taxon 700 717	gisok nga-salngan
+T25	Taxon 733 743	kulilisiau
+T26	Taxon 753 764	makatayring
+T27	Taxon 774 783	makitarem
+T28	Taxon 793 802	makitarin
+T29	Taxon 812 822	malatamban
+T30	Taxon 832 840	malibato
+T31	Taxon 850 859	mangalaun
+T32	Taxon 869 878	malalamba
+T33	Taxon 888 897	malatagum
+T34	Taxon 907 915	pagakson
+T35	Taxon 925 930	paina
+T36	Taxon 940 945	pongo
+T37	Taxon 961 968	subiang
+T38	Taxon 983 996	HOPEA PIERREI
+T39	Taxon 983 1002	HOPEA PIERREI Hance
+T40	Taxon 1162 1177	Hopea micrantha
+T41	Taxon 1162 1183	Hopea micrantha Hance
+T42	Taxon 1227 1241	Hancea pierrei
+T43	Taxon 1227 1248	Hancea pierrei Pierre
+T44	Taxon 1288 1304	Hopea foxworthyi
+T45	Taxon 1288 1309	Hopea foxworthyi Elm.
+T46	Taxon 1394 1409	Hopea glutinosa
+T47	Taxon 1394 1414	Hopea glutinosa Elm.
+T48	GeographicalLocation 1437 1442	Luzon
+T49	GeographicalLocation 1444 1451	Cagayan
+T50	GeographicalLocation 1453 1463	Pangasinan
+T51	GeographicalLocation 1465 1476	Nueva Ecija
+T52	GeographicalLocation 1478 1484	Laguna
+T53	GeographicalLocation 1486 1493	Tayabas
+T54	GeographicalLocation 1495 1504	Camarines
+T55	GeographicalLocation 1506 1511	Albay
+T56	GeographicalLocation 1513 1521	Sorsogon
+T57	GeographicalLocation 1524 1531	Polillo
+T58	GeographicalLocation 1533 1544	Catanduanes
+T59	GeographicalLocation 1546 1553	Mindoro
+T60	GeographicalLocation 1555 1562	Sibuyan
+T61	GeographicalLocation 1564 1569	Panay
+T62	GeographicalLocation 1571 1577	Negros
+T63	GeographicalLocation 1579 1584	Samar
+T64	GeographicalLocation 1586 1594	Mindanao
+T65	GeographicalLocation 1596 1602	Agusan
+T66	GeographicalLocation 1604 1613	Zamboanga
+T67	Habitat 1619 1634	primary forests
+T68	GeographicalLocation 1667 1677	Indo-China
+T69	GeographicalLocation 1679 1688	Singapore
+T70	GeographicalLocation 1690 1696	Borneo
+T71	Taxon 1720 1736	Hopea foxworthyi
+T72	Taxon 1720 1741	Hopea foxworthyi Elm.
+T73	Taxon 1746 1758	H. glutinosa
+T74	Taxon 1746 1763	H. glutinosa Elm.
+T75	Taxon 1788 1798	H. pierrei
+T76	Taxon 1788 1804	H. pierrei Hance
+T77	Taxon 1922 1932	Barakbakan
+T78	Taxon 1941 1953	dagingdingan
+T79	Taxon 1968 1972	dala
+T80	Taxon 1982 1994	dalingdingan
+T81	Taxon 2029 2033	isak
+T82	Taxon 2063 2069	kaliot
+T83	Taxon 2080 2084	lito
+T84	Taxon 2094 2103	malatagum
+T85	Taxon 2113 2125	manggachapoi
+T86	Taxon 2147 2159	manggachapui
+T87	Taxon 2170 2182	manggatsapoi
+T88	Taxon 2195 2204	mululagun
+T89	Taxon 2214 2219	pilak
+T90	Taxon 2229 2234	pisak
+T91	Taxon 2244 2254	sarabsaban
+T92	Taxon 2265 2270	siyau
+T93	Taxon 2285 2291	sugkad
+T94	Taxon 2306 2319	HOPEA PLAGATA
+T95	Taxon 2306 2334	HOPEA PLAGATA (Blanco) Vidal
+T96	Taxon 2630 2646	Mocanera plagata
+T97	Taxon 2630 2653	Mocanera plagata Blanco
+T98	Taxon 2677 2699	Dipterocarpus plagatus
+T99	Taxon 2677 2706	Dipterocarpus plagatus Blanco
+T100	Taxon 2755 2773	Anisoptera plagata
+T101	Taxon 2755 2779	Anisoptera plagata Blume
+T102	Taxon 2845 2862	Shorea reticulata
+T103	Taxon 2845 2871	Shorea reticulata F.-Vill.
+T104	Taxon 2905 2918	Hopea odorata
+T105	Taxon 2905 2924	Hopea odorata Vidal

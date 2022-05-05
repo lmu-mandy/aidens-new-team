@@ -1,0 +1,91 @@
+T1	GeographicalLocation 86 104	Hollongapar forest
+T2	Taxon 183 196	Anacardiaceae
+T3	Taxon 197 213	Mangifera indica
+T4	TemporalExpression 217 221	Aug.
+T5	Taxon 222 233	Bombacaceae
+T6	Taxon 234 248	Bombax insigne
+T7	TemporalExpression 253 257	Aug.
+T8	Taxon 258 272	B. malabaricum
+T9	TemporalExpression 277 281	Aug.
+T10	TemporalExpression 282 287	Sept.
+T11	Taxon 288 299	Burseraceae
+T12	Taxon 300 319	Canarium bengalense
+T13	TemporalExpression 323 327	Oct.
+T14	TemporalExpression 328 332	Nov.
+T15	Taxon 333 347	C. resiniferum
+T16	TemporalExpression 351 355	Oct.
+T17	TemporalExpression 356 360	Nov.
+T18	Taxon 361 373	Dilleniaceae
+T19	Taxon 374 389	Dillenia indica
+T20	TemporalExpression 394 398	June
+T21	Taxon 399 415	Dipterocarpaceae
+T22	Taxon 416 441	Dipterocarpus macrocarpus
+T23	TemporalExpression 446 450	Oct.
+T24	TemporalExpression 451 455	Nov.
+T25	Taxon 456 481	Lagerstroemia flosreginae
+T26	TemporalExpression 486 490	Oct.
+T27	TemporalExpression 491 495	Nov.
+T28	Taxon 496 509	L. parviflora
+T29	TemporalExpression 514 518	Oct.
+T30	TemporalExpression 519 523	Nov.
+T31	Taxon 524 538	Shorea robusta
+T32	TemporalExpression 543 547	Oct.
+T33	TemporalExpression 548 552	Nov.
+T34	Taxon 553 573	Terminalia bellirica
+T35	TemporalExpression 578 582	Nov.
+T36	TemporalExpression 583 587	Feb.
+T37	Taxon 588 598	T. citrina
+T38	TemporalExpression 602 606	Nov.
+T39	TemporalExpression 607 611	Feb.
+T40	Taxon 612 625	T. myriocarpa
+T41	TemporalExpression 629 633	Nov.
+T42	TemporalExpression 634 638	Feb.
+T43	Taxon 639 660	Athrocephalus cadamba
+T44	TemporalExpression 665 669	July
+T45	TemporalExpression 670 674	Aug.
+T46	Taxon 675 688	Euphorbiaceae
+T47	TemporalExpression 691 695	July
+T48	TemporalExpression 696 700	Aug.
+T49	Taxon 701 715	Bridela retusa
+T50	TemporalExpression 719 724	Sept.
+T51	Taxon 725 745	Endospermum chinense
+T52	TemporalExpression 749 753	Aug.
+T53	TemporalExpression 754 759	Sept.
+T54	Taxon 760 770	Guttiferae
+T55	Taxon 771 794	Callophyllum polyanthum
+T56	TemporalExpression 798 802	July
+T57	Taxon 803 815	Garcinia sp.
+T58	TemporalExpression 819 823	Jan.
+T59	Taxon 824 833	Lauraceae
+T60	Taxon 834 848	Litsea citrata
+T61	TemporalExpression 853 857	Jan.
+T62	Taxon 858 875	Phoebe cooperiana
+T63	TemporalExpression 880 884	Jan.
+T64	Taxon 885 900	P. goalparansis
+T65	TemporalExpression 904 908	Jan.
+T66	Taxon 909 920	Leguminosae
+T67	Taxon 921 936	Albizzia lebbek
+T68	TemporalExpression 940 944	Jan.
+T69	Taxon 945 955	A. procera
+T70	TemporalExpression 960 964	Jan.
+T71	Taxon 965 976	A.stipulata
+T72	Taxon 981 998	Parkia roxburghii
+T73	TemporalExpression 1003 1006	May
+T74	TemporalExpression 1007 1011	Aug.
+T75	Taxon 1012 1020	Moraceae
+T76	Taxon 1021 1041	Artocarpus chaplasha
+T77	Taxon 1043 1058	A. integriflora
+T78	TemporalExpression 1063 1067	Aug.
+T79	TemporalExpression 1068 1073	Sept.
+T80	Taxon 1074 1085	A. khasiana
+T81	TemporalExpression 1089 1093	Aug.
+T82	TemporalExpression 1094 1099	Sept.
+T83	Taxon 1100 1111	A. lakoocha
+T84	TemporalExpression 1116 1120	Aug.
+T85	TemporalExpression 1121 1126	Sept.
+T86	Taxon 1127 1142	Ficus glomerata
+T87	TemporalExpression 1147 1151	Jan.
+T88	TemporalExpression 1152 1156	July
+T89	Taxon 1157 1166	F.nervosa
+T90	TemporalExpression 1170 1174	Aug.
+T91	TemporalExpression 1175 1179	Oct.

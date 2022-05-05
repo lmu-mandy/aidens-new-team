@@ -1,0 +1,85 @@
+T1	GeographicalLocation 179 184	Luzon
+T2	GeographicalLocation 186 207	Province of La Laguna
+T3	Person 225 231	Curran
+T4	TemporalExpression 233 242	Feb. 1910
+T5	GeographicalLocation 255 274	Province of Tayabas
+T6	Person 299 305	Curran
+T7	Person 323 329	Curran
+T8	TemporalExpression 331 339	May 1908
+T9	Person 367 375	Whitford
+T10	Person 393 403	Rosenbluth
+T11	Person 435 442	Darling
+T12	Person 460 467	Aguilar
+T13	GeographicalLocation 469 491	Province of Cama-rines
+T14	Person 509 515	Curran
+T15	GeographicalLocation 517 534	Province of Albay
+T16	Person 536 542	Cuming
+T17	Person 581 587	Curran
+T18	GeographicalLocation 589 594	Leyte
+T19	Person 612 622	Rosenbluth
+T20	TemporalExpression 624 633	Mar. 1909
+T21	GeographicalLocation 646 652	Negros
+T22	GeographicalLocation 654 683	Province of Negros Occidental
+T23	Person 700 707	Everett
+T24	TemporalExpression 709 717	May 1907
+T25	Person 744 751	Everett
+T26	TemporalExpression 753 763	April 1907
+T27	Person 791 801	Foxnworthy
+T28	GeographicalLocation 819 824	Danao
+T29	TemporalExpression 826 835	Mar. 1908
+T30	Person 877 883	Curran
+T31	GeographicalLocation 885 893	Mindanao
+T32	GeographicalLocation 895 916	Subprovince of Butuan
+T33	Person 933 943	Hutchinson
+T34	Taxon 959 972	guisoc-guisoc
+T35	Taxon 979 990	manguitarem
+T36	Taxon 1003 1008	paina
+T37	Taxon 1018 1046	Hopea plagata (Blanco) Vidal
+T38	Taxon 1018 1031	Hopea plagata
+T39	Taxon 1354 1370	Mocanera plagata
+T40	Taxon 1354 1377	Mocanera plagata Blanco
+T41	Taxon 1407 1429	Dipterocarpus plagatus
+T42	Taxon 1407 1436	Dipterocarpus plagatus Blanco
+T43	Taxon 1466 1484	Anisoptera plagata
+T44	Taxon 1466 1490	Anisoptera plagata Blume
+T45	Taxon 1558 1575	Shorea reticulata
+T46	Taxon 1558 1584	Shorea reticulata F.-Vill.
+T47	Taxon 1652 1665	Hopea odorata
+T48	Taxon 1652 1677	Hopea odorata var.? Vidal
+T49	GeographicalLocation 2483 2488	Luzon
+T50	GeographicalLocation 2490 2509	Province of Cagayan
+T51	Person 2534 2540	Curran
+T52	GeographicalLocation 2542 2566	Province of IIocos Norte
+T53	Person 2584 2591	Paraiso
+T54	GeographicalLocation 2593 2618	Province of Nueva Vizcaya
+T55	Person 2636 2643	Alvarez
+T56	GeographicalLocation 2645 2668	Province of Nueva Ecija
+T57	Person 2670 2675	Vidal
+T58	Person 2695 2701	Curran
+T59	Person 2719 2725	Saroca
+T60	GeographicalLocation 2739 2749	Pangasinan
+T61	Person 2766 2772	Curran
+T62	Person 2775 2782	Merritt
+T63	Person 2800 2807	Alvarez
+T64	Person 2832 2838	Medina
+T65	Person 2856 2865	Villamill
+T66	GeographicalLocation 2867 2887	Province of Zambales
+T67	Person 2922 2928	Curran
+T68	Person 2945 2952	Aguilar
+T69	Person 2975 2981	Curran
+T70	Person 2984 2991	Merritt
+T71	Person 3009 3017	Zschokke
+T72	Person 3035 3041	Cortes
+T73	GeographicalLocation 3043 3061	Province of Bataan
+T74	Person 3079 3085	Curran
+T75	GeographicalLocation 3154 3173	Province of Bulacan
+T76	Person 3191 3198	Aguilar
+T77	Person 3216 3225	Foxworthy
+T78	GeographicalLocation 3227 3246	Province of Tayabas
+T79	Person 3263 3268	Kobbe
+T80	TemporalExpression 3270 3279	June 1906
+T81	Person 3307 3315	Whitford
+T82	Person 3333 3340	Alvarez
+T83	GeographicalLocation 3342 3362	Province of Sorsogon
+T84	Person 3380 3386	Curran
+T85	GeographicalLocation 3388 3395	Mindoro

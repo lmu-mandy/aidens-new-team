@@ -1,0 +1,19 @@
+T1	GeographicalLocation 40 57	Malayan Peninsula
+T2	GeographicalLocation 566 572	Penang
+T3	GeographicalLocation 589 598	West Hill
+T4	Person 630 636	Curtis
+T5	Person 689 695	Curtis
+T6	Person 748 755	Skinner
+T7	GeographicalLocation 780 786	Penang
+T8	Taxon 791 815	Dipterocarpus turbinatus
+T9	Taxon 791 823	Dipterocarpus turbinatus, Gaertn
+T10	GeographicalLocation 2431 2436	Assam
+T11	GeographicalLocation 2438 2444	Cachar
+T12	GeographicalLocation 2446 2456	Chittagong
+T13	GeographicalLocation 2458 2464	Burmah
+T14	GeographicalLocation 2466 2474	S. India
+T15	Taxon 2476 2491	Var. andamanica
+T16	GeographicalLocation 2610 2623	South Andaman
+T17	Person 2643 2647	Dyer
+T18	Taxon 2692 2701	D. laevis
+T19	Person 2705 2722	Buchanan Hamilton

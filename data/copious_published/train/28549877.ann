@@ -1,0 +1,35 @@
+T1	GeographicalLocation 1435 1446	S.W. Ceylon
+T2	Habitat 1448 1477	wet, evergreen lowland forest
+T3	GeographicalLocation 1496 1503	Nelluwa
+T4	GeographicalLocation 1505 1522	Hiniduma Province
+T5	GeographicalLocation 1528 1540	S. Sinharaja
+T6	Person 1550 1556	Ashton
+T7	Taxon 1649 1661	Stemonoporus
+T8	Taxon 1731 1737	Vatica
+T9	TemporalExpression 1797 1807	April 1855
+T10	GeographicalLocation 1814 1821	Nellowe
+T11	GeographicalLocation 1971 1978	Nellowe
+T12	GeographicalLocation 1980 1994	Hinidoon Corle
+T13	TemporalExpression 2000 2009	Apr. 1855
+T14	TemporalExpression 2015 2025	Sept. 1860
+T15	GeographicalLocation 2086 2093	Nellowe
+T16	TemporalExpression 2095 2105	Sept. 1860
+T17	Person 2107 2111	Heim
+T18	Taxon 2124 2133	Kunckelia
+T19	GeographicalLocation 2254 2270	Sinharaja forest
+T20	GeographicalLocation 2333 2344	S W. Ceylon
+T21	GeographicalLocation 2358 2373	Hiniduma Korale
+T22	GeographicalLocation 2375 2382	Nelluwe
+T23	TemporalExpression 2384 2394	April 1855
+T24	TemporalExpression 2441 2451	Sept. 1860
+T25	Person 2482 2493	Gunatilleke
+T26	GeographicalLocation 2502 2518	Sinharaja forest
+T27	GeographicalLocation 2519 2537	Weddagala entrance
+T28	Person 2552 2562	Kostermans
+T29	TemporalExpression 2581 2585	Oct.
+T30	Person 2611 2621	Kostermans
+T31	TemporalExpression 2640 2644	Nov.
+T32	Taxon 2673 2702	Stemonoporus rigidus Thwaites
+T33	Taxon 2673 2693	Stemonoporus rigidus
+T34	Taxon 2816 2830	Vateria rigida
+T35	Taxon 2816 2837	Vateria rigida, Benth

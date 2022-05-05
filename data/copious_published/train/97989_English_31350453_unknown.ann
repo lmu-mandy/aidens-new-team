@@ -1,0 +1,118 @@
+T1	GeographicalLocation 43 50	Bolinao
+T2	GeographicalLocation 227 241	Balingasay Bay
+T3	GeographicalLocation 260 275	Santiago Island
+T4	GeographicalLocation 280 292	Cape Bolinao
+T5	GeographicalLocation 474 489	Santiago Island
+T6	GeographicalLocation 530 555	Bounao Harbour breakwater
+T7	GeographicalLocation 688 703	Santiago Island
+T8	GeographicalLocation 718 733	Santiago Island
+T9	GeographicalLocation 753 760	Bolinao
+T10	Taxon 916 937	Leucaena leucocephala
+T11	GeographicalLocation 1574 1589	Santiago Island
+T12	GeographicalLocation 1706 1719	Panauan Islet
+T13	GeographicalLocation 1728 1760	South-eastward of Panauan Island
+T14	GeographicalLocation 1900 1913	Lingayen Gulf
+T15	GeographicalLocation 1931 1945	Borneo Harbour
+T16	GeographicalLocation 1973 1991	Cabarruyan Islands
+T17	GeographicalLocation 2018 2047	south side of Santiago Island
+T18	GeographicalLocation 2131 2145	Tagaporo Islet
+T19	GeographicalLocation 2168 2176	Santiago
+T20	GeographicalLocation 2477 2492	Santiago Island
+T21	GeographicalLocation 2611 2624	Suaqui Island
+T22	Taxon 2644 2657	seagrass beds
+T23	Taxon 2659 2671	Thalassia sp
+T24	GeographicalLocation 2980 2987	Bolinao
+T25	GeographicalLocation 3173 3181	Santiago
+T26	GeographicalLocation 3193 3200	Silaqui
+T27	GeographicalLocation 3205 3215	Cangaluyan
+T28	Taxon 3256 3264	Santiago
+T29	Taxon 3342 3352	Lobophyuia
+T30	Taxon 3354 3363	Platygyra
+T31	Taxon 3376 3385	Goniopora
+T32	Taxon 3390 3401	Diploastrea
+T33	GeographicalLocation 3482 3489	Silaqui
+T34	GeographicalLocation 3491 3498	Bolinao
+T35	GeographicalLocation 3517 3532	Santiago Island
+T36	GeographicalLocation 3637 3647	Balingasay
+T37	GeographicalLocation 3652 3667	Tagaporo Island
+T38	Taxon 3683 3692	Heliopora
+T39	TemporalExpression 4277 4285	February
+T40	TemporalExpression 4289 4293	July
+T41	GeographicalLocation 4352 4359	Silaqui
+T42	GeographicalLocation 4361 4369	Santiago
+T43	GeographicalLocation 4374 4390	Tagaporo Islands
+T44	GeographicalLocation 4451 4466	Santiago Island
+T45	GeographicalLocation 4503 4510	Bolinao
+T46	GeographicalLocation 4827 4838	Philippines
+T47	Taxon 5018 5034	Acropora pulchra
+T48	TemporalExpression 5287 5300	November 1978
+T49	GeographicalLocation 5305 5311	Lucero
+T50	GeographicalLocation 5313 5328	Santiago Island
+T51	GeographicalLocation 5455 5462	Silaqui
+T52	GeographicalLocation 5467 5485	Cangaluyan Islands
+T53	Taxon 5553 5564	Giant Clams
+T54	Taxon 5579 5587	Strombus
+T55	GeographicalLocation 5700 5707	Bolinao
+T56	GeographicalLocation 5860 5867	Bolinao
+T57	GeographicalLocation 5972 5980	Santiago
+T58	GeographicalLocation 6000 6007	Bolinao
+T59	GeographicalLocation 6148 6163	Santiago Island
+T60	Taxon 6447 6465	Acanthaster planci
+T61	Habitat 97 110	coconut palms
+T62	Habitat 115 120	scrub
+T63	Habitat 124 137	fringing reef
+T64	Habitat 390 400	coral reef
+T65	Taxon 900 908	ipu-ipil
+T66	Habitat 976 989	fringing reef
+T67	Habitat 939 945	shrubs
+T68	Habitat 956 972	mangrove patches
+T69	Taxon 1061 1067	Suaqui
+T70	GeographicalLocation 1094 1103	Santiago'
+T71	Habitat 1110 1123	fringing reef
+T72	GeographicalLocation 1221 1243	North-west of Santiago
+T73	Habitat 1277 1281	reef
+T74	Habitat 1400 1426	extreme low water springs.
+T75	GeographicalLocation 1431 1443	western reef
+T76	GeographicalLocation 1454 1468	Barangay Ducoy
+T77	GeographicalLocation 1955 1960	Narra
+T78	GeographicalLocation 1962 1968	Siapar
+T79	Habitat 2103 2129	muddy-sut and sand mixture
+T80	Taxon 2236 2244	seagrass
+T81	Habitat 2335 2339	reef
+T82	Habitat 2197 2206	reef flat
+T83	Habitat 2360 2374	Reef Structure
+T84	Habitat 2379 2400	Corals Fringing reefs
+T85	Habitat 2502 2515	windward reef
+T86	Habitat 2700 2746	white sand flats with coral patches and bodies
+T87	Habitat 2752 2756	reef
+T88	Taxon 3315 3321	Pontes
+T89	Taxon 3323 3330	Galaxea
+T90	Taxon 3332 3340	Acropora
+T91	Taxon 3365 3374	Montipora
+T92	Habitat 3573 3583	reef flats
+T93	Taxon 3607 3615	seagrass
+T94	Taxon 3669 3678	Millepora
+T95	Taxon 3714 3730	Organ Pipe Coral
+T96	Taxon 3731 3742	Slolonifera
+T97	Taxon 3945 3954	fusiliers
+T98	Taxon 3956 3968	surgeon fish
+T99	Taxon 3973 3984	parrot fish
+T100	Taxon 3986 3997	Rabbit fish
+T101	Taxon 3998 4005	Siganus
+T102	Taxon 4030 4038	seagrass
+T103	Taxon 4318 4326	seagrass
+T104	Habitat 4397 4405	mangrove
+T105	Habitat 4735 4740	reefs
+T106	Person 5199 5202	Yap
+T107	Person 5175 5178	Yap
+T108	Person 5207 5212	Gomez
+T109	Habitat 5230 5246	Artificial reefs
+T110	Habitat 5418 5429	coral reefs
+T111	Taxon 5565 5573	Tridacna
+T112	Taxon 5589 5597	scallops
+T113	Taxon 5598 5605	Amusium
+T114	Taxon 5614 5624	rabbitfish
+T115	Taxon 5625 5632	Siganus
+T116	GeographicalLocation 6223 6230	Bolinao
+T117	Habitat 6480 6484	reef
+T118	Taxon 6567 6579	ichthyocides

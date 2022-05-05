@@ -1,0 +1,111 @@
+T1	Taxon 239 254	Halcyon chloris
+T2	Taxon 526 538	Lalage nigra
+T3	Taxon 759 780	Megalurus timoriensis
+T4	Taxon 940 967	Hypothymis coelestis rabori
+T5	Taxon 990 1012	Terpsiphone cinnamomea
+T6	Taxon 1132 1158	Sarcops calvus melanonotus
+T7	Taxon 1194 1212	Nectarinia sperata
+T8	Taxon 1308 1329	Dicaeum trigonostigma
+T9	Taxon 1430 1448	Zosterops montanus
+T10	Taxon 1511 1534	Lonchura malacca jagori
+T11	GeographicalLocation 1581 1587	Tablas
+T12	GeographicalLocation 1592 1599	Romblon
+T13	Person 1623 1632	Worcester
+T14	Person 1644 1652	Mcgregor
+T15	Person 1820 1828	Mcgregor
+T16	Person 1871 1879	Mcgregor
+T17	Person 1892 1900	Mcgregor
+T18	GeographicalLocation 1985 1992	Sibuyan
+T19	GeographicalLocation 2169 2183	SIBUYAN ISLAND
+T20	GeographicalLocation 2185 2196	PHILIPPINES
+T21	GeographicalLocation 28 34	Tablas
+T22	GeographicalLocation 35 42	Romblon
+T23	GeographicalLocation 43 50	Sibuyan
+T24	Taxon 60 82	Collocalia troglodytes
+T25	Taxon 105 117	Ceyx lepidus
+T26	Taxon 105 129	Ceyx lepidus margarethae
+T27	Taxon 130 146	Halcyon capensis
+T28	Taxon 130 155	Halcyon capensis gigantea
+T29	Taxon 156 173	Halcyon coromanda
+T30	Taxon 156 179	Halcyon coromanda major
+T31	Taxon 180 198	Halcyon smyrnensis
+T32	Taxon 180 206	Halcyon smyrnensis gularis
+T33	Taxon 207 224	Halcyon winchelli
+T34	Taxon 207 238	Halcyon winchelli nesydrionetes
+T35	Taxon 239 263	Halcyon chloris collaris
+T36	Taxon 264 289	Merops viridis americanus
+T37	Taxon 264 278	Merops viridis
+T38	Taxon 290 299	Merops p.
+T39	Taxon 290 311	Merops p. philippinus
+T40	Taxon 312 333	Eurystomus orientalis
+T41	Taxon 312 345	Eurystomus orientalis cyanocollis
+T42	Taxon 346 368	Megalaima haemacephala
+T43	Taxon 346 378	Megalaima haemacephala homochroa
+T44	Taxon 379 400	Dendrocopos maculatus
+T45	Taxon 379 408	Dendrocopos maculatus menagei
+T46	Taxon 409 431	Pitta e. erythrogaster
+T47	Taxon 83 104	Alcedo c. cyanopectus
+T48	Taxon 432 448	Pitta s. sordida
+T49	Taxon 449 463	Alauda gulgula
+T50	Taxon 449 470	Alauda gulgula wolfei
+T51	Taxon 471 487	Hirundo tahitica
+T52	Taxon 471 496	Hirundo tahitica javanica
+T53	Taxon 497 513	Coracina striata
+T54	Taxon 497 525	Coracina striata mindorensis
+T55	Taxon 526 548	Lalage nigra chilensis
+T56	Taxon 549 571	Pycnonotus g. goiavier
+T57	Taxon 572 596	Hypsipetes siquijorensis
+T58	Taxon 572 608	Hypsipetes siquijorensis cinereiceps
+T59	Taxon 609 630	Dicrurus hottentottus
+T60	Taxon 609 638	Dicrurus hottentottus menagei
+T61	Taxon 639 656	Oriolus chinensis
+T62	Taxon 639 666	Oriolus chinensis yamamurae
+T63	Taxon 667 687	Corvus macrorhynchos
+T64	Taxon 667 699	Corvus macrorhynchos philippinus
+T65	Taxon 700 730	Copsychus saularis mindanensis
+T66	Taxon 700 718	Copsychus saularis
+T67	Taxon 731 751	Turdus poliocephalus
+T68	Taxon 759 791	Megalurus timoriensis tweeddalei
+T69	Taxon 792 811	Megalurus palustris
+T70	Taxon 792 819	Megalurus palustris forbesi
+T71	Taxon 820 836	Cisticola exilis
+T72	Taxon 820 845	Cisticola exilis semirufa
+T73	Taxon 846 864	Cyornis rufigastra
+T74	Taxon 846 879	Cyornis rufigastra philippinensis
+T75	Taxon 880 900	Rhipidura a javanica
+T76	Taxon 880 913	Rhipidura a javanica nigritorquis
+T77	Taxon 914 933	Rhipidura cyaniceps
+T78	Taxon 914 939	Rhipidura cyaniceps sauli
+T79	Taxon 940 960	Hypothymis coelestis
+T80	Taxon 969 989	Hypothymis a. azurea
+T81	Taxon 990 1020	Terpsiphone cinnamomea unirufa
+T82	Taxon 1021 1042	Pachycephala homeyeri
+T83	Taxon 1021 1052	Pachycephala homeyeri winchelli
+T84	Taxon 1053 1075	Anthus novaeseelandiae
+T85	Taxon 1053 1084	Anthus novaeseelandiae lugubris
+T86	Taxon 1085 1109	Artamus I. leucorhynchus
+T87	Taxon 1110 1131	Aplonis p. panayensis
+T88	Taxon 1132 1146	Sarcops calvus
+T89	Taxon 1159 1180	Anthreptes malacensis
+T90	Taxon 1159 1193	Anthreptes malacensis chlorigaster
+T91	Taxon 1194 1222	Nectarinia sperata trochilus
+T92	Taxon 1223 1244	Nectarinia. jugularis
+T93	Taxon 1245 1263	Aethopyga siparaja
+T94	Taxon 1245 1273	Aethopyga siparaja magnifica
+T95	Taxon 1274 1293	Dicaeum aeruginosum
+T96	Taxon 1274 1307	Dicaeum aeruginosum striatissimum
+T97	Taxon 1308 1341	Dicaeum trigonostigma intermedium
+T98	Taxon 1376 1397	Dicaeum trigonostigma
+T99	Taxon 1376 1409	Dicaeum trigonostigma cnecolaemum
+T100	Taxon 1410 1429	Dicaeum p. pygmaeum
+T101	Taxon 1342 1363	Dicaeum trigonostigma
+T102	Taxon 1342 1375	Dicaeum trigonostigma sibuyanicum
+T103	Taxon 1456 1471	Passer montanus
+T104	Taxon 1456 1481	Passer montanus saturatus
+T105	Taxon 1482 1502	Lonchura leucogastra
+T106	Taxon 1482 1510	Lonchura leucogastra manueli
+T107	Taxon 1511 1527	Lonchura malacca
+T108	Person 1612 1618	Bourns
+T109	Person 1665 1669	Baud
+T110	Person 1842 1851	Dickinson
+T111	Person 2145 2152	GOODMAN

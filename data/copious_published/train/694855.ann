@@ -1,0 +1,26 @@
+T1	Taxon 45 59	SHOREA CILIATA
+T2	Taxon 45 65	SHOREA CILIATA King.
+T3	GeographicalLocation 118 124	Penang
+T4	Person 163 168	Tabat
+T5	TemporalExpression 190 205	April 20, 1914,
+T6	GeographicalLocation 209 223	Pinagcamaligan
+T7	GeographicalLocation 225 241	Tayabas Province
+T8	GeographicalLocation 243 248	Luzon
+T9	Habitat 261 275	lowland forest
+T10	Taxon 307 312	yacal
+T11	GeographicalLocation 440 451	Philippines
+T12	Person 495 503	McGregor
+T13	GeographicalLocation 529 543	Biliran Island
+T14	TemporalExpression 545 557	May 24, 1914
+T15	Taxon 1036 1051	SHOREA ASTYLOSA
+T16	GeographicalLocation 2592 2600	Mindanao
+T17	GeographicalLocation 2602 2620	Zamboanga Province
+T18	Person 2638 2647	Foxworthy
+T19	Person 2649 2656	De Mesa
+T20	Person 2660 2668	Villamil
+T21	TemporalExpression 2670 2681	May 8, 1912
+T22	Habitat 2698 2703	bluff
+T23	Habitat 2718 2723	swamp
+T24	GeographicalLocation 2739 2754	Dumanquilas Bay
+T25	Taxon 2776 2781	yacal
+T26	Taxon 2809 2826	Shorea balangeran

@@ -1,0 +1,82 @@
+T1	GeographicalLocation 9 27	Philippine Islands
+T2	Taxon 65 83	Somomyia tagaliana
+T3	Taxon 165 185	Sarcophaga frontalis
+T4	Taxon 238 255	Coenosia picicrus
+T5	Taxon 350 368	Galohata coarctata
+T6	Taxon 397 417	Lamprogaster placida
+T7	Taxon 441 454	Chromatorayia
+T8	Taxon 458 478	Stenopterina abrupta
+T9	Taxon 625 640	Acacia stellata
+T10	Taxon 708 725	Diopsis subnotata
+T11	Taxon 751 771	Chlorops vittipennis
+T12	Taxon 1324 1335	C. scutatus
+T13	GeographicalLocation 1417 1428	Philippines
+T14	Taxon 1581 1599	Ommatius retrahens
+T15	Taxon 1622 1637	Muscafavillacea
+T16	Taxon 1639 1660	Lonchaea punctipennis
+T17	Taxon 1685 1704	Discomyza obscurata
+T18	Taxon 1706 1722	Nycteribia dubia
+T19	Taxon 32 45	lapse grandis
+T20	Taxon 32 52	lapse grandis Thorns
+T21	Taxon 32 56	lapse grandis Thorns, I.
+T22	Taxon 65 89	Somomyia tagaliana Bigot
+T23	Taxon 65 95	Somomyia tagaliana Bigot, Ann.
+T24	Taxon 120 140	Lucilia philippensis
+T25	Taxon 120 145	Lucilia philippensis Macq
+T26	Taxon 120 148	Lucilia philippensis Macq, D
+T27	Taxon 238 261	Coenosia picicrus Thoms
+T28	Taxon 165 192	Sarcophaga frontalis Thorns
+T29	Taxon 165 198	Sarcophaga frontalis Thorns, Eug.
+T30	Taxon 274 298	Lauxania latifrons Thoms
+T31	Taxon 274 292	Lauxania latifrons
+T32	Taxon 311 326	Sepsis linearis
+T33	Taxon 311 329	Sepsis linearis Wk
+T34	Taxon 311 335	Sepsis linearis Wk, List
+T35	Taxon 350 371	Galohata coarctata Wk
+T36	Taxon 350 374	Galohata coarctata Wk, J
+T37	Taxon 397 420	Lamprogaster placida Wk
+T38	Taxon 397 426	Lamprogaster placida Wk, List
+T39	Taxon 458 484	Stenopterina abrupta Thoms
+T40	Taxon 519 536	Dacus trivittatus
+T41	Taxon 519 539	Dacus trivittatus Wk
+T42	Taxon 519 545	Dacus trivittatus Wk, List
+T43	Taxon 561 574	Imerina fusca
+T44	Taxon 561 580	Imerina fusca Thoms
+T45	Taxon 561 583	Imerina fusca Thoms, I
+T46	Taxon 614 622	Rivellia
+T47	Taxon 625 645	Acacia stellata Macq
+T48	Taxon 625 648	Acacia stellata Macq, D
+T49	Taxon 669 683	Trypeta Eximia
+T50	Taxon 669 686	Trypeta Eximia Wk
+T51	Taxon 669 692	Trypeta Eximia Wk, List
+T52	Taxon 708 731	Diopsis subnotata Westw
+T53	Taxon 708 737	Diopsis subnotata Westw, Cab.
+T54	Taxon 751 779	Chlorops vittipennis Thomson
+T55	Taxon 751 785	Chlorops vittipennis Thomson, Eug.
+T56	Taxon 794 811	Ephydra pleuralis
+T57	Taxon 794 819	Ephydra pleuralis Thomson
+T58	Taxon 832 851	Notiphila sternalis
+T59	Taxon 832 859	Notiphila sternalis Thomson
+T60	GeographicalLocation 941 959	Philippine Islands
+T61	Taxon 1033 1048	Microstylum dux
+T62	Taxon 1033 1053	Microstylum dux Wied
+T63	Taxon 1033 1056	Microstylum dux Wied, A
+T64	GeographicalLocation 1069 1074	China
+T65	GeographicalLocation 1102 1109	Manilla
+T66	Person 1118 1126	Macquart
+T67	Taxon 1144 1149	Daisy
+T68	Taxon 1166 1188	Hoplistomerus serripes
+T69	Taxon 1166 1193	Hoplistomerus serripes Macq
+T70	Taxon 1166 1196	Hoplistomerus serripes Macq, D
+T71	GeographicalLocation 1211 1217	Guinea
+T72	GeographicalLocation 1219 1226	Senegal
+T73	GeographicalLocation 1246 1253	Manilla
+T74	Taxon 1296 1313	Celyphus obtectus
+T75	Taxon 1296 1318	Celyphus obtectus Dalm
+T76	Taxon 1324 1340	C. scutatus Wied
+T77	Person 1345 1351	Walker
+T78	Person 1437 1443	Walker
+T79	Person 1561 1567	Semper
+T80	Taxon 1581 1606	Ommatius retrahens, nanus
+T81	Taxon 1608 1620	Idia prolata
+T82	Taxon 1663 1682	Achras maculipennis

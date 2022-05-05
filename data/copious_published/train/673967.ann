@@ -1,0 +1,23 @@
+T1	Taxon 11 27	DIPTEROCARPACEAE
+T2	Taxon 1103 1114	A. curtisii
+T3	Taxon 1234 1246	A, thurifera
+T4	GeographicalLocation 1307 1314	Cagayan
+T5	GeographicalLocation 1319 1331	Ilocos Norte
+T6	GeographicalLocation 1380 1394	Camalamaiungan
+T7	Habitat 1423 1455	dense flat forest near sea level
+T8	GeographicalLocation 1457 1462	LUZON
+T9	GeographicalLocation 1464 1483	Province of Cagayan
+T10	Person 1501 1507	Klemme
+T11	TemporalExpression 1509 1519	April 1908
+T12	Person 1552 1558	Klemme
+T13	TemporalExpression 1560 1569	June 1906
+T14	Person 1604 1610	Curran
+T15	Person 1628 1636	Bernardo
+T16	TemporalExpression 1638 1646	May 1909
+T17	GeographicalLocation 1658 1682	Province of Ilocos Norte
+T18	Person 1706 1713	Merritt
+T19	Person 1716 1723	Darling
+T20	Taxon 1738 1741	afu
+T21	Taxon 1753 1785	Anisoptera curtisii Dyer ex King
+T22	Taxon 1753 1772	Anisoptera curtisii
+T23	Taxon 2777 2787	A. brunnea

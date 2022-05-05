@@ -1,0 +1,34 @@
+T1	GeographicalLocation 1727 1738	Philippines
+T2	Habitat 2429 2441	Marine Parks
+T3	GeographicalLocation 2635 2662	Tubbataha Reef Natural Park
+T4	GeographicalLocation 2670 2678	Sulu Sea
+T5	GeographicalLocation 3493 3508	South China Sea
+T6	GeographicalLocation 3519 3542	Northern Philippine Sea
+T7	GeographicalLocation 3544 3567	Southern Philippine Sea
+T8	GeographicalLocation 3569 3580	Celebes Sea
+T9	GeographicalLocation 3585 3593	Sulu Sea
+T10	GeographicalLocation 3803 3811	Sulu Sea
+T11	GeographicalLocation 11 15	Asia
+T12	GeographicalLocation 16 20	Sulu
+T13	GeographicalLocation 21 29	sulawesi
+T14	GeographicalLocation 116 120	Sulu
+T15	GeographicalLocation 121 129	sulawesi
+T16	TemporalExpression 280 281	0
+T17	TemporalExpression 282 289	2 years
+T18	TemporalExpression 312 319	5 years
+T19	TemporalExpression 337 338	3
+T20	TemporalExpression 339 347	10 years
+T21	TemporalExpression 368 372	2004
+T22	Person 985 989	Noss
+T23	TemporalExpression 991 995	1992
+T24	Habitat 2746 2770	mangrove forest reserves
+T25	Habitat 2785 2801	artificial reefs
+T26	TemporalExpression 3042 3046	2020
+T27	Habitat 3104 3115	coral reefs
+T28	TemporalExpression 3177 3181	2005
+T29	TemporalExpression 3360 3364	2005
+T30	Person 3163 3168	White
+T31	Person 3346 3351	White
+T32	Person 3385 3390	Arceo
+T33	GeographicalLocation 3510 3517	Visayas
+T34	TemporalExpression 3398 3402	2008

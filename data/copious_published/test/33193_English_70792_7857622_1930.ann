@@ -1,0 +1,58 @@
+T1	GeographicalLocation 14 32	PHILIPPINE ISLANDS
+T2	GeographicalLocation 310 317	Red Sea
+T3	GeographicalLocation 319 330	East Africa
+T4	GeographicalLocation 377 382	India
+T5	GeographicalLocation 392 403	East Indies
+T6	GeographicalLocation 405 416	Philippines
+T7	GeographicalLocation 418 423	Japan
+T8	GeographicalLocation 425 435	Queensland
+T9	GeographicalLocation 437 446	Melanesia
+T10	GeographicalLocation 448 458	Micronesia
+T11	GeographicalLocation 772 787	Endeavor Strait
+T12	GeographicalLocation 789 796	Palawan
+T13	Taxon 842 864	Plectropomus maculatus
+T14	Taxon 1044 1066	PLECTROPOMUS LEOPARDUS
+T15	Taxon 1167 1191	Plectropoma leopard inum
+T16	GeographicalLocation 1248 1260	Indian Ocean
+T17	GeographicalLocation 1315 1323	Nagasaki
+T18	Taxon 1396 1402	Karoli
+T19	GeographicalLocation 332 340	Zanzibar
+T20	GeographicalLocation 342 352	Mozambique
+T21	GeographicalLocation 354 363	Mauritius
+T22	GeographicalLocation 365 375	Seychelles
+T23	GeographicalLocation 384 390	Ceylon
+T24	GeographicalLocation 460 469	Polynesia
+T25	Taxon 627 651	Plectropoma pessuliferum
+T26	GeographicalLocation 659 669	Catbalogan
+T27	GeographicalLocation 671 684	western Samar
+T28	TemporalExpression 686 700	April 16, 1908
+T29	GeographicalLocation 723 733	Catbalogan
+T30	TemporalExpression 735 749	April 15, 1908
+T31	TemporalExpression 798 815	December 24, 1908
+T32	Taxon 842 872	Plectropomus maculatus (Bloch)
+T33	GeographicalLocation 890 903	Manila market
+T34	TemporalExpression 905 921	January 12, 1908
+T35	GeographicalLocation 944 957	Natabas Point
+T36	GeographicalLocation 959 964	Samar
+T37	TemporalExpression 966 979	July 24, 1909
+T38	GeographicalLocation 990 1008	Great Tobea Island
+T39	TemporalExpression 1010 1027	December 15, 1909
+T40	Taxon 1044 1077	PLECTROPOMUS LEOPARDUS (Lacepede)
+T41	Taxon 1078 1099	Holocentrus leopardus
+T42	Taxon 1078 1108	Holocentrus leopardus Lacepede
+T43	Taxon 1167 1198	Plectropoma leopard inum Cuvier
+T44	TemporalExpression 1136 1140	1802
+T45	TemporalExpression 1226 1230	1828
+T46	Person 1265 1274	Schlegel,
+T47	Person 1288 1293	Poiss
+T48	TemporalExpression 1302 1306	1842
+T49	Person 1328 1335	Gunther
+T50	GeographicalLocation 1381 1391	Louisiades
+T51	Person 1413 1421	Fiizetek
+T52	GeographicalLocation 1455 1461	Ceylon
+T53	Taxon 1464 1485	Plectropoma leopardus
+T54	Taxon 1464 1496	Plectropoma leopardus Richardson
+T55	Taxon 1464 1503	Plectropoma leopardus Richardson, Ichth
+T56	GeographicalLocation 1505 1510	China
+T57	GeographicalLocation 1512 1517	Japan
+T58	TemporalExpression 1519 1523	1846

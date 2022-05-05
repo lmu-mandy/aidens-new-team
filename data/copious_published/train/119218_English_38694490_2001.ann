@@ -1,0 +1,66 @@
+T1	GeographicalLocation 111 122	Andaman Sea
+T2	GeographicalLocation 505 511	Manila
+T3	GeographicalLocation 1430 1435	Japan
+T4	GeographicalLocation 1502 1510	Malaysia
+T5	GeographicalLocation 2135 2146	Philippines
+T6	TemporalExpression 2401 2405	1987
+T7	GeographicalLocation 2652 2676	western coast of Palawan
+T8	GeographicalLocation 3541 3546	Japan
+T9	GeographicalLocation 3659 3665	Taiwan
+T10	GeographicalLocation 0 14	Southeast Asia
+T11	Person 15 25	Chansang H
+T12	Person 27 39	Satapoomin U
+T13	Person 41 56	Poovachiranon S
+T14	GeographicalLocation 228 246	Mergui Archipelago
+T15	TemporalExpression 291 305	September 1975
+T16	GeographicalLocation 307 314	Taunton
+T17	GeographicalLocation 316 318	UK
+T18	GeographicalLocation 91 99	Thailand
+T19	Habitat 340 350	Coral reef
+T20	GeographicalLocation 527 543	Riau Archipelago
+T21	Person 763 777	Cheng-feng Dai
+T22	GeographicalLocation 830 835	China
+T23	Habitat 707 712	reefs
+T24	GeographicalLocation 817 823	Taiwan
+T25	Habitat 837 847	coral reef
+T26	GeographicalLocation 913 920	Vietnam
+T27	Habitat 922 932	coral reef
+T28	Person 1091 1101	Vo Si Tuan
+T29	Person 1148 1173	Institute of Oceanography
+T30	GeographicalLocation 1175 1182	Vietnam
+T31	TemporalExpression 1286 1290	1981
+T32	TemporalExpression 1291 1295	1987
+T33	GeographicalLocation 1321 1328	Okinawa
+T34	Habitat 1512 1522	coral reef
+T35	GeographicalLocation 1589 1594	Sabah
+T36	GeographicalLocation 1758 1764	Brunei
+T37	Habitat 1613 1617	reef
+T38	Habitat 1724 1729	reefs
+T39	Habitat 1765 1775	coral reef
+T40	Person 1802 1810	De Silva
+T41	Person 1825 1838	De Silva MORN
+T42	Person 1840 1850	Wright RAD
+T43	Person 1852 1864	Matdanan HJH
+T44	Person 1866 1881	Sharifuddin PHY
+T45	Person 1883 1894	Agbayani CV
+T46	GeographicalLocation 1948 1965	Brunei Darussalam
+T47	GeographicalLocation 2071 2088	Brunei Darussalam
+T48	Habitat 2112 2122	coral reef
+T49	Habitat 2613 2637	sub-surface barrier reef
+T50	Habitat 2849 2866	sub-surface reefs
+T51	Habitat 2903 2907	reef
+T52	GeographicalLocation 2955 2970	South China Sea
+T53	GeographicalLocation 2972 2979	Palawan
+T54	TemporalExpression 3024 3037	November 1985
+T55	GeographicalLocation 3039 3046	Taunton
+T56	GeographicalLocation 3048 3050	UK
+T57	GeographicalLocation 3148 3154	Manila
+T58	Habitat 3207 3211	reef
+T59	GeographicalLocation 3225 3240	Spratly Islands
+T60	Habitat 3413 3420;3437 3442	surface reefs
+T61	Habitat 3425 3442	sub-surface reefs
+T62	Habitat 3517 3521	reef
+T63	Habitat 3548 3559	coral reefs
+T64	Habitat 3564 3578	mangrove areas
+T65	TemporalExpression 3643 3647	1981
+T66	TemporalExpression 3648 3652	1987

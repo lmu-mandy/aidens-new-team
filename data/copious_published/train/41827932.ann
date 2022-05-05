@@ -1,0 +1,27 @@
+T1	TemporalExpression 112 116	1894
+T2	TemporalExpression 121 125	1892
+T3	Person 130 136	Ridley
+T4	GeographicalLocation 156 168	Bukit Mandai
+T5	GeographicalLocation 192 198	Changi
+T6	GeographicalLocation 335 350	Botanic Gardens
+T7	GeographicalLocation 343 350	Gardens
+T8	GeographicalLocation 416 422	area N
+T9	GeographicalLocation 467 473	area V
+T10	GeographicalLocation 493 499	area U
+T11	GeographicalLocation 504 505	V
+T12	Habitat 666 672	forest
+T13	GeographicalLocation 836 851	Botanic Gardens
+T14	TemporalExpression 1131 1143	January 1921
+T15	TemporalExpression 1190 1198	November
+T16	Taxon 1287 1310	Vatica moluccana, Burck
+T17	Taxon 1287 1303	Vatica moluccana
+T18	Taxon 1439 1455	Vatica Wallichii
+T19	Taxon 1461 1468	Vaticas
+T20	Taxon 1484 1497	Eetinodendron
+T21	Taxon 1513 1529	Vatica Ridleyana
+T22	Taxon 1741 1757	Vatica Wallichii
+T23	Taxon 1997 2020	Pachynocarpus umbonatus
+T24	GeographicalLocation 2061 2067	Borneo
+T25	Person 2076 2082	Barber
+T26	Person 2098 2104	Hooker
+T27	Taxon 2419 2435	Vatica Wallichii

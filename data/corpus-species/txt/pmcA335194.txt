@@ -1,0 +1,140 @@
+The Caenorhabditis elegans genome contains monomorphic minisatellites and simple sequences.
+Abstract
+Many species have been shown to contain tandemly repeated short sequence DNA known as minisatellites and simple sequence motifs. Due to allelic variation in the copy number of the repeat unit these loci are usually highly polymorphic. Here we demonstrate the presence of sequences in the genome of the nematode Caenorhabditis elegans which are homologous to two sets of short sequence DNA. However, when two independent strains were compared no polymorphism for these sequences could be detected.Images
+
+
+
+
+
+
+ Volume 17 Number 23 1989                                   Nucleic Acids Research 
+
+ The Caenorhabds elegans genome contains monomorphic minisatellites and simple sequences Andrd G.Uitterlinden, P.Eline Slagboom, Thomas E.Johnsonl and Jan Vijg 
+
+ Department of Molecular Biology, TNO Institute for Experimental Gerontology, PO Box 5815, 2280 HV Rijswijk, The Netherlands and lInstitute for Behavioral Genetics, University of Colorado, Boulder, CO 80309, USA 
+
+ Received October 27, 1989; Accepted November 3, 1989 
+
+ ABSTRACT 
+
+ Many species have been shown to contain tandemly repeated short sequence DNA kinown as minisatellites and simple sequence motifs. Due to allelic variation in the copy number of the repeat unit these loci are usually highly polymorphic. Here we demonstrate the presence of sequences in the genome of the nematode Caenorhabditis elegans which are homologous to two sets of short sequence DNA. However, when two independent strains were compared no polymorphism for these sequences could be detected. 
+
+ INTRODUCTION 
+
+ The genome of many species, including lower organisms, contain minisatellite sequences and so-called simple sequence motifs (1,2,3). Due to extensive variation in the number of repeat units, many of these loci have been shown useful as polymorphic markers, e.g. for genetic linkage studies and identification purposes. 
+
+ Here we demonstrate that the genome of the nematode Caenorhabditis elegans contains sequences that are homologous to the minisatellite core sequence 33.6 (1) and to the simple sequence motif (AGC)n. Surprisingly, these sequences did not display polymorphism when two independent C. elegans strains, Bristol and Bergerac, were compared. 
+
+ MATERIALS AND METHODS Genomic DNA from nematodes 
+
+ Genomic DNA was isolated according to standard procedures from the two strains Bergerac (BO) and Bristol (strain N2). These strains are derived from two different individual worms isolated in France and England, respectively. Southern blotting 
+
+ Genomic DNA digests (5 Ag) were separated in a 1 % agarose gel in 1 x TAE (40 mM Tris.HCl, pH 7.4/20 mM sodium acetate/I mM NaEDTA) by electrophoresis at 75 V for 16 h. Separation patterns were transferred to Zetaprobe membrane (BIORAD) in 0.4 N NaOH, 0.6 M NaCl in a vacu-blot apparatus (LKB) according to the manufacturer's instructions. The minisatellite and simple sequence probes used were prepared essentially as described (5). The Tcl probe is a plasmid containing an insert of the transposable element Tcl (4). All probes were labelled by random-priming. Hybridization was performed for 12 h in 7 % SDS, 0.5 M phosphate buffer, 1 mM Na2EDTA at 650C. Blots were washed twice in 2.5 x SSC at 650C and exposed to Kodak XAR-5 film with intensifying screens. Exposure times are indicated in Fig. 1. 
+
+ ( IRL Press 
+
+ Nucleic Acids Research 
+
+ Volume 17 Number 23 1989 
+
+ 9527 
+
+ Nucleic Acids Research 
+
+ C. elegans 
+
+ N      0$       8 
+
+ _ _ 
+
+ :  , s , ..e :*. ,~ :::::
+
+ . 4i 
+
+ .t_:  -::?J?.: 
+
+ i-  
+
+ .a 
+
+ E?:< . :: y : 
+
+ *01 
+
+ 4?j* 
+
+ .-I 
+
+ kb - 27 
+
+ - 9A - 
+
+ : .::....... 
+
+ Mi ....  - 4v3 
+
+ IC .3 
+
+ If.0r 
+
+ MW 
+
+ !5 c6 
+
+ I 
+
+ " R  1d~ ! ;,
+
+ Figure 1. Southern hybridization analysis of Hae III, Rsa I and Eco RI digested genomic DNA isolated from the two C. elegans strains Bristol (N) and Bergerac (B). The probes used and the exposure times of the autoradiograph are indicated below the figure. kb=kilo basepairs. 9528 
+
+ *:..?.;. .*. i...  :". 
+
+ ANN& 
+
+ 'ROW    :. lwmwww. 
+
+ .Ammkw.l 
+
+ 4w, 
+
+ 9 
+
+ _       i ob 
+
+ Ill       a 
+
+ Nucleic Acids Research 
+
+ RESULTS 
+
+ In Figure 1 the hybridization patterns are shown of C. elegans genomic DNA digested with Hae II, Rsa I and Eco RI, and subsequently hybridized to minisatellite core probe 33.6, the simple sequence probe (AGC)n and Tcl. The latter probe contains a member of the Tcl family of transposable elements which is present in different copy numbers in the two different strains (4). The hybridization patterns of probes 33.6 and (AGC)n obtained after Hae Im and Rsa I digestion and the differences in intensities of the hybridizing bands is reminiscent of DNA-fingerprint patterns obtained with these probes in other species (1,2,3). However, identical hybridization patterns for the two strains with the three enzymes tested indicated that in C. elegans these sequences are monomorphic (Fig. 1). Based on the number of hybridizing bands we estimate the C. elegans genome to contain about 30 33.6 homologous loci and about 20 (AGC)n homologous loci. 
+
+ Rehybridization of the same blot with a Tcl probe revealed extensive RFLPs due to the different copy number of the transposon in the two strains, a phenomenon which has been described previously by others (4). 
+
+ DISCUSSION 
+
+ The findings presented in this paper indicate that polymorphism of minisatellite sequences and simple sequence motifs, is not a general phenomenon in animal species. So far, only some species of whales have displayed similar high levels of monomorphism (6). In other species thus far tested both minisatellites and simple sequences display high to very high levels of polymorphism. It should be noted, however, that at least in humans, a substantial part of the minisatellites detected by core probes also displays high levels of monomorphism as analysed by cloning (1) or by two-dimensional DNA fingerprinting (5). 
+
+ The fact that nematodes are hermaphrodites, and thus inbred, might be a contributing factor to the observed lack of polymorphism. However, the high levels of polymorphism detected by the Tcl probe do not indicate a general absence of events causing genetic variation. Indeed, Eide and Anderson (7) showed that tandemly repeated duplications in the unc-54 gene of C. elegans revert at high frequencies. Since in all cases the revertants had the normal genomic configuration this suggests that unequal crossing-over does occur in the nematode. 
+
+ A more likely explanation for the monomorphic nature of the sequences detected with 33.6 and (AGC)n in C. elegans is selection against sequence variants at these loci. This might be the result of the presence of a particular subset of minisatellites and/or simple sequences at sites in the genome of this organism, e.g. in coding sequences, in which variation in copy number of repeat units cannot be tolerated. An example of such a coding sequence could be the High Mobility Group proteins which usually have stretches of identical (acidic) amino acids (2,8). An interesting observation in this respect is the demonstration of the absence of any protein polymorphisms in electrophoretic comparisons for 24 different enzymes between the Bristol and Bergerac strains (9). An important step in understanding this phenomenon will therefore be the isolation and analysis of individual homologous minisatellite and simple sequence loci from a genomic library of C. elegans. 
+
+ REFERENCES 
+
+ 1. Jeffreys, A.J., Wilson, V., and Thein, S.L. (1985) Nature 314, 67-73. 2. Tautz, D., Trick M., and Dover, G.A. (1986) Nature 322, 652-656. 
+
+ 3. Rogstad, S.H., Herwaldt, B.L., Schlesinger, P.H., and Krogstad, D.J. (1989) Nucleic Acids Res. 17, 9, 3610. 4. Emmons, S.W., Yesner, L., Ruan, K. and Katzenberg, D. (1983) Cell 32, 55-65. 
+
+ 9529 
+
+ Nucleic Acids Research 
+
+ 5. Uitterlinden, A.G., Slagboom, P.E., Knook, D.L., and Vijg, J. (1989) Proc. Natl. Acad. USA 86, 2742-2746. 6. Rus Hoelzel, A., and Amos, W. (1988) Nature 333, 305. 7. Eide, D., and Anderson, P. (1985) Genetics 109, 67-79. 
+
+ 8. Pentecost, B.T., Wright, J.M., and Dixon, G.H. (1985) Nucleic Acids Res. 13, 4871-4888. 9. Butler et al. (1981) J. Molec. Evolution 18, 18-23. 
+
+ 9530 
+
+ This article, submitted on disc, has been automatically 
+
+ converted into this typeset format by the publisher. 

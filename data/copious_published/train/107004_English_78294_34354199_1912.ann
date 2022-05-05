@@ -1,0 +1,121 @@
+T1	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T2	Taxon 133 158	Sus barbatus balabacensis
+T3	Taxon 218 239	Sciuropterus crinitus
+T4	Taxon 286 308	Nannosciurus concinnus
+T5	Taxon 316 342	Melanaxis basilanensisrusa
+T6	Taxon 373 392	Tarsius fraterculus
+T7	Taxon 414 432	Paradoxurus torvus
+T8	Taxon 446 467	Nycticebus menagensis
+T9	GeographicalLocation 469 475	Bongao
+T10	GeographicalLocation 480 489	Tawi-tawi
+T11	Taxon 547 556	Fruit-bat
+T12	Taxon 558 576	Pteropus cagayanus
+T13	Taxon 586 604	Pithecus cagayanus
+T14	Taxon 632 652	Mydaus schadenbergii
+T15	Taxon 684 701	Sus calamianensis
+T16	Taxon 709 736	Hyelaphus calamianensisrusa
+T17	Taxon 752 765	Sus cebifrons
+T18	GeographicalLocation 778 782	Cebu
+T19	Taxon 791 804	Ussa cinereus
+T20	Taxon 810 829	U. crassicornisrusa
+T21	Taxon 851 870	Tupaia mollendorffi
+T22	Taxon 883 901	Sciurus albicaudus
+T23	Taxon 906 921	S. mollendorffi
+T24	Taxon 965 979	Tupaia cuyonis
+T25	Taxon 996 1016	Rhinolophus hirsutus
+T26	Taxon 1025 1034	Fruit-bat
+T27	Taxon 1036 1073	Pteropus aurinuchalisacerodon jubatus
+T28	Taxon 1084 1104	Tarsius philippensis
+T29	GeographicalLocation 1106 1114	Mindanao
+T30	GeographicalLocation 1116 1121	Leyte
+T31	Taxon 1149 1170	Pachyiira luzoniensis
+T32	Taxon 1178 1211	Pteropus eine7isispt. leucopterus
+T33	Taxon 1213 1234	Rhinolophus anderseni
+T34	Taxon 1289 1315	Paradoxurus philippinensis
+T35	Taxon 1328 1345	Phloeomys cumingi
+T36	Taxon 1430 1446	Sus philippensis
+T37	Taxon 1494 1511	U. gonzalinusrusa
+T38	Taxon 1592 1609	U. rubiginosarusa
+T39	Taxon 1627 1641	Ussa baryceros
+T40	Taxon 1677 1691	U. gorrichanus
+T41	Taxon 1693 1707	U. guidoteanus
+T42	Taxon 1726 1740	U. microdontus
+T43	Taxon 1742 1755	U. roxasianus
+T44	Taxon 1828 1843	Apomys musculus
+T45	GeographicalLocation 92 99	Balabac
+T46	Taxon 101 109	Squirrel
+T47	Taxon 111 126	Sciurus steerii
+T48	Taxon 128 131	Pig
+T49	Taxon 160 170	Mouse-deer
+T50	Taxon 172 190	Tragulus nigricans
+T51	GeographicalLocation 192 199	Basilan
+T52	Taxon 201 216	Flying-squirrel
+T53	Taxon 241 245	Deer
+T54	GeographicalLocation 261 268	ISABELA
+T55	Taxon 247 259	Rusa steerii
+T56	Taxon 270 284	Pygmy Squirrel
+T57	Taxon 310 314	Deer
+T58	GeographicalLocation 347 352	Bohol
+T59	GeographicalLocation 354 361	Sevilla
+T60	Taxon 363 370	Tarsier
+T61	GeographicalLocation 394 400	Bongao
+T62	Taxon 402 412	Palm civet
+T63	Taxon 434 444	Slow Lemur
+T64	GeographicalLocation 491 499	Busuanga
+T65	Taxon 501 508	Buffalo
+T66	Taxon 510 531	Bubalus moellendorffi
+T67	GeographicalLocation 533 540	Cagayan
+T68	GeographicalLocation 541 545	Sulu
+T69	Taxon 578 584	Monkey
+T70	Taxon 618 630	Badger-skunk
+T71	Taxon 654 662	Mongoose
+T72	Taxon 664 677	Mungos parvus
+T73	Taxon 679 682	Pig
+T74	Taxon 703 707	Deer
+T75	GeographicalLocation 741 745	Cebu
+T76	Taxon 747 750	Pig
+T77	GeographicalLocation 767 774	Masbate
+T78	Taxon 785 789	Deer
+T79	Taxon 839 849	Tree-shrew
+T80	Taxon 872 881	Squirrels
+T81	Taxon 923 927	Deer
+T82	Taxon 929 945	Rusa culionensis
+T83	GeographicalLocation 947 951	Cuyo
+T84	Taxon 953 963	Tree-shrew
+T85	GeographicalLocation 981 989	Onimaras
+T86	Taxon 991 994	Bat
+T87	GeographicalLocation 1018 1023	leyte
+T88	Taxon 1075 1082	Tarsier
+T89	Taxon 1142 1147	Shrew
+T90	GeographicalLocation 1127 1132	Samar
+T91	GeographicalLocation 1135 1140	Luzon
+T92	Taxon 1172 1176	Bats
+T93	Taxon 1239 1257	Rh. philippinensis
+T94	Taxon 1263 1275	Rh. arcuatus
+T95	Taxon 1277 1287	Palm civet
+T96	Taxon 1317 1321	Rats
+T97	Taxon 1350 1362	Ph. pallidus
+T98	Taxon 1364 1370	Monkey
+T99	Taxon 1372 1400	Macacus furpithecus syrichta
+T100	Taxon 1406 1423	Pithecus syrichta
+T101	Taxon 1425 1428	Pig
+T102	Taxon 1448 1452	Deer
+T103	Taxon 1454 1470	Rusa philippinus
+T104	Taxon 1472 1488	Ussa atheneensis
+T105	GeographicalLocation 1513 1519	Baguio
+T106	GeographicalLocation 1521 1528	Benguet
+T107	Taxon 1530 1533	Rat
+T108	Taxon 1535 1548	Epimys calcis
+T109	GeographicalLocation 1550 1565	Bataan Province
+T110	Taxon 1567 1571	Deer
+T111	Taxon 1573 1587	Ussa elorzanus
+T112	GeographicalLocation 1611 1619	Batangas
+T113	Taxon 1621 1625	Deer
+T114	Taxon 1643 1657	U. brachyceros
+T115	Taxon 1659 1675	U. chrysotrichos
+T116	Taxon 1709 1724	U. hipolitianus
+T117	Taxon 1757 1773	U. telesforianus
+T118	Taxon 1779 1797	U. tuasoninus Rusa
+T119	GeographicalLocation 1799 1812	Camp John Hay
+T120	GeographicalLocation 1814 1821	Benguet
+T121	Taxon 1823 1826	Rat

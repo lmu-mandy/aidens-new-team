@@ -1,0 +1,65 @@
+T1	Habitat 16 32	mangrove forests
+T2	GeographicalLocation 172 181	Sri Lanka
+T3	GeographicalLocation 1874 1883	Indonesia
+T4	GeographicalLocation 1885 1896	Philippines
+T5	GeographicalLocation 1898 1907	Singapore
+T6	TemporalExpression 2018 2022	1994
+T7	GeographicalLocation 2040 2048	Cambodia
+T8	GeographicalLocation 2726 2741	South China Sea
+T9	Habitat 2857 2873	mangrove forests
+T10	GeographicalLocation 3273 3291	South-west Pacific
+T11	GeographicalLocation 3402 3411	Indonesia
+T12	GeographicalLocation 3413 3421	Malaysia
+T13	GeographicalLocation 3423 3434	Philippines
+T14	GeographicalLocation 3449 3465	Papua New Guinea
+T15	GeographicalLocation 3471 3486	Solomon Islands
+T16	Habitat 3701 3717	mangrove forests
+T17	TemporalExpression 3865 3878	December 2007
+T18	GeographicalLocation 4248 4257	Indonesia
+T19	GeographicalLocation 4259 4275	Papua New Guinea
+T20	GeographicalLocation 4280 4295	Solomon Islands
+T21	TemporalExpression 4299 4310	August 2006
+T22	GeographicalLocation 4828 4844	Gulf of Thailand
+T23	GeographicalLocation 4846 4861	South China Sea
+T24	GeographicalLocation 4863 4879	Sulu-celebes Sea
+T25	GeographicalLocation 4889 4898	Indonesia
+T26	GeographicalLocation 11 15	Asia
+T27	Habitat 37 46	mud flats
+T28	Habitat 48 64	estuarine waters
+T29	Habitat 69 81	sandy shores
+T30	Habitat 102 111	mud flats
+T31	Habitat 113 129	estuarine waters
+T32	Habitat 135 147	sandy shores
+T33	GeographicalLocation 314 324	Bangladesh
+T34	GeographicalLocation 1683 1698	EAST ASIAN SEAS
+T35	GeographicalLocation 1710 1725	East Asian Seas
+T36	GeographicalLocation 632 640	Pakistan
+T37	GeographicalLocation 412 425	Bay of Bengal
+T38	Habitat 550 570	Sundarbans mangroves
+T39	Habitat 575 586	tidal areas
+T40	Habitat 780 788	mangrove
+T41	TemporalExpression 1032 1036	2004
+T42	TemporalExpression 1037 1041	2010
+T43	TemporalExpression 366 370	2000
+T44	GeographicalLocation 1101 1110	Vientiane
+T45	GeographicalLocation 1112 1115	Lao
+T46	TemporalExpression 1123 1127	2004
+T47	Habitat 4511 4522	coral reefs
+T48	Taxon 4422 4440	Leatherback Turtle
+T49	Habitat 3641 3652	coral reefs
+T50	GeographicalLocation 3208 3237	waters of the East Asian Seas
+T51	TemporalExpression 1454 1458	2002
+T52	TemporalExpression 1506 1510	2003
+T53	TemporalExpression 1601 1605	2015
+T54	GeographicalLocation 1909 1917	Thailand
+T55	GeographicalLocation 1922 1930	Malaysia
+T56	TemporalExpression 1988 1992	1981
+T57	GeographicalLocation 2029 2038	Australia
+T58	GeographicalLocation 2108 2115	Vietnam
+T59	TemporalExpression 2403 2407	2002
+T60	Habitat 2565 2576	coral reefs
+T61	GeographicalLocation 2746 2762	Gulf of Thailand
+T62	Habitat 2875 2888	seagrass beds
+T63	Habitat 2893 2904	coral reefs
+T64	TemporalExpression 2909 2913	2002
+T65	Taxon 4201 4236	Western Pacific Leatherback Turtles

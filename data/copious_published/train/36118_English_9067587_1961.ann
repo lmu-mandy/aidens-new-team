@@ -1,0 +1,60 @@
+T1	GeographicalLocation 160 177	northern Portugal
+T2	Person 182 202	Randall T. Klein, Jr
+T3	TemporalExpression 277 287	October 10
+T4	GeographicalLocation 329 351	southern United States
+T5	Person 391 401	J. E. King
+T6	GeographicalLocation 496 515	northern Bering Sea
+T7	TemporalExpression 519 523	June
+T8	TemporalExpression 528 532	July
+T9	Person 556 572	Donald E. Powell
+T10	GeographicalLocation 671 681	Washington
+T11	TemporalExpression 784 787	196
+T12	GeographicalLocation 1053 1058	Korea
+T13	GeographicalLocation 1183 1188	Korea
+T14	GeographicalLocation 1451 1467	Seward Peninsula
+T15	GeographicalLocation 1474 1488	Kotzebue Sound
+T16	GeographicalLocation 1529 1535	Alaska
+T17	Person 1540 1558	Norman B. Wigutoff
+T18	TemporalExpression 1584 1592	May 1950
+T19	Taxon 1616 1629	Albacore tuna
+T20	GeographicalLocation 1645 1652;1666 1672	Alaskan waters
+T21	Person 1681 1697	Donald E. Powell
+T22	GeographicalLocation 1789 1800	Philippines
+T23	Person 1805 1820	Arthur C. Avery
+T24	Person 66 78	Carter Broad
+T25	TemporalExpression 80 93	February 1950
+T26	Taxon 140 147	codfish
+T27	TemporalExpression 204 217	February 1950
+T28	GeographicalLocation 259 265	Oporto
+T29	GeographicalLocation 267 275	Portugal
+T30	Person 362 370	Anderson
+T31	Person 378 385	Lindner
+T32	TemporalExpression 403 413	March I95O
+T33	Taxon 106 116	Supersedes
+T34	Taxon 429 439	Supersedes
+T35	Person 548 554	Ellson
+T36	Person 578 597	Henry H. Hildebrand
+T37	TemporalExpression 599 609	March 1950
+T38	GeographicalLocation 686 692	Oregon
+T39	Person 700 713	Bruce Sanford
+T40	TemporalExpression 715 725	March I95O
+T41	Person 792 808	William M. Terry
+T42	TemporalExpression 810 822	January 1951
+T43	TemporalExpression 875 888	Maich 1, 1950
+T44	GeographicalLocation 986 991	Tokyo
+T45	TemporalExpression 1190 1198	December
+T46	TemporalExpression 1204 1214	April 1950
+T47	Taxon 1253 1261	mackerel
+T48	GeographicalLocation 1238 1252	Atlantic coast
+T49	Person 1278 1283	Boris
+T50	TemporalExpression 1294 1303	July 1950
+T51	Taxon 1346 1355	king crab
+T52	TemporalExpression 1376 1384	May 1950
+T53	Person 1360 1374	John A. Dassow
+T54	Person 1563 1582	Clarence Jo Carlson
+T55	Person 1702 1721	Henry H. Hildebrand
+T56	TemporalExpression 1723 1731	May 1950
+T57	GeographicalLocation 1849 1860	New England
+T58	Taxon 1861 1870	sink gill
+T59	Person 1879 1884	Boris
+T60	TemporalExpression 1895 1906	August 1950

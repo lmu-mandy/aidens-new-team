@@ -1,0 +1,122 @@
+T1	GeographicalLocation 57 62	China
+T2	Person 83 96	F. A. McClure
+T3	GeographicalLocation 121 145	Bureau of Plant Industry
+T4	TemporalExpression 156 169	April 2, 1926
+T5	TemporalExpression 180 189	May, 1928
+T6	TemporalExpression 200 216	January 17. 1926
+T7	GeographicalLocation 449 457	Kongshan
+T8	GeographicalLocation 481 487	Ceylon
+T9	GeographicalLocation 492 501	Singapore
+T10	GeographicalLocation 503 522	Straits Settlements
+T11	Person 537 552	David Fairchild
+T12	GeographicalLocation 577 601	Bureau of Plant Industry
+T13	TemporalExpression 651 659	February
+T14	TemporalExpression 664 674	July, 1926
+T15	TemporalExpression 685 694	May, 1928
+T16	Taxon 703 718	Uvaria purpurea
+T17	Taxon 703 724	Uvaria purpurea Blume
+T18	Taxon 726 736	Annonaceae
+T19	GeographicalLocation 747 762	Botanic Gardens
+T20	GeographicalLocation 764 773	Singapore
+T21	TemporalExpression 775 787	May 31, 1926
+T22	Taxon 877 900	Vateria acuminata Hayne
+T23	Taxon 902 918	Dipterocarpaceae
+T24	GeographicalLocation 970 980	Kurunegala
+T25	GeographicalLocation 982 988	Ceylon
+T26	GeographicalLocation 982 988	Ceylon
+T27	GeographicalLocation 982 988	Ceylon
+T28	TemporalExpression 1201 1206	April
+T29	TemporalExpression 1211 1214	May
+T30	Taxon 1462 1481	Artocarpus lakoocha
+T31	Taxon 1462 1487	Artocarpus lakoocha Roxb.
+T32	Taxon 1488 1496	Moraceae
+T33	GeographicalLocation 1507 1524	Peradeniya Garden
+T34	GeographicalLocation 1526 1532	Ceylon
+T35	TemporalExpression 1534 1549	January 4, 1926
+T36	Taxon 1551 1560	Kana-gona
+T37	Taxon 1564 1577	Tampang-manis
+T38	GeographicalLocation 1815 1827	Buenos Aires
+T39	GeographicalLocation 1829 1838	Argentina
+T40	Person 1865 1882	Lorenzo R. Parodi
+T41	GeographicalLocation 1891 1917	University of Buenos Aires
+T42	Person 1927 1939	H. N. Vinall
+T43	GeographicalLocation 1941 1965	Bureau of Plant Industry
+T44	TemporalExpression 1976 1987	May 4, 1928
+T45	Taxon 1997 2015	Avena scabrivalvis
+T46	Taxon 1997 2020	Avena scabrivalvis Trim
+T47	Taxon 2021 2028	Poaceae
+T48	Taxon 2030 2035	Grass
+T49	Taxon 2119 2132	Bromus brevis
+T50	Taxon 2119 2138	Bromus brevis Steud
+T51	Taxon 2140 2147	Poaceae
+T52	Taxon 2178 2186	La Plata
+T53	GeographicalLocation 2188 2209	Buenos Aires Province
+T54	TemporalExpression 2224 2237	January, 1928
+T55	Taxon 2257 2274	Bromus unioloides
+T56	Taxon 2257 2292	Bromus unioloides (Willd.) H. B. K.
+T57	Taxon 2293 2300	Poaceae
+T58	Taxon 2302 2312	Bromegrass
+T59	Taxon 2307 2312	grass
+T60	GeographicalLocation 2371 2384	South America
+T61	Taxon 2429 2451	southern United States
+T62	Habitat 2555 2561	pampas
+T63	GeographicalLocation 2594 2603	Rio Negro
+T64	GeographicalLocation 2605 2614	Patagonia
+T65	Taxon 2616 2638	Melica sarmentosa Ness
+T66	Taxon 2640 2647	Poaceae
+T67	Taxon 2649 2654	Grass
+T68	Taxon 2686 2691	grass
+T69	Taxon 2727 2741	Oryza subulata
+T70	Taxon 2727 2746	Oryza subulata Nees
+T71	Taxon 2748 2755	Poaceae
+T72	Taxon 2757 2762	Grass
+T73	GeographicalLocation 2776 2785	Argentina
+T74	Taxon 2858 2879	Phalaris coerulescens
+T75	Taxon 2858 2885	Phalaris coerulescens Desf.
+T76	Taxon 2886 2893	Poaceae
+T77	Taxon 2895 2900	Grass
+T78	GeographicalLocation 2995 3007	Buenos Aires
+T79	Taxon 3057 3072	Poa bonariensis
+T80	Taxon 3057 3086	Poa bonariensis (Lam.) Kunth.
+T81	Taxon 3087 3094	Poaceae
+T82	Taxon 3096 3101	Grass
+T83	GeographicalLocation 3108 3118	Avellaneda
+T84	GeographicalLocation 3120 3144	Province of Buenos Aires
+T85	GeographicalLocation 3192 3198	Summit
+T86	GeographicalLocation 3200 3210	Canal Zone
+T87	Person 3231 3244	J. E. Higgins
+T88	GeographicalLocation 3253 3278	Plant Introduction Garden
+T89	TemporalExpression 3289 3300	May 7, 1928
+T90	Taxon 3309 3332	Aphelandra sinclairiana
+T91	Taxon 3309 3338	Aphelandra sinclairiana Nees.
+T92	Taxon 3339 3350	Acanthaceae
+T93	GeographicalLocation 3389 3395	Panama
+T94	Taxon 3499 3519	Arrabidaea rotuxdata
+T95	Taxon 3499 3524	Arrabidaea rotuxdata Bur.
+T96	Taxon 3525 3537	Bignoniaceae
+T97	GeographicalLocation 3589 3595	Panama
+T98	Taxon 3713 3735	Callichlamys latifolia
+T99	Taxon 3713 3742	Callichlamys latifolia Schum.
+T100	Taxon 3743 3755	Bignoniaceae
+T101	GeographicalLocation 3787 3793	Panama
+T102	Taxon 3905 3925	Odontadenia speciosa
+T103	Taxon 3905 3932	Odontadenia speciosa Benth.
+T104	Taxon 3933 3944	Apocynaceae
+T105	Taxon 4076 4095	Pogonopus speciosus
+T106	Taxon 4076 4110	Pogonopus speciosus (Jacq.) Schum.
+T107	Taxon 4111 4120	Rubiaceae
+T108	Taxon 4324 4344	Posoqueria latifolia
+T109	Taxon 4324 4362	Posoqueria latifolia Roem. and Schult.
+T110	Taxon 4363 4372	Rubiaceae
+T111	GeographicalLocation 4642 4649	Gangtok
+T112	GeographicalLocation 4651 4657	Sikkim
+T113	GeographicalLocation 4659 4664	India
+T114	GeographicalLocation 4707 4713	Sikkim
+T115	TemporalExpression 4724 4736	May 15, 1928
+T116	Taxon 4745 4764	Abelmoschus manihot
+T117	Taxon 4745 4776	Abelmoschus manihot (L.) Medic.
+T118	Taxon 4778 4794	Hibiscus manihot
+T119	Taxon 4778 4797	Hibiscus manihot L.
+T120	Taxon 4800 4809	Malvaceae
+T121	GeographicalLocation 4870 4875	India
+T122	GeographicalLocation 4892 4914	Southern United States

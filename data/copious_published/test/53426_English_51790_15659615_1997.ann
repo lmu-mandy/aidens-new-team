@@ -1,0 +1,39 @@
+T1	Taxon 41 52	PLATYMANTIS
+T2	Taxon 63 81	Platymantis rabori
+T3	GeographicalLocation 87 102	Mindanao Island
+T4	Person 207 224	Dioscoro S. Rabor
+T5	Taxon 369 387	Platymantis rabori
+T6	Taxon 401 410	guentheri
+T7	Taxon 412 423	negrosensis
+T8	Taxon 425 435	luzonensis
+T9	Taxon 441 448	banahao
+T10	Habitat 533 547	arboreal ferns
+T11	Habitat 551 573	leaf axils of Pandanus
+T12	GeographicalLocation 632 639	Cantaub
+T13	GeographicalLocation 641 655	Siena Bullones
+T14	GeographicalLocation 657 669	Bohol Island
+T15	Habitat 683 697	arboreal ferns
+T16	Habitat 706 728	leaf axils of Pandanus
+T17	Habitat 752 764	forest floor
+T18	Taxon 850 871	Platymantis guentheri
+T19	Habitat 905 917	forest floor
+T20	Habitat 934 948	arboreal ferns
+T21	TemporalExpression 962 966	1972
+T22	Habitat 981 994	arboreal fern
+T23	GeographicalLocation 1035 1040	Bohol
+T24	Taxon 1060 1069	P. rabori
+T25	Taxon 1082 1094	P. guentheri
+T26	Taxon 1130 1139	P. rabori
+T27	GeographicalLocation 1195 1200	Bohol
+T28	GeographicalLocation 1202 1207	Leyte
+T29	GeographicalLocation 1213 1229	Mindanao islands
+T30	Taxon 1231 1254	Platymantis negrosensis
+T31	Taxon 1267 1285	Cornufer guentheri
+T32	Taxon 1350 1371	Platymantis guentheri
+T33	Taxon 1447 1466	Platymantis hazelae
+T34	Person 0 5	BROWN
+T35	Person 7 16	A. ALCALA
+T36	Person 18 25	DIESMOS
+T37	Person 30 39	E. ALCALA
+T38	TemporalExpression 603 607	1962
+T39	Taxon 1267 1303	Cornufer guentheri: Alcala and Brown

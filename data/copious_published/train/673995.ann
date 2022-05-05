@@ -1,0 +1,103 @@
+T1	Taxon 11 27	DIPTEROCARPACEAE
+T2	Person 719 725	Blanco
+T3	Taxon 1324 1342	Vatica astrotricha
+T4	GeographicalLocation 1346 1358	Cochin-China
+T5	GeographicalLocation 1362 1367	LUZON
+T6	GeographicalLocation 1369 1388	Province of Cagayan
+T7	Person 1406 1412	Curran
+T8	GeographicalLocation 1414 1438	Province of Ilocos Norte
+T9	Person 1456 1463	Merritt
+T10	Person 1466 1473	Darling
+T11	GeographicalLocation 1475 1497	Province of Ilocos Sur
+T12	Person 1515 1521	Klemme
+T13	Person 1538 1544	Klemme
+T14	TemporalExpression 1546 1555	Apr. 1907
+T15	Person 1584 1591	Paraiso
+T16	GeographicalLocation 1593 1615	Subprovince of Benguet
+T17	Person 1633 1639	Curran
+T18	GeographicalLocation 1641 1661	Province of La Union
+T19	Person 1663 1668	Elmer
+T20	TemporalExpression 1675 1684	Feb. 1904
+T21	GeographicalLocation 1697 1719	Province of Pangasinan
+T22	Person 1736 1742	Curran
+T23	Person 1745 1752	Merritt
+T24	Person 1770 1777	Alvarez
+T25	Person 1810 1816	Medina
+T26	Person 1834 1839	Agama
+T27	GeographicalLocation 1841 1859	Province of Tarlac
+T28	Person 1861 1866	Vidal
+T29	GeographicalLocation 1875 1898	Province of Nueva Ecija
+T30	Person 1900 1905	Vidal
+T31	Person 1927 1934	Alvarez
+T32	GeographicalLocation 1936 1956	Province of Zambales
+T33	Person 1958 1965	Warburg
+T34	GeographicalLocation 1973 1991	Province of Bataan
+T35	Person 2012 2018	Borden
+T36	Person 2035 2041	Borden
+T37	TemporalExpression 2043 2050	May 904
+T38	Person 2078 2084	Borden
+T39	TemporalExpression 2086 2095	Aug. 1904
+T40	Person 2107 2113	Merill
+T41	TemporalExpression 2120 2129	Aug. 1904
+T42	Person 2141 2149	Whitford
+T43	TemporalExpression 2155 2163	May 1904
+T44	Person 2176 2184	Whitford
+T45	TemporalExpression 2191 2200	Apr. 1905
+T46	Person 2227 2236	Foxworthy
+T47	Person 2254 2260	Curran
+T48	Person 2263 2270	Merritt
+T49	Person 2294 2300	Curran
+T50	GeographicalLocation 2302 2319	Province of Rizal
+T51	Person 2321 2326	Vidal
+T52	Person 2360 2373	Ahernâ€™s coll.
+T53	TemporalExpression 2375 2384	Apr. 1904
+T54	Person 2412 2426	Ahern^â€™s coll.
+T55	TemporalExpression 2428 2436	May 1904
+T56	Person 2463 2476	Ahernâ€™s coll.
+T57	TemporalExpression 2478 2487	June 1904
+T58	Person 2515 2528	Ahernâ€™s coll.
+T59	TemporalExpression 2530 2539	Dec. 1904
+T60	Person 2573 2586	Ahernâ€™s coll.
+T61	TemporalExpression 2588 2597	Mar. 1905
+T62	Person 2625 2638	Ahernâ€™s coll.
+T63	TemporalExpression 2640 2649	Apr. 1905
+T64	GeographicalLocation 2661 2682	Province of La Laguna
+T65	Person 2700 2706	Curran
+T66	Person 2724 2730	Cortes
+T67	GeographicalLocation 2732 2751	Province of Tayabas
+T68	Person 2753 2760	Merrill
+T69	Person 2766 2772	Garcia
+T70	TemporalExpression 2774 2783	Aug. 1903
+T71	Person 2806 2813	Merrill
+T72	Person 2819 2825	Garcia
+T73	TemporalExpression 2827 2837	Sept. 1903
+T74	Person 2872 2879	Darling
+T75	GeographicalLocation 2881 2902	Province of Camarines
+T76	Person 2920 2926	Curran
+T77	TemporalExpression 2928 2937	June 1908
+T78	Person 2966 2976	Rosenbluth
+T79	GeographicalLocation 2978 2995	Province of Albay
+T80	Person 3013 3023	Rosenbluth
+T81	GeographicalLocation 3025 3030	LEYTE
+T82	Person 3048 3058	Rosenbluth
+T83	GeographicalLocation 3060 3068	MINDANAO
+T84	GeographicalLocation 3070 3087	District of Davao
+T85	Person 3105 3113	Whitford
+T86	GeographicalLocation 3115 3136	District of Zamboanga
+T87	Person 3153 3161	Whitford
+T88	Person 3164 3174	Hutchinson
+T89	Taxon 3190 3195	karig
+T90	Taxon 3204 3209	aniga
+T91	Taxon 3218 3225	aningat
+T92	Taxon 3235 3240	dangi
+T93	Taxon 3249 3255	labang
+T94	Taxon 3265 3270	karig
+T95	Taxon 3280 3287	saungan
+T96	Taxon 3297 3304	tapurao
+T97	Taxon 3311 3323	yacal blanco
+T98	Taxon 3332 3337	dagam
+T99	Taxon 3347 3353	duyong
+T100	Taxon 3362 3370	cariocan
+T101	Taxon 3379 3387	tiranlay
+T102	Taxon 3397 3405	puti-yan
+T103	Taxon 3415 3420	banic

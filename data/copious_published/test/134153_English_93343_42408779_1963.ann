@@ -1,0 +1,62 @@
+T1	Taxon 38 53	Cypraea martini
+T2	Taxon 73 93	Mollusca  Gastropoda
+T3	GeographicalLocation 137 156	Southern California
+T4	Taxon 861 876	Cypraea martini
+T5	GeographicalLocation 1279 1290	Philippines
+T6	Taxon 1334 1345	Cypraea bee
+T7	Taxon 1406 1416	C. martini
+T8	Person 1424 1438	F. A. Schilder
+T9	Taxon 1505 1520	Cypraea martini
+T10	Taxon 1739 1746	Cypraea
+T11	TemporalExpression 2045 2055	April 1962
+T12	GeographicalLocation 2112 2126	southern Luzon
+T13	GeographicalLocation 2164 2175	Pulo Island
+T14	GeographicalLocation 2177 2220	northeast of the large island of Marinduque
+T15	Taxon 2476 2486	Serranidae
+T16	Taxon 2860 2875	Cypraea fultoni
+T17	GeographicalLocation 3045 3057	South Africa
+T18	Person 3307 3320	John E. Fitch
+T19	GeographicalLocation 3714 3726	South Africa
+T20	GeographicalLocation 3996 4007	Pulo Island
+T21	Person 57 65	SCHEPMAN
+T22	TemporalExpression 67 71	1907
+T23	TemporalExpression 98 108	CRAWFORD N
+T24	GeographicalLocation 158 169	Los Angeles
+T25	GeographicalLocation 171 181	California
+T26	Taxon 257 264	cowries
+T27	Taxon 467 494	Cypraea (Notadusta) martini
+T28	Taxon 467 503	Cypraea (Notadusta) martini Schepman
+T29	TemporalExpression 505 509	1907
+T30	TemporalExpression 959 970	Pleistocene
+T31	GeographicalLocation 974 991	northwest Celebes
+T32	GeographicalLocation 1026 1032	Leiden
+T33	GeographicalLocation 1037 1046	Amsterdam
+T34	GeographicalLocation 1107 1119	New Hebrides
+T35	GeographicalLocation 1235 1239	Bern
+T36	GeographicalLocation 1241 1252	Switzerland
+T37	Taxon 1334 1355	Cypraea bee kit Gasko
+T38	TemporalExpression 1359 1363	1836
+T39	GeographicalLocation 1602 1608	Europe
+T40	Person 1804 1809	Allan
+T41	TemporalExpression 1811 1815	1956
+T42	GeographicalLocation 2089 2107	Monpog sea passage
+T43	GeographicalLocation 2241 2257	Bondoc Peninsula
+T44	GeographicalLocation 2225 2238	west of Luzon
+T45	Taxon 2441 2448	Grouper
+T46	Taxon 2455 2467	Plectropomus
+T47	Habitat 2360 2365	coral
+T48	Habitat 2352 2356	rock
+T49	Taxon 2559 2565	cowrie
+T50	Person 2704 2722	Fernando G. Dayrit
+T51	Taxon 2852 2858	cowrie
+T52	Taxon 2860 2883	Cypraea fultoni Sowerby
+T53	TemporalExpression 2885 2889	1903
+T54	Taxon 2953 2966	Musselcracker
+T55	Taxon 3091 3104	Musselcracker
+T56	Taxon 3201 3211	C. fultoni
+T57	Taxon 3287 3294	Grouper
+T58	Taxon 3466 3473	Grouper
+T59	Taxon 3695 3710	Mussel-crackers
+T60	Taxon 3803 3810	Grouper
+T61	Taxon 3947 3957	C. martini
+T62	TemporalExpression 4225 4230	hours

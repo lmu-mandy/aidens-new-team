@@ -1,0 +1,1117 @@
+HHS Public Access
+Author manuscript
+Author Manuscript
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+Published in final edited form as:
+Nature. 2015 August 13; 524(7564): 220–224. doi:10.1038/nature14668.
+
+The octopus genome and the evolution of cephalopod neural
+and morphological novelties
+Caroline B. Albertin1,*, Oleg Simakov2,3,*, Therese Mitros4, Z. Yan Wang5, Judit R. Pungor5,
+Eric Edsinger-Gonzalez2, Sydney Brenner2, Clifton W. Ragsdale1,5,+, and Daniel S.
+Rokhsar2,4,6,+
+1Department
+
+Author Manuscript
+
+2Okinawa
+
+of Organismal Biology and Anatomy, University of Chicago, Chicago, IL 60637, USA
+
+Institute of Science and Technology Graduate University, Onna, Okinawa 9040495,
+
+Japan
+3Centre
+
+for Organismal Studies, University of Heidelberg, Grabengasse 1, 69117 Heidelberg,
+Germany
+
+4Department
+
+of Molecular and Cell Biology, University of California, Berkeley, CA 94720, USA
+
+5Department
+
+of Neurobiology, University of Chicago, Chicago, IL 60637, USA
+
+6Department
+
+of Energy Joint Genome Institute, Walnut Creek, CA 94598, USA
+
+Abstract
+Author Manuscript
+
+Coleoid cephalopods (octopus, squid, and cuttlefish) are active, resourceful predators with a rich
+behavioral repertoire1. They have the largest nervous systems among the invertebrates2 and
+present other striking morphological innovations including camera-like eyes, prehensile arms, a
+highly derived early embryogenesis, and the most sophisticated adaptive coloration system among
+all animals1,3. To investigate the molecular bases of cephalopod brain and body innovations we
+sequenced the genome and multiple transcriptomes of the California two-spot octopus, Octopus
+bimaculoides. We found no evidence for hypothesized whole genome duplications in the octopus
+lineage4–6. The core developmental and neuronal gene repertoire of the octopus is broadly similar
+to that found across invertebrate bilaterians, except for massive expansions in two gene families
+formerly thought to be uniquely enlarged in vertebrates: the protocadherins, which regulate
+neuronal development, and the C2H2 superfamily of zinc finger transcription factors. Extensive
+mRNA editing generates transcript and protein diversity in genes involved in neural excitability,
+
+Author Manuscript
+
+Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research,
+subject always to the full Conditions of use:http://www.nature.com/authors/editorial_policies/license.html#terms
++
+Correspondence and requests for materials should be addressed to C.W.R. (cragsdale@uchicago.edu) or D.S.R.
+(dsrokhsar@gmail.com).
+*contributed equally
+Supplementary Information is available in the online version of this paper.
+Author contributions
+The Chicago and the OIST/Berkeley groups initiated their transcriptome and genome projects independently. In the subsequent
+collaboration, both groups worked closely on every aspect of the project. Chicago group: C.B.A., Z.Y.W., J.R.P., C.W.R; OIST/
+Berkeley group: O.S., T.M., E.E.-G., S.B., D.S.R.
+Competing financial interests
+The authors declare no competing financial interests
+
+Albertin et al.
+
+Page 2
+
+Author Manuscript
+
+as previously described7, as well as in genes participating in a broad range of other cellular
+functions. We identified hundreds of cephalopod-specific genes, many of which showed elevated
+expression levels in such specialized structures as the skin, the suckers, and the nervous system.
+Finally, we found evidence for large-scale genomic rearrangements that are closely associated
+with transposable element expansions. Our analysis suggests that substantial expansion of a
+handful of gene families, along with extensive remodeling of genome linkage and repetitive
+content, played a critical role in the evolution of cephalopod morphological innovations, including
+their large and complex nervous systems.
+
+Author Manuscript
+
+Soft-bodied cephalopods such as the octopus (Fig. 1a) show remarkable morphological
+departures from the basic molluscan body plan, including dexterous arms lined with
+hundreds of suckers that function as specialized tactile and chemosensory organs, and an
+elaborate chromatophore system under direct neural control that enables rapid changes in
+appearance1,8. The octopus nervous system is vastly modified in size and organization
+relative to other molluscs, comprising a circumesophageal brain, paired optic lobes, and
+axial nerve cords in each arm2,3. Together these structures contain nearly half a billion
+neurons, more than six times the number in a mouse brain2,9. Extant coleoid cephalopods
+show extraordinarily sophisticated behaviors including complex problem solving, taskdependent conditional discrimination, observational learning and spectacular displays of
+camouflage1,10 (Supplementary Videos 1, 2).
+
+Author Manuscript
+
+To explore the genetic features of these highly specialized animals, we sequenced the
+Octopus bimaculoides genome by a whole genome shotgun approach (Supplementary Note
+1) and annotated it using extensive transcriptome sequence from 12 tissues (Methods;
+Supplementary Note 2). The genome assembly captures more than 97% of expressed protein
+coding genes and 83% of the estimated 2.7 Gb genome size (Methods; Supplementary Notes
+1–3). The unassembled fraction is dominated by high-copy repetitive sequences
+(Supplementary Note 1). Nearly 45% of the assembled genome is composed of repetitive
+elements, with two bursts of transposon activity occurring ~25 and ~56 mya (Supplementary
+Note 4).
+
+Author Manuscript
+
+We predicted 33,638 protein-coding genes (Methods, Supplementary Note 4) and found
+alternate splicing at 2,819 loci, but no locus has an extraordinary number of splice variants
+(Supplementary Note 4). A-to-G discrepancies between the assembled genome and
+transcriptome sequences provided evidence for extensive mRNA editing by adenosine
+deaminases acting on RNA (ADARs). Many candidate edits are enriched in neural tissues7
+and are found in a range of gene families, including “housekeeping” genes such as the
+tubulins, which suggests that RNA edits are more widespread than previously appreciated
+(Extended Data Fig. 1, Supplementary Note 5).
+Based primarily on chromosome number, several researchers proposed that whole genome
+duplications were important in the evolution of the cephalopod body plan4–6, paralleling the
+role ascribed to the independent whole genome duplication events that occurred early in
+vertebrate evolution11. While this is an attractive framework for both gene family expansion
+and increased regulatory complexity across multiple genes, we found no evidence for it. The
+gene family expansions present in octopus are predominantly organized in clusters along the
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 3
+
+Author Manuscript
+
+genome, rather than distributed in doubly conserved synteny as expected for a
+paleopolyploid12,13 (Supplementary Note 6.2). While genes that regulate development are
+often retained in multiple copies after paleopolyploidy in other lineages, they are not
+generally expanded in octopus relative to limpet, oyster, and other invertebrate
+bilaterians11,14 (Table 1; Supplementary Notes 7.4, 8).
+
+Author Manuscript
+
+While Hox genes are commonly retained in multiple copies following whole genome
+duplication15, we found only a single Hox complement in O. bimaculoides, consistent with
+the single set of Hox transcripts identified in the bobtail squid Euprymna scolopes with
+PCR16. Remarkably, octopus Hox genes are not organized into clusters as in most other
+bilaterian genomes15, but are completely atomized (Extended Data Fig. 2; Supplementary
+Note 9). While we cannot rule out whole genome duplication followed by considerable gene
+loss, the extent of loss needed to support this claim would far exceed that which has been
+observed in other paleopolyploid lineages, and it is more plausible that chromosome number
+in coleoids increased by chromosome fragmentation.
+Mechanisms other than whole genome duplications can drive genomic novelty, including
+expansion of existing gene families, evolution of novel genes, modification of gene
+regulatory networks, and reorganization of the genome through transposon activity. Within
+the O. bimaculoides genome, we found evidence for all of these mechanisms, including
+expansions in several gene families, a suite of octopus- and cephalopod-specific genes, and
+extensive genome shuffling.
+
+Author Manuscript
+
+In gene family content, domain architecture, and exon-intron structure, the octopus genome
+broadly resembles that of the limpet Lottia gigantea17, the polychaete annelid Capitella
+teleta17, and the cephalochordate Branchiostoma floridae14 (Supplementary Note 7,
+Extended Data Fig. 3). Relative to these invertebrate bilaterians, we found a fairly standard
+set of developmentally important transcription factors and signaling pathway genes,
+suggesting that the evolution of the cephalopod body plan did not require extreme
+expansions of these “toolkit” genes (Table 1; Supplementary Note 8.2). Statistical analysis
+of protein domain distributions across animal genomes did, however, identify several
+notable gene family expansions in octopus, including protocadherins, C2H2 zinc-finger
+proteins (C2H2-ZNFs), interleukin 17-like genes (IL17-like), G-protein coupled receptors
+(GPCRs), chitinases, and sialins (Figs. 2–3; Extended Data Figs 4–6; Supplementary Notes
+8 and 10).
+
+Author Manuscript
+
+The octopus genome encodes 168 multi-exonic protocadherin genes, nearly three-quarters of
+which are found in tandem clusters on the genome (Fig. 2b), a dramatic expansion relative to
+the 17–25 genes found in Lottia, Crassostrea, and Capitella genomes. Protocadherins are
+homophilic cell adhesion molecules whose function has been primarily studied in mammals,
+in which they are required for neuronal development and survival as well as synaptic
+specificity18. Single protocadherin genes are found in the invertebrate deuterostomes
+Saccoglossus kowalevskii and Strongylocentrotus purpuratus, indicating that their absence
+in Drosophila melanogaster and Caenorhabditis elegans is due to gene loss. Vertebrates
+also show a remarkable expansion of the protocadherin repertoire, which is generated by
+complex splicing from a clustered locus rather than tandem gene duplication (reviewed
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 4
+
+Author Manuscript
+
+in 19). Thus both octopuses and vertebrates have independently evolved a diverse array of
+protocadherin genes.
+A search of available transcriptome data from the longfin inshore squid Doryteuthis
+(formerly, Loligo) pealeii20 also demonstrated an expanded number of protocadherin genes
+(Supplementary Note 8.3). Surprisingly, our phylogenetic analyses suggest that the squid
+and octopus protocadherin arrays arose independently. Unlinked octopus protocadherins
+appear to have expanded ~135 mya, after octopuses diverged from squid. In contrast,
+clustered octopus protocadherins are much more similar in sequence, either due to more
+recent duplications or gene conversion as found in clustered protocadherins in zebrafish and
+mammals21.
+
+Author Manuscript
+Author Manuscript
+
+The expression of protocadherins in octopus neural tissues (Fig. 2) is consistent with a
+central role for these genes in establishing and maintaining cephalopod nervous system
+organization. Protocadherin diversity provides a mechanism for regulating the short-range
+interactions needed for the assembly of local neural circuits18, which is where the greatest
+complexity in the cephalopod nervous system appears2. The importance of local neuropil
+interactions, rather than long-range connections, is likely due to the limits placed on axon
+density and connectivity by the absence of myelin, since thick axons are then required for
+rapid high fidelity signal conduction over long distances. The sequence divergence between
+octopus and squid protocadherin expansions may reflect the dramatic differences between
+decapodiforms and octopuses in brain organization, which have been most clearly
+demonstrated for the vertical lobe, a key structure in cephalopod learning and memory
+circuits2,22. Finally, the independent expansions and nervous system enrichment of
+protocadherins in coleoid cephalopods and vertebrates offers a striking example of
+convergent evolution between these clades at the molecular level.
+As with the protocadherins, we found multiple clusters of C2H2-ZNF transcription factor
+genes (Fig. 3a; Supplementary Note 8.4). The octopus genome contains nearly 1,800 multiexonic C2H2-containing genes (Table 1), more than the 200–400 C2H2-ZNFs found in
+other lophotrochozoans and the 500–700 found in eutherian mammals, in which they form
+the second largest gene family23. C2H2-ZNF transcription factors contain multiple C2H2
+domains that, in combination, result in highly specific nucleic acid binding. The octopus
+C2H2-ZNFs typically contain 10–20 C2H2 domains but some have as many as 60
+(Supplementary Note 8.4). The majority of the transcripts are expressed in embryonic and
+nervous tissues (Fig. 3b). This pattern of expression is consistent with roles for C2H2-ZNFs
+in cell fate determination, early development, and transposon silencing, as demonstrated in
+genetic model systems23.
+
+Author Manuscript
+
+The expansion of the O. bimaculoides C2H2-ZNFs coincides with a burst of transposable
+element activity at ~25 mya (Fig. 3c). The flanking regions of these genes show a significant
+enrichment in a 70–90 bp tandem repeat (31% for C2H2 genes vs. 4% for all genes; Fisher’s
+exact test p-value < e−16), which parallels the linkage of C2H2 gene expansions to betasatellite repeats in humans24. We also found an expanded C2H2-ZNF repertoire in
+amphioxus (Table 1), showing a similar enrichment in satellite-like repeats. These parallels
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 5
+
+Author Manuscript
+
+suggest a common mode of expansion of a highly dynamic transcription factor family
+implicated in lineage-specific innovations.
+
+Author Manuscript
+
+To investigate further the evolution of gene families implicated in nervous system
+development and function, we surveyed genes associated with axon guidance (Table 1) and
+neurotransmission (Table 2), identifying their homologues in octopus and comparing
+numbers across a diverse set of animal genomes (Supplementary Notes 8–10). Several
+patterns emerged. The gene complements present in the model organisms D. melanogaster
+and C. elegans often showed dramatic departures from those seen in lophotrochozoans and
+vertebrates (Table 2; Supplementary Note 10). For example, D. melanogaster encodes one
+member of the discs, large (DLG) family, a key component of the postsynaptic scaffold. In
+contrast, mammals have four DLGs, which (along with other observations) led to
+suggestions that vertebrates possess uniquely complex synaptic machinery25. We find,
+however, three DLGs in both octopus and limpet, suggesting that vertebrate-fly gene number
+differences are not necessarily diagnostic of exceptional vertebrate synaptic complexity
+(Supplementary Note 10.6).
+
+Author Manuscript
+
+Overall, neurotransmission gene family sizes in the octopus were very similar to those seen
+in other lophotrochozoans (Table 2, Supplementary Note 10), except for a few dramatically
+expanded gene families such as the sialic acid vesicular transporters (sialins)
+(Supplementary Note 10.2). We did find variations in the sizes of neurotransmission gene
+families between human and lophotrochozoans (Table 2, Supplementary Note 10), but no
+evidence for systematic expansion of these gene families in vertebrates relative to octopus or
+other lophotrochozoans. While some gene families were larger in mammals or absent in
+lophotrochozoans (e.g., ligand gated 5-HT receptors), others were absent in mammals and
+present in invertebrates (e.g., anionic glutamate and acetylcholine receptors). The
+complement of neurotransmission genes in octopus may be broadly typical for a
+lophotrochozoan, but our findings suggest it is also not obviously smaller than what is found
+in mammals.
+
+Author Manuscript
+
+Among the octopus complement of ligand-gated ion channels, we identified a set of atypical
+nicotinic acetylcholine receptor-like genes, most of which are tandemly arrayed in clusters
+(Extended Data Fig. 7). These subunits lack several residues identified as necessary for the
+binding of acetylcholine26, so it is unlikely that they function as acetylcholine receptors. The
+high levels of expression of these divergent subunits within the suckers raises the interesting
+possibility that they act as sensory receptors, as do some divergent glutamate receptors in
+other protostomes27. In addition, we identified 74 Aplysia-like and 11 vertebrate-like
+candidate chemoreceptors among the octopus GPCR superfamily of ~320 genes (Extended
+Data Fig. 6).
+We found, amid extensive transcription of octopus transposons, that a class of octopusspecific SINEs is highly expressed in neural tissues (Supplementary Note 4, Extended Data
+Fig. 8). While the role of active transposons is unclear, elevated transposon expression in
+neural tissues has been suggested to serve an important function in learning and memory in
+mammals and flies28.
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 6
+
+Author Manuscript
+
+Transposable element insertions are often associated with genomic rearrangements29 and we
+found that the transposon-rich octopus genome displays substantial loss of ancestral
+bilaterian linkages that are conserved in other species (Supplementary Note 6; Extended
+Data Fig. 9). Interestingly, genes that are linked in other bilaterians but not in octopus are
+enriched in neighboring SINE content. SINE insertions around these genes date to the time
+of tandem C2H2 expansion (Extended Data Fig. 9d), pointing to a crucial period of genome
+evolution in octopus. Other transposons such as Mariner show no such enrichment,
+suggesting distinct roles for different classes of transposons in shaping genome structure
+(Extended Data Fig. 9c).
+
+Author Manuscript
+
+Transposable element activity has been implicated in the modification of gene regulation
+across several eukaryotic lineages29. We found that in the nervous system, the degree to
+which a gene’s expression is tissue-specific is positively correlated with the transposon load
+around that gene (r-squared values ranging from 0.49 in optic lobe to 0.81 in subesophageal
+brain; Extended Data Fig. 8; Supplementary Note 4). This correlation may reflect
+modulation of gene expression by transposon-derived enhancers or a greater tolerance for
+transposon insertion near genes with less complex patterns of tissue-specific gene
+regulation.
+
+Author Manuscript
+
+Using a relaxed molecular clock, we estimate that the octopus and squid lineages diverged
+~270 mya, emphasizing the deep evolutionary history of coleoid cephalopods8,30
+(Supplementary Note 7.1; Extended Data Figure 10a). Our analyses found hundreds of
+coleoid- and octopus-specific novel genes, many of which were expressed in tissues
+containing novel structures, including the chromatophore-laden skin, the suckers, and the
+nervous system (Extended Data Fig. 10, Supplementary Note 11). Taken together, these
+novel genes, the expansion of C2H2-ZNFs, genome rearrangements, and extensive
+transposable element activity yield a new landscape for both trans- and cis- regulatory
+elements in the octopus genome, resulting in changes in an otherwise “typical”
+lophotrochozoan gene complement that contributed to the evolution of cephalopod neural
+complexity and morphological innovations.
+
+METHODS
+Data access
+Genome and transcriptome sequence reads are deposited in the SRA as BioProject
+PRJNA270931. The genome assembly and annotation are linked to the same BioProject ID.
+A browser of this genome assembly is available at http://octopus.metazome.net/.
+
+Author Manuscript
+
+Genome sequencing and assembly
+Genomic DNA from a single male Octopus bimaculoides31 was isolated and sequenced
+using Illumina technology to 60-fold redundant coverage in libraries spanning a range of
+pairs from ~350 bp to 10 kb. These data were assembled with meraculous32 achieving a
+contig N50-length of 5.4 kb and a scaffold N50-length of 470 kb. The longest scaffold
+contains 99 genes and half of all predicted genes are on scaffolds with 8 or more genes
+(Supplementary Note 1).
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 7
+
+Genome size and heterozygosity
+
+Author Manuscript
+
+The O. bimaculoides haploid genome size was estimated to be ~2.7 gigabases (Gb) based on
+fluorescence (2.66–2.68 Gb) and k-mer (2.86 Gb) measurements (Supplementary Notes 1
+and 2), making it several times larger than other sequenced molluscan and lophotrochozoan
+genomes17. We observed nucleotide-level heterozygosity within the sequenced genome to
+be 0.08%, which may reflect a small effective population size relative to broadcastspawning marine invertebrates.
+Transcriptome sequencing
+
+Author Manuscript
+
+Twelve transcriptomes were sequenced from RNA isolated from ova, testes, viscera,
+posterior salivary gland (PSG), suckers, skin, developmental stage 15 (St15)33, retina, optic
+lobe (OL), supraesophageal brain (Supra), subesophageal brain (Sub), and axial nerve cord
+(ANC) (Supplementary Note 2). RNA was isolated using Trizol (Invitrogen) and 100bp
+paired-end reads (insert size 300bp) were generated on an Illumina HiSeq2000 sequencing
+machine.
+De novo transcriptome assembly
+
+Author Manuscript
+
+Adapters and low quality reads were removed before assembling transcriptomes using the
+Trinity de novo assembly package [version r2013-02-2534,35]. Assembly statistics are
+summarized in Table S2.2. Following assembly, peptide-coding regions were translated
+using TransDecoder in the Trinity package. We compared the de novo assembled RNA-Seq
+output to the genome to evaluate the completeness of the genome assembly. To minimize
+the number of spuriously assembled transcripts, only transcripts with ORFs predicted by
+TransDecoder were mapped onto the genome with BLASTN. Only 1,130 out of 48,259
+transcripts with ORFs (2.34%) did not have a match in the genome with a minimum identity
+of 95%.
+Annotation of transposable elements
+Transposable elements were identified with RepeatModeler36 and Repeatmasker37, as
+outlined in Supplementary Note 4.2. The most abundant transposable element is a
+previously identified octopus-specific SINE38 that accounts for 4% of the assembled
+genome.
+Annotation of protein coding genes
+
+Author Manuscript
+
+Protein-coding genes were annotated by combining transcriptome evidence with homologybased and de novo gene prediction methods (Supplementary Note 4). For homology
+prediction we used predicted peptide sets of three previously sequenced molluscs (L.
+gigantea, C. gigas, and A. californica) along with selected other metazoans. Alternative
+splice isoforms were identified with PASA39. Annotation statistics are provided in Table
+S4.1.1. Genes known in vertebrates to have many isoforms, such as ankyrin, TRAK1, and
+LRCH1, also show alternative splicing in octopus but at a more limited level. Octopus genes
+with ten or more alternative splice forms are provided in Table S4.1.2.
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 8
+
+Calibration of sequence divergence with respect to time
+
+Author Manuscript
+
+The divergence between squid and octopus was estimated using r8s40 by fixing cephalopod
+divergence from bivalves and gastropods to 540 mya8. Our estimate of 270 mya for the
+squid-octopus divergence corresponds to mean neutral substitution rate of dS ~2 based on
+the protein-directed CDS alignments between the species (Supplementary Figure S6.1.2)
+and a dS estimation using the yn00 program41. Throughout the manuscript we convert from
+sequence divergence to time by assuming that dS ~1 corresponds to 135 million years. For
+example, unlinked octopus protocadherins appear to have expanded ~135 mya based on
+mean pairwise dS~1, after octopuses diverged from squid. In contrast, clustered octopus
+protocadherins are much more similar in sequence (mean pairwise dS ~0.4, or ~55 mya).
+Quantifying gene expression
+
+Author Manuscript
+
+Transcriptome reads were mapped to the genome assembly with TopHat 2.0.1142. A range
+of 76–90% of reads from the different samples mapped to the genome. Mapped reads were
+sorted and indexed with SAMtools43. The read counts in each tissue were produced with
+bedtools multicov program44 using the gene model coordinates. The counts were normalized
+by the total transcriptome size of each tissue and by the length of the gene. Heatmaps
+showing expression patterns were generated in R using the heatmap.2 function.
+Gene complement
+
+Author Manuscript
+
+Gene families of particular interest, including developmental regulatory genes, neuralrelated genes, and gene families that appear to be expanded in O. bimaculoides, were
+manually curated and analyzed. We searched the octopus genome and transcriptome
+assemblies using BLASTP and TBLASTN with annotated sequences from human, mouse,
+and D. melanogaster. Bulk analyses were also performed using Pfam45 and PANTHER46.
+We also used BLASTP and TBLASTX to search for specific gene families in deposited
+genome and transcriptome databases for L. gigantea, A. californica, C. gigas, C. teleta, T.
+castaneum, D. melanogaster, C. elegans, N. vectensis, A. queenslandica S. kowalevskii, B.
+floridae, C. intestinalis, D. rerio, M. musculus, and H. sapiens. Candidate genes were
+verified with BLAST47 and Pfam45 analysis. Genes identified in the octopus genome were
+confirmed and extended using the transcriptomes. Multiple gene models that matched the
+same transcript were combined. The identified sequences from octopus and other bilaterians
+were aligned with either MUSCLE48, CLUSTALO49, MacVector 12.6 (MacVector Inc,
+North Carolina), or Jalview50. Phylogenetic trees were constructed with FastTree51 using the
+Jones-Taylor-Thornton model of amino acid evolution, and members of each family were
+counted.
+
+Author Manuscript
+
+Synteny
+Microsynteny was computed based on metazoan node gene families (Supplementary Note
+7). We used Nmax 10 (maximum of 10 intervening genes) and Nmin 3 (minimum of three
+genes in a syntenic block) according to the pipeline described in Simakov et al. (2013)
+(Supplementary Note 6). To simplify gene family assignments we limited our analyses to
+4,033 gene families shared among human, amphioxus, Capitella, Helobdella, Octopus,
+Lottia, Crassostrea, Drosophila, and Nematostella. We required ancestral bilaterian syntenic
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 9
+
+Author Manuscript
+
+blocks to have a minimum of one species present in both ingroups, or in one ingroup and
+one outgroup. To examine the effect of fragmented genome assemblies, we simulated
+shorter assemblies by artificially fragmenting genomes to contain on average 5 genes per
+scaffold (Supplementary Note 6).
+
+Author Manuscript
+
+In comparison with other bilaterian genomes, we find that the octopus genome is
+substantially rearranged. In looking at micro-syntenic linkages of genes with a maximum of
+10 intervening genes, we found that octopus conserves only 34 out of 198 ancestral
+bilaterian microsyntenic blocks; the limpet Lottia and amphioxus retain more than twice as
+many such linkages (96 and 140, respectively). This difference remains significant after
+accounting for genes missed through orthology assignment as well as simulations of shorter
+scaffold sizes (Methods; Supplementary Note 6; Extended Data Fig. 9b). Scans for intragenomic synteny, and doubly conserved synteny with Lottia, were performed as described in
+Supplemental Note 6.
+Transposable elements and synteny dynamics
+5kb up- and down-stream regions of genes were surveyed for transposable element (TE)
+content. For genes with non-zero TE load, their assignment to either conserved or lost
+bilaterian synteny in octopus was done using the micro-synteny calculation described above.
+The number of genes for each category and TE class were as follows: 484 genes for retained
+synteny and 1,193 genes in lost synteny for all TE classes; 440 and 1,107, respectively, for
+SINEs; and 116 and 290, respectively, for Mariner. Wilcoxon-U-tests for the difference of
+TE load in linked vs. non-linked genes were conducted in R.
+
+Author Manuscript
+
+To assess transposon activity we assigned transcriptome read aligned to 5,496,558 annotated
+transposon loci using bedtools44. Of these, 2,685,265 loci showed expression in at least one
+of the tissues.
+RNA editing
+
+Author Manuscript
+
+RNA-Seq reads were mapped to the genome with TopHat52, and SAMtools43 was used to
+identify SNPs between the genomic and the RNA sequences. To identify polymorphic
+positions in the genome, SNPs and indels were predicted using GATK HaplotypeCaller
+version 3.1-1 in discovery mode with a minimum Phred scaled probability score of 30,
+based on an alignment of the 350 bp and 500 bp genomic fragment libraries using BWAMEM version 0.7.6a. Using bedtools44, we removed SNPs predicted in both the
+transcriptome and the genome and discarded SNPs that had a Phred score below 40 or were
+outside of predicted genes. SNPs were binned according to the type of nucleotide change
+and the direction of transcription. Candidate edited genes were taken as those having SNPs
+with A-to-G substitutions in the predicted mRNA transcripts.
+Cephalopod-specific genes
+Cephalopod novelties were obtained by BLASTP and TBLASTN searches against the whole
+NR database53 and a custom database of several mollusc transcriptomes (Supplementary
+Note 11.1). To ensure that we had as close to full-length sequence as possible, we extended
+proteins predicted from octopus genomic sequence with our de novo assembled
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 10
+
+Author Manuscript
+
+transcriptomes, using the longest match to query NR, transcriptome, and EST sequences
+from other animals. Gene sequences with transcriptome support but without a match to noncephalopod animals at an evalue cutoff of 1E-3 were considered for further analysis.
+Octopus sequences with a match of 1E-5 or better to a sequence from another cephalopod
+were used to construct gene families, which were characterized by their BLAST alignments,
+HMM, PFAM-A/B, and UNIREF90 hits. The cephalopod-specific gene families are listed in
+the source data file “cephalopodNovelties.xls”. Octopus-specific novelties were defined as
+sequences with transcriptome support but without any matches to sequences from any other
+animals (evalue <1e-3), including nautiloid and decapodiform cephalopods.
+
+Extended Data
+
+Author Manuscript
+Author Manuscript
+
+Extended Data Figure 1. RNA editing in octopus
+
+Author Manuscript
+
+a, Approximate maximum likelihood tree of adenosine deaminases acting on RNA
+(ADARs) in bilaterians. ADAR1, ADAR2, ADAR-like/ADAD, and ADAT (t-RNA specific
+adenosine deaminase) were identified in Hsa, Mmu, Cin, Dme, Cte, Lgi, D. opalescens
+(Dop54), and Obi with Shimodaira-Hasegawa-like support indicated at the nodes. b, O.
+bimaculoides ADAR1, ADAR2 and ADAR-like proteins contain one or two doublestranded RNA binding domains (dsRBD) as well as an adenosine deaminase domain.
+ADAR1 also has a z-alpha domain. c, Expression profiles of the three ADAR genes found in
+12 O. bimaculoides tissues by RNA-Seq profiling. d, DNA-RNA differences in O.
+bimaculoides show prominent A-to-G changes. Histogram illustrates the number of DNARNA differences detected between coding sequences in the genome and 12 O. bimaculoides
+transcriptomes after filtering out polymorphisms identified in genomic sequencing.
+Differences were binned by the type of change (see key) in the direction of transcription. Ato-G changes are the most prevalent, particularly in neural tissues and during development,
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 11
+
+Author Manuscript
+
+paralleling the expression of octopus ADARs in c. Other types of changes were also detected
+at lower levels, possibly resulting from uncharacterized polymorphisms.
+
+Author Manuscript
+
+Extended Data Figure 2. Local arrangement of Hox gene complement in O. bimaculoides and
+selected bilaterians
+
+Author Manuscript
+
+At the top, the four compact Hox clusters of H. sapiens and the single B. floridae cluster are
+depicted. The D. melanogaster Hox complex is split into two clusters. We included genes in
+the D. melanogaster locus that are homologues of Hox genes but have lost their homeotic
+function, such as fushi tarazu (ftz), bicoid, zen and zen2 (the latter three are represented as
+overlapping boxes). Hox genes in C. teleta are found on three scaffolds17. L. gigantea has a
+single cluster with the full known lophotrochozoan gene complement. In O. bimaculoides
+many of the scaffolds are several hundred kb long, and no two Hox genes are on the same
+scaffold. The positions of O. bimaculoides genes approximate their locations on scaffolds.
+Dashed lines indicate that the scaffold continues beyond what is shown. Scaffold length is
+depicted to scale with size noted on the left. Genes are positioned to illustrate orthology,
+which is also highlighted by color.
+
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 12
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Extended Data Figure 3. Gene complement and gene architecture evolution in metazoans
+
+a, Principal component analysis of gene family counts. O. bimaculoides highlighted in
+green. Deuterostomes are indicated in blue, ecdysozoans in red, lophotrochozoans in green,
+and sponges and cnidarians in orange. Xtr: Xenopus tropicalis, Gga: Gallus gallus, Tca:
+Tribolium castaneum, Dpu: Daphnia pulex, Isc: Ixodes scapularis, Ava: Adineta vaga, Spu:
+S. purpuratus, Hma: Hydra magnipapillata, Adi: Acropora digitifera. For methods, see
+Supplementary Note 7.4. b–d, MrBayes55 tree (constrained topology) on binary characters
+of presence or absence of Pfam domain architectures (b), introns (c), or indels (d); scale bar
+represents estimated changes per site. For methods, see Supplementary Note 7.3.
+
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 13
+
+Author Manuscript
+Author Manuscript
+
+Extended Data Figure 4. Protocadherin genes within a genomic cluster are similar in sequence
+and sites of expression
+
+Author Manuscript
+
+a, Expression profile of the 31 protocadherin genes located on Scaffold 30672 in 12 octopus
+transcriptomes. Over three-quarters of the protocadherins are highly expressed throughout
+central brain, OL, and ANC, while the others show more mixed distributions. b,
+Phylogenetic tree highlighting Scaffold 30672 protocadherins in grey bars. c, Expression
+profile of the 17 protocadherin genes located on Scaffold 9600. Almost all of these
+protocadherins are most highly expressed in nervous tissues, with the exception of
+Ocbimv220039316m, which is most highly expressed in the St15 sample. d, Phylogenetic
+tree highlighting Scaffold 9600 protocadherins in grey bars. As seen in b, protocadherins of
+the same scaffold tend to cluster together on the tree. Order of the genes in the heatmaps (a,
+c) follows the ordering on the corresponding scaffold.
+
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 14
+
+Author Manuscript
+Author Manuscript
+Extended Data Figure 5. Expansion of Interleukin (IL) 17-like genes
+
+Author Manuscript
+Author Manuscript
+
+a, Phylogenetic tree of interleukin genes in Obi, Cte, Cgi, and Lgi. Mammalian IL1a, IL1b,
+and IL7 used as outgroups. Human and mouse IL17s branch from other members of the IL
+family. Octopus ILs (as well as all identified invertebrate ILs) group with the mammalian
+IL17 branch and are named “IL17-like”. The 31 octopus genes are distributed across 5
+scaffolds: Scaffold A (Obi_A), 23 members; Scaffold B (Obi_B), 4 members; Scaffold C
+(Obi_C), 2 members; Scaffolds D (Obi_D) and E (Obi_E), 1 member each. b, Expression
+profile of 31 octopus IL17-like genes. Heatmap rows are arranged by order on each scaffold.
+Blank rows indicate genes not expressed in our transcriptomes. The 27 genes found in our
+transcriptomes have strong expression in the suckers and skin. The Scaffold C genes are
+enriched in the PSG and the Scaffold D gene is enriched in the viscera. c, Conserved
+cysteine residues in human IL17 and invertebrate IL17-like proteins. The human IL17
+proteins share a conserved cysteine motif comprising 4 cysteine residues, which may form
+interchain disulfide bonds and facilitate dimerization56. Octopus IL17-like proteins also
+contain this 4-cysteine motif, highlighted in yellow. One octopus sequence encodes only 3
+of these highly conserved cysteine residues. These four cysteines are also present to varying
+degrees in Lottia, Capitella, and Crassostrea sequences. Two additional conserved cysteine
+residues were found in the octopus sequences and are highlighted in red. The first cysteine
+residue is found in all invertebrate sequences examined, and none of the mammalian IL17
+sequences.
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 15
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Extended Data Figure 6. G protein-coupled receptors
+
+GPCRs, also known as 7-transmembrane (7TM) or serpentine receptors, form a large
+superfamily that activates intracellular second messenger systems upon ligand binding. This
+figure considers a subset of the 329 GPCRs we identified in O. bimaculoides. The full
+complement of GPCRs is presented in Supplementary Note 8.5. a and b, As reported for
+other lophotrochozoan genomes, the octopus genome contains chemosensory-like GPCRs:
+74 GPCRs are similar to the Aplysia chemosensory GPCRs57 and 11 GPCRs are similar to
+vertebrate olfactory receptors. c, We identified 4 opsins in the octopus genome (from top to
+bottom): rhodopsin, rhabdomeric opsin, peropsin, and retinochrome. d, The octopus Class F
+GPCRs comprises 6 genes: 5 Frizzled genes and 1 Smoothened gene (*). e, Thirty octopus
+genes show similarity to vertebrate adhesion GPCRs.
+
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 16
+
+Author Manuscript
+Author Manuscript
+Extended Data Figure 7. O. bimaculoides acetylcholine receptor (AchR) subunits
+
+Author Manuscript
+
+a, Phylogenetic tree of AchR subunit genes identified in Hsa, Mmu, Dme, Cte, Lgi, and Obi.
+Black asterisk indicates a Dme sequence that groups with alpha 1-4-like subunits despite
+lacking two defining cysteine residues. b, Expression profiles of octopus AchR subunits.
+Genes ordered as in the tree (a), starting from the gray arrow and continuing
+counterclockwise. Putative non-Ach binding subunits are highly expressed in the suckers.
+One sequence was not detected in our transcriptome datasets. In a and b, red asterisks
+indicate subunits with the substitution known to confer anionic permissivity58. c, Divergent
+octopus subunits lack nearly all residues necessary for Ach binding. Alignment of sequence
+flanking the cysteine loop (yellow) of the L. stagnalis Ach binding protein (Lst_AchBP), the
+human and octopus alpha-7 receptor subunits (Has_AchR7, Obi_10697+), and the 23
+divergent AchR subunits. Essential Ach-binding residues on the primary (pink) and
+complementary (blue) side of the ligand-binding domain are indicated26, with conservative
+substitutions in a lighter shade. Outside of the binding residues, residues shared between the
+alpha 7 subunits are shaded in light grey, with bold letters for conservative substitutions.
+
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 17
+
+Author Manuscript
+Author Manuscript
+Extended Data Figure 8. Active transposable elements and gene expression specificity
+
+Author Manuscript
+
+a, Transposable element expression across 12 tissues. b, Correlation between the total TE
+load (in bp) in the 5kb regions flanking the gene and the fraction of genes with tissuespecific expression (defined as having at least 75% of expression in a single tissue; Source
+Data: TELoadAndTissueExpression.xls). p-value indicates F-statistic for the significance of
+linear regression (H0: r-squared=0), with tissues with a p-value ≤ 0.05 indicated in pink.
+
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 18
+
+Author Manuscript
+Author Manuscript
+Extended Data Figure 9. Synteny dynamics in octopus and the effect of transposable element
+(TE) expansions
+
+Author Manuscript
+
+a, Circos plot showing shared synteny across 6 genomes. Individual scaffolds are plotted
+according to bp length; scaffolds with no synteny are merged together (lighter arcs). Despite
+the large size of the octopus genome, only a small proportion of the scaffolds show synteny.
+b, Synteny reduction in octopus quantified based on synteny inference using gene families
+with at least one representative in human, amphioxus, Capitella, Helobdella, Octopus,
+Lottia, Crassostrea, Drosophila, and Nematostella. Drosophila, Helobdella, and Octopus
+show the highest synteny loss rates. Branch lengths, estimated with MrBayes55, reflect
+extent of local genome rearrangement (Supplementary Note 6). c, Enrichment of overall and
+specific TE classes (base pairs masked) around genes from ancient bilaterian synteny blocks,
+including those absent in octopus (see key). Asterisks indicates Mann-Whitney U test with
+p-value < 0.02. d, Transposable element insertion history (Jukes-Cantor distance adjusted,
+see text) into the vicinity of genes from ‘lost’ synteny blocks. Notice that only one SINE
+peak is present; a more recent peak (visible in “All genomic SINEs”) cannot be recovered
+from those insertions.
+
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 19
+
+Author Manuscript
+Author Manuscript
+
+Extended Data Figure 10. Cephalopod phylogeny and novelties
+
+Author Manuscript
+
+a, Whole-genome-derived phylogeny of molluscs and select other phyla showing the relative
+position of octopus at the base of the coleoid cephalopods. For methods see Supplementary
+Note 7.1. Members of the cephalopod class are indicated in blue, scale indicates number of
+substitutions per site. b, Phylogenetic tree of reflectin genes. Reflectins are cephalopodspecific genes that allow for rapid and reversible changes in iridescence. Six reflectin genes
+were identified in the octopus genome. c and d, Novel gene expression across multiple
+tissues. Bars depict all cephalopod novelties; dark grey indicates sequences with no
+similarity to non-cephalopod genes using HMM searches (Source Data:
+CephalopodNovelties.xls). c, Counts of tissue-specific novelties in a given tissue. d,
+Proportion of expression of novel genes versus total expression in individual tissues. CNS
+(central nervous system) combines Supra, Sub, OL and ANC expression data.
+
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+
+Acknowledgments
+
+Author Manuscript
+
+We thank Titus Brown and Josh Rosenthal for making Doryteuthis RNA-Seq data available before publication,
+Cindy Ha, Jeffrey Orenstein, Jonas Brandenburger, Magdalena Glotzer and Holly Gui for bioinformatic assistance,
+Shuichi Shigeno for help with tissue dissection, Christine Huffard and Roy Caldwell for providing the O.
+bimaculoides specimen used for genomic DNA isolation, and Emina Begovic for genomic DNA preparation. This
+work was supported by the Molecular Genetics Unit of the Okinawa Institute of Science and Technology Graduate
+University (S.B. and D.S.R.) and by funding from the NSF (IOS-1354898) and NIH (R03 HD064887) to C.W.R.
+and from the NSF (DGE-0903637) to Z.Y.W. This work employed the Vincent J. Coates Genomics Sequencing
+Laboratory at UC Berkeley, supported by NIH S10 Instrumentation Grants S10RR029668 and S10RR027303, and
+the University of Chicago Genomics Facility, supported by NIH Grant UL1 TR000430.
+
+References
+1. Hanlon, RT.; Messenger, JB. Cephalopod behaviour. Cambridge University Press; 1996.
+2. Young, JZ. The anatomy of the nervous system of Octopus vulgaris. Clarendon Press; 1971.
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 20
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+3. Wells, MJ. Octopus: physiology and behaviour of an advanced invertebrate. Chapman and Hall;
+1978.
+4. Bonnaud L, Ozouf-Costaz C, Boucher-Rodoni R. A molecular and karyological approach to the
+taxonomy of Nautilus. Comptes Rendus Biologies. 2004; 327:133–138.10.1016/j.crvi.2003.12.004
+[PubMed: 15060984]
+5. Hallinan NM, Lindberg DR. Comparative analysis of chromosome counts infers three
+paleopolyploidies in the mollusca. Genome biology and evolution. 2011; 3:1150–1163.10.1093/gbe/
+evr087 [PubMed: 21859805]
+6. Yoshida MA, et al. Genome structure analysis of molluscs revealed whole genome duplication and
+lineage specific repeat variation. Gene. 2011; 483:63–71.10.1016/j.gene.2011.05.027 [PubMed:
+21672613]
+7. Rosenthal JJ, Seeburg PH. A-to-I RNA editing: effects on proteins key to neural excitability.
+Neuron. 2012; 74:432–439.10.1016/j.neuron.2012.04.010 [PubMed: 22578495]
+8. Kroger B, Vinther J, Fuchs D. Cephalopod origin and evolution. Bio Essays. 2011; 33:602–
+613.10.1002/bies.201100001
+9. Herculano-Houzel S, Mota B, Lent R. Cellular scaling rules for rodent brains. Proceedings of the
+National Academy of Sciences of the United States of America. 2006; 103:12138–12143.10.1073/
+pnas.0604911103 [PubMed: 16880386]
+10. Grasso FW, Basil JA. The evolution of flexible behavioral repertoires in cephalopod molluscs.
+Brain, behavior and evolution. 2009; 74:231–245.10.1159/000258669
+11. Holland PW, Garcia-Fernandez J, Williams NA, Sidow A. Gene duplications and the origins of
+vertebrate development. Dev Suppl. 1994:125–133. [PubMed: 7579513]
+12. Dietrich FS, et al. The Ashbya gossypii genome as a tool for mapping the ancient Saccharomyces
+cerevisiae genome. Science. 2004; 304:304–307.10.1126/science.1095781 [PubMed: 15001715]
+13. Kellis M, Birren BW, Lander ES. Proof and evolutionary analysis of ancient genome duplication in
+the yeast Saccharomyces cerevisiae. Nature. 2004; 428:617–624.10.1038/nature02424 [PubMed:
+15004568]
+14. Putnam NH, et al. The amphioxus genome and the evolution of the chordate karyotype. Nature.
+2008; 453:1064–1071.10.1038/nature06967 [PubMed: 18563158]
+15. Duboule D. The rise and fall of Hox gene clusters. Development. 2007; 134:2549–2560.10.1242/
+dev.001065 [PubMed: 17553908]
+16. Callaerts P, et al. HOX genes in the sepiolid squid Euprymna scolopes: implications for the
+evolution of complex body plans. Proceedings of the National Academy of Sciences of the United
+States of America. 2002; 99:2088–2093.10.1073/pnas.042683899 [PubMed: 11842209]
+17. Simakov O, et al. Insights into bilaterian evolution from three spiralian genomes. Nature. 2013;
+493:526–531.10.1038/nature11696 [PubMed: 23254933]
+18. Zipursky SL, Sanes JR. Chemoaffinity revisited: dscams, protocadherins, and neural circuit
+assembly. Cell. 2010; 143:343–353.10.1016/j.cell.2010.10.009 [PubMed: 21029858]
+19. Chen WV, Maniatis T. Clustered protocadherins. Development. 2013; 140:3297–3302.10.1242/
+dev.090621 [PubMed: 23900538]
+20. Brown, CT.; Graveley, B.; Rosenthal, JJ. Loligo pealeii (squid) data dump. 2014. <http://
+ivory.idyll.org/blog/2014-loligo-transcriptome-data.html>
+21. Noonan JP, Grimwood J, Schmutz J, Dickson M, Myers RM. Gene conversion and the evolution of
+protocadherin gene cluster diversity. Genome research. 2004; 14:354–366.10.1101/gr.2133704
+[PubMed: 14993203]
+22. Shomrat T, et al. Alternative sites of synaptic plasticity in two homologous “fan-out fan-in”
+learning and memory networks. Current biology. 2011; 21:1773–1782.10.1016/j.cub.2011.09.011
+[PubMed: 22018541]
+23. Liu H, Chang LH, Sun Y, Lu X, Stubbs L. Deep vertebrate roots for mammalian zinc finger
+transcription factor subfamilies. Genome biology and evolution. 2014; 6:510–525.10.1093/gbe/
+evu030 [PubMed: 24534434]
+24. Eichler EE, et al. Complex beta-satellite repeat structures and the expansion of the zinc finger gene
+cluster in 19p12. Genome research. 1998; 8:791–808. [PubMed: 9724325]
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 21
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+25. Nithianantharajah J, et al. Synaptic scaffold evolution generated components of vertebrate
+cognitive complexity. Nature neuroscience. 2013; 16:16–24.10.1038/nn.3276 [PubMed:
+23201973]
+26. Brejc K, et al. Crystal structure of an ACh-binding protein reveals the ligand-binding domain of
+nicotinic receptors. Nature. 2001; 411:269–276.10.1038/35077011 [PubMed: 11357122]
+27. Croset V, et al. Ancient protostome origin of chemosensory ionotropic glutamate receptors and the
+evolution of insect taste and olfaction. PLoS genetics. 2010; 6:e1001064.10.1371/journal.pgen.
+1001064 [PubMed: 20808886]
+28. Erwin JA, Marchetto MC, Gage FH. Mobile DNA elements in the generation of diversity and
+complexity in the brain. Nature reviews. Neuroscience. 2014; 15:497–506.10.1038/nrn3730
+[PubMed: 25005482]
+29. Chenais B, Caruso A, Hiard S, Casse N. The impact of transposable elements on eukaryotic
+genomes: from genome size increase to genetic adaptation to stressful environments. Gene. 2012;
+509:7–15.10.1016/j.gene.2012.07.042 [PubMed: 22921893]
+30. Strugnell J, Norman M, Jackson J, Drummond AJ, Cooper A. Molecular phylogeny of coleoid
+cephalopods (Mollusca: Cephalopoda) using a multigene approach; the effect of data partitioning
+on resolving phylogenies in a Bayesian framework. Molecular phylogenetics and evolution. 2005;
+37:426–441.10.1016/j.ympev.2005.03.020 [PubMed: 15935706]
+31. Pickford GE, McConnaughey BH. The Octopus bimaculatus problem: a study in sibling species.
+Bulletin of the Bingham Oceanographic Collection. 1949; 12:1–66.
+32. Chapman JA, et al. Meraculous: de novo genome assembly with short paired-end reads. PloS one.
+2011; 6:e23501.10.1371/journal.pone.0023501 [PubMed: 21876754]
+33. Naef, A.; Boletzky, Sv; Roper, CFE. Embryology. Smithsonian Institution Libraries; 2000.
+Cephalopoda.
+34. Grabherr MG, et al. Full-length transcriptome assembly from RNA-Seq data without a reference
+genome. Nature biotechnology. 2011; 29:644–652.10.1038/nbt.1883
+35. Haas BJ, et al. De novo transcript sequence reconstruction from RNA-seq using the Trinity
+platform for reference generation and analysis. Nature protocols. 2013; 8:1494–1512.10.1038/
+nprot.2013.084 [PubMed: 23845962]
+36. Smit, A.; Hubley, R. RepeatModeler Open-1.0. 2008–2010.
+37. Smit, A.; Hubley, R.; Green, P. RepeatMasker Open-3.0. 1996–2010.
+38. Ohshima K, Okada N. Generality of the tRNA origin of short interspersed repetitive elements
+(SINEs). Characterization of three different tRNA-derived retroposons in the octopus. Journal of
+molecular biology. 1994; 243:25–37.10.1006/jmbi.1994.1627 [PubMed: 7932738]
+39. Haas BJ, et al. Improving the Arabidopsis genome annotation using maximal transcript alignment
+assemblies. Nucleic acids research. 2003; 31:5654–5666. [PubMed: 14500829]
+40. Sanderson MJ. r8s: inferring absolute rates of molecular evolution and divergence times in the
+absence of a molecular clock. Bioinformatics. 2003; 19:301–302. [PubMed: 12538260]
+41. Yang Z, Nielsen R. Estimating synonymous and nonsynonymous substitution rates under realistic
+evolutionary models. Molecular biology and evolution. 2000; 17:32–43. [PubMed: 10666704]
+42. Trapnell C, Pachter L, Salzberg SL. TopHat: discovering splice junctions with RNA-Seq.
+Bioinformatics. 2009; 25:1105–1111.10.1093/bioinformatics/btp120 [PubMed: 19289445]
+43. Li H, Durbin R. Fast and accurate short read alignment with Burrows-Wheeler transform.
+Bioinformatics. 2009; 25:1754–1760.10.1093/bioinformatics/btp324 [PubMed: 19451168]
+44. Quinlan AR, Hall IM. BEDTools: a flexible suite of utilities for comparing genomic features.
+Bioinformatics. 2010; 26:841–842.10.1093/bioinformatics/btq033 [PubMed: 20110278]
+45. Finn RD, et al. Pfam: the protein families database. Nucleic acids research. 2014; 42:D222–
+230.10.1093/nar/gkt1223 [PubMed: 24288371]
+46. Mi H, Muruganujan A, Thomas PD. PANTHER in 2013: modeling the evolution of gene function,
+and other gene attributes, in the context of phylogenetic trees. Nucleic acids research. 2013;
+41:D377–386.10.1093/nar/gks1118 [PubMed: 23193289]
+47. Altschul SF, et al. Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs. Nucleic acids research. 1997; 25:3389–3402. [PubMed: 9254694]
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 22
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+48. Edgar RC. MUSCLE: a multiple sequence alignment method with reduced time and space
+complexity. BMC bioinformatics. 2004; 5:113.10.1186/1471-2105-5-113 [PubMed: 15318951]
+49. Sievers F, et al. Fast, scalable generation of high-quality protein multiple sequence alignments
+using Clustal Omega. Molecular systems biology. 2011; 7:539.10.1038/msb.2011.75 [PubMed:
+21988835]
+50. Waterhouse AM, Procter JB, Martin DM, Clamp M, Barton GJ. Jalview Version 2--a multiple
+sequence alignment editor and analysis workbench. Bioinformatics. 2009; 25:1189–1191.10.1093/
+bioinformatics/btp033 [PubMed: 19151095]
+51. Price MN, Dehal PS, Arkin AP. FastTree 2--approximately maximum-likelihood trees for large
+alignments. PloS one. 2010; 5:e9490.10.1371/journal.pone.0009490 [PubMed: 20224823]
+52. Trapnell C, et al. Differential gene and transcript expression analysis of RNA-seq experiments with
+TopHat and Cufflinks. Nature protocols. 2012; 7:562–578.10.1038/nprot.2012.016 [PubMed:
+22383036]
+53. Pruitt KD, Tatusova T, Maglott DR. NCBI Reference Sequence (RefSeq): a curated non-redundant
+sequence database of genomes, transcripts and proteins. Nucleic acids research. 2005; 33:D501–
+504.10.1093/nar/gki025 [PubMed: 15608248]
+54. Palavicini JP, O’Connell MA, Rosenthal JJ. An extra double-stranded RNA binding domain
+confers high activity to a squid RNA editing enzyme. Rna. 2009; 15:1208–1218.10.1261/rna.
+1471209 [PubMed: 19390115]
+55. Huelsenbeck JP, Ronquist F. MRBAYES: Bayesian inference of phylogenetic trees.
+Bioinformatics. 2001; 17:754–755. [PubMed: 11524383]
+56. Starnes T, Broxmeyer HE, Robertson MJ, Hromas R. Cutting edge: IL-17D, a novel member of the
+IL-17 family, stimulates cytokine production and inhibits hemopoiesis. Journal of immunology.
+2002; 169:642–646.
+57. Cummins SF, et al. Candidate chemoreceptor subfamilies differentially expressed in the
+chemosensory organs of the mollusc Aplysia. BMC biology. 2009; 7:28.10.1186/1741-7007-7-28
+[PubMed: 19493360]
+58. van Nierop P, et al. Identification of molluscan nicotinic acetylcholine receptor (nAChR) subunits
+involved in formation of cation- and anion-selective nAChRs. The Journal of neuroscience: the
+official journal of the Society for Neuroscience. 2005; 25:10617–10626.10.1523/JNEUROSCI.
+2015-05.2005 [PubMed: 16291934]
+
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 23
+
+Author Manuscript
+Figure 1. Octopus anatomy and gene family representation analysis
+
+Author Manuscript
+Author Manuscript
+
+a, Schematic of Octopus bimaculoides anatomy, highlighting the tissues sampled for
+transcriptome analysis: viscera (heart, kidney, and hepatopancreas), yellow; gonads (ova or
+testes), peach; retina, orange; optic lobe (OL), maroon; supraesophageal brain (Supra),
+bright pink; subesophageal brain (Sub), light pink; posterior salivary gland (PSG), purple;
+axial nerve cord (ANC), red; suckers, grey; skin, mottled brown; stage 15 (St15) embryo,
+aquamarine. Skin sampled for transcriptome analysis included the eyespot, shown in light
+blue. b, C2H2 and protocadherin domain-containing gene families are expanded in octopus.
+Enriched Pfam domains were identified in lophotrochozoans (green) and molluscs (yellow),
+including O. bimaculoides (light blue). For a domain to be labeled as expanded in a group, at
+least 50% of its associated gene families need a corrected p-value of 0.01 against the
+outgroup average. Some Pfams (e.g., Cadherin and Cadherin_2) may occur in the same
+gene, however multiple domains in a given gene were counted only once. Abbreviations
+used throughout: Obi: O. bimaculoides, Lgi: Lottia gigantea, Pfu: Pinctada fucata, Cgi:
+Crassostrea gigas, Aca: Aplysia californica, Cte: Capitella teleta, Hro: Helobdella robusta,
+Dme: Drosophila melanogaster, Cel: Caenorhabditis elegans, Bfl: Branchiostoma floridae,
+Dre: Danio rerio, Lch: Latimeria chalumnae, Xtr: Xenopus tropicalis, Gga: Gallus gallus,
+Mmu: Mus musculus, Hsa: Homo sapiens.
+
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 24
+
+Author Manuscript
+Author Manuscript
+Figure 2. Protocadherin expansion in octopus
+
+Author Manuscript
+Author Manuscript
+
+a, Phylogenetic tree of cadherin genes in Hsa (red), Dme (orange), Nematostella vectensis
+(Nve, mustard yellow), Amphimedon queenslandica (Aqu, yellow), Cte (green), Lgi (teal),
+Obi (blue), and Saccoglossus kowalevskii (Sko, purple). I, Type I classical cadherins; II,
+calsyntenins; III, octopus protocadherin expansion (168 genes); IV, human protocadherin
+expansion (58 genes); V, dachsous; VI, fat-like; VII, fat; VIII, CELSR; IX, Type II classical
+cadherins. Asterisk denotes a novel cadherin with over 80 extracellular cadherin domains
+found in Obi and Cte. b, Scaffold 30672 and Scaffold 9600 contain the two largest clusters
+of protocadherins, with 31 and 17, respectively. Clustered protocadherins vary greatly in
+genomic span and are oriented in head-to-tail fashion along each scaffold. c, Expression
+profiles of 161 protocadherins and 19 cadherins in 12 octopus tissues; 7 protocadherins were
+not detected in the tissues sampled. Cells are colored according to number of standard
+deviations from the mean expression level. Protocadherins have high expression in neural
+tissues. Cadherins generally show a similar expression pattern, with the exception of a group
+of sucker-specific cadherins.
+
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 25
+
+Author Manuscript
+Author Manuscript
+Figure 3. C2H2-ZNF expansion in octopus
+
+Author Manuscript
+
+a, Genomic organization of the largest C2H2 cluster. Scaffold 19852 contains 58 C2H2
+genes that are transcribed in different directions. b, Expression profile of C2H2 genes along
+Scaffold 19852 in 12 octopus transcriptomes. Neural and developmental transcriptomes
+show high levels of expression for a majority of these C2H2 genes. In a and b, arrow
+denotes scaffold orientation. c, Distribution of fourfold synonymous site transversion
+distance (4DTv) distances between C2H2 domain containing genes.
+
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 26
+
+Table 1
+
+Author Manuscript
+
+Metazoan developmental control genes
+
+Author Manuscript
+
+Number of members of developmental ligand and transcription factor families from O. bimaculoides, and selected other taxa. Dendrogram above
+species names reflects their evolutionary relationships.
+
+Author Manuscript
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+Albertin et al.
+
+Page 27
+
+Table 2
+
+Author Manuscript
+
+Ion Channel Subunits
+
+Author Manuscript
+
+Number of subunits of representative ion channel families in O. bimaculoides and across examined taxa. Dendrogram above species names shows
+their evolutionary relationships.
+
+Author Manuscript
+Author Manuscript
+Nature. Author manuscript; available in PMC 2016 March 17.
+
+

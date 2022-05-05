@@ -1,0 +1,54 @@
+T1	Taxon 11 27	DIPTEROCARPACEAE
+T2	Person 39 46	Merritt
+T3	GeographicalLocation 48 56	Mindanao
+T4	GeographicalLocation 58 79	District of Zamboanga
+T5	Person 102 113	Hutchin-son
+T6	Person 136 144	Whitford
+T7	Person 147 157	Hutchinson
+T8	GeographicalLocation 159 166	Basilan
+T9	Person 184 194	Hutchinson
+T10	Person 373 381	Whitford
+T11	Taxon 391 402	black yacal
+T12	GeographicalLocation 644 649	Luzon
+T13	GeographicalLocation 651 673	Province of Pangasinan
+T14	Person 691 696	Agama
+T15	GeographicalLocation 698 719	Province of Zam-bales
+T16	Person 744 750	Cortes
+T17	GeographicalLocation 752 760	Mindanao
+T18	GeographicalLocation 762 783	District of Zamboanga
+T19	Person 800 808	Whitford
+T20	Person 811 821	Hutchinson
+T21	Person 988 994	Blanco
+T22	TemporalExpression 1044 1049	March
+T23	Taxon 1150 1155	yacal
+T24	Taxon 1164 1173	saplongan
+T25	Taxon 1182 1188	siggay
+T26	Taxon 1197 1202	betic
+T27	Taxon 1210 1216	guisoc
+T28	Taxon 1233 1239	taggai
+T29	Taxon 1249 1258	Hopea sp.
+T30	Taxon 1260 1265	Naric
+T31	GeographicalLocation 1484 1489	Luzon
+T32	GeographicalLocation 1491 1510	Province of Cagayan
+T33	Person 1534 1540	Klemme
+T34	GeographicalLocation 1642 1647	Luzon
+T35	GeographicalLocation 1649 1667	Province of Bataan
+T36	Person 1683 1689	Barnes
+T37	TemporalExpression 1691 1700	Mar. 1904
+T38	GeographicalLocation 1702 1710	Mindanao
+T39	GeographicalLocation 1712 1733	District of Zamboanga
+T40	Person 1750 1758	Whitford
+T41	Person 1761 1771	Hutchinson
+T42	TemporalExpression 1773 1782	Feb. 1908
+T43	Taxon 1787 1796	Hopea sp.
+T44	Taxon 1798 1802	Gyam
+T45	GeographicalLocation 1906 1926	British North Borneo
+T46	Habitat 2051 2065	low flat lands
+T47	Habitat 2075 2080	coast
+T48	GeographicalLocation 2414 2423	Tawi Tawi
+T49	Person 2456 2465	W. Schuck
+T50	TemporalExpression 2467 2477	June, 1910
+T51	Taxon 2482 2505	Hopea ovalifolia Boerl.
+T52	Taxon 2482 2498	Hopea ovalifolia
+T53	GeographicalLocation 2661 2671	Buitenzorg
+T54	Person 2691 2699	Boerlage

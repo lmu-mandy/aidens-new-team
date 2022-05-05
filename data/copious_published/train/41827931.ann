@@ -1,0 +1,108 @@
+T1	Taxon 9 21	DIPTEROCABPS
+T2	GeographicalLocation 27 33	Johore
+T3	GeographicalLocation 35 49	Kuala Sembrong
+T4	TemporalExpression 65 77	October 1892
+T5	Person 79 83	Lake
+T6	Person 88 96	Kelsall!
+T7	GeographicalLocation 99 110	Kota Tinggi
+T8	Habitat 119 128	riverside
+T9	TemporalExpression 144 157	December 1892
+T10	Person 159 165	Ridley
+T11	GeographicalLocation 167 176	Singapore
+T12	GeographicalLocation 178 184	Kranji
+T13	TemporalExpression 199 203	1893
+T14	Person 206 217	Good-enough
+T15	GeographicalLocation 222 228	Changi
+T16	TemporalExpression 265 273	May 1889
+T17	Person 275 285	Goodenough
+T18	TemporalExpression 327 337	April 180S
+T19	Person 339 345	Ridley
+T20	TemporalExpression 383 392	May 18*89
+T21	Person 442 448	Ridley
+T22	TemporalExpression 475 486	March 1S9i3
+T23	Person 488 498	Goodenough
+T24	GeographicalLocation 506 519	Tampinis road
+T25	TemporalExpression 546 557	April) 1893
+T26	Person 559 565	Ridley
+T27	GeographicalLocation 573 588	Botanic Gardens
+T28	TemporalExpression 599 609	March 1916
+T29	TemporalExpression 611 624	November 1919
+T30	TemporalExpression 626 638	January 1921
+T31	TemporalExpression 652 664	October 1916
+T32	TemporalExpression 666 675	July 1921
+T33	Person 677 684	Burkill
+T34	GeographicalLocation 775 781	Bangka
+T35	Taxon 821 838	V. ruminata Burck
+T36	Taxon 821 832	V. ruminata
+T37	Person 932 943	van Slooten
+T38	Taxon 1006 1022	Vatica Wallichii
+T39	GeographicalLocation 1045 1055	Lower Siam
+T40	GeographicalLocation 1057 1062	Trang
+T41	Habitat 1072 1089	bank of the river
+T42	Habitat 1094 1106	dense jungle
+T43	TemporalExpression 1125 1135	March 1881
+T44	Person 1137 1145	Kunstler
+T45	GeographicalLocation 1152 1170	Province Wellesley
+T46	GeographicalLocation 1172 1184	Nibong Tebal
+T47	TemporalExpression 1202 1215	January 1 900
+T48	Person 1217 1223	Curtis
+T49	Taxon 1260 1280	V. ovalifolia, Eidl.
+T50	Taxon 1260 1273	V. ovalifolia
+T51	GeographicalLocation 1283 1288	Perak
+T52	GeographicalLocation 1290 1295	Larut
+T53	Habitat 1299 1310	open jungle
+T54	TemporalExpression 1327 1341	September 1884
+T55	Person 1344 1360	King's Collector
+T56	TemporalExpression 1376 1385	May 11884
+T57	Person 1387 1403	King's Collector
+T58	GeographicalLocation 1417 1423	Pahang
+T59	GeographicalLocation 1425 1432	Kuantan
+T60	TemporalExpression 1451 1460	June 1921
+T61	Person 1462 1469	Mohamad
+T62	GeographicalLocation 1485 1495	Chini Lake
+T63	TemporalExpression 1512 1522	April 1919
+T64	Person 1524 1530	Lambak
+T65	GeographicalLocation 1545 1557	Rompin river
+T66	GeographicalLocation 1565 1588	Menchali Forest Reserve
+T67	TemporalExpression 1605 1613	May 1919
+T68	Person 1615 1624	Foxworthy
+T69	GeographicalLocation 1631 1638	Malacca
+T70	GeographicalLocation 1640 1652	Sungei Udang
+T71	TemporalExpression 1669 1674	18i92
+T72	Person 1676 1681	Berry
+T73	GeographicalLocation 1687 1693	Johore
+T74	GeographicalLocation 1695 1704	Penyabong
+T75	TemporalExpression 1722 1730	May 1918
+T76	Person 1732 1743	Foxiuortlvy
+T77	GeographicalLocation 1753 1765	Skudai river
+T78	TemporalExpression 1782 1793	August 1879
+T79	Person 1795 1799	King
+T80	GeographicalLocation 1803 1811	Jaffaria
+T81	TemporalExpression 1828 1839	August 1879
+T82	Person 1841 1845	King
+T83	GeographicalLocation 1847 1856	Singapore
+T84	GeographicalLocation 1858 1871	Pulau Seletar
+T85	TemporalExpression 1883 1887	1892
+T86	Person 1889 1895	Ridley
+T87	TemporalExpression 1917 1927	April 1892
+T88	Person 1929 1935	Ridley
+T89	TemporalExpression 1950 1954	1894
+T90	Person 1956 1962	Ridley
+T91	GeographicalLocation 1971 1984	Chan Chu Kang
+T92	Habitat 1990 1996	stream
+T93	TemporalExpression 2011 2023	October 1892
+T94	Person 2025 2031	Ridley
+T95	GeographicalLocation 2039 2045	Changi
+T96	TemporalExpression 2059 2068	May 188'9
+T97	Person 2070 2080	Goodenough
+T98	GeographicalLocation 2083 2091	Tampinis
+T99	TemporalExpression 2105 2115	April 1916
+T100	Person 2117 2124	Burkill
+T101	Taxon 2126 2142	Vatica Ridleyana
+T102	GeographicalLocation 2197 2212	Botanic Gardens
+T103	GeographicalLocation 2214 2223	Singapore
+T104	GeographicalLocation 2329 2350	Royal Botanic Gardens
+T105	GeographicalLocation 2352 2360	Calcutta
+T106	GeographicalLocation 2375 2386	Bukit Timah
+T107	GeographicalLocation 2390 2406	Singapore island
+T108	Taxon 2416 2432	Vatica Ridleyana

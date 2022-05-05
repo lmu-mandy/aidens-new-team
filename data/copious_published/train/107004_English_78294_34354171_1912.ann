@@ -1,0 +1,70 @@
+T1	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T2	Taxon 818 828	Darjeeling
+T3	Taxon 1412 1429	Kerivoula jagorii
+T4	Taxon 1650 1669	Kerivoula pellucida
+T5	Taxon 1773 1792	Kerivoula pellucida
+T6	Taxon 38 57	Miniopterus tristis
+T7	Taxon 38 70	Miniopterus tristis (Waterhouse)
+T8	Taxon 78 108	Vespertilio tristis Waterhouse
+T9	Taxon 78 114	Vespertilio tristis Waterhouse, Proc
+T10	GeographicalLocation 127 133	London
+T11	TemporalExpression 135 139	1845
+T12	TemporalExpression 142 156	3, April. 1858
+T13	Taxon 158 183	Miniopterus tristis TOMES
+T14	Taxon 158 189	Miniopterus tristis TOMES, Proc
+T15	GeographicalLocation 202 208	London
+T16	TemporalExpression 210 214	1858
+T17	GeographicalLocation 239 257	Philippine Islands
+T18	GeographicalLocation 259 263	Cebu
+T19	GeographicalLocation 274 279	Luzon
+T20	GeographicalLocation 291 296	Samar
+T21	Taxon 305 322	Genus MURINA Gray
+T22	Person 330 341	Murina Gray
+T23	TemporalExpression 324 328	1842
+T24	Taxon 305 317	Genus MURINA
+T25	TemporalExpression 377 385	December
+T26	Taxon 395 423	Vespertilio suillus Temminck
+T27	Taxon 395 414	Vespertilio suillus
+T28	TemporalExpression 486 499	Wing membrane
+T29	Taxon 702 724	Murina cyclotis Dobson
+T30	Taxon 702 717	Murina cyclotis
+T31	TemporalExpression 726 730	1872
+T32	Taxon 732 754	Murina cyclotis DOBSON
+T33	Taxon 732 747	Murina cyclotis
+T34	Taxon 864 879	Genus KERIVOULA
+T35	Taxon 864 884	Genus KERIVOULA Gray
+T36	GeographicalLocation 844 852	Mindanao
+T37	TemporalExpression 789 793	1872
+T38	TemporalExpression 783 786	Dec
+T39	Taxon 1170 1190	Kerivoula hardwickii
+T40	Taxon 1170 1202	Kerivoula hardwickii (Horsfield)
+T41	TemporalExpression 1204 1208	1824
+T42	Taxon 1210 1242	Vespertilio hardwickii HORSFIELD
+T43	Taxon 1210 1249	Vespertilio hardwickii HORSFIELD, Zool.
+T44	GeographicalLocation 1258 1262	Java
+T45	Person 892 906	Kerivoula Gray
+T46	TemporalExpression 886 890	1842
+T47	TemporalExpression 942 950	December
+T48	Taxon 960 992	Vespertilio hardwickii Horsfield
+T49	Taxon 960 982	Vespertilio hardwickii
+T50	TemporalExpression 1286 1290	1842
+T51	TemporalExpression 1440 1444	1867
+T52	TemporalExpression 1529 1533	1866
+T53	GeographicalLocation 1521 1527	Berlin
+T54	GeographicalLocation 1620 1632	Samar Island
+T55	GeographicalLocation 1634 1639	Samar
+T56	Taxon 1690 1712	Vespertilio pellucidus
+T57	Taxon 1690 1729	Vespertilio pellucidus WATERHOUSE, Proc
+T58	Taxon 1650 1682	Kerivoula pellucida (Waterhouse)
+T59	Taxon 1773 1807	Kerivoula pellucida DOBSON, Monogr
+T60	GeographicalLocation 1847 1865	Philippine Islands
+T61	GeographicalLocation 1867 1872	Luzon
+T62	GeographicalLocation 1883 1891	Mindanao
+T63	Taxon 1547 1577	Kerivoula jagorii DOBSON, Cat.
+T64	Taxon 1547 1564	Kerivoula jagorii
+T65	GeographicalLocation 1370 1374	Java
+T66	GeographicalLocation 1376 1384	Mindanao
+T67	GeographicalLocation 1396 1401	Samar
+T68	GeographicalLocation 1742 1748	London
+T69	TemporalExpression 1684 1688	1845
+T70	TemporalExpression 1767 1771	1876

@@ -1,0 +1,109 @@
+T1	GeographicalLocation 64 71	Red Sea
+T2	GeographicalLocation 92 109	Marquesas islands
+T3	Taxon 128 139	GOBLOIDIDAE
+T4	Taxon 151 163	Taenioididae
+T5	Habitat 354 367	marine waters
+T6	GeographicalLocation 554 570	western Atlantic
+T7	GeographicalLocation 618 628	New Guinea
+T8	GeographicalLocation 674 698	Eastern Caroline Islands
+T9	GeographicalLocation 1063 1069	Kosrae
+T10	Taxon 1142 1155	Gonorynchidae
+T11	Taxon 1184 1195	Gonorynchus
+T12	GeographicalLocation 1428 1444	Hawaiian islands
+T13	GeographicalLocation 1592 1597	Korea
+T14	GeographicalLocation 1611 1629	Pescadores Islands
+T15	GeographicalLocation 1667 1686	southern Queensland
+T16	GeographicalLocation 1715 1734	southeastern Africa
+T17	GeographicalLocation 1777 1793	eastern Atlantic
+T18	Person 1831 1839	Mccosker
+T19	GeographicalLocation 1978 1992;2007 2012	Juan Fernandez Ridge
+T20	Taxon 2213 2224	Grammatidae
+T21	Taxon 2245 2256	Grammatidae
+T22	Taxon 2344 2355	Grammatidae
+T23	Taxon 2535 2546	Plesiopidae
+T24	Taxon 2875 2885	Lipogramma
+T25	Taxon 2939 2952	Stigmatonotus
+T26	Taxon 3116 3127	Grammatidae
+T27	GeographicalLocation 3134 3154	western Indian Ocean
+T28	Taxon 3185 3206	Parabarossia Kotthaus
+T29	Taxon 3245 3256	Plesiopidae
+T30	GeographicalLocation 3259 3264	Japan
+T31	GeographicalLocation 3266 3277	Philippines
+T32	Taxon 3376 3387	Caltanthias
+T33	Taxon 3416 3427	Grammatidae
+T34	GeographicalLocation 3490 3505	southern Africa
+T35	GeographicalLocation 3540 3545	Japan
+T36	GeographicalLocation 3551 3581	Mediterranean-eastern Atlantic
+T37	GeographicalLocation 3591 3602	Nasca Ridge
+T38	GeographicalLocation 3634 3643;3663 3670	San Felix islands
+T39	GeographicalLocation 3648 3670	Juan Fernandez islands
+T40	Taxon 3737 3747	Gymnuridae
+T41	Taxon 3803 3810	Gymnura
+T42	Habitat 28 32	reef
+T43	GeographicalLocation 102 109;79 87	islands Hawaiian
+T44	Taxon 169 179	gobioidids
+T45	Habitat 260 273	muddy bottoms
+T46	Habitat 288 301	brackish bays
+T47	Habitat 380 397	freshwater rivers
+T48	GeographicalLocation 525 540	eastern Pacific
+T49	GeographicalLocation 542 549;562 570	eastern Atlantic
+T50	GeographicalLocation 576 593	Indo-west Pacific
+T51	GeographicalLocation 599 605	Africa
+T52	GeographicalLocation 609 613	Guam
+T53	TemporalExpression 642 646	1980
+T54	GeographicalLocation 666 672	Ponape
+T55	Taxon 700 710	gobioidids
+T56	GeographicalLocation 731 744	Pacific Plate
+T57	GeographicalLocation 830 836	Ponape
+T58	Habitat 843 860	coarse muddy area
+T59	Habitat 875 886	river mouth
+T60	Habitat 891 905	mangrove shore
+T61	GeographicalLocation 911 927	Caroline Islands
+T62	Taxon 976 986	gobioidids
+T63	GeographicalLocation 1006 1019	Pacific Plate
+T64	GeographicalLocation 1071 1077	Kusaie
+T65	Taxon 1124 1137	GONORYNCHIDAE
+T66	Taxon 1270 1282	gonorynchids
+T67	Habitat 1348 1361	sandy bottoms
+T68	GeographicalLocation 1402 1415	Pacific Plate
+T69	Taxon 1511 1523	Gonorynchids
+T70	GeographicalLocation 1563 1580	Indo-west Pacific
+T71	GeographicalLocation 1582 1587	Japan
+T72	GeographicalLocation 1631 1649	southern Australia
+T73	GeographicalLocation 1689 1700	New Zealand
+T74	GeographicalLocation 1763 1769	Helena
+T75	Person 1815 1819	Mead
+T76	Person 1853 1868	R.H. Rosenblatt
+T77	TemporalExpression 1821 1825	1970
+T78	TemporalExpression 1841 1845	1971
+T79	GeographicalLocation 1997 2012	San Felix Ridge
+T80	GeographicalLocation 2018 2023	Chile
+T81	Taxon 2080 2091	gonorynchid
+T82	Person 2300 2306	Nelson
+T83	Taxon 2357 2375	Pseudochromichthys
+T84	Taxon 2403 2412	plesiopid
+T85	Taxon 2419 2426	Pleswps
+T86	Taxon 2458 2467	Fraudella
+T87	Taxon 2480 2489	plesiopid
+T88	Person 2491 2503	G.D. Johnson
+T89	Taxon 2585 2601	Pseudocremlabrus
+T90	Taxon 2614 2621	cichlid
+T91	GeographicalLocation 2843 2859	western Atlantic
+T92	Taxon 2867 2873	Gramma
+T93	Habitat 2891 2901	coral-reef
+T94	GeographicalLocation 2972 2997	coastal Western Australia
+T95	Taxon 2999 3012	Grammatonotus
+T96	GeographicalLocation 3042 3048	Hawaii
+T97	GeographicalLocation 3075 3101	non-marginal Pacific Plate
+T98	TemporalExpression 3208 3212	1976
+T99	Person 3220 3228	Kotthaus
+T100	GeographicalLocation 3279 3292	New Caledonia
+T101	Person 3294 3306	G.D. Johnson
+T102	GeographicalLocation 3329 3340	Kei Islands
+T103	GeographicalLocation 3342 3351	Indonesia
+T104	GeographicalLocation 3507 3525	southern Australia
+T105	GeographicalLocation 3527 3538	New Zealand
+T106	Person 3604 3616	G.D. Johnson
+T107	GeographicalLocation 3678 3693	eastern Pacific
+T108	Taxon 3752 3766	butterfly rays
+T109	Taxon 3832 3842	viviparous

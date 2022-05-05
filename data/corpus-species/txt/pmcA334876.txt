@@ -1,0 +1,338 @@
+The c1 genes of P1 and P7.
+Abstract
+The c1 genes of the heteroimmune phages P1 and P7 were sequenced and their products were compared. P7c1 expression was correlated with the translation in vitro of a protein whose predicted molecular weight (33,000 daltons) is indistinguishable from that of the P1c1 repressor. The c1 regions from both P1 and P7 were found to contain open reading frames capable of coding for a 283-amino acid protein whose predicted secondary structure lacks the helix-turn-helix motif commonly associated with repressor proteins. Two P1c1 amber mutations were localized to the 283-amino acid open reading frame. The P1c1 and P7c1 sequences were found to differ at only 18 positions, all but two of which alter the third position of the affected codon and do not alter the amino acid sequence of the protein. Plasmids expressing the c1 gene from either phage cause the repression of transcription from a cloned promoter situated upstream of P1c1.Images
+
+
+
+
+
+
+ Volme 7 Nmbe 19198             Nulei Acds    eserc 
+
+ The cl genes of P1 and P7 
+
+ Francis A.Osborne, Sonja R.Stovall and Barbara R.Baumstark* 
+
+ Department of Biology, Georgia State University, Atlanta, GA 30303, USA 
+
+ Received July 11, 1989; Revised and Accepted August 29, 1989  EMBL accession nos X16005, X16006 
+
+ ABSTRACT 
+
+ The cl genes of the heteroimmune phages P1 and P7 were sequenced and their products were compared. P7cl expression was correlated with the translation in vitro of a protein whose predicted molecular weight (33,000 daltons) is indistinguishable from that of the Plcl repressor. The cl regions from both P1 and P7 were found to contain open reading frames capable of coding for a 283-amino acid protein whose predicted secondary structure lacks the helix-tum-helix motif commonly associated with repressor proteins. Two Plcl amber mutations were localized to the 283-amino acid open reading frame. The Plcl and P7cl sequences were found to differ at only 18 positions, all but two of which alter the third position of the affected codon and do not alter the amino acid sequence of the protein. Plasmids expressing the cI gene from either phage cause the repression of transcription from a cloned promoter situated upstream of Plcl. 
+
+ INTRODUCTION 
+
+ The cl genes of the plasmid prophages P1 and P7 code for repressor proteins that are required for the establishment and maintenance of lysogeny (reviewed in 1). A protein corresponding to the Plcl repressor has been isolated and shown to be a sequence-specific DNA binding protein that recognizes several widely dispersed sites on the phage DNA (2-7). The consensus DNA sequence recognized by the Plcl repressor (ATTTATTAGAGCA[A/T]T) contains no discernable bilateral symmetry, a feature that is highly unusual among prokaryotic operator sites. 
+
+ P1 and P7 are heteroimmune; that is, each phage is able to establish a lytic infection on a lysogen of the other phage. In this sense, their relationship is analogous to that of phage X and 434, which differ in the DNA specificity of their cI repressor proteins (8). However, genetic studies indicate that Plcl and P7cl can be crossed into the heterologous phage without affecting the immunity specificity of the recipient (9). The basis for P1/P7 heteroimmunity has been localized to a second regulatory gene, c4, that is unlinked to cl. The c4 gene products prevent the expression of antireb, a closely linked gene that interferes with cl-mediated repression (10, 11). According to current models, P1/P7 heteroimmunity results from the inability of the c4 repressor of one phage to prevent antireb expression from the heteroimmune phage genome (10, 11). 
+
+ Because the cl genes of P1 and P7 are genetically interchangeable, it is anticipated that the two gene products carry out similar or identical regulatory functions. The studies presented in this paper were undertaken to investigate the biochemical basis for the apparent genetic identity of the two cl genes. In this paper, we present the DNA sequence of the cl genes of P1 and P7 and the predicted amino acid sequence of the cl repressor proteins. We report that Plcl and P7cl code for proteins of identical size (283 amino acids) and 
+
+ Nucleic Acids Research 
+
+ Volume 17 Number 19 1989 
+
+ 767 1 
+
+ (r IRL Press 
+
+ Nucleic Acids Research 
+
+ nearly identical sequence. We report further that both repressors prevent the expression of a promoter located immediately upstream of the Plc 1 open reading frame, an observation that confirms their functional similarity and suggests an autoregulatory role for the two proteins. Analysis of the secondary structure predicted by the open reading frames does not reveal the characteristic helix-turn-helix (12) or other motifs commonly associated with DNA binding proteins. 
+
+ MATERIALS AND METHODS Bacterial and phage strains. 
+
+ E. coli K336 is a SuO derivative of K140 (13). E. coli CB454 is a recA-, lacZderivative of K-12 (14). P1 + is described by Scott (13). P7+ is the strain of Smith (15), as described by Scott (16). P7cl. 1 contains a missense mutation in the cl gene (17). The P7 phage strains and the cl amber mutant phage strains PIci .245Cm, Plc1. 169 and P Ic .55 (11) were generously provided by June Scott. Enzymes and reagents. 
+
+ Restriction enzymes, T4 DNA ligase and polymerase, and the Klenow fragment of E. coli DNA polymerase were purchased from Boehringer Biochemicals or New England Biolabs and reactions were carried out according to the manufacturers' instructions. DNA sequencing kits and in vitro transcription-translation kits were purchased from Bethesda Research Laboratories and Amersham Corporation, respectively. Synthetic oligonucleotides to be used as sequencing primers were prepared on an Applied Biosystems DNA synthesizer. Plasmid construction. 
+
+ pBRB7.2. pBRB7.2 (2) contains a 3.2 kb EcoRI/PvuII fragment from the cl region of P1 (Figure 1) inserted into the 2.3 kb EcoRIlPvuII fragment of pBR322 that contains the origin of replication and the f3-lactamase gene. 
+
+ pFA02. P7 plasmid DNA was digested with PvuII, ligated to similarly digested pBR322, and transformed into E. coli K336. Ampicillin-resistant colonies were screened for cl activity by cross-streak complementation analysis against P7cl.1 (18). pFAO2 contains a 3.5 kb insert of P7 DNA. The fragment was localized to the cl region of the P7 genome by Southern hybridization against P1 and P7 DNA that had been digested with BamHI and BglII (data not shown). 
+
+ pBRBJ69. 1 and pBRB55. 1. The PI cI open reading frame was previously localized to a 2.6 kb EcoRlIBamHI fragment derived from PlEcoRI-7 (2). This fragment also contains the wildtype allele for the conditional lethal mutation am43 (19, 20). To clone the cl reading frame from the amber mutant phage Plc1.169 and P Ic .55, we digested phage DNA with EcoRI and BamHI, ligated the digestion products into similarly digested pBR322, and transformed the ligation mixture into E. coli K336. Ampicillin-resistant, tetracyclinesensitive colonies were screened by cross-streak complementation analysis for their ability to support the growth of Plam43. Plasmid DNA isolated from complementation-positive cells was shown by agarose gel electrophoresis to carry plasmids containing the 2.6 kb EcoRIlBamHI fragment from the cl region. The cl mutant open reading frames were placed under the control of normal regulatory signals present in the cI region by digesting the cl.55 and cl. 169-containing plasmids with BamHI and PvuII and inserting a 601 bp BamHI/PvuH fragment containing the cl promoter region (2). The resulting plasmids, pBRB55.1 and pBRB169.1, respectively, contain the 3.2 kb EcoRllPvuIl fragment analogous to that present in pBRB7.2 (Figure 1). 
+
+ pBCB2. 13-2.18. To identify cl-repressible promoters, we introduced selected fragments 
+
+ 7672 
+
+ Nucleic Acids Research 
+
+ 4 f      -         -   + 
+
+ I     4                        P1 4-    4-          4 
+
+ ECAR     H        C      B  R        P 
+
+ 4   4.4,~   4,  1  1 4.  I  4,  I 11 
+
+ t        t              t  t        t E G R    N  E            B  R        P 
+
+ 4           4  -  
+
+ 4
+
+ 1 '  '110z I  I  I  I  I     I   1 
+
+ 3.2    1.5       1.0       0.5        0 
+
+ P7 
+
+ pBRB7.2 
+
+ -------------------cl1-------------
+
+ r ~ / >'                                                                   pFAO2 
+
+ *-lacZ                           pBCB2.13 
+
+ <-lacZ Z          pBCB2.16 <-lacZX                          pBCB2.18 
+
+ Fig. 1. The cl regions of P1 and P7. A restriction map is indicated by the solid line in the upper part of the figure. Sites for EcoRI (E), Pvul (P), NnrI (N), Bgll (G), BamHI (B), and EcoRV (R) are shown. The sequencing strategy is indicated by the horizontal arrows. Letters and arrows above and below the map refer to sites and sequence analysis for P1 and P7, respectively. The size of this region (in kilobase pairs) is indicated below the map. The DNA fragments present in selected plasmids are illustrated by boxes at the bottom of the figure. The dashed line reveals the approximate position of the cl gene (2). The sites of the -yb mutations introduced into pFA02 are indicated by asterisks. pFA02.16 and pFA02.26 contain insertions located 0.9 kb and 1.4 kb, respectively, from the PvuIl site at the left side of the map. The direction of the lacZ open reading frame in pBCB2.13-18 is indicated by the adjacent arrow. 
+
+ from the cI region of P1 into pCB192, a promoter-probe vector containing promoterless copies of lacZ and galK extending in opposite directions from a multiple cloning site (21). The source of P1 DNA for these constructions was pZHA3, a derivative of pBRB7.2 that contains a HindIlI linker at the single EcoRV site located about 200 bps upstream of the cl open reading frame (Figure 1). pBCB2.13 contains a 460 bp fragment of P1 DNA extending from the EcoRV site to a Bgll site within the cI open reading frame. pBCB2. 16 contains a 130 bp fragment extending from the EcoRV site to a BamHI site located about 100 bps upstream of the cl open reading frame, while pBCB2.18 contains the region extending from this BamHI site to the Bglll site within the open reading frame (Figure 1). The orientation of the P1 DNA fragments within these plasmids was confirmed by restriction mapping and DNA sequencing. 
+
+ To test for the regulation of promoter expression by cl, we transformed pBCB2.13 and its derivatives into CB454(pBRB7.152) and CB454(pFAO2.152), two strains that express P7cl and Pll, respectively, from the pCB192-compatible kanamycin-resistant vector pDPT152 (22). Cells harboring both plasmids were selected by their resistance to both ampicillin and kanamycin. lacZ expression was measured by the procedure of Miller (23). pBRB7.152 was generated by introducing PlEcoRI-7 into pDPT152. pBRB7.152 has sustained a spontaneous deletion within the EcoRI-7 fragment that results in the loss of 2.5 kb of P1 DNA from the far left side of the P1 genetic map, but retains the 3.2 kb PvuHlEcoRI fragment required for cl expression that is present in pBRB7.2 (Figure 1). 
+
+ 7673 
+
+ z 
+
+ I                011Z                                                                                                                                                                                              I 
+
+ e., 
+
+ Nucleic Acids Research 
+
+ Table 1. Complementation of PIci .245 by plasmids that contain cI genes. 
+
+ Phenotype             Efficiency            Relative 
+
+ of                    of                    Efficiency of Plasmid              cI gene               Lysogeny              Lysogeny pBR322                                     1.5x 10-6             6.0x 10-6 pBRB7.2              Plcl+                 2.5 x 10-'            1.0 
+
+ pBRB55.1             Plcl-am               1.4 x 10-6            5.6 x 10-6 pBRB169.1            PlCl-am               2.1 x 10-6            8.4 x 10-6 pFAO2                P7cl+                 8.7 x 10-2            0.35 
+
+ pFAO2.16             P7c I-,               4.7 x 10-6            1.9 X 10-5 pFAO2.26             P7cI -1               3.1 x 10-6            1.2 x 10-5 
+
+ Complementation for lysogeny was carried out as described by Devlin et al. (26). The plasmids were carried by E. coli K336. Cells were grown to mid-log phase at 370 in LB containing 50 tig/m1 sodium ampicillin and infected with Plcl.245 at a multiplicity of infection of 5 in the presence of 50 mM CaC12. After 10 minutes, non-absorbed phage were removed by centrifugation and the infection was allowed to proceed for 2 hours at 370. The infected cells were plated on LB plates containing 50 pLg/ml sodium ampicillin, 50 pLg/ml chloramphenicol, and 40 mM sodium citrate. The efficiency of lysogeny is defined as the number of ApRCmR cells at the end of infection divided by the number of ApR cells present at the start of the infection. 
+
+ To construct pFA02.152, we introduced a 2.8 kb EcoRV fragment of P7 DNA containing the cl gene (Figure 1) into the single EcoRI site of pDPT152 after it had been rendered blunt-ended by extension with T4 DNA polymerase. cl expression by cells harboring either pBRB7.152    or pFA02.152      was confirmed    by   measuring  their ability to  form chloramphenicol-resistant lysogens when infected with Plcl.245Cm. ,yb insertional mutagenesis. 
+
+ Insertional mutagenesis of P7cl was carried out using the 'yb transposon of F (24) as described by Devlin et al. (25). E. coli W1485(pFA02) was mated with the F- strain MX648 and subsequently plated on ampicillin (to select for the plasmid) and streptomycin sulfate (to select for the recipient strain). Transconjugants which could support only lytic growth upon infection by P7cl .1 (as scored by cross-streak analysis; 18) were assumed to have lost cl-complementing activity and were characterized further. The positions of two cl - insertional mutations, carried by pFA02.16 and pFA02.26, were identified by restriction mapping (Figure 1). DNA sequencing. 
+
+ DNA sequence analysis was carried out using the M13-dideoxy technique of Sanger et al. (26). Selected DNA fragments containing the cl wildtype or mutant genes were introduced into M13 mp8 or mp9. 18-nucleotide oligomers complementary to defined sequences within the cl gene were extended using the Klenow fragment of DNA polymerase in the presence of dideoxynucleotide triphosphates and analyzed by polyacrylamide-urea gel electrophoresis. The sequencing strategy is shown in Figure 1. RESULTS 
+
+ Localization of the P7cJ gene. 
+
+ Initial localization of the P7cl gene was undertaken by subjecting pFA02 to 'yb mutagenesis and determining the map position of inserts which destroy the ability of the plasmids to complement a P7cl - mutation (as determined by cross-streak analysis). pFA02 and the -yb insertion mutants were tested further by comparing their ability to complement a PIcI amber mutation with the complementation activity of plasmids containing cl genes isolated 
+
+ 7674 
+
+ Nucleic Acids Research 
+
+ B    C    D    E    F   G 
+
+ *.4  
+
+ 68
+
+ 43
+
+ 29-     _     -    =I   =   Am~  W    _ 
+
+ 18
+
+ 14  p 
+
+ Fig. 2. In vitro transcription-translation of plasmids carrying the cl region of P1 and P7. Proteins encoded by selected plasmids were labeled with 35S methionine according to the procedure of DeVries and Zubay (27), using a commercial in vitro transcription/tramnslation kit from Amersham Corporation. The reaction mixtures were subjected to electrophoresis on a 12.5% SDS-polyacrylamide gel and the labeled proteins were visualized by autoradiography. The migration of 14C-labeled protein molecular weight standards (Bethesda Research Laboratories) is indicated at the left side of the figure. Plasmids present in each lane are: A. pBRB55.1; B. pBRB169.1; C. pBRB7.2; D. pFAO2; E. pFAO2.16; F. pFAO2.26; G. pBR322. 
+
+ from P1 wildtype and amber mutants. Lysogeny by cells infected with Plcl.245Cm was scored as the growth of infected cells on ampicillin (to select for the resident plasmid) and chloramphenicol (to select for the phage genome). The values observed for the two plasmids containing Plcl and P7cl (pBRB7.2 and pFA02, respectively) are very similar and significantly higher than those obtained for pBR322 or for any of the plasmids carrying 
+
+ Table 2. Assay for lacZ expression from plasmids containing P1 DNA fragments. 
+
+ ,3-galactosidase activity (units) 
+
+ minus cI        plus Pici      plus P7cl            relative activity 
+
+ (pDPT152)      (pBB7. 152)     (pFA02.152)     +PICJ           +P7cJ 
+
+ pCB192            0.58            0.55           0.54          0.95            0.93 pBCB2.13        154              15.2            13.6          0.10            0.09 pBCB2.16          1.1             1.2             1.1          1.1             1.0 pBCB2.18          4.0             3.4            3.9           0.9             1.0 
+
+ Cells containing derivatives of the ApR promoter-probe plasmid pCB192 and the compatible KnR plasmid pDPT152 were grown in LB at 37?. When they reached mid-log phase, the cells were chilled, lysed, and assayed for (3-galactosidase activity according to the procedure of Miller (23). Plasmids derived from pCB192 are indicated at the left side of the Table. Plasmids derived from pDPT152 are indicated in parentheses across the top of the Table. The values reported are the average of two independent experiments. Relative activity is defined as the f3-galactosidase activity measured in cells harboring plasmids expressing cl divided by the activity measured in cells carrying only pDPT152. 
+
+ 7675 
+
+ Nucleic Acids Research 
+
+ GATATCCAATCAGGAGTACC GCATCACCCAAGACGACCTG GATGATCTCACTGACACAAT CGAATATCTCATGGCCACTA ACCAGCCAGACTCACAATAAATGCA             105 v-- 
+
+ TtgAca                    TATAATG 
+
+ CTAATAAATCTATTATTTTC GTTGGATCCTTCTATAATGG TGGCCAACAACTCCCAGTGT AATCCGCTGTGAGTTGTTGG CCATGTCAATTCTGGAGGAGGATCA            210 
+
+ b-----                              I          I                            GGAGGtG 
+
+ ATG ATA AAT TAT GTC TAC GGC GAA CAA CTG TAC CAG GAG TTC GTC AGC TTC AGG GAT CTC TTT CTA AAA AAA GCT GTT GCA CGC GCC CAA        300 MET lIe Asn Tyr Vat Tyr Gly Glu Gin Leu Tyr Gin Gtu Phe Vat Ser Phe Arg Asp Leu Phe Leu Lys Lys Ala Val Ala Arg Ala Gtn 
+
+ tag(cl .55) 
+
+ CAC GTT GAT GCC GCC AGC GAC GGT CGT CCT GTT CGC CCG GTT GTC GTT CTG CCG TTC AM GM ACG GAC AGC ATT CAG GCT GMA ATT GAT         390 His Val Asp Ala Ala Ser Asp Gly Arg Pro Vat Arg Pro Vat Vat Vat Leu Pro Phe Lys Glu Thr Asp Ser lIe Gin Ala Glu lie Asp 
+
+ T                            A                C                                         A   G 
+
+ AAA TGG ACA TTA ATG GCG CGG GAA CTG GAG CAG TAC CCA GAT CTC MT ATC CCA MG ACT ATT TTA TAT CCT GTA CCT AAC ATC CTT CGC          480 
+
+ 9
+
+ Lys Trp Thr Leu MET Ala Arg Glu Leu Gtu Gin Tyr Pro Asp Leu Asn lIe Pro Lys Thr lie Leu Tyr Pro Vat Pro Asn lIe Leu Arg 
+
+ A                        T                    C 
+
+ GGT GTG CGT AAG GTT ACG ACT TAT CAG ACA GAA GCA GTG MC AGC GTC AAT ATG ACC GCT GGC CGC ATT ATT CAT CTG ATT GAT AAG GAC        570 Gly Vat Arg Lys Vat Thr Thr Tyr Gin Thr Glu Ala Vat Asn Ser Vat Asn MET Thr Ala Gly Arg lIe lIe His Leu lIe Asp Lys Asp 
+
+ G 
+
+ ATT CGC ATC CAA AM AGC GCG GGG ATC MT GAG CAC AGT GCG AAA TAC ATA GAG MC CTG GAA GCA ACA AM GAG CTA ATG AAG CAG TAC           660 lle Arg lIe Gin Lys Ser Ala Gly lIe Asn Gtu His Ser Ala Lys Tyr lIe Gtu Asn Leu Gtu Ala Thr Lys Gtu Leu MET Lys Gin Tyr 
+
+ T                                  T 
+
+ CCG GAG GAT GAA AAA TTC CGT ATG CGC GTA CAC GGC TTT AGC GAA ACA ATG CTG CGC GTC CAT TAC ATT TCC AGT AGC CCT AAC TAC AAT        750 Pro Glu Asp Glu Lys Phe Arg MET Arg Vat His Gly Phe Ser Gtu Thr MET Leu Arg Vat His Tyr lie Ser Ser Ser Pro Asn Tyr Asn 
+
+ Phe 
+
+ T                               C     G       T                                     T 
+
+ I                      ~~~I   I       II 
+
+ GAT GGC MA TCA GTT AGT TAC CAT GTG CTG CTA TGT GGC GTG TTT ATC TGC GAT GM ACT CTC CGA GAT GGA ATC ATC ATC AAC GGT GAA          840 
+
+ e.. Asp Gly Lys Ser Vat Ser Tyr His Vat Leu Leu Cys Gly Vat Phe lie Cys Asp Glu Thr Leu Arg Asp Gly lIe lie lIe Asn Gly Gtu 
+
+ Pro 
+
+ C                                                                                     tag(cl .169) 
+
+ TTT GAG AM GCA AAA TTT AGC CTT TAT GAC TCT ATA GM CCG ATC ATC TGC GAC CGC TGG CCG CAG GCA AM ATA TAT CGC CTG GCA GAT          930 Phe Gtu Lys Ala Lys Phe Ser Leu Tyr Asp Ser lIe Glu Pro lie lie Cys Asp Arg Trp Pro Gin Ala Lys lIe Tyr Arg Leu Ala Asp 
+
+ T 
+
+ ATT GM MT GTA AM AM CM ATT GCC ATC ACT CGC GM GAG AAA           G GTC AM TCA GCC GCA TCA GTT ACG CGC AGC CGC AAA ACT AAG 1020 
+
+ n-----
+
+ lie Glu Asn Vat Lys Lys Gin lIe Ala lie Thr Arg Glu Glu Lys Lys Vat Lys Ser Ala Ala Ser Vat Thr Arg Ser Arg Lys Thr Lys 
+
+ AAG GGG CAG CCA GTA AAC GAC MC CCC GAA AGC GCG CM TAG Lys Gly Gin Pro Val Asn Asp Asn Pro Glu Ser Ala Gin ter 
+
+ Fig. 3. DNA sequence of PIcI and P7cl. The DNA sequence of PIcI is indicated. Positions where the sequence of P7cl differs from that of Plcl are indicated above the P1 sequence. The amino acid sequence predicted by the open reading frame is given below the sequence. The two amino acid substitutions present in P7cl are shown below the open reading frame. The locations of the amber mutant codons in cl.55 and ci. 169 are indicated by small letters above the sequence. Sites for selected restriction enzymes (EcoRV [v]; BamHI [b]; Bgll [g]; EcoRP [e]; and NruI [n]) are illustrated by dashed lines beneath the sequence. The cl repressor binding site is underlined. Inverted arrows beneath the sequence illustrate the inverted repeat sequence upstream of the open reading frame. Predicted promoter ribosome binding sites are indicated by the presence of the consensus sequences above and below the line, respectively. The DNA sequences of Plcl from bp 1-134 and bp 1-434 were reported previously (2,5). 
+
+ mutant cl genes from either P1 or P7 (Table 1). The efficiency with which a cloned P7cl gene complements a PlcI mutation confirms previous genetic studies indicating that these two genes are functionally interchangeable (9). The location of the 'y6 mutations that destroy cl-complementing activity suggests that the P7cl open reading frame occupies a map position similar to that of the P1 open reading frame (Figure 1). 7676 
+
+ Nucleic Acids Research 
+
+ Proteins produced by fragments containing Plcl. 
+
+ As an initial step in the comparison of the P1 and P7 repressors, we analyzed the gene products expressed from the cloned cl regions. In an in vitro transcription-translation reaction, plasmids coding for the wildtpe alleles of either PIcI or P7cl direct the production of a protein with an estimated molecular weight of 33,000 daltons (Figure 2, Lanes C and D), a size that agrees closely with the predicted molecular weight of the PIcI repressor reported previously (3,28). The loss of the 33,000 dalton protein in the cl - 'ya-induced P7 mutant plasmids (Figure 2, Lanes E and F) is consistent with its designation as the P7cl repressor. As expected, the 33,000 dalton protein is not observed when reaction mixtures contain DNA from Plcl amber mutants (Figure 2, Lanes A and B). DNA sequence analysis of the cl genes. 
+
+ To make a direct comparison between the Plcl and P7cl DNA sequences and to predict the amino acid sequences of the repressor proteins, we carried out M 13-dideoxy sequence analysis of cloned fragments carrying the cl genes. The sequences of about 1 kb of P1 and P7 DNA were determined starting from a common EcoRV site predicted to lie approximately 200 bps upstream of the cl genes. The P1 and P7 sequences (Figure 3) both contain an ATG initiation codon preceded by a putative ribosome binding sequence (29) situated 211 bps downstream of the EcoRV site. In each case, the initiation codon is followed by an open reading reading frame extending for 283 codons. The P1 and P7 open reading frames code for proteins with predicted molecular weights (32,515 and 32,499 daltons, respectively) that agree closely with the values of the proteins expressed from the cloned DNA fragments (Figure 2) and with results predicted independently for the purified PIcI repressor (3-4). The localization of two PIcI amber mutations to the P1 open reading frame confirms its identification as the cI coding sequence. cI. 169 contains an amber mutation that would result in a protein fragment of 26,680 daltons, a value that agrees well with the size of a protein fragment observed under the in vitro transcription/translation reaction conditions (Figure 2, Lane B). The cl.55 amber mutation lies close to the N-terminal region of the protein, resulting in the production of a fragment of 55 amino acids that is apparently too small to resolve under the electrophoretic conditions used for separation of the proteins. Over 60% of the amino acid sequence predicted for the PIcI open reading frame has been verified by amino acid sequence analysis of peptide fragments isolated from the purified repressor protein (see accompanying paper, reference 3). 
+
+ The DNA sequences of P1 and P7 are identical for a 399-bp region that extends from the EcoRV site at the 5' side of the cl gene to a point 188 bps within the open reading frame. The sequences within the Plcl and the P7cl open reading frames differ at only 18 positions, all but two of which occur in the wobble position of the predicted codon. From these results, we conclude that the functional identity of the P1 and P7 cl genes is a consequence of their nearly identical amino acid sequence. Analysis of promoters upstream of the cl open reading frame. 
+
+ Expression of Plcl was shown previously to require sequences on the distal side of a BamHI site (2, 5) located about 100 bps upstream of the open reading frame (Figure 3). A binding site for the cl repressor has also been shown to exist close to this BamHI site (2, 5, 6). To determine whether this region contains a promoter that is detectable in vivo and, further, to determine whether this promoter can be regulated by cl repressor proteins from either P1 or P7, we introduced several DNA fragments from this region into the promoter probe vector pCB192, screened for promoter activity (as monitored by lacZ expression) and checked for repression of this activity in the presence of a compatible 
+
+ 7677 
+
+ Nucleic Acids Research 
+
+ plasmid expressing Plcl or P7cl. Cells harboring pBCB2.13 (a plasmid which carries a 460 bp fragment of P1 DNA that extends across the BamHI site upstream of cl into the open reading frame) are dark blue in the presence of Xgal and produce significant levels of 3-galactosidase (Table 2). In contrast, pBCB2.16 and pBCB2.18 (which each contain DNA from only one side of the BamHI site located in pBCB2. 13) do not confer a blue color on their host cell in the presence of X-Gal and express negligible amounts of 3-galactosidase (Table 2). These observations suggest that expression from the promoter identified here requires sequences that span the BamHI site upstream of cl. Expression of cl from a compatible plasmid in the presence of pBCB2. 13 results in a 90% reduction in promoter strength (Table 2). This reduction is seen in the presence of either Plcl or P7cl, indicating that the two repressor proteins are both capable of repressing expression from this promoter. DISCUSSION. 
+
+ The DNA sequences of Plcl and P7cl differ at only 18 sites, all but two of which occur at the third position of the affected codon. This observation provides biochemical confirmation of the functional identity predicted on the basis of previous genetic analysis (9). A number of DNA binding proteins exhibit a common structural motif in which two helices are separated by a glycine residue (12). This motif is not observed in the predicted secondary structures (30) of the Plcl and P7cl amino acid sequences. A sequence with some similarity to the XCro helix-turn-helix region was previously reported near the Nterminus of the PIcI protein (5); however, it was noted that the potential for helix formation is disrupted by the presence of several prolines within the region. The secondary structure predicted for the Plcl and P7cl repressor proteins (30) does not reveal other structural characteristics (e.g., Zn fingers (31), leucine zippers (32), or helix-loop-helix motifs (33)) that have been associated with DNA binding activity in other systems. A search of the GenBank and EMBL databases does not reveal any other known regulatory proteins with significant amino acid similarity to the Plcl or the P7cl repressor sequences. Since the Plcl repressor differs from most other repressors in DNA binding specificity (i.e., in its recognition of an asymmetric operator sequence), it is not unexpected to find that the protein does not exhibit common structural motifs at the amino acid level. 
+
+ The cl-repressible promoter described in this report is located in a region just upstream of the cl open reading frame and is oriented in the direction of cl. Because the promoter is present on a multicopy plasmid, it is not possible to make a direct calculation of promoter strength; however, the values observed are about five-fold lower than the levels produced by a derivative of pCB192 that contains the plac promoter from pUC19 (34). Because sequences on both sides of the BamHI site located upstream of cl are required for promoter activity (Table 2), we suggest that the promoter spans this site. Less than 10 bps downstream of this BamHI site is a heptanucleotide sequence (TATAATG) that is identical to the -10 consensus sequence for RNA polymerase (35). If this sequence does indeed correspond to the -10 region of the promoter, the -35 region would be predicted to lie on the other side of the BamHI site in a region that overlaps a known cI repressor binding site (2-5). Analysis of this region does not reveal any sequences with significant similarity to the -35 consensus sequence. The best fit is the sequence TCTATT (Figure 3), which matches only two positions of the -35 consensus (TTGACA). The lack of a strong -35 region is often observed with genes that require an activator. Although a pentanucleotide sequence corresponding to the conserved portion of the CRP protein consensus binding site (36) 
+
+ 7678 
+
+ Nucleic Acids Research 
+
+ is located just upstream of the predicted -35 region (at position 91; Figure 3), a role for CRP-mediated activation in cl expression has not previously been described. The orientation of the promoter and its cl-repressible character raise the possibility that cl expression is autoregulatory. If this is so, one potential activator would be the cl repressor itself. Expression cannot be absolutely dependent on cl-mediated activation, however, because the cloned promoter exhibits significant activity in the absence of the cl gene (Table 2). Under the conditions reported here, the presence of the cl gene results in a decrease rather than an increase in lacZ expression; however, these observations do not rule out a potential activator role for the cl protein, since the ratios of repressor and operator provided by the multicopy plasmids may not be optimal for activation. Physiologically, the role of additional repressor binding sites in regulating cl expression also cannot be discounted. Three potential operator sites have been identified several hundred bps upstream of the cI open reading frame (2-5); one or more of these could be involved (possibly through a DNA looping mechanism; 37) in the activation or repression of cl expression during phage growth. 
+
+ A cl-repressible promoter oriented in the direction of cl was previously reported (38) to be located entirely within PlBamHI-9, a fragment located upstream of cl which is bracketed by the BamHI site within pBCB2. 13. Because sequences on both sides of this BamHI site are required for the activity of the promoter in pBCB2.13, we suggest that the previously identified promoter is distinct from the one reported here. The promoter from BamHI-9 could correspond to a consensus promoter sequence that is situated about 500 bps upstream of cl and overlaps a cl repressor binding site (2). If so, cl expression is likely to be controlled by more than one promoter. Located between this promoter sequence and the promoter encoded on pBCB2. 13 is an open reading frame whose product (termed coi, or c-one inactivator) has been implicated in the establishment of lytic growth (1, 39; B.R. Baumstark, unpublished results). It has been suggested (2) that the decision to enter lytic or lysogenic growth is influenced by the level of transcription initiated from the distal promoter (which would transcribe coi prior to the transcription of cl) relative to that of the promoter located immediately upstream of the cl gene (which would transcribe only ci). 
+
+ A 32-nucleotide hyphenated inverted repeat sequence is located just upstream of the cl open reading frame (positions 146-188; Figure 3). It is not currently known whether this sequence has any regulatory effect on cl expression. Conceivably, the sequence could serve as a recognition site for an as-yet-unidentified regulatory protein. Alternatively, it may affect the secondary structure of the messenger RNA. A transcript extending from a promoter located upstream of the putative coi open reading frame would be capable of forming a stable stem-loop structure containing 16 bps with a single bp mismatch (AG = -33.6 Kcal) of this inverted repeat sequence. Such a structure could potentially serve as a recognition site for a regulatory factor or, alternatively, could mask such a site. On the other hand, transcription originating from the promoter spanning the BamHI site just upstream of cl would start at a site within the inverted repeat sequence, forming a comparatively less stable stem-loop structure of about 8 bps. The role of the inverted repeat region in the regulation of cl expression is currently under investigation. 
+
+ ACKNOWLEDGEMENTS 
+
+ We thank Heinz Schuster for his review of the manuscript. This work was supported by National Science Foundation grant DMB-8704146. 
+
+ 7679 
+
+ Nucleic Acids Research 
+
+ Abbreviations: bp, basepairs; kb, kilobase pairs; X-Gal, 5-Bromo-4-Chloro-3-indolylbeta-D-galactopyranoside. 
+
+ *To whom correspondence should be addressed 
+
+ REFERENCES 
+
+ 1. Yarmolinsky, M.B., and Steinberg, N. (1988). In Calendar, R., (ed.), The Bacteriophages, Plenum Publishing 
+
+ Corp., NY, Vol. 1, pp. 291-438. 
+
+ 2. Baumstark, B.R., Stovall, S.R., and Ashkar, S. (1987). Virology 156, 404-413. 
+
+ 3. Dreiseikelmann, B., Velleman, M., and Schuster, H. (1988). J. Biol. Chem. 263, 1391-1397. 
+
+ 4. Heinrich, J., Riedel, H.-D., Baumstark, B.R., Kimura, M., and Schuster, H. (1989). Nucleic Acids Res, 
+
+ this volume. 
+
+ 5. Eliason, J.L., and Stemnberg, N. (1987). J. Mol. Biol. 198, 281-293. 
+
+ 6. Velleman, M., Dreiseikelmann, B., and Schuster, H. (1987). Proc. Natl. Acad. Sci. USA 84, 5570-5574. 7. Citron, M., Velleman, M., and Schuster, H. (1988). J. Biol. Chem. 264, 3611-3617. 
+
+ 8. Chadwick, P., Pirotta, V., Steinberg, R., Hopkins, N., and Ptashne, M. (1970). Cold Spring Harbor Symp. 
+
+ Quant. Biol. 35, 283-294. 
+
+ 9. Chesney, R.H., and Scott, J.R. (1975). Virology 67, 375-384. 
+
+ 10. Wandersman, C., and Yarmolinsky, M. (1977). Virology 78, 267-276. 
+
+ 11. Scott, J.R., West, B.W., and Laping, J.L. (1978). Virology 85, 587-600. 12. Pabo, C.O., and Sauer, R. A. (1984). Ann. Rev. Biochem. 53, 293-321. 13. Scott, J.R. (1974). Virology 62, 344-349. 
+
+ 14. Schneider, K., and Beck, C.F. (1987). Methods in Enzymol. 153, 452-461. 15. Smith, H.W. (1972). Nature New Biol. 238, 205-206. 16. Scott, J.R. (1975). Virology 65, 173-178. 
+
+ 17. Scott, J.R., Kropf, M.M., and Mendelson, L. (1977). Virology 76, 39-46. 18. Scott, J.R. (1968). Virology 36, 564-574. 
+
+ 19. Walker, D.H., Jr., and Walker, J.T. (1976). J. Virol. 20, 177-187. 20. Stemnberg, N. (1979). Virology 96, 129-142. 
+
+ 21. Schneider, K., and Beck, C.F. (1986). Gene 42, 37-48. 
+
+ 22. Taylor, D.P., and Cohen, S.N. (1979). J. Bacteriol. 137, 92-104. 
+
+ 23. Miller, J.H. (1972). In Experiments in Molecular Genetics, Cold Spring Harbor Laboratory, Cold Spring 
+
+ Harbor, N.Y. 352-355. 
+
+ 24. Guyer, R.S. (1978). J. Mol. Biol. 126, 347-365. 
+
+ 25. Devlin, B.H., Baumstark, B.R., and Scott, J.R. (1982). Virology 120, 360-375. 
+
+ 26. Sanger, F., Nicklen, S., and Coulson, A.R. (1977). Proc. Natl. Acad. Sci. USA 74, 5463-5467. 27. DeVries, J.K., and Zubay, G. (1967). Proc. Natl. Acad. Sci. USA 57, 1010-1012. 
+
+ 28. Heilmann, H., Reeve, J.R., and Puhler, A. (1980). Mol. Gen. Genet. 178, 149-154. 29. Shine, J., and Dalgarno, L. (1974). Proc. Natl. Acad. Sci. USA 71, 1342-1346. 30. Chou, P.Y., and Fasman, G.D. (1978). Adv. Enzymol. 47, 45-148. 31. Berg, J.M. (1986). Nature 319, 264-265. 
+
+ 32. Landschultz, W.H., Johnson, P.F., and McKnight, S.L. (1988). Science 240, 1759-1764. 33. Murre, C., McCaw, P., and Baltimore, D. Cell 56, 777-783. 
+
+ 34. Anderson, B.E., Baumstark, B.R., and Bellini, W.J. (1988). J. Bacteriol. 170, 4493-4500. 35. Rosenberg, M., and Court, D. (1979). Annu. Rev. Genet. 13, 319-353. 
+
+ 36. Ebright, R.H., Cossart, P., Gicquel-Sanzey, B., and Beckwith, J. (1984). Nature 311, 232-235. 37. Ptashne, M. (1986). Nature 322, 697-701. 
+
+ 38. Stemnberg, N., and Hoess, R. (1983). Annu. Rev. Genet. 17, 123-154. 39. Scott, J.R. (1980). Curr. Top. Microbiol. Immunol. 90, 49-65. 
+
+ 7680 
+
+ This article, submitted on disc, has been automatically 
+
+ converted into this typeset format by the publisher. 

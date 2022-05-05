@@ -1,0 +1,24 @@
+T1	GeographicalLocation 32 43	PHILIPPINES
+T2	GeographicalLocation 328 334	Manila
+T3	Taxon 336 345	FICOIDEJE
+T4	Taxon 347 370	Trianthema monogyna, L.
+T5	Taxon 372 391	T. obcordata, Roxb.
+T6	Taxon 394 410	Portulaca cotton
+T7	Taxon 415 431	axiflora, Blanco
+T8	Taxon 446 452	Toston
+T9	Taxon 461 469	Alusiman
+T10	Taxon 471 475	Ayam
+T11	Habitat 1040 1051	rice fields
+T12	TemporalExpression 1063 1070	January
+T13	Taxon 1072 1084	UMBELLIFERJE
+T14	Taxon 1102 1126	Hydrocotyle Asiatica, L.
+T15	Taxon 1086 1093	Parsley
+T16	Taxon 1140 1151	Takip bohol
+T17	Taxon 1153 1162	Takip sus
+T18	Taxon 1171 1178	Rabasa,
+T19	Taxon 1185 1201	Indian Pennywort
+T20	Person 1225 1231	Daruty
+T21	GeographicalLocation 1236 1245	Mauritius
+T22	Taxon 347 366	Trianthema monogyna
+T23	Taxon 372 384	T. obcordata
+T24	Taxon 1102 1122	Hydrocotyle Asiatica

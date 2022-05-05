@@ -1,0 +1,64 @@
+T1	Person 28 35	Darling
+T2	TemporalExpression 37 46	Oct. 1909
+T3	Person 74 81	Darling
+T4	TemporalExpression 83 92	Nov. 1909
+T5	Person 120 127	Darling
+T6	TemporalExpression 129 138	Nov. 1909
+T7	Person 167 176	Foxworthy
+T8	Person 179 184	Ramos
+T9	TemporalExpression 186 195	Mar. 1911
+T10	GeographicalLocation 218 239	Province of Camarines
+T11	Person 272 278	Curran
+T12	Person 303 309	Curran
+T13	TemporalExpression 311 320	July 1908
+T14	GeographicalLocation 343 350	POLILIO
+T15	Person 367 375	McGregor
+T16	GeographicalLocation 377 384	Mindoro
+T17	Person 386 394	Whitford
+T18	TemporalExpression 401 410	Jan. 1906
+T19	Person 423 431	Whitford
+T20	TemporalExpression 438 447	Mar. 1906
+T21	GeographicalLocation 459 469	Marinduque
+T22	Person 487 497	Rosenbluth
+T23	GeographicalLocation 499 504	Samar
+T24	Person 522 532	Rosenbluth
+T25	GeographicalLocation 534 539	Leyte
+T26	Person 557 565	Whitford
+T27	TemporalExpression 567 576	Mar. 1909
+T28	GeographicalLocation 588 596	Mindanao
+T29	GeographicalLocation 598 615	District of Davao
+T30	Person 617 624	Warburg
+T31	Taxon 640 652	D. warburgii
+T32	Person 671 679	Whitford
+T33	TemporalExpression 681 690	Feb. 1909
+T34	GeographicalLocation 719 740	District of Zamboanga
+T35	Person 758 766	Whitford
+T36	Person 769 779	Hutchinson
+T37	TemporalExpression 781 790	Feb. 1908
+T38	Person 815 825	Hutchinson
+T39	TemporalExpression 827 835	May 1908
+T40	Taxon 1189 1197	hagachac
+T41	Habitat 1292 1302	flat lands
+T42	Habitat 1307 1316	low hills
+T43	Habitat 1429 1441	damp forests
+T44	GeographicalLocation 1467 1479	Assam valley
+T45	GeographicalLocation 1481 1491	Chittagong
+T46	Habitat 1492 1497	hills
+T47	GeographicalLocation 1499 1506	Arracan
+T48	GeographicalLocation 1514 1518	Pegu
+T49	Habitat 1520 1525	hills
+T50	GeographicalLocation 1545 1551	Sitang
+T51	GeographicalLocation 1556 1563	Salween
+T52	GeographicalLocation 1565 1580	Andaman Islands
+T53	GeographicalLocation 1582 1589	Sumatra
+T54	GeographicalLocation 1591 1597	Bangka
+T55	GeographicalLocation 1603 1614	Philippines
+T56	Taxon 1619 1648	Dipterocarpus affinis Brandis
+T57	Taxon 1619 1640	Dipterocarpus affinis
+T58	Taxon 2269 2279	D. pilosus
+T59	Taxon 2408 2418	D. affinis
+T60	Taxon 2924 2934	D. pilosus
+T61	Person 3080 3087	Brandis
+T62	Taxon 3155 3167	D. elongatus
+T63	Taxon 3155 3174	D. elongatus Korth.
+T64	Taxon 3179 3189	D. affinis

@@ -1,0 +1,30 @@
+T1	GeographicalLocation 43 54	Philippines
+T2	GeographicalLocation 566 579	United States
+T3	GeographicalLocation 1040 1057	North Philippines
+T4	GeographicalLocation 1070 1075	Luzon
+T5	GeographicalLocation 1110 1117	Mindoro
+T6	GeographicalLocation 1124 1143	Central Philippines
+T7	GeographicalLocation 1170 1175	Panay
+T8	GeographicalLocation 1177 1183	Negros
+T9	GeographicalLocation 1195 1199	Cebu
+T10	GeographicalLocation 1205 1212	Masbate
+T11	GeographicalLocation 1220 1236	West Philippines
+T12	GeographicalLocation 1265 1282	South Philippines
+T13	GeographicalLocation 1284 1292	Mindanao
+T14	GeographicalLocation 1311 1327	East Philippines
+T15	GeographicalLocation 1329 1334	Samar
+T16	GeographicalLocation 1336 1341	Leyte
+T17	GeographicalLocation 1464 1468	Cebu
+T18	GeographicalLocation 1538 1555	island of Mindoro
+T19	TemporalExpression 108 112	1887
+T20	TemporalExpression 130 143	twelve months
+T21	TemporalExpression 470 473;481 486	two weeks
+T22	TemporalExpression 477 486	six weeks
+T23	GeographicalLocation 1185 1193	Guimaras
+T24	GeographicalLocation 1238 1245	Paragua
+T25	GeographicalLocation 1250 1257	Balabac
+T26	GeographicalLocation 1297 1304	Basilan
+T27	GeographicalLocation 1356 1361	Bojol
+T28	GeographicalLocation 1473 1480	Basilan
+T29	Taxon 1576 1589	water buffalo
+T30	Taxon 1595 1602	tamarou

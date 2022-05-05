@@ -1,0 +1,77 @@
+T1	Taxon 56 65	Meliacece
+T2	Taxon 73 80	Pentace
+T3	Taxon 84 93	Tiliacece
+T4	GeographicalLocation 95 107	Assam valley
+T5	Habitat 124 129	hills
+T6	GeographicalLocation 148 154	Cachar
+T7	GeographicalLocation 156 166	Chittagong
+T8	GeographicalLocation 171 176	Burma
+T9	Person 178 185	Brandis
+T10	Person 254 258	Peal
+T11	Person 354 361	Skinner
+T12	Taxon 373 393	Vateria lancecefolia
+T13	Taxon 373 399	Vateria lancecefolia, Roxb
+T14	Person 462 469	Wallich
+T15	Person 506 510	Kurz
+T16	GeographicalLocation 603 608	Burma
+T17	Person 610 617	Brandis
+T18	TemporalExpression 619 623	1862
+T19	Taxon 653 665	STEMONOPORUS
+T20	Taxon 653 670	STEMONOPORUS, Thw
+T21	Taxon 768 775	Vateria
+T22	Taxon 841 858	Vateria ceyianica
+T23	Taxon 841 865	Vateria ceyianica, Wight
+T24	Habitat 937 954	moist low country
+T25	Taxon 986 998	MONOPORANDRA
+T26	Taxon 986 1003	MONOPORANDRA, Thw
+T27	Taxon 1070 1083	M. cordifolia
+T28	Taxon 1070 1088	M. cordifolia, Thw
+T29	Taxon 1094 1106	J\I. elegans
+T30	Taxon 1094 1111	J\I. elegans, Thw
+T31	Taxon 1148 1155	VATERIA
+T32	Taxon 1148 1161	VATERIA, Linn
+T33	Taxon 1176 1188	V. acuminata
+T34	Taxon 1176 1195	V. acuminata, Heyne
+T35	Taxon 1245 1254	F. indica
+T36	Taxon 1245 1257	F. indica, L
+T37	Habitat 1333 1350	moist low country
+T38	GeographicalLocation 1354 1360	Ceylon
+T39	Person 1454 1459	Lewis
+T40	Taxon 1531 1540	V. indiea
+T41	Taxon 1531 1546	V. indiea, Linn
+T42	Taxon 1620 1633	V. malabarica
+T43	Taxon 1620 1640	V. malabarica, Blume
+T44	Taxon 1670 1683	Piney Varnish
+T45	Taxon 1687 1704	Indian Copal Tree
+T46	Taxon 1712 1723	Piney maram
+T47	Taxon 1725 1735	dhup maram
+T48	Taxon 1737 1753	vallay kungiliam
+T49	Taxon 1755 1764	kondricam
+T50	Taxon 1773 1783	Dupa maram
+T51	Taxon 1785 1790	dhupa
+T52	Taxon 1792 1797	paini
+T53	Taxon 1799 1809	munda dhup
+T54	Taxon 1811 1828	illupathla, gugle
+T55	Taxon 1836 1842	Dupada
+T56	Taxon 1850 1856	Payani
+T57	Taxon 1858 1868	paini mara
+T58	Taxon 1870 1883	per urn piney
+T59	Taxon 1885 1900	vella koudrihun
+T60	Taxon 1908 1911	Hal
+T61	Taxon 1913 1918	Cingh
+T62	Habitat 2461 2478	Evergreen forests
+T63	GeographicalLocation 2498 2511	Western Ghats
+T64	GeographicalLocation 2517 2523	Kanara
+T65	GeographicalLocation 2527 2537	Travancoiv
+T66	Person 2609 2616	Beddome
+T67	Habitat 2720 2727	forests
+T68	Habitat 2737 2743	plaius
+T69	Habitat 2829 2834	coast
+T70	GeographicalLocation 2838 2852	South 1 Kanara
+T71	GeographicalLocation 2854 2861	Malabar
+T72	GeographicalLocation 2866 2876	Travancore
+T73	GeographicalLocation 2898 2904	Karkul
+T74	GeographicalLocation 2908 2917	S. Kanara
+T75	TemporalExpression 2955 2962	January
+T76	Person 3080 3086	Mendis
+T77	Person 3425 3434	Rroughton

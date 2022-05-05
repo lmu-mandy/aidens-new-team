@@ -1,0 +1,92 @@
+T1	Taxon 23 31	GORDONIA
+T2	Taxon 23 36	GORDONIA Ell.
+T3	Taxon 37 54	Gordonia luzonica
+T4	Taxon 37 60	Gordonia luzonica Vidal
+T5	Taxon 94 111	Gordonia fragrans
+T6	Taxon 94 117	Gordonia fragrans Merr.
+T7	Habitat 191 200	mountains
+T8	GeographicalLocation 204 209	Luzon
+T9	Taxon 211 222	G. fragrans
+T10	Person 247 252	Vidal
+T11	Taxon 264 280	GORDONIA ViDALii
+T12	Taxon 264 287	GORDONIA ViDALii Szysz.
+T13	Taxon 339 351	G. acuminata
+T14	Taxon 339 357	G. acuminata Vidal
+T15	Taxon 440 448	Theaceae
+T16	Person 463 468	Vidal
+T17	Taxon 500 506	Shorea
+T18	Taxon 510 515	Hopea
+T19	Taxon 517 533	Dipierocarpaceae
+T20	Person 589 594	Vidal
+T21	Taxon 613 629	DIPTEROCARPACEAE
+T22	Taxon 631 644	DIPTEROCARPUS
+T23	Taxon 631 655	DIPTEROCARPUS Gaertn. f.
+T24	Taxon 656 682	Dipterocarpus vernicifluus
+T25	Taxon 656 689	Dipterocarpus vernicifluus Blanco
+T26	Taxon 816 828	D. velutinus
+T27	Taxon 816 834	D. velutinus Vidal
+T28	Taxon 882 891	D. fulvus
+T29	Taxon 882 897	D. fulvus Blume
+T30	GeographicalLocation 1040 1046	Manila
+T31	Taxon 1073 1078	panao
+T32	Person 1123 1128	Vidal
+T33	Taxon 1191 1217	Dipterocarpus grandiflorus
+T34	Taxon 1191 1224	Dipterocarpus grandiflorus Blanco
+T35	Taxon 1226 1238	D. velutinus
+T36	Taxon 1226 1244	D. velutinus Vidal
+T37	Taxon 1278 1293	D. vernicifluus
+T38	Taxon 1278 1300	D. vernicifluus Blanco
+T39	Person 1379 1384	Vidal
+T40	Person 1410 1416	Blanco
+T41	Taxon 1432 1441	D. fulvus
+T42	Taxon 1432 1447	D. fulvus Blume
+T43	Taxon 1497 1508	Philippines
+T44	Person 1512 1521	Perrottet
+T45	Taxon 1603 1618	D. vernicifluus
+T46	Taxon 1620 1630	PARASHOREA
+T47	Taxon 1620 1635	PARASHOREA Kurz
+T48	Taxon 1637 1655	Parashorea plicata
+T49	Taxon 1637 1663	Parashorea plicata Brandis
+T50	Taxon 1706 1718	P. Warburgii
+T51	Taxon 1706 1726	P. Warburgii Brandis
+T52	Taxon 1798 1808	P. plicata
+T53	Person 1823 1828	Vidal
+T54	Taxon 1872 1884	P. Warburgii
+T55	Person 1947 1952	Ramos
+T56	Taxon 2011 2021	P. plicata
+T57	Taxon 2165 2177	P. Warburgii
+T58	Taxon 2216 2226	P. plicata
+T59	GeographicalLocation 2263 2274	Philippines
+T60	GeographicalLocation 2335 2340	Luzon
+T61	GeographicalLocation 2342 2362	Province of Sorsogon
+T62	Person 2379 2387	Zschokke
+T63	TemporalExpression 2389 2398	May, 1906
+T64	Person 2415 2419	Pray
+T65	TemporalExpression 2421 2435	December, 1906
+T66	GeographicalLocation 2437 2454	Province of Rizal
+T67	GeographicalLocation 2456 2464	Bosoboso
+T68	Person 2487 2492	Ramos
+T69	GeographicalLocation 2494 2512	Province of Laguna
+T70	GeographicalLocation 2514 2534	Santa Maria Mavitac,
+T71	Person 2551 2557	Curran
+T72	GeographicalLocation 2559 2572	Mount Banajao
+T73	Person 2589 2595	Curran
+T74	Person 2598 2605	Merritt
+T75	GeographicalLocation 2608 2616	Malicboi
+T76	Person 2618 2625	Ritchie
+T77	GeographicalLocation 2630 2641	Guinayangan
+T78	Person 2643 2649	Hagger
+T79	GeographicalLocation 2651 2676	Province of Camarines Sur
+T80	GeographicalLocation 2678 2685	Pasacao
+T81	Person 2687 2692	Ahern
+T82	GeographicalLocation 2703 2710	Masbate
+T83	Person 2712 2720	Whitford
+T84	GeographicalLocation 2727 2738	Catanduanes
+T85	Person 2755 2759	Pray
+T86	GeographicalLocation 2761 2767	Negros
+T87	GeographicalLocation 2769 2783	Gimagaan River
+T88	Person 2785 2793	Whitford
+T89	GeographicalLocation 2800 2808	MINDANAO
+T90	GeographicalLocation 2810 2829	Province of Surigao
+T91	Person 2831 2836	Ahern
+T92	Person 2857 2867	Hutchinson

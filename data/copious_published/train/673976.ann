@@ -1,0 +1,42 @@
+T1	GeographicalLocation 203 211	Mindanao
+T2	GeographicalLocation 213 234	District of Zamboanga
+T3	Person 258 266	Whitford
+T4	Person 269 280	Hutchin son
+T5	TemporalExpression 282 291	Dec. 1907
+T6	TemporalExpression 293 302	Jan. 1908
+T7	Taxon 314 324	Petalandra
+T8	Taxon 314 330	Petalandra Hassk
+T9	Taxon 731 746	Hopea acuminata
+T10	Taxon 731 752	Hopea acuminata Morr.
+T11	Habitat 2182 2194	hill forests
+T12	GeographicalLocation 2249 2254	Luzon
+T13	GeographicalLocation 2256 2275	Province of Cagayan
+T14	Person 2293 2299	Curran
+T15	GeographicalLocation 2301 2325	Province of Ilocos Norte
+T16	Person 2350 2357	Merritt
+T17	Person 2360 2367	Darling
+T18	GeographicalLocation 2369 2394	Province of Nueva Vizcaya
+T19	Person 2412 2418	Curran
+T20	Person 2436 2443	Merritt
+T21	GeographicalLocation 2457 2465	La Union
+T22	Person 2477 2484	Paraiso
+T23	GeographicalLocation 2486 2508	Province of Pangasinan
+T24	Person 2526 2534	Villamil
+T25	GeographicalLocation 2536 2554	Province of Tarlac
+T26	Person 2574 2579	Agama
+T27	GeographicalLocation 2593 2604	Nueva Ecija
+T28	Person 2629 2636	Alvarez
+T29	GeographicalLocation 2638 2657	Province of Bulacan
+T30	Person 2675 2684	Foxworthy
+T31	GeographicalLocation 2686 2704	Province of Bataan
+T32	Person 2719 2725	Borden
+T33	TemporalExpression 2727 2735	May 1904
+T34	Person 2756 2764	Whitford
+T35	TemporalExpression 2770 2778	May 1904
+T36	Person 2812 2818	Borden
+T37	Person 2835 2841	Borden
+T38	TemporalExpression 2843 2852	Aug. 1904
+T39	Person 2864 2871	Merrill
+T40	TemporalExpression 2878 2887	Aug. 1904
+T41	Person 2914 2924	Foxicorthy
+T42	Person 2948 2954	Curran

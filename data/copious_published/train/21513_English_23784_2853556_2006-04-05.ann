@@ -1,0 +1,84 @@
+T1	Taxon 71 79	Primates
+T2	Taxon 87 102	Cercopithecidae
+T3	Taxon 105 112	Monkeys
+T4	Taxon 113 132	Macaca fascicularis
+T5	Taxon 153 172	long-tailed macaque
+T6	GeographicalLocation 185 190	Burma
+T7	GeographicalLocation 194 199	Timor
+T8	GeographicalLocation 228 239	Philippines
+T9	Habitat 291 321	agricultural areas near forest
+T10	Habitat 326 339;354 360	second-growth forest
+T11	Habitat 344 360	secondary forest
+T12	Habitat 373 387	primary forest
+T13	Habitat 425 432;445 451	lowland forest
+T14	Habitat 437 451	montane forest
+T15	TemporalExpression 559 569	March 1995
+T16	Taxon 648 655	macaque
+T17	Habitat 661 674	forested area
+T18	GeographicalLocation 681 688	Mahinog
+T19	TemporalExpression 718 728	March 1995
+T20	Taxon 782 790	macaques
+T21	Habitat 853 875	primary montane forest
+T22	Taxon 898 906	macaques
+T23	Habitat 946 968	lowland primary forest
+T24	Habitat 973 994	good secondary forest
+T25	GeographicalLocation 1070 1077	Mahinog
+T26	Taxon 1094 1102	Rodentia
+T27	Taxon 1110 1117	Muridae
+T28	Taxon 1120 1124	Rats
+T29	Taxon 1129 1133	Mice
+T30	Taxon 1134 1154	Apomys camiguinensis
+T31	Taxon 1214 1220	Apomys
+T32	GeographicalLocation 1251 1259	Camiguin
+T33	TemporalExpression 1263 1271	May 1994
+T34	TemporalExpression 1276 1286	March 1995
+T35	Taxon 1376 1397	Camiguin forest mouse
+T36	Taxon 1573 1590	Apomys hylocoetes
+T37	Taxon 1595 1606	A. insignis
+T38	GeographicalLocation 1612 1620	Mindanao
+T39	GeographicalLocation 1652 1657	Leyte
+T40	GeographicalLocation 1662 1669	Biliran
+T41	Habitat 1765 1789	disturbed lowland forest
+T42	Habitat 1816 1838	primary montane forest
+T43	Habitat 1885 1905	primary mossy forest
+T44	Habitat 1951 1994	heavily disturbed lowland agricultural land
+T45	Habitat 2018 2038	lower montane forest
+T46	Habitat 2071 2089	lower mossy forest
+T47	Habitat 2219 2241	primary montane forest
+T48	TemporalExpression 2389 2400	29 May 1994
+T49	TemporalExpression 2563 2574	23 May 1994
+T50	TemporalExpression 2579 2592	17 March 1995
+T51	Taxon 3144 3158	Bullimus gamay
+T52	Taxon 3227 3235	Bullimus
+T53	Taxon 3259 3267	B. gamay
+T54	GeographicalLocation 3307 3315	Camiguin
+T55	TemporalExpression 3319 3327	May 1994
+T56	TemporalExpression 3332 3342	March 1995
+T57	Taxon 3348 3367	Camiguin forest rat
+T58	Taxon 3396 3404	Tarsomys
+T59	Person 3408 3414	Heaney
+T60	Person 3419 3428	Tabaranza
+T61	Taxon 3456 3467	Bullimus sp
+T62	Person 3475 3481	Heaney
+T63	Habitat 3560 3603	heavily disturbed lowland agricultural land
+T64	Habitat 3685 3700;3718 3729	runways beneath rotten logs
+T65	Habitat 3733 3749	near large rocks
+T66	Habitat 3783 3805	primary montane forest
+T67	Habitat 3970 3994	secondary lowland forest
+T68	Habitat 3848 3878	disturbed lower montane forest
+T69	Habitat 3910 3930	primary mossy forest
+T70	Habitat 4021 4039	lower mossy forest
+T71	Taxon 4060 4076	Bullimus bagobus
+T72	GeographicalLocation 4106 4114	Mindanao
+T73	Habitat 4134 4176	lower elevation where good forest persists
+T74	Taxon 4239 4247	B. gamay
+T75	GeographicalLocation 4293 4301	Camiguin
+T76	Taxon 4303 4309	Parous
+T77	Taxon 4396 4407	nulliparous
+T78	GeographicalLocation 4468 4483	CAMIGUIN ISLAND
+T79	Taxon 1134 1181	Apomys camiguinensis Heaney and Tabaranza, 2006
+T80	Habitat 2278 2300	fallen and rotten logs
+T81	Habitat 2306 2320	moderate slope
+T82	Habitat 2253 2265	root tangles
+T83	Taxon 3144 3194	Bullimus gamay Rickart, Heaney and Tabaranza, 2002
+T84	Habitat 3685 3713	runways beneath root tangles

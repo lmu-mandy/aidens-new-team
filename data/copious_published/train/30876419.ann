@@ -1,0 +1,53 @@
+T1	Taxon 0 14	DIPTEROCARPEAE
+T2	Habitat 90 111	Western coast forests
+T3	GeographicalLocation 122 128	Konkan
+T4	GeographicalLocation 132 142	Tinnevelly
+T5	Person 171 178	Beddome
+T6	Habitat 202 219	evergreen forests
+T7	Habitat 232 237	coast
+T8	GeographicalLocation 447 457	Tinnevelly
+T9	GeographicalLocation 447 457	Tinnevelly
+T10	Person 484 491	Brasier
+T11	Taxon 504 524	H. parviflora, Bedd.
+T12	GeographicalLocation 877 884	Malabar
+T13	GeographicalLocation 889 901	South Kanara
+T14	GeographicalLocation 919 929	Travancore
+T15	GeographicalLocation 934 944	Tinnevelly
+T16	GeographicalLocation 1062 1074	South Kanara
+T17	Person 1130 1145	H. H. O'Connell
+T18	GeographicalLocation 1165 1175	Tinnevelly
+T19	Person 1268 1278	F. Foulkes
+T20	GeographicalLocation 1310 1319	Mangalore
+T21	TemporalExpression 1321 1333	August, 1895
+T22	Habitat 1473 1496	moist evergreen forests
+T23	Habitat 1524 1553	former patches in open plains
+T24	Habitat 1627 1638	river-banks
+T25	Habitat 1646 1659	moist valleys
+T26	TemporalExpression 1797 1804	January
+T27	TemporalExpression 1806 1814	February
+T28	TemporalExpression 1819 1830	early March
+T29	TemporalExpression 1855 1858	May
+T30	Taxon 2016 2025	S. Kanara
+T31	GeographicalLocation 2534 2546	South Kanara
+T32	GeographicalLocation 2579 2589	Travancore
+T33	Person 2591 2601	Bourdillon
+T34	Taxon 2615 2635	H. glabra, W. and A.
+T35	Taxon 2615 2624	H. glabra
+T36	Taxon 2659 2671	H. Wightiana
+T37	Taxon 2659 2684	H. Wightiana, var. glabra
+T38	Taxon 2659 2691	H. Wightiana, var. glabra, Bedd.
+T39	GeographicalLocation 2721 2731	Tinnevelly
+T40	Habitat 2960 2967	Forests
+T41	GeographicalLocation 2975 2991	Tinnevelly Ghats
+T42	GeographicalLocation 2999 3009	Travancore
+T43	Habitat 3018 3023	banks
+T44	GeographicalLocation 3031 3038	Periyar
+T45	GeographicalLocation 3043 3058	Colatoor rivers
+T46	Taxon 3087 3099	H. Wightiana
+T47	Person 3134 3144	Bourdillon
+T48	GeographicalLocation 3183 3193	Travancore
+T49	Person 3195 3205	Bourdillon
+T50	Taxon 3219 3229	H. odorata
+T51	Taxon 3219 3236	H. odorata, Roxb.
+T52	Taxon 3298 3312	H. eglandulosa
+T53	Taxon 3298 3319	H. eglandulosa, Roxb.

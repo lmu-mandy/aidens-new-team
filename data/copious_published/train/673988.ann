@@ -1,0 +1,82 @@
+T1	Taxon 70 76	Shorea
+T2	GeographicalLocation 486 491	LUZON
+T3	GeographicalLocation 493 512	Province of Cagayan
+T4	Person 530 537	Darling
+T5	Person 569 575	Curran
+T6	GeographicalLocation 577 596	Province of Isabela
+T7	Person 614 621	Darling
+T8	GeographicalLocation 623 647	Province of Ilocos Norte
+T9	Person 672 679	Merritt
+T10	Person 682 689	Darling
+T11	GeographicalLocation 691 714	Province of Nueva Ecija
+T12	Person 732 739	Alvarez
+T13	GeographicalLocation 741 760	Province of Bulacan
+T14	Person 777 784	Aguilar
+T15	Person 802 808	Cortez
+T16	GeographicalLocation 810 831	Province of La Laguna
+T17	Person 863 869	Curran
+T18	Person 886 895	Foxworthy
+T19	Person 913 920	Tamesis
+T20	Person 938 945	Mariano
+T21	GeographicalLocation 947 966	Province of Tayabas
+T22	Person 983 988	Kobbe
+T23	Person 1019 1025	Curran
+T24	Person 1043 1051	Whitford
+T25	Person 1069 1079	Rosenbluth
+T26	Person 1097 1104	Darling
+T27	GeographicalLocation 1106 1127	Province of Camarines
+T28	Person 1144 1151	Barredo
+T29	Person 1169 1175	Curran
+T30	GeographicalLocation 1177 1194	Province of Albay
+T31	Person 1196 1202	Cuming
+T32	GeographicalLocation 1213 1233	Province of Sorsogon
+T33	Person 1251 1257	Curran
+T34	GeographicalLocation 1259 1266	POLILLO
+T35	Person 1284 1292	McGregor
+T36	GeographicalLocation 1294 1304	MARINDUQUE
+T37	Person 1322 1332	Rosenbluth
+T38	GeographicalLocation 1334 1341	MINDORO
+T39	Person 1343 1350	Merrill
+T40	Person 1404 1411	Merritt
+T41	GeographicalLocation 1413 1418	SAMAR
+T42	Person 1450 1460	Rosenbluth
+T43	GeographicalLocation 1462 1467	LEYTE
+T44	Person 1485 1495	Rosenbluth
+T45	GeographicalLocation 1497 1505	MINDANAO
+T46	GeographicalLocation 1507 1528	Subprovince of Agusan
+T47	Person 1545 1555	Hutchinson
+T48	GeographicalLocation 1557 1576	Province of Misamis
+T49	Person 1593 1599	Mearns
+T50	Person 1602 1612	Hutchinson
+T51	TemporalExpression 1614 1622	May 1906
+T52	GeographicalLocation 1640 1657	District of Davao
+T53	Person 1675 1683	Whitford
+T54	GeographicalLocation 1685 1702	District of Lanao
+T55	Person 1709 1716	Clemens
+T56	Person 1747 1751	Pray
+T57	GeographicalLocation 1753 1774	District of Zamboanga
+T58	Person 1791 1799	Whitford
+T59	Person 1802 1812	Hutchinson
+T60	Taxon 1828 1835	mayapis
+T61	Taxon 1844 1848	alam
+T62	Taxon 1860 1867	balabak
+T63	Taxon 1875 1881	danlig
+T64	Taxon 1890 1895	lauan
+T65	Taxon 1904 1913	malacacao
+T66	Taxon 1923 1932	malakayan
+T67	Taxon 1941 1951	malasinoro
+T68	Taxon 1960 1967	oghayan
+T69	Taxon 1976 1981	tabak
+T70	Taxon 1990 1996	ubanan
+T71	GeographicalLocation 2021 2027	Borneo
+T72	GeographicalLocation 2036 2047	Philippines
+T73	Taxon 2054 2083	Shorea eximia (Miq.) Scheffer
+T74	Taxon 2054 2067	Shorea eximia
+T75	Taxon 2227 2242	Vatica ? eximia
+T76	Taxon 2227 2247	Vatica ? eximia Miq.
+T77	Taxon 2312 2332	Vatica ? sublacunosa
+T78	Taxon 2312 2337	Vatica ? sublacunosa Miq.
+T79	Taxon 2388 2406	Shorea sublacunosa
+T80	Taxon 2388 2415	Shorea sublacunosa Scheffer
+T81	Taxon 2457 2474	Shorea furfuracea
+T82	Taxon 2457 2479	Shorea furfuracea Miq.

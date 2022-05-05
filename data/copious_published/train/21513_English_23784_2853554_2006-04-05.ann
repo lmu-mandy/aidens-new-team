@@ -1,0 +1,92 @@
+T1	GeographicalLocation 4 11	Palawan
+T2	GeographicalLocation 67 75	Camiguin
+T3	Taxon 79 89	P. tablasi
+T4	Taxon 126 135	P. tablas
+T5	Taxon 140 150	P. balutus
+T6	Taxon 169 185	Pteropus pumilus
+T7	Habitat 239 246;274 280	primary forest
+T8	Habitat 251 280	good secondary lowland forest
+T9	Taxon 443 459	Pteropus pumilus
+T10	Taxon 590 600	P. pumilus
+T11	TemporalExpression 612 617	1990s
+T12	TemporalExpression 627 636	1967-1969
+T13	Taxon 741 761	Pteropus hypomelanus
+T14	TemporalExpression 843 848	1990s
+T15	Taxon 1030 1044	Emballonuridae
+T16	Taxon 1047 1065	Sheath-tailed Bats
+T17	Taxon 1066 1084	Emballonura alecto
+T18	Taxon 1116 1144	Philippine sheath-tailed bat
+T19	GeographicalLocation 1214 1225	Philippines
+T20	GeographicalLocation 1249 1255	Borneo
+T21	GeographicalLocation 1261 1269	Moluccas
+T22	GeographicalLocation 1275 1283	Sulawesi
+T23	Habitat 1365 1381	disturbed forest
+T24	Habitat 1386 1434	agricultural areas with scattered remnant forest
+T25	Habitat 1469 1474	caves
+T26	Habitat 1504 1520	man-made tunnels
+T27	TemporalExpression 1625 1629	1994
+T28	TemporalExpression 1634 1638	1995
+T29	TemporalExpression 1647 1651	1967
+T30	GeographicalLocation 1678 1690	Tag-ibo Cave
+T31	GeographicalLocation 1753 1765	Mt. Mambajao
+T32	GeographicalLocation 1856 1861	Leyte
+T33	GeographicalLocation 1866 1873	Biliran
+T34	Taxon 2000 2013	Rhinolophidae
+T35	Taxon 2016 2036	Horseshoe-nosed Bats
+T36	Taxon 2037 2057	Rhinolophus arcuatus
+T37	Taxon 2037 2064	Rhinolophus arcuatus Peters
+T38	Taxon 2083 2096	horseshoe bat
+T39	GeographicalLocation 2116 2123	Sumatra
+T40	GeographicalLocation 2127 2137	New Guinea
+T41	GeographicalLocation 2157 2168	Philippines
+T42	Habitat 2286 2294	lowlands
+T43	Habitat 2317 2335	agricultural lands
+T44	Habitat 2339 2354;2367 2373	primary lowland forest
+T45	Habitat 2359 2373	montane forest
+T46	Habitat 2391 2406	roosts in caves
+T47	Taxon 2568 2579	R. arcuatus
+T48	Habitat 2604 2612	lowlands
+T49	Habitat 2616 2634	disturbed habitats
+T50	Taxon 2665 2676	R. arcuatus
+T51	Habitat 2691 2718	forest at higher elevations
+T52	TemporalExpression 2746 2754	May 1994
+T53	Habitat 2802 2826	disturbed lowland forest
+T54	TemporalExpression 3013 3018	March
+T55	GeographicalLocation 3022 3027	Luzon
+T56	GeographicalLocation 3029 3039	Mt. Isarog
+T57	TemporalExpression 3048 3053	April
+T58	GeographicalLocation 3057 3064	Biliran
+T59	GeographicalLocation 3066 3071	Leyte
+T60	GeographicalLocation 3077 3085	Maripipi
+T61	GeographicalLocation 3180 3188	Camiguin
+T62	GeographicalLocation 3249 3256	Biliran
+T63	GeographicalLocation 3258 3263	Leyte
+T64	GeographicalLocation 3265 3270	Luzon
+T65	GeographicalLocation 3272 3284	Mt. Makiling
+T66	GeographicalLocation 3287 3295	Maripipi
+T67	GeographicalLocation 3301 3309	Mindanao
+T68	GeographicalLocation 3311 3324	Mt. Kitanglad
+T69	Taxon 3391 3402	R. arcuatus
+T70	Taxon 3574 3585	R. arcuatus
+T71	Taxon 3750 3767	Rhinolophus inops
+T72	Taxon 3790 3821	Philippine forest horseshoe bat
+T73	Habitat 3847 3862	primary lowland
+T74	Habitat 3867 3881	montane forest
+T75	Habitat 3930 3946	secondary forest
+T76	Habitat 3951 3963	mossy forest
+T77	Taxon 4056 4078	Philippine Rhinolophus
+T78	Taxon 4147 4158	R. subrufus
+T79	Person 4162 4168	Heaney
+T80	Habitat 4234 4248	lowland forest
+T81	GeographicalLocation 4382 4389	Biliran
+T82	GeographicalLocation 4391 4396	Leyte
+T83	GeographicalLocation 4424 4432	Mindanao
+T84	GeographicalLocation 4531 4550	Pleistocene islands
+T85	GeographicalLocation 4608 4623	CAMIGUIN ISLAND
+T86	Habitat 343 349	forest
+T87	Habitat 1330 1337	lowland
+T88	Habitat 1482 1496	large boulders
+T89	GeographicalLocation 2205 2212	Palawan
+T90	Taxon 3750 3785	Rhinolophus inops K. Anderson, 1905
+T91	Taxon 4180 4188	R. inops
+T92	GeographicalLocation 4434 4447	Mt. Kitanglad

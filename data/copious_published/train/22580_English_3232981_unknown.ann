@@ -1,0 +1,42 @@
+T1	GeographicalLocation 57 72	coast of Norway
+T2	GeographicalLocation 223 243	northwestern Pacific
+T3	GeographicalLocation 266 277	West Africa
+T4	Taxon 355 365	Carangidae
+T5	GeographicalLocation 536 550	coast of Japan
+T6	GeographicalLocation 691 706	Tasmanian coast
+T7	Taxon 856 866	Carangidae
+T8	Taxon 893 910	Japanese mackerel
+T9	GeographicalLocation 929 943	East China Sea
+T10	GeographicalLocation 965 970	Japan
+T11	GeographicalLocation 1003 1014	Philippines
+T12	Taxon 1043 1053	Carangidae
+T13	GeographicalLocation 1073 1093	west coast of Africa
+T14	GeographicalLocation 1186 1191	Spain
+T15	GeographicalLocation 1550 1558;1570 1576	Atlantic Oceans
+T16	GeographicalLocation 1563 1576	Indian Oceans
+T17	TemporalExpression 1943 1947	1950
+T18	Taxon 2541 2549	chimaera
+T19	GeographicalLocation 2802 2813	World Ocean
+T20	Taxon 3035 3049	Pleuronectidae
+T21	GeographicalLocation 137 149	Soviet Union
+T22	Taxon 190 198	mackerel
+T23	Taxon 305 313	mackerel
+T24	TemporalExpression 401 405	1970
+T25	Taxon 649 657	mackerel
+T26	GeographicalLocation 828 839	New Zealand
+T27	GeographicalLocation 1148 1152	USSR
+T28	GeographicalLocation 1164 1170	Angola
+T29	GeographicalLocation 1541 1548;1570 1576	Pacific Oceans
+T30	TemporalExpression 1956 1960	1965
+T31	GeographicalLocation 2255 2260	Japan
+T32	GeographicalLocation 2330 2333	USA
+T33	GeographicalLocation 2335 2341	France
+T34	GeographicalLocation 2343 2348	Spain
+T35	GeographicalLocation 2353 2357	Peru
+T36	GeographicalLocation 2363 2375	Soviet Union
+T37	Taxon 2471 2480	swordfish
+T38	TemporalExpression 2650 2654	1968
+T39	TemporalExpression 2655 2659	1975
+T40	Taxon 2711 2715	rays
+T41	Taxon 3076 3085	Ammodytes
+T42	Taxon 3065 3074	sea perch

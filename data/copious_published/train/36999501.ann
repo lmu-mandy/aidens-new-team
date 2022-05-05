@@ -1,0 +1,21 @@
+T1	TemporalExpression 22 30	November
+T2	TemporalExpression 35 48	December 2005
+T3	GeographicalLocation 95 100	Burma
+T4	Taxon 141 152	Metasequoia
+T5	Taxon 141 152	Metasequoia
+T6	Taxon 247 259	Cupressaceae
+T7	Taxon 555 571	Dipterocarpaceae
+T8	GeographicalLocation 727 733	Borneo
+T9	GeographicalLocation 735 742	Sumatra
+T10	GeographicalLocation 744 753	Australia
+T11	GeographicalLocation 755 771	Papua New Guinea
+T12	GeographicalLocation 773 778	India
+T13	GeographicalLocation 784 797	North America
+T14	Taxon 993 1005	Cupressaceae
+T15	Taxon 1010 1023	Araucariaceae
+T16	GeographicalLocation 1419 1437	Dominican Republic
+T17	GeographicalLocation 1449 1462	Baltic region
+T18	Taxon 1487 1496	Aracaceae
+T19	Taxon 1512 1521	Arecaceae
+T20	Taxon 1537 1545	Fagaceae
+T21	Taxon 1562 1573	Leguminosae

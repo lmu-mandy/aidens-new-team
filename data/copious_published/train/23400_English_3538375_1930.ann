@@ -1,0 +1,65 @@
+T1	Taxon 142 150	Labridae
+T2	Taxon 259 277	Callyodon miniatus
+T3	GeographicalLocation 448 454	Penang
+T4	Taxon 498 520	Plectropomus truncatus
+T5	Taxon 626 644	Chaetodon fremblii
+T6	Taxon 740 758	Anampes godcffroyi
+T7	GeographicalLocation 804 813	Singapore
+T8	Taxon 854 874	Acanthurus unicornis
+T9	Taxon 1003 1026	Acanthurus brevirostris
+T10	Taxon 1129 1148	Muraenesox cinereus
+T11	GeographicalLocation 14 22;58 65	HAWAIIAN ISLANDS
+T12	GeographicalLocation 24 32;58 65	MARSHALL ISLANDS
+T13	GeographicalLocation 34 42;58 65	CAROLINE ISLANDS
+T14	GeographicalLocation 47 65	PHILIPPINE ISLANDS
+T15	GeographicalLocation 77 83	FRENCH
+T16	GeographicalLocation 84 88	INDO
+T17	GeographicalLocation 89 94	CHINA
+T18	GeographicalLocation 99 114	MALACCA STRAITS
+T19	Taxon 123 140	Philippine Wrasse
+T20	Taxon 237 241	Luau
+T21	Taxon 243 257	Red Parrotfish
+T22	Taxon 361 373	Silver Bream
+T23	Taxon 375 385	Seams sara
+T24	GeographicalLocation 158 174	South China Seas
+T25	GeographicalLocation 278 299	Western Pacific Ocean
+T26	GeographicalLocation 386 405	Indo-pacific Waters
+T27	TemporalExpression 186 202	January 23, 1929
+T28	GeographicalLocation 204 211	Manilla
+T29	GeographicalLocation 213 231	Philippine Islands
+T30	TemporalExpression 311 328	December 14, 1928
+T31	GeographicalLocation 330 338	Honolulu
+T32	GeographicalLocation 340 356	Hawaiian Islands
+T33	TemporalExpression 417 434	February 11, 1929
+T34	GeographicalLocation 436 446	Georgetown
+T35	GeographicalLocation 456 468	Malay States
+T36	Taxon 473 496	Square-tailed Sea Perch
+T37	GeographicalLocation 521 537	South China Seas
+T38	TemporalExpression 549 565	January 23, 1929
+T39	GeographicalLocation 567 574	Manilla
+T40	GeographicalLocation 576 593	Philippine Island
+T41	GeographicalLocation 645 658	Pacific Ocean
+T42	GeographicalLocation 759 774	Malacca Straits
+T43	Taxon 599 624	Blue Lined Butterfly Fish
+T44	TemporalExpression 670 687	December 14, 1928
+T45	GeographicalLocation 689 697	Honolulu
+T46	GeographicalLocation 699 715	Hawaiian Islands
+T47	Taxon 720 738	Godeffroy's Wrasse
+T48	TemporalExpression 786 802	February 8, 1929
+T49	GeographicalLocation 815 827	Malay States
+T50	Taxon 832 852	Unicorn Surgeon Fish
+T51	Taxon 977 1001	Short-Snout Unicorn Fish
+T52	Taxon 1110 1127	Indian Conger Eel
+T53	GeographicalLocation 875 891	Hawaiian Islands
+T54	GeographicalLocation 893 915	Tropical Pacific Ocean
+T55	TemporalExpression 927 944	December 14, 1928
+T56	GeographicalLocation 946 954	Honolulu
+T57	GeographicalLocation 956 972	Hawaiian Islands
+T58	GeographicalLocation 1027 1048	Western Pacific Ocean
+T59	TemporalExpression 1060 1077	December 14, 1928
+T60	GeographicalLocation 1079 1087	Honolulu
+T61	GeographicalLocation 1089 1105	Hawaiian Islands
+T62	GeographicalLocation 1149 1165	South China Seas
+T63	TemporalExpression 1177 1193	January 23, 1929
+T64	GeographicalLocation 1195 1202	Manilla
+T65	GeographicalLocation 1203 1221	Philippine Islands

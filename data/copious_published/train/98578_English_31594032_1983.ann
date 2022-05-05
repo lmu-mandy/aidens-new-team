@@ -1,0 +1,53 @@
+T1	GeographicalLocation 155 166	Philippines
+T2	Taxon 2111 2129	Plexaura homomalla
+T3	Habitat 2625 2634	Estuarine
+T4	GeographicalLocation 2745 2750	India
+T5	GeographicalLocation 2777 2785	Palk Bay
+T6	Taxon 3013 3032	Sertularia argentea
+T7	GeographicalLocation 3252 3259	Florida
+T8	GeographicalLocation 3268 3280	Persian Gulf
+T9	GeographicalLocation 23 27	U.S.
+T10	GeographicalLocation 144 149	U.S.A
+T11	Habitat 468 472	reef
+T12	Habitat 604 615	coral reefs
+T13	Habitat 808 819	coral reefs
+T14	Habitat 858 868	deep water
+T15	Habitat 891 903	shallow reef
+T16	Habitat 908 920	lagoon areas
+T17	Habitat 1083 1094	coral reefs
+T18	Habitat 1205 1221	artificial reefs
+T19	Person 1738 1746	Brace, R
+T20	Person 1748 1757	Pavey, J.
+T21	Person 1762 1770	Quick, D
+T22	TemporalExpression 1773 1777	1979
+T23	Taxon 1841 1855	Actinia equina
+T24	Person 2050 2061	Bayer, F.M.
+T25	Person 2066 2080	Weinheimer, A.
+T26	GeographicalLocation 2278 2290	Coral Gables
+T27	GeographicalLocation 2292 2299	Florida
+T28	Person 2305 2318	Randall, R.H.
+T29	Person 2323 2338	Birkeland, C.E.
+T30	Person 2471 2483	Manuel, R.L.
+T31	TemporalExpression 2340 2344	1981
+T32	TemporalExpression 2485 2489	1981
+T33	Person 2550 2563	Kermack, D.M.
+T34	Person 2568 2582	Barnes, R.S.K.
+T35	GeographicalLocation 2614 2620	London
+T36	GeographicalLocation 2692 2698	London
+T37	Person 2703 2717	Pillai, C.S.G.
+T38	TemporalExpression 2719 2723	1973
+T39	GeographicalLocation 2790 2804	Gulf of Mannar
+T40	GeographicalLocation 2854 2859	India
+T41	Person 2936 2948	Hancock, D.A
+T42	Person 2950 2963	Drinnan, R.E.
+T43	Person 2968 2980	Harris, W.N.
+T44	TemporalExpression 2982 2986	1956
+T45	Taxon 3013 3035	Sertularia argentea  J
+T46	Person 3074 3081	Loya, Y
+T47	TemporalExpression 3084 3088	1976
+T48	Taxon 3109 3123	Red Sea corals
+T49	Person 3209 3220	Shinn, E.A.
+T50	Habitat 3229 3239	Coral reef
+T51	TemporalExpression 3222 3226	1976
+T52	Person 3307 3320	Shelton, GATB
+T53	TemporalExpression 3322 3326	1981

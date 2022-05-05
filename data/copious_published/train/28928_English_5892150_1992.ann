@@ -1,0 +1,68 @@
+T1	Taxon 113 127	G. bicarinatus
+T2	TemporalExpression 320 327	October
+T3	TemporalExpression 336 341	March
+T4	GeographicalLocation 415 426	Philippines
+T5	GeographicalLocation 440 456	Papua New Guinea
+T6	GeographicalLocation 485 500	South China Sea
+T7	Taxon 607 617	Sardinella
+T8	Taxon 674 683	Sphyraena
+T9	Taxon 782 795	G. bilineatus
+T10	Taxon 845 855	Shiinoidae
+T11	Taxon 882 891	Caligidae
+T12	Taxon 893 920	Caligus asymmetricus Kabata
+T13	Taxon 949 958	C. bonito
+T14	Taxon 991 1003	C. productus
+T15	Taxon 1025 1043	Caballerocotyla sp
+T16	GeographicalLocation 1188 1198	Port Blair
+T17	GeographicalLocation 1200 1215	Andaman Islands
+T18	GeographicalLocation 1306 1318	Fiji markets
+T19	GeographicalLocation 1652 1662	Queensland
+T20	GeographicalLocation 1848 1855	Red Sea
+T21	GeographicalLocation 1857 1868	Andaman Sea
+T22	GeographicalLocation 1870 1881	East Indies
+T23	GeographicalLocation 1883 1894	Philippines
+T24	GeographicalLocation 1896 1911	South China Sea
+T25	GeographicalLocation 1929 1939	New Guinea
+T26	GeographicalLocation 1988 2009	Louisiade Archipelago
+T27	GeographicalLocation 2058 2077	Dampier Archipelago
+T28	GeographicalLocation 2088 2098	Queensland
+T29	GeographicalLocation 2177 2182	Tonga
+T30	GeographicalLocation 2188 2203	Tokelau Islands
+T31	Person 2221 2234	Fakaofo Atoll
+T32	Taxon 0 8	Collette
+T33	Taxon 13 19	Gillis
+T34	Taxon 69 83	Grammatorcynus
+T35	Taxon 99 112	G. bilineatus
+T36	Taxon 189 203	Grammatorcynus
+T37	GeographicalLocation 300 304	Fiji
+T38	Taxon 552 563	crustaceans
+T39	Taxon 589 598	clupeoids
+T40	Taxon 622 633	Thrissocles
+T41	Taxon 688 696	Balistes
+T42	Taxon 857 880	Shiinoa ocdusa Kaba- ta
+T43	Taxon 922 947	C. rega- lis Leigh-sharpe
+T44	Taxon 893 913	Caligus asymmetricus
+T45	Taxon 922 934	C. rega- lis
+T46	Taxon 949 965	C. bonito Wilson
+T47	Taxon 967 979	C. pelamydis
+T48	Taxon 967 985	C. pelamydis Kryer
+T49	Taxon 991 1008	C. productus Dana
+T50	GeographicalLocation 1268 1272	Fiji
+T51	Habitat 1702 1713	coral reefs
+T52	GeographicalLocation 1721 1729;1746 1763	tropical Indo-west Pacific
+T53	GeographicalLocation 1734 1763	subtropical Indo-west Pacific
+T54	GeographicalLocation 1913 1927	Ryukyu Islands
+T55	GeographicalLocation 1941 1952	New Britain
+T56	GeographicalLocation 1954 1965	New Ireland
+T57	GeographicalLocation 1967 1978	New Hanover
+T58	GeographicalLocation 2012 2021	Australia
+T59	GeographicalLocation 2023 2051	northern West- ern Australia
+T60	GeographicalLocation 2101 2116	Solomon Islands
+T61	GeographicalLocation 2118 2131	New Caledonia
+T62	GeographicalLocation 2133 2151	Caro- line Islands
+T63	GeographicalLocation 2153 2169	Marshall Islands
+T64	GeographicalLocation 2171 2175	Fiji
+T65	Person 2249 2263	Robert Gillett
+T66	Person 2301 2305	Suva
+T67	Person 2307 2311	Fiji
+T68	TemporalExpression 2313 2322	Aug. 1985

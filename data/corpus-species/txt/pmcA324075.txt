@@ -1,0 +1,602 @@
+Structural organization of a 17 KB segment of the alpha 2 collagen gene: evaluation by R loop mapping.
+Abstract
+A recombinant phage, SpC3, containing a 17 kb genomic DNA insert representing approximately 60% of the 3' portion of the sheep collagen alpha 2 gene, was evaluated by electron microscopic R loop analysis. A minimum of 17 intervening sequences (introns) and 18 alpha 2 coding sequences (exons) were mapped. With the exception of the 850 base pair exon located at the extreme 3' end of the insert, all exons contained 250 base pairs or less. The total length of all the exons in SpC3 was 3,014 base pairs. The length distribution of the 17 introns ranged from 300 to 1600 base pairs; together, all of the introns comprised 14,070 base pairs of SpC3 DNA. Thus, the DNA region required for coding the interspersed 3 kb of alpha 2 collagen genetic information was 5.6 fold longer than the corresponding alpha 2 mRNA coding sequences.Images
+
+
+
+
+
+
+ Nucleic Acids Research 
+
+ Structural organization of a 17 KB segment of the a2 collagen gene: evaluation by R loop mapping Millie P.Schafer, Charles D.Boyd, Paul Tolstoshev and Ronald G.Crystal 
+
+ Pulmonary Branch, National Heart, Lung and Blood Institute, National Institutes of Health, Bethesda, MD 20205, USA 
+
+ Received 13 February 1980 
+
+ ABSTRACT 
+
+ A recombinant phage, SpC3, containing a 17 kb genomic DNA insert rep
+
+ resenting approximately 60% of the 3' portion of the sheep collagen a2 gene, was evaluated by electron microscopic R loop analysis. A minimum of 17 intervening sequences (introns) and 18 a2 coding sequences (exons) were 
+
+ mapped. With the exception of the 850 base pair exon located at the extreme 3' end of the insert, all exons contained 250 base pairs or less. The total length of all the exons in SpC3 was 3,014 base pairs. The length distribution of the 17 introns ranged from 300 to 1600 base pairs; together, all of the introns comprised 14,070 base pairs of SpC3 DNA. Thus, the DNA region 
+
+ required for coding the interspersed 3 kb of a2 collagen genetic information was 5.6 fold longer than the corresponding a2 mRNA coding sequences. 
+
+ INTRODUCTION 
+
+ Type I collagen, composed of two al(I) and one a2 polypeptide chains, is the most abundant of the five known mammalian collagen types. It is a major extracellular constituent of tissues such as bone, tendon, skin and lung where, because of its great tensile strength, it plays an important 
+
+ role in tissue structure and function. The polypeptides comprising type I 
+
+ collagen are synthesized in long, precursor forms, referred to as pro al(I) and pro a2 chains,1 each containing approximately 1500 amino acid residues (1). 
+
+ 1 The terminology for the primary translation products of the various 
+
+ collagen messenger RNAs is still in a state of flux. It is known that al(I) and a2 chains are synthesized in precursor forms; these are currently termed pro al(I) and pro a2 chains (1). However, recent studies (43,44) have shown that the actual primary translation product of al(I) mRNA is somewhat larger 
+
+ than the pro al(I) chain; this translation product has been termed a "pre-pro al(I) chain." Although the corresponding "pre-pro a2 chain" likely exists, it has not yet been characterized. For simplicity, therefore, until the 
+
+ proper terminology for the primary translation product is clarified, we have 
+
+ chosen to use the terms "al(I)" and "a2" to refer to the type I collagen mRNAs and collagen structural gene sequences. 
+
+ ?) IRL Press Umited, 1 Falconberg Court, London W1V 5FG, U.K. 
+
+ Volurne 8 Number 10 1980 
+
+ 2241 
+
+ Nucleic Acids Research 
+
+ There is increasing evidence that the quantities of al(I) and a2 
+
+ chains produced by cells may be regulated, in part, at the genomic level 
+
+ (1). However, to understand the processes which mediate their expression, 
+
+ it is necessary to understand the structural organization of these collagen genes and the various enzymes that modify the collagen chains after its 
+
+ synthesis (1). As an initial approach to this problem, we have recently 
+
+ isolated a recombinant bacteriophage, termed SpC3, containing approximately 60% of the a2 gene for type I collagen. Partial characterization of this 
+
+ a2 gene demonstrated that, like most other structurally evaluated eukaryotic genes, the coding sequences are interspersed with intervening sequences (2). The present study further characterizes this portion of the a2 
+
+ gene by utilizing electron microscopic R loop analysis to map the coding regions (exons) and intervening sequences (introns) contained within the sheep genomic insert of SpC3. The data suggests that the structural 
+
+ organization of this portion of the a2 collagen gene represents 3 kb of coding information that is interspersed in a complex fashion with 17 introns over 17 kb of genome. 
+
+ MATERIALS AND METHODS 
+
+ Isolation and characterization of a2 collagen recombinant clone, SpC3. 
+
+ The sheep a2 collagen recombinant clone, SpC3, containing a portion of the sheep a2 gene, was isolated as previously described (2). Briefly, 
+
+ high molecular weight fetal sheep liver DNA was extracted by the method of Blin and Stafford (3), and 15-20 kb DNA fragments, resulting from partial Eco RI digestion, were isolated and ligated to the left and right arms of Charon 4A. The recombinant DNA was then packaged in vitro and the sheep 
+
+ genomic library amplified (4-6). Screening of the sheep genomic library was 
+
+ conducted utilizing [32 P]-labeled fetal sheep tendon type I collagen cDNA and 
+
+ several positive recombinant phages were isolated. One recombinant, containing a 17 kb sheep genomic insert, was demonstrated to have coding sequences corresponding to 60% of the 3' end of a2 mRNA. Prior studies showed that the insert in SpC3 was not due to ligation of noncontiguous restriction fragments and/or genetic rearrangement during the cloning process (2). Electron mi croscopy. 
+
+ To visualize the recombinant bacteriophage DNA structure complementary to a2 collagen mRNA, 1 iig of SpC3 DNA was lyophilized with 1 ig or 100 ng of mRNA 
+
+ to give DNA:mRNA ratios of 1:1 and 10:1, respectively. These were then dissolved in 10 i1 of R loop buffer [70% (v/v) deionized formamide, 0.1 N-[tris (hydroxy
+
+ 2242 
+
+ Nucleic Acids Research 
+
+ methyl)methyl] glycine (tricine)-NaOH, pH 8.0, 0.5 M NaCl, and 0.01 M ethyl
+
+ enediaminetetraacetate (EDTA)], incubated in sealed capillary tubes at 520 for 14 hr (7), and then diluted 1:10 with R loop buffer. Two spreading methods were used to subsequently prepare the hybrids for visualization in the electron microscope. 
+
+ 70% formamide method. Immediately before spreading onto a deionized 
+
+ water hypophase, the nucleic acid mixtures were diluted an additional 10-fold in R loop buffer and cytochrome c, 100 vg/ml, was added. 
+
+ Urea-formamide method.   The nucleic acid solutions were spread using a modification of the method of Westphal and Lai (8,9). The hyperphase contained 55% formamide, 2.6 M urea, 0.009 M EDTA, 0.09 M tricine-NaOH, pH 8.0, and the nucleic acid mixture (approximately 0.1 to 1.0 ig/ml). 
+
+ The mixture was heated at 40? for 30 sec, placed in ice water, and then allowed to reach room temperature. Cytochrome c, 100 pg/ml, was added immediately before spreading onto a deionized water hypophase. 
+
+ The nucleic acid-protein films from both methods were absorbed onto 
+
+ parlodion-coated grids, stained with uranyl acetate (10), dehydrated in 90% ethanol and rotary-shadowed with platinum-palladium (80:20) at an angle of 50. Micrographs were taken with a Siemens Elmiskop 101 electron microscope at an original magnification of 10,000 and an accelerating voltage of 60 kv. Nucleic acid lengths were measured at a final magnification of 43,000 with a 
+
+ Hewlett-Packard 9810A calculator equipped with a 9864A digitizer using pBR322 and fX-174 double and single stranded DNA, respectively, as internal length standards. 
+
+ Approximately 10,000 hybrid molecules were screened for these studies; approximately 200 represented molecules containing unambiguous regions 
+
+ appropriate for quantitative analysis. The mean lengths of each intron and exon were determined for each method and the data expressed as mean ? 
+
+ standard deviation. Nucleic acid lengths of < 50 base pairs could not be 
+
+ accurately determined using the methods outlined above. Thus, in the cases 
+
+ where introns or exons were of this length or less, accurate error estimates could not be made. 
+
+ Bi ohazard precauti ons. 
+
+ The construction and screening of the sheep genomic library together with amplification of pCg45 and preparation of high titre lysates of chimaeric 
+
+ Charon 4A were performed under the physical and biological containment levels specified by the NIH guidelines for recombinant DNA research (11). 
+
+ 2243 
+
+ Nucleic Acids Research 
+
+ RESULTS 
+
+ Location and orientation of the intervening and a2 mRNA coding sequences in the SpC3 recombinant DNA. 
+
+ Hybridization of fetal sheep tendon type I collagen mRNA to SpC3 DNA 
+
+ yielded a complex R loop pattern in the region where the sheep genomic insert was expected to be ligated to the arms of the lambda vector, Charon 4A. To 
+
+ confirm that these hybridization events were restricted to the inserted sheep DNA fragment, duplex DNA strands on both sides of this hybridization area were measured. Using pBR322 as an internal length standard, the left arm of the phage was found to contain 21,780 ? 1500 bp, and the right arm, 11,950 ? 
+
+ 1030 bp, corresponding to the report values for the left and right arms, respectively, of Charon 4A DNA (5,6). 
+
+ The hybridization of SpC3 to a2 mRNA resulted in the destabilization of 
+
+ the inserted helical duplex DNA fragment such that one DNA strand was displaced (Figure 1). Occasionally, the displaced DNA strand was mostly absent, probably due to fragmentation induced by accidental mechanical shearing. This event considerably enhanced the visualization and ordering of the introns. 
+
+ As the a2 mRNA annealed to complementary DNA regions present in one 
+
+ DNA strand, numerous single-stranded loops resulted. These loops, referred to as introns, represented DNA sequences not complementary to the mRNA. Although, by convention, introns are usually sequentially labeled 5' to 3', an opposite order had to be employed in this case as SpC3 does not contain the sequences coding for the 5' end of sheep a2 mRNA. Infrequently, all introns 
+
+ were clearly observed within the same hybrid molecule (Figure 1). The largest introns were towards the left arm of Charon 4A and were more clustered than the introns at the opposite end of the hybrid. Thus, much of the genetic 
+
+ information coding for the a2 mRNA was contained in that half of the hybrid attached to the right arm. 
+
+ A small non-hybridized tail was consistently found in the region where 
+
+ the right arm of the phage was ligated to the sheep genomic insert (Figure 1). This tail likely corresponded to the 3' poly A sequence of the a2 mRNA. At 
+
+ the extreme 5' end of the insert, a variable length was often observed for the remaining unhybridized mRNA strand. This was most likely due to the size heterogeneity of the a2 mRNA used in these studies. 
+
+ Size determination and comparative analysis of SpC3 introns. 
+
+ Although localization of exon and intron sequences was possible with both the 70% formamide and urea-formamide spreading methods, the probability of 
+
+ detecting unambiguous regions in a hybrid molecule was far greater with the 
+
+ 2244 
+
+ Nucleic Acids Research 
+
+ A                                B ',:  '14 .0. 
+
+ 13 
+
+ 7 1 
+
+ -5 13 
+
+ .  .   . .   ,4                     x2%.   N1 
+
+ 9 
+
+ >   10          R       4 
+
+ Figure 1.    Electron microscopic visualization of all 17 introns and 18 exons 
+
+ from hybrid molecules formed between recombinant clone SpC3 DNA and fetal sheep 
+
+ tendon a2 mRNA. (A,B) Shown are the double-stranded segment of the right arm CR) of Charon 4A; double-stranded segment of the left arm CL) of Charon 4A; the 
+
+ displaced single-stranded DNA segment of the insert (5); single-stranded DNA loops representing introns sequentially labeled 1 through 17 in the 3' to 5' direction; and 18 regions of insert DNA sequences hybridized to ct2 mRNA 
+
+ ---      - ).  (C,D) Similar to (A,B) but the single-stranded DNA segment (5) of the insert is mostly absent. The urea-formamide spreading method, as described in Materials and Methods, was employed. 
+
+ 2245 
+
+ Nucleic Acids Research 
+
+ urea-formamide method than with the 70% formamide procedure. For this reason, most measurements were made with the urea-formamide method (Tables 1,2). For 
+
+ example, the lowest probability event, the detection of intron 17 and the surrounding small exons, "q" and "r", was only observed by way of the ureaformamide spreading procedure. 
+
+ The smallest introns, 7 and 12, were found to contain approximately 
+
+ the same number of bases. Introns 1 through 8, representing the DNA sequences which split the a2 coding sequence corresponding to the 3' end of the a2 mRNA, varied in length over approximately a 2.4-fold range. With the exception of 
+
+ Table 1. Electron microscopic R loop analysis 
+
+ present in SpC3 DNA1. 
+
+ of the sheep a2 introns 
+
+ SpC3 was hybridized to sheep a2 mRNA as described in Materials and Methods; intron lengths were determined by comparison with *X-174 DNA lengths. 
+
+ 2 Introns are designated sequentially 3' to 5'. 
+
+ 3 All data is presented as mean ? standard deviation. 
+
+ 4 Intron 17 was visualized only by the urea-formamide method. 
+
+ 2246 
+
+ 70% Formamide Method              Urea-Formamide Method 
+
+ Intron2         Number of       Intron length       Number of        Intron length 
+
+ introns analyzed       (bases)       introns analyzed      (bases) 
+
+ 1              10             819 t 063              35            806 t 76 2              12             771 ? 89               46            757 t 78 3              11             458 ? 58               47            464 ? 66 4               6             627? 53               41             611 ? 73 5               5             554 ? 51              34             562 ? 76 6               6             675 ? 19               40            684 ? 76 7               5             386 ? 48               50            342 ? 54 8                7            771 ? 84               49            757 ? 82 9               8           1,181 ? 94               52          1,124 ?122 10               8           1,133 ?106               53          1,124 ?137 11              10             964 t?79              61             952 ?105 12               9             362 ? 77              62             342 ? 71 13               4             723 ?222               53            806 ?105 14               4           1,085 ?142               53          1,075 ?105 15               3             795 ? 60              47             806 ?100 16               2           1,229 ? 48              43           1,319 ?146 174              -                 -                  12          1,539 ?166 
+
+ 1 
+
+ Nucleic Acids Research 
+
+ Table 2.   Electron microscopic R loop analysis of the sheep a2 exons 
+
+ present in SpC3 DNA1. 
+
+ 70% Formamide Method                Urea-Formamide Method 
+
+ Exon2          Number of        Exon length       Number of       Exon length 
+
+ exons analyzed     (base pairs)    exons analyzed    (base pairs) 
+
+ a                 7             807 ? 883           26            883 ?132 b                10             252 ? 35            41            234 ? 49 c                11             151 ? 25            48            182 ? 42 d                 6             252 ? 60            44            234 ? 62 e                 5             126 ? 45            37            129 ? 47 f                 5             126 ? 38            35            104 ? 41 9                 5             176 ? 48            40            182 ? 54 h                 5             100 ? 43            47            104 ? 31 
+
+ 7             100 ? 35            50            104 ? 28 j                 7             126 ? 48            45            130 ? 47 k                 8              50 ? 48            51             52 ? 39 1                 9              75? 10             60             52 ? 44 m                 6             126 ? 43            51            182 ? 54 n                 4             100 ? 45            53             52 ? 42 o                 3             <504                50             78 ? 36 p                 2             126 ? 71            47            104 ? 36 q5                - _                               33            130?47 r5 r                                                 6             78?36 
+
+ SpC3 was hybridized to sheep a2 mRNA as described in M4aterials and 
+
+ Methods; exon lengths were determined by comparison with pBR322 DNA lengths. 
+
+ 2 Exons are designated sequentially 3' to 5'. 
+
+ 3 All data is presented as mean ? standard deviation. 
+
+ 4 5 
+
+ No statistical evaluation was possible because of the size of the exon (see (Materials and Methods). 
+
+ Exons q and r were only analyzed by the urea-formamide method. 
+
+ intron 1, the nucleotide size of these introns was less than 800 bases. In contrast, introns 9 through 17 varied over a 4.5-fold range. Except for intron 12, all of the introns 9 through 17 contained 800 bases or more. 
+
+ Summation of introns 1 through 16 for the 70% formamide and urea
+
+ formamide spreading methods yielded 12,533 and 12,531 bases, respectively. 
+
+ However, detection of intron 17 by the urea-formamide method indicates that 
+
+ the actual summed value for the intervening sequences of SpC3 is 14,070 bases. 
+
+ 2247 
+
+ 1 
+
+ Nucleic Acids Research 
+
+ Size determination and the comparative analysis of SpC3 exons. 
+
+ Eighteen exons, "a" through "r", were mapped (Table 2). The largest exon, "a", located on the extreme 3' end of the sheep genomic insert, contained 
+
+ approximately 800 bp. With the exception of exon "m", exons larger than 150 
+
+ base pairs were confined to the genetic region corresponding to the far 3' end of the a2 mRNA. Exon "a" and exon "b", the two exons situated on either side of intron 1, coded for around 1000 bases of a2 collagen information; these two 
+
+ exons contained one-third of the mapped 3,014 DNA bases complementary to a2 mRNA Length distribution and organization of the introns and exons in the sheep genomi c i nsert. 
+
+ There was a sharp contrast in the size distribution of the exons and introns contained within SpC3 (Figure 2). While the intron sizes varied 
+
+ considerably, the exons, in general, showed a very narrow distribution of 
+
+ lengths, and thus tended to cluster at the lowest end of the length distri
+
+ A. 
+
+ (I) 
+
+ z 6 0 
+
+ z 
+
+ ZL4 0 
+
+ 021               
+
+ z 
+
+ 10 
+
+ B. 
+
+ 8 
+
+ z 0 
+
+ 16 0 z 
+
+ 2 
+
+ 20   400  600  800 1000 1200 1400 1600 
+
+ LENGTH IN NUCLEOTIDES 
+
+ Figure 2. Length distribution of the intron and exon mean lengths measured from micrographs prepared by the urea-formamide method. (A) Introns; (b) Exons. See Tables 1 and 2 for details. 
+
+ 2248 
+
+ Nucleic Acids Research bution graph. The exon in the 800-900 bp region was unique and was the only exon which exhibited length overlap with introns. 
+
+ The maps of the a2 collagen gene obtained with both electron micro
+
+ scopic spreading methods were almost identical (Figure 3), except that the 
+
+ region at the extreme 5' end of the insert could only be mapped with the ureaformamide method. From these measurements we concluded that the length of the a2 collagen genetic regi?on in SpC3 was 17,084 bases long with only 3,014 bases actually coding for a2 mRNA. Therefore, only 18% of the mapped 17 kb sheep genetic insert actually contained a2 structural information. 
+
+ DISCUSSION 
+
+ The organizational structure of the a2 collagen gene is complex. A minimum of 17 introns interrupt the 3 kb of ca2 genetic information interspersed as 18 exons over 17 kb of sheep DNA. With the exception of exon "a" located at the extreme 3' end of the inserted a2 gene, all other mapped exons are rather small, exhibiting a size distribution range of 50 to 250 bp. In 
+
+ contrast, the intron sizes range from 340 to 1540 bases occupying a total 
+
+ of 14 kb. Thus, the DNA region containing the 3 kb of a2 collagen genetic information is 5.6 fold longer than the corresponding co2 mRNA sequences. 
+
+ Although the total number of introns present within the 60% 3' portion 
+
+ of the a2 sheep gene was determined to be 17, variation in the precise number 
+
+ TRANSRIPTlO 
+
+ A                          5w                r 
+
+ 1 "2a4  133  112s  11.17  0. 3O 2  715  6.2  313  04  4.2B  3.51  2.2  12 
+
+ EXON0            p  o    n         5  Ik         h     f     d 4  .  b   
+
+ WPM300       16   16  14   13  12  11  10  9   6  7  6  5  4  3   2   1 
+
+ B 
+
+ 110   16     4.2  13111  112n  1113104  3.6    gm74  2 6.  4 4 2  3.2  22  in 
+
+ 1  a1m03  133  1.2 11   10  01 341  6. 1   117  6.2 4  12  417  3I5'm 2  
+
+ DM00  1    q5    p  0    n   m  I  k.   j    i   h  g  f     d  c   b     a 147306   17   16   15  14  13  12  11  10  9   a  7  6  5  4  3   2   1 
+
+ 175 17.0 16.6& 16'5.5 15.0 14.5 14. 13.5 13.0 12.5 12.0 11.5 11 10.5M 10.0 9.5 9.0 8. 5.0 71 7.0 6.5 6. 5.5 50 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 
+
+ KILOBASE 
+
+ Fiue3      Organization of 60% of the 3' end of the sheep a2 collagen gene. (A)}The exon ( ) and intron (CDJ) order within the a2 gene as determined by R loop analysis of SpC3 DNA-a2 mRNA hybrid molecules visualized by the electron microscopic 70% formamide spreading method.  (B) The exon Um) 
+
+ and intron (Efl) order within the a2 gene as determined by R loop analysis of SpC3 DNA-a2 mRNA hybrid molecules evaluated by the electron microscopic 
+
+ urea-formamide spreading method. Arrows represent the approximate location of intron-exon junctions. All values are presented as kilobase pairs. 
+
+ 2249 
+
+ Nucleic Acids Research 
+
+ of introns present in individual hybrid molecules was observed. The reason 
+
+ for this may be due to size heterogeneity of the a2 mRNA used as a complementary probe. Although the a2 mRNA was extensively purified (2), some degradation was likely present. It is also possible that additional introns exist that are too small to be detected by electron microscopic R loop analysis. The most likely a2 genetic regions containing such introns are exons "g" and "m". Small 
+
+ "protrusions" were sometimes observed within these exons that could represent small introns. Very small introns have been reported for tRNA genes (12,13), 
+
+ and it will be necessary to sequence these regions of SpC3 to determine if such introns are present within the a2 sheep genome. 
+
+ The existence of mRNAs comprised of sequences complementary to noncontiguous regions in a DNA genome was first described for adenovirus (14,15) and 
+
+ simian virus (16,17) genes. Similar observations were soon reported for eukaryotic genes, including serum albumin (18), conalbumin (19), fibroin (20), s
+
+ globin (21,22), growth hormones (23,24), immunoglobulin (25), lysozyme (26), 
+
+ ovalbumin (27-29), ovomucoid (30), rRNA (31-34), tRNA (12,13), and vitellogenin (35). The precise number or occurrence of introns within these genes does not seem to follow any clear pattern. However, the genes for albumin, conalbumin, 
+
+ lysozyme, ovalbumin, and ovomucoid exhibit a structural organization comparable to the a2 collagen gene. All of these genes are composed of numerous small 
+
+ exons, usually less than 250 base pairs, and introns which show a large size variation within an individual gene. Within all of these genomes, the DNA 
+
+ regions required for coding structural formation are 4 to 7 times longer than the corresponding mRNA coding sequences. 
+
+ As with the a2 collagen gene, a large unique exon at the extreme 3' end 
+
+ is also present in the ovalbumin gene (36,37). In the a2 gene, this exon was 800 to 900 nucleotides in length, while in the ovalbumin gene the exon contained 1,030 base pairs. Interestingly, this ovalbumin exon contained 634-650 base pairs ot DNA sequence to the 3' side of the terminator 
+
+ triplet, suggesting the ovalbumin mRNA has a large untranslated region at the 3' end. 
+
+ The consistent appearance of a small non-hybridized tail, approximately 100 nucleotides in length, in the region where the right arm of the phage was ligated to the sheep genomic insert of SpC3 very likely corresponded to the 
+
+ 3' poly A sequence of the a2 mRNA. This would suggest that the a2 mRNA coding sequence terminates very near or at this point in the genome. Previously published biochemical evidence (2) obtained from restriction mapping and Southern blot analysis using [32P]-labeled chick a2 cDNA probe supports 
+
+ 2250 
+
+ Nucleic Acids Research 
+
+ this observation. 
+
+ It is unclear what role introns play in genetic expression. However, 
+
+ it is known that these sequences are tranncribed as part of larger precursor mRNAs and the introns are then excised and the fragmented mRNA chains 
+
+ covalently rejoined (38). Some evidence has recently accumulated demonstrating the existence of precursor a2 mRNAs (39,40). However, if the introns in the a2 gene are transcribed in their entirety, as has been 
+
+ demonstrated for the introns in ovalbumin and globin (41,42), much larger precursor a2 mRNAs may exist than those reported to date. For if the re
+
+ mainder of the a2 collagen gene has a structural organization comparable to the 60% 3' portion that has been analyzed, it is probable that the a2 
+
+ collagen gene in its entirety is dispersed throughout a 30 kb DNA segment. 
+
+ ACKNOWLEDGMENTS 
+
+ We thank Dr. John Dahlberg and Frances Loebenstein, Laboratory of Cellular and Molecular Biology, National Cancer Institute, for the generous use of a 
+
+ Siemens Elmiskop 101 electron microscope; Dr. Ursula Heine and Benjamin Elliott, Laboratory of Viral Carcinogenesis, National Cancer Institute, for the use of a Hewlett-Packard calculator equipped with a digitizer and a Denton vacuum 
+
+ evaporator, and Drs. Victor Ferrans and Oichi Kawanami, Laboratory of Pathology, 
+
+ National Heart, Lung, and Blood Institute, for expert assistance with photography. We are also grateful to Margery Sullivan, Laboratory of Molecular Genetics, 
+
+ National Institute of Child Health and Human Development, for helpful discussions and to Dr. Helga Boedtker, Department of Chemistry, Harvard University, for making available the recombinant plasmid pCg45. 
+
+ References 
+
+ 1.   Prockop, D. J., Kivirikko, k. I., Tuderman, L., and Guzman, N. A. 
+
+ (1979) New Engl. J. Med. 301, 13-23 and 77-85. 
+
+ 2.   Boyd, C. D., Tolstoshev, P., Schafer, M. P., Trapnell, B. C., Coon, 
+
+ H. C., Kretschmer, P. J., Nienhuis, A. W., and Crystal, R. G. (1980) J. Biol. Chem., in press. 
+
+ 3.   Blin, N., and Stafford, D. W. (1976) Nucl. Acids Res. 3, 2303-2308. 4.   Kretschmer, P. J., Kaufman, R. E., Coon, H. C., Chen, M. JY., Geist 
+
+ C. E., and Nienhuis, A. W. (1980) J. Biol. Chem., in press. 
+
+ 5.   Maniatis, T., Hardison, R. C., Lacey, E., Laver, H., O'Connell, C., 
+
+ Quon, D., Sim, G. K., and Efstratiadis, A. (1975) Cell 15, 687-701. 
+
+ 6.   Blattner, F. R., Blechl, A. E., Denniston-Thompson, K., Faber, H. E., 
+
+ Richards, J. E., Slightom, H. L., Tucker, P. W., and Smithies, 0. (1978) Science 202, 1279-1284. 
+
+ 7.   Meyer, J., Neuwald, P. D., Lai, S., Maizel, J. V., Jr., and Westphal, 
+
+ H. (1977) J. Virol. 21, 1010-1014. 
+
+ 2251 
+
+ Nucleic Acids Research 
+
+ 8.   Westphal, H., and Lai, S. P. (1977) J. Mol. Biol. 116, 525-548. 9.   Schafer, M. P., Rohrmann, G., Heine, U., and Beaudreau, G. S. 
+
+ (1979) Virol. 95, 176-184. 
+
+ 10. Davis, R. W., Simon, M. M., and Davison, N. (1971) in Methods in 
+
+ Enzymology (Grossman, L. and Moldave, K., eds) Vol. 21, pp. 413428, Academic Press, New York. 
+
+ 11.  Federal Register (1978) 43, 60108-60131. 
+
+ 12. Goodman, H. M., Olson, M. V., Hall, B. D. (1977) Pro. Natl. Acad. 
+
+ Sci. U.S.A. 74, 5453-5457. 
+
+ 13. Valenzuela, P., Venegas, A., Weinberg, F., Bishop, R., Rutter, 
+
+ W. J. (1978) Proc. Natl. Acad. Sci. U.S.A. 75, 190-194. 
+
+ 14. Berget, S. M., Moore, C., and Sharp, P. A. (1977) Proc. Natl. Acad. 
+
+ Sci. U.S.A. 74, 3171-3175. 
+
+ 15. Chow, L. T., Gelinas, R. E., Broker, T., and Roberts, R. J. (1977) 
+
+ Cell 12, 1-8. 
+
+ 16. Berk, A. J., and Sharp, P. A. (1978) Proc. Natl. Acad. Sci. U.S.A. 
+
+ 75, 1274-1278. 
+
+ 17. Bratosin, S., Horowitz, M., Laub, 0., and Aloni, Y. (1978) 
+
+ Cell 13, 783-790. 
+
+ 18.  Sargent, T. D., Wu, J. R., Sala-Trepat, J. M., Wallace, R. B., 
+
+ Reyes, A. A., and Bonner, J. (1979) Proc. Natl. Acad. Sci. U.S.A. 76, 3256-3260. 
+
+ 19.  Perrin, F., Cochet, M., Gerlinger, P., Cami, B., LePennec, J. P., 
+
+ and Chambon, P. (1979) Nucl. Acids Res. 6 2731-2748. 
+
+ 20. Tsujimoto, Y., and Suzuki, Y. (1979) Cell 16 425-436. 
+
+ 21. Jeffreys, A. J., and Flavell, R. A. (1977) Cell 12, 1097-1108. 
+
+ 22. Tilghman, S. M., Tiemeier, D. C., Seidman, J. C., Matija Peterlin, B., 
+
+ Sullivan, M., Maizel, J. V., and Leder, P. (1978) Proc. Natl. Acad. Sci. U.S.A. 75, 725-729. 
+
+ 23. Fiddes, J. C., Seeburg, P. H., DeNoto, F. M., Hallewell, R. A., 
+
+ Baxter, J. D., and Goodman, H. M. (1979) Proc. Natl. Acad. Sci. U.S.A. 76, 4294-4298. 
+
+ 24.  Soreq, H., Harpold, M., Evans, R., Darnell, Jr., J. E., and 
+
+ Bancroft, F. C. (1979) Nucl. Acids Res. 6, 2471-2482. 
+
+ 25.  Tonegawa, S., Maxam, A. M., Tizard, R., Bernard, 0., and Gilbert, W. 
+
+ (1978) Proc. Natl. Acad. Sci. U.S.A. 75, 1485-1489. 
+
+ 26. Nguyen-Huu, M. C., Stratmann, M., Groner, B., Wurtz, T., Land, M., 
+
+ Glesecke, K., Sippel, A. F., and Schutz, G. (1979) Proc. Natl. Acad. Sci. U.S.A. 76, 76-80. 
+
+ 27. Breathnach, R., Mandel, J. L., and Chambon, P. (1977) Nature 270, 
+
+ 314-319. 
+
+ 28. Dugaiczyk, A., Woo, S. L. C., Lai, E. C., Mace, M. L., Jr., 
+
+ McReynolds, L., and O'Malley, B. W. (1978) Nature 274, 328-333. 29. Weinstock, R., Sweet, R., Weiss, M., Cedar, M., and Axel, R. 
+
+ (1978) Proc. Natl. Acad. Sci. U.S.A. 75, 1299-1303. 
+
+ 30.  Catterall, J. F., Stein, J. P., Lai, E. C., Woo, S. L. C., 
+
+ Dugaiczyk, Mace, M. L., Means, A. R., and O'Malley, B. W. (1979) Nature 278, 323-327. 
+
+ 31. White, R. L., and Hogness, D. S. (1977) Cell 10, 177-192. 
+
+ 32.  Glover, D. M., and Hogness, D. S. (1977) Cell 16, 167-176. 33. Wellauer, P. K., and David, I. B. (1977) Cell 10, 193-212. 
+
+ 34. Pellegrini, M., Manning, J., and Davidson, N. (1977) Cell 10, 
+
+ 213-214. 
+
+ 35. Wahli, W., David, I. B., Wyler, T., Jaggi, R. B., Weber, R., and 
+
+ Ryffel, G. V. (1979) Cell 16, 535-549. 
+
+ 36. McReynolds, L., O'Malley, B. W., Nisbet, A. D., Fothergill, J. E., 
+
+ 2252 
+
+ Nucleic Acids Research 
+
+ Givol, D., Fields, S., Robertson, M., Brownlee, G. G. (1978) Nature 273, 723-728. 
+
+ 37. O'Hare, K., Breathnach, R., Benoist, C., Chambon, P. (1979) 
+
+ Nucl. Acids Res. 7, 321-334. 
+
+ 38. Abelson, J. (1979) Ann. Rev. Biochem. 48, 1035-1069. 
+
+ 39. Adams, S. L., Alwine, J. C., de Chrombrugghe, B., and Pastan, I. 
+
+ (1979) J. Biol. Chem. 254, 4935-4938, 
+
+ 40. Rave, N., Crkvenjakow, R., and Boedtker, H. (1979) Nucl. Acids Res. 
+
+ 6, 3559-3567. 
+
+ 41. Roop, D. R., Nordstrom, J. L., Tsai, S. Y., Tsai, M. J., and 
+
+ O'Malley, B. W. (1978) Cell 15, 671-685. 
+
+ 42. Tilghman, S. M., Curtis, P. J., Tiemeier, D. C., Leder, P., and 
+
+ Weissmann, C. (1978) Proc. Natl. Acad. Sci. U.S.A. 75, 1309-1313. 43.  Palmiter, R. D., Davidson, J. M., Gagnon, H., Rowe, D. W., and 
+
+ Bornstein, P. (1979) J. Biol. Chem. 254, 1433-1436. 
+
+ 44. Graves, P. N., Olsen, B. R., Feitzig, P. P., Monson, J. M. and 
+
+ Prockop, D. J. (1979) Fed. Proc. 38, 620. 
+
+ 2253 

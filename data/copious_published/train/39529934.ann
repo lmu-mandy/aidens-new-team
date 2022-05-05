@@ -1,0 +1,32 @@
+T1	Taxon 4 13	EBENACEAE
+T2	Taxon 16 21	EBONY
+T3	Habitat 85 101	Low pine barrens
+T4	GeographicalLocation 103 111	Virginia
+T5	Taxon 158 170	S. Americana
+T6	Taxon 158 176	S. Americana, Lam.
+T7	Habitat 394 400	swamps
+T8	GeographicalLocation 402 410	Virginia
+T9	TemporalExpression 426 429	May
+T10	Taxon 457 464	HALESIA
+T11	Taxon 457 471	HALESIA, Ellis
+T12	Taxon 473 481	Snowdrop
+T13	Taxon 485 501	Silver-bell-Tree
+T14	Taxon 1270 1283	H. tetraptera
+T15	Taxon 1270 1287	H. tetraptera, L.
+T16	Habitat 1327 1332	Banks
+T17	Habitat 1336 1343	streams
+T18	GeographicalLocation 1359 1367	Virginia
+T19	GeographicalLocation 1381 1391	Ohio River
+T20	GeographicalLocation 1395 1405	Evansville
+T21	Taxon 1452 1461	SYMPLOCOS
+T22	Taxon 1452 1468	SYMPLOCOS, Jacq.
+T23	Taxon 1471 1476	HOPEA
+T24	Taxon 1471 1480	HOPEA, L.
+T25	GeographicalLocation 2060 2069	Edinburgh
+T26	Taxon 2075 2087	S. tinctoria
+T27	Taxon 2075 2095	S. tinctoria, L'Her.
+T28	Habitat 2302 2313	Rich ground
+T29	GeographicalLocation 2315 2323	Virginia
+T30	TemporalExpression 2339 2344	April
+T31	Taxon 2398 2407	EBENACEAE
+T32	Taxon 2410 2415	Ebony

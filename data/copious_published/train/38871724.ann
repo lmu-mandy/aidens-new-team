@@ -1,0 +1,62 @@
+T1	Taxon 23 42	Garcinia cumingiana
+T2	Taxon 23 49	Garcinia cumingiana Pierre
+T3	Taxon 54 65	G. calleryi
+T4	Taxon 54 72	G. calleryi Pierre
+T5	Taxon 104 115	G, venulosa
+T6	Taxon 104 122	G, venulosa Choisy
+T7	GeographicalLocation 151 156	Angat
+T8	GeographicalLocation 158 174	Bulacan Province
+T9	GeographicalLocation 176 181	Luzon
+T10	TemporalExpression 183 198	September, 1913
+T11	Person 200 207	Merrill
+T12	Taxon 238 264	Stalagmltis ? cambogioides
+T13	Taxon 238 271	Stalagmltis ? cambogioides Blanco
+T14	Taxon 334 349	GARCINIA DULCIS
+T15	Taxon 334 363	GARCINIA DULCIS (Roxb.) Kurz.
+T16	Taxon 458 466	Garcinia
+T17	Taxon 489 504	Garcinia dulcis
+T18	Taxon 489 509	Garcinia dulcis Kurz
+T19	Taxon 489 504	Garcinia dulcis
+T20	GeographicalLocation 723 734	Philippines
+T21	GeographicalLocation 751 765	northern Luzon
+T22	GeographicalLocation 769 776	Palawan
+T23	GeographicalLocation 781 789	Mindanao
+T24	Taxon 818 826	Bosoboso
+T25	Taxon 828 842	Rizal Province
+T26	Taxon 844 849	Luzon
+T27	TemporalExpression 851 862	March, 1915
+T28	Person 864 871	Merrill
+T29	Taxon 902 922	Cambogia crasslfolia
+T30	Taxon 902 929	Cambogia crasslfolia Blanco
+T31	Taxon 987 999	GARCINIA sp.
+T32	Person 1001 1017	Fernandez-Villar
+T33	Taxon 1035 1048	Garcinia cowa
+T34	Taxon 1035 1054	Garcinia cowa Roxb.
+T35	GeographicalLocation 1094 1105	Philippines
+T36	Person 1107 1113	Blanco
+T37	GeographicalLocation 1215 1219	Cebu
+T38	Taxon 1236 1243	sadugan
+T39	Taxon 1236 1243	sadugan
+T40	GeographicalLocation 1429 1433	Cebu
+T41	Taxon 1458 1482	Horsfieldia ardisiifolia
+T42	Taxon 1458 1488	Horsfieldia ardisiifolia Warb.
+T43	Person 1556 1562	Blanco
+T44	Taxon 1571 1591	Cambogia crassifolia
+T45	Taxon 1664 1674	Guttiferae
+T46	Taxon 1677 1693	DIPTEROCARPACEAE
+T47	Taxon 1694 1707	DIPTEROCARPUS
+T48	Taxon 1694 1716	DIPTEROCARPUS Linnaeus
+T49	Taxon 1717 1744	Mocanera grandiflora Blanco
+T50	Taxon 1717 1737	Mocanera grandiflora
+T51	Taxon 1780 1806	DIPTEROCARPUS GRANDIFLORUS
+T52	Taxon 1780 1813	DIPTEROCARPUS GRANDIFLORUS Blanco
+T53	GeographicalLocation 1937 1948	Philippines
+T54	Taxon 2046 2053	apitong
+T55	GeographicalLocation 2198 2213	Bataan Province
+T56	GeographicalLocation 2215 2220	Luzon
+T57	TemporalExpression 2222 2232	July, 1914
+T58	Person 2234 2241	Merrill
+T59	Taxon 2272 2292	Mocanera verniciflua
+T60	Taxon 2272 2299	Mocanera verniciflua Blanco
+T61	Taxon 2335 2361	DIPTEROCARPUS VERNICIFLUUS
+T62	Taxon 2335 2368	DIPTEROCARPUS VERNICIFLUUS Blanco

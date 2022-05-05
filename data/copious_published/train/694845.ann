@@ -1,0 +1,54 @@
+T1	GeographicalLocation 266 271	Luzon
+T2	GeographicalLocation 273 289	Tayabas Province
+T3	GeographicalLocation 291 299	Pagbilao
+T4	Person 320 326	Manuel
+T5	TemporalExpression 328 342	August 6, 1914
+T6	Taxon 379 386	apitong
+T7	Person 462 468	Curran
+T8	GeographicalLocation 472 489	Sorsogon Province
+T9	GeographicalLocation 491 496	Luzon
+T10	TemporalExpression 501 505	1909
+T11	TemporalExpression 533 537	1911
+T12	TemporalExpression 562 566	1914
+T13	GeographicalLocation 656 661	Luzon
+T14	GeographicalLocation 663 678	Laguna Province
+T15	Person 709 715	Curran
+T16	GeographicalLocation 717 733	Tayabas Province
+T17	Person 767 773	Hagger
+T18	Person 790 795	Kobbe
+T19	Person 813 823	Rosenbluth
+T20	GeographicalLocation 825 839	Albay Province
+T21	Person 841 847	Cuming
+T22	GeographicalLocation 853 870	Sorsogon Province
+T23	Person 888 894	Curran
+T24	Habitat 938 965	dense forests on low ridges
+T25	GeographicalLocation 983 999	Tayabas Province
+T26	Taxon 1005 1033	DIPTEROCARPUS OBCONICUS Foxw
+T27	Taxon 1005 1028	DIPTEROCARPUS OBCONICUS
+T28	Taxon 1154 1176	Dipterocarpus gracilis
+T29	Taxon 1154 1182	Dipterocarpus gracilis Blume
+T30	GeographicalLocation 1277 1285	Mindanao
+T31	GeographicalLocation 1287 1302	Agusan Province
+T32	GeographicalLocation 1304 1314	Cabadbaran
+T33	Person 1316 1321	Elmer
+T34	TemporalExpression 1329 1341	August, 1912
+T35	Taxon 1379 1401	DIPTEROCARPUS CUNEATUS
+T36	Taxon 1424 1435	D. obconico
+T37	Taxon 1526 1538	D. obconicus
+T38	Taxon 1526 1543	D. obconicus Foxw
+T39	GeographicalLocation 2156 2161	Luzon
+T40	GeographicalLocation 2163 2181	Camarines Province
+T41	GeographicalLocation 2183 2194	Mount Sanot
+T42	Person 2212 2219	Alvarez
+T43	TemporalExpression 2221 2233	May 24, 1914
+T44	Taxon 2255 2265	panalsalan
+T45	Taxon 2271 2294	DIPTEROCARPUS WARBURGII
+T46	Taxon 2271 2302	DIPTEROCARPUS WARBURGII Brandis
+T47	Taxon 2348 2354	Balaou
+T48	GeographicalLocation 2365 2373	Mindanao
+T49	GeographicalLocation 2375 2381	Agusan
+T50	GeographicalLocation 2386 2391	Davao
+T51	GeographicalLocation 2393 2398	Luzon
+T52	GeographicalLocation 2400 2416	Cagayan Province
+T53	Taxon 2422 2445	DIPTEROCARPUS SPECIOSUS
+T54	Taxon 2422 2453	DIPTEROCARPUS SPECIOSUS Brandis

@@ -1,0 +1,88 @@
+T1	Taxon 11 27	DIPTEROCAEPACEAE
+T2	Person 50 56	Curran
+T3	TemporalExpression 58 68	Sept. 1907
+T4	GeographicalLocation 80 101	Province of La Laguna
+T5	Person 119 125	Curran
+T6	Person 144 154	Rosenbluth
+T7	Person 157 164	Tamesis
+T8	Person 182 190	Whitford
+T9	Person 206 213	Tamesis
+T10	GeographicalLocation 215 234	Province of Tayabas
+T11	Person 251 256	Kobbe
+T12	TemporalExpression 258 266	May 1907
+T13	Person 302 308	Curran
+T14	Person 326 334	Whitford
+T15	Person 352 359	Darling
+T16	Person 377 384	Aguilar
+T17	GeographicalLocation 386 407	Province of Camarines
+T18	Person 424 431	Barredo
+T19	Person 449 455	Curran
+T20	GeographicalLocation 457 474	Province of Albay
+T21	Person 492 502	Rosenbluth
+T22	GeographicalLocation 504 524	Province of Sorsogon
+T23	Person 541 549	Zschokke
+T24	Person 566 570	Pray
+T25	GeographicalLocation 572 579	Mindoro
+T26	Person 595 602	Merritt
+T27	GeographicalLocation 604 609	Leyte
+T28	Person 627 637	Rosenbluth
+T29	GeographicalLocation 639 647	Mindanao
+T30	GeographicalLocation 649 668	Province of Misamis
+T31	Person 686 690	Pray
+T32	GeographicalLocation 692 709	District of Davao
+T33	Person 727 735	Whitford
+T34	Taxon 751 762	mangachapuy
+T35	Taxon 775 786	dalindingan
+T36	Taxon 795 807	barosingsing
+T37	Taxon 829 843	Dryobalanoides
+T38	Taxon 1000 1019	Hopea pierrei Hance
+T39	Taxon 1000 1013	Hopea pierrei
+T40	Taxon 1216 1228	H. micrantha
+T41	Taxon 1216 1234	H. micrantha Hance
+T42	Taxon 1313 1327	Hancea pierrei
+T43	Taxon 1313 1334	Hancea pierrei Pierre
+T44	GeographicalLocation 2148 2153	Luzon
+T45	GeographicalLocation 2155 2174	Province of Cagayan
+T46	Person 2206 2212	Curran
+T47	GeographicalLocation 2214 2236	Province of Pangasinan
+T48	Person 2253 2261	Zschokke
+T49	GeographicalLocation 2263 2286	Province of Nueva Ecija
+T50	Person 2304 2313	Foxworthy
+T51	Person 2331 2338	Alvarez
+T52	GeographicalLocation 2340 2360	Province of Zambales
+T53	Person 2377 2383	Curran
+T54	Person 2386 2393	Merritt
+T55	GeographicalLocation 2395 2416	Province of La Laguna
+T56	Person 2441 2447	Curran
+T57	Person 2465 2472	Tamesis
+T58	Person 2489 2498	Foxworthy
+T59	Person 2523 2529	Curran
+T60	TemporalExpression 2531 2539	Feb 1910
+T61	Person 2573 2580	Mariano
+T62	GeographicalLocation 2582 2601	Province of Tayabas
+T63	Person 2603 2612	Whit ford
+T64	TemporalExpression 2618 2627	Sept 1904
+T65	Person 2665 2675	Rosenbluth
+T66	GeographicalLocation 2677 2698	Province of Camarines
+T67	Person 2723 2729	Curran
+T68	GeographicalLocation 2731 2751	Province of Sorsogon
+T69	Person 2776 2782	Curran
+T70	GeographicalLocation 2784 2791	Polillo
+T71	Person 2809 2817	McGregor
+T72	GeographicalLocation 2819 2826	Mindoro
+T73	Person 2843 2850	Merritt
+T74	TemporalExpression 2852 2862	April 1907
+T75	Person 2904 2911	Merritt
+T76	GeographicalLocation 2913 2919	Negros
+T77	GeographicalLocation 2921 2950	Province of Negros Occidental
+T78	Person 2968 2974	Curran
+T79	Taxon 2990 3006	dalindingan isak
+T80	Taxon 3015 3024	malatagum
+T81	Taxon 3031 3040	makitarem
+T82	Taxon 3049 3053	lito
+T83	Taxon 3062 3073	mangachapuy
+T84	Taxon 3084 3089	pisak
+T85	GeographicalLocation 3112 3120	Cambodia
+T86	GeographicalLocation 3122 3131	Singapore
+T87	GeographicalLocation 3133 3139	Borneo
+T88	GeographicalLocation 3148 3159	Philippines

@@ -1,0 +1,83 @@
+T1	Person 0 8	Mcgregor
+T2	GeographicalLocation 84 100	Mt. Guitinguitin
+T3	GeographicalLocation 276 287	Philippines
+T4	Habitat 306 319	intact forest
+T5	GeographicalLocation 331 338	Sibuyan
+T6	Habitat 444 458	lowland forest
+T7	Habitat 535 561	upland areas of the island
+T8	GeographicalLocation 596 607	Philippines
+T9	Habitat 736 754	elevational ranges
+T10	GeographicalLocation 846 853	Sibuyan
+T11	Habitat 877 896	lowland fruit trees
+T12	Habitat 929 944	lowland habitat
+T13	GeographicalLocation 1166 1173	Sibuyan
+T14	Person 1240 1248	Mcgregor
+T15	GeographicalLocation 1295 1302	Sibuyan
+T16	Habitat 1311 1326	interior forest
+T17	Habitat 1331 1343	near the sea
+T18	TemporalExpression 1497 1508;1521 1525	late August 1971
+T19	TemporalExpression 1513 1525	October 1971
+T20	Taxon 1714 1720	Ducula
+T21	Taxon 1729 1744	Columba pigeons
+T22	GeographicalLocation 1750 1757	Sibuyan
+T23	TemporalExpression 1869 1879	after 1928
+T24	Taxon 2096 2115	Megapodius cumingii
+T25	Taxon 2120 2143	Tanygnathus lucionensis
+T26	GeographicalLocation 2169 2176	Sibuyan
+T27	Taxon 2178 2188	Megapodius
+T28	GeographicalLocation 2202 2209	Sibuyan
+T29	Person 2213 2219	Bourns
+T30	Person 2224 2233	Worcester
+T31	Person 2245 2255	Mcgregor (
+T32	Habitat 2406 2413;2426 2433	lowland forests
+T33	Habitat 2418 2433	coastal forests
+T34	TemporalExpression 2581 2587	1 950s
+T35	GeographicalLocation 2642 2658	Magdiwang market
+T36	TemporalExpression 2694 2706	October 1991
+T37	GeographicalLocation 2725 2733	Tampayan
+T38	Taxon 2752 2762	Megapodius
+T39	Habitat 2770 2779	mangroves
+T40	GeographicalLocation 2783 2790	Agnonok
+T41	Taxon 2907 2918	Tanygnathus
+T42	TemporalExpression 2965 2977	19th century
+T43	GeographicalLocation 3051 3059	Jao-asan
+T44	GeographicalLocation 3263 3270	Sibuyan
+T45	Taxon 3382 3396	Ardea purpurea
+T46	Taxon 3398 3411	Egretta sacra
+T47	Taxon 3413 3432	Dendrocygna arcuata
+T48	Taxon 3434 3450	Falco peregrinus
+T49	Taxon 3452 3468	Halcyon capensis
+T50	Taxon 3474 3491	Halcyon coromanda
+T51	Habitat 3694 3708	lowland forest
+T52	Taxon 3852 3871	Pycnonotus goiavier
+T53	GeographicalLocation 3900 3921	Southeast Asian range
+T54	TemporalExpression 4046 4051	1 954
+T55	GeographicalLocation 4080 4087	Sibuyan
+T56	GeographicalLocation 4295 4313	Philippine islands
+T57	Taxon 4317 4323	humans
+T58	Taxon 4325 4341	Geopelia striata
+T59	GeographicalLocation 4364 4371	Sibuyan
+T60	TemporalExpression 4375 4379	1972
+T61	Taxon 4384 4406	Streptopelia chinensis
+T62	TemporalExpression 4410 4414	1989
+T63	Taxon 4416 4431	Passer montanus
+T64	GeographicalLocation 4469 4480	Philippines
+T65	GeographicalLocation 4504 4511	Sibuyan
+T66	TemporalExpression 4515 4519	1989
+T67	GeographicalLocation 4523 4532	Magdiwang
+T68	TemporalExpression 4537 4541	1992
+T69	Taxon 4610 4623	Bubulcus ibis
+T70	TemporalExpression 4658 4662	1972
+T71	GeographicalLocation 4694 4701	Sibuyan
+T72	Taxon 4781 4801	Turdus poliocephalus
+T73	Taxon 4806 4823	Zosterops montana
+T74	Taxon 4914 4933	Ixobrychus sinensis
+T75	Taxon 4935 4948	Porzana fusca
+T76	Taxon 4950 4970	Amaurornis olivaceus
+T77	Taxon 4972 4986	A. phoenicurus
+T78	Taxon 4992 5005	Cuculus fugax
+T79	GeographicalLocation 5036 5043	Sibuyan
+T80	TemporalExpression 5084 5099	past 1 00 years
+T81	GeographicalLocation 5177 5191	SIBUYAN ISLAND
+T82	GeographicalLocation 5193 5204	PHILIPPINES
+T83	Taxon 1143 1162	Ducula poliocephala

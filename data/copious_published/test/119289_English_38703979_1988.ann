@@ -1,0 +1,42 @@
+T1	Taxon 13 27	Euphorbiaceae.
+T2	Taxon 32 42	Latrraceae
+T3	Habitat 523 536	molave forest
+T4	Habitat 711 726	mangrove forest
+T5	GeographicalLocation 884 895	Philippines
+T6	GeographicalLocation 947 954	Mindoro
+T7	Habitat 1222 1234	pine forests
+T8	GeographicalLocation 1443 1454	Philippines
+T9	GeographicalLocation 1489 1500	Philippines
+T10	Taxon 1665 1684	Imperata  Saccharum
+T11	Taxon 2 11	Myrtaceae
+T12	Habitat 60 73	Mossy forests
+T13	Habitat 185 199	Molave forests
+T14	Habitat 201 215	Molave forests
+T15	TemporalExpression 256 259;268 274	wet season
+T16	TemporalExpression 264 274	dry season
+T17	Taxon 366 377	molave tree
+T18	Taxon 378 394	Vitex parviflora
+T19	Taxon 412 416	teak
+T20	Habitat 682 707	behind the beach woodland
+T21	Taxon 769 781	dipterocarps
+T22	Habitat 813 827	Pine forests  
+T23	Taxon 910 922	Benguet pine
+T24	Taxon 923 938	P ins insularis
+T25	Taxon 958 970	tapulau pine
+T26	Taxon 971 983	P merkusii i
+T27	Habitat 984 1005	 Benguet pine forests
+T28	TemporalExpression 1037 1040;1049 1056	wet seasons
+T29	TemporalExpression 1045 1056	dry seasons
+T30	Habitat 1113 1133	tapulau pine forests
+T31	Habitat 1183 1193	Grasslands
+T32	Habitat 1278 1291	grass meadows
+T33	Taxon 1297 1310	Benguet pines
+T34	Taxon 1384 1396	tapulau pine
+T35	Habitat 1618 1642	tall tropical grasslands
+T36	Taxon 1689 1707	Phragmites species
+T37	Habitat 1715 1725	grasslands
+T38	Habitat 1768 1784	mountain summits
+T39	Habitat 1803 1823	rolling hill country
+T40	Habitat 1825 1837	plateau land
+T41	Habitat 1842 1861	flat coastal plains
+T42	Habitat 2036 2047	pastureland

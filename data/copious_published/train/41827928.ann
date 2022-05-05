@@ -1,0 +1,53 @@
+T1	Taxon 13 25	DIPTEROCARPS
+T2	Taxon 190 206	Vatica Wallichii
+T3	Person 231 235	King
+T4	Taxon 348 361	P. Stapfianus
+T5	Taxon 522 535	Pachynocarpus
+T6	Person 547 551	King
+T7	Taxon 554 566	P. Wallichii
+T8	Taxon 603 616	P. Stapfianus
+T9	Person 654 660	Motley
+T10	Taxon 693 699	Vatica
+T11	Taxon 723 736	Pachynocarpus
+T12	Taxon 859 865	Vatica
+T13	Taxon 878 890	V. Wallichii
+T14	Taxon 930 942	P. umbonatus
+T15	Taxon 964 977	P. Stapfianus
+T16	GeographicalLocation 993 999	Borneo
+T17	GeographicalLocation 1035 1041	Labuan
+T18	Person 1055 1061	Motley
+T19	GeographicalLocation 1083 1095	Banjermassin
+T20	Taxon 1188 1201	Pachynocarpus
+T21	Taxon 1228 1244	Vatica Wallichii
+T22	Person 1258 1262	King
+T23	Taxon 1623 1639	Vatica Wallichii
+T24	GeographicalLocation 1686 1701	Economic Garden
+T25	GeographicalLocation 1703 1712	Singapore
+T26	GeographicalLocation 1782 1797	Malay Peninsula
+T27	GeographicalLocation 1840 1855	Economic Garden
+T28	GeographicalLocation 2003 2012	Peninsula
+T29	GeographicalLocation 2029 2047	Province Wellesley
+T30	GeographicalLocation 2067 2072	Trang
+T31	GeographicalLocation 2076 2086	Lower Siam
+T32	GeographicalLocation 2091 2100	Singapore
+T33	GeographicalLocation 2132 2139	Kuantan
+T34	GeographicalLocation 2143 2152	Singapore
+T35	Taxon 2191 2206	Vatica ruminata
+T36	GeographicalLocation 2227 2233	Bangka
+T37	Person 2259 2267	Haviland
+T38	GeographicalLocation 2321 2328	Kuching
+T39	GeographicalLocation 2330 2337	Sarawak
+T40	Taxon 2445 2450	Eesak
+T41	Taxon 2452 2462	Eesak paya
+T42	Taxon 2464 2475	swamp resak
+T43	GeographicalLocation 2497 2503	Pahang
+T44	Taxon 2515 2526	Eesak pasir
+T45	Taxon 2648 2658	Eesak laru
+T46	Taxon 2688 2712	Pachynocarpus Stapfianus
+T47	Taxon 2714 2724	Goodenough
+T48	Taxon 2756 2774	Damar Mata Kuching
+T49	GeographicalLocation 2801 2817	Singapore island
+T50	GeographicalLocation 2825 2832	Malacca
+T51	Person 2834 2839	Derry
+T52	GeographicalLocation 2843 2850	Malacca
+T53	Taxon 2861 2879	Kayu Merbatu Pasir

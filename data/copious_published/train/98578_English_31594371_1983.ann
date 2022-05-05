@@ -1,0 +1,52 @@
+T1	Taxon 248 261	Sus salvanius
+T2	GeographicalLocation 329 343	northern India
+T3	Taxon 853 873	Haematoplnus oliveri
+T4	Taxon 907 920	Sus salvanius
+T5	Taxon 1082 1094	Haematoplnus
+T6	Taxon 1271 1283	Haematoplnus
+T7	GeographicalLocation 1306 1312	Africa
+T8	GeographicalLocation 1355 1366	Philippines
+T9	GeographicalLocation 1412 1426	southern Nepal
+T10	GeographicalLocation 1819 1826	Darrang
+T11	TemporalExpression 1848 1852	1977
+T12	TemporalExpression 2197 2201	1971
+T13	GeographicalLocation 2320 2339	Manas National Park
+T14	Taxon 2812 2820	Anoplura
+T15	GeographicalLocation 2949 2957	Anoplura
+T16	Taxon 0 9	PYGMY HOG
+T17	Taxon 35 55	Haematopinus oliveri
+T18	Taxon 35 78	Haematopinus oliveri Mishra and Singh, 1978
+T19	Taxon 103 111	ANOPLURA
+T20	Taxon 86 96	ARTHROPODA
+T21	Taxon 118 125	INSECTA
+T22	Taxon 133 147	HAEMATOPINIDAE
+T23	Taxon 160 169	Pygmy Hog
+T24	Taxon 236 245	Pygmy Hog
+T25	GeographicalLocation 309 325	north-west Assam
+T26	Taxon 10 23	SUCKING LOUSE
+T27	Taxon 170 183	Sucking Louse
+T28	Habitat 415 435	thatch-scrub savanna
+T29	Taxon 453 461	Anoplura
+T30	Taxon 895 904	Pygmy Hog
+T31	GeographicalLocation 1317 1323	Europe
+T32	GeographicalLocation 1341 1347	Orient
+T33	Taxon 1380 1389	Pygmy Hog
+T34	GeographicalLocation 1428 1434	Sikkim
+T35	GeographicalLocation 1436 1452	north-west Assam
+T36	GeographicalLocation 1458 1480	foothills of Meghalaya
+T37	GeographicalLocation 1482 1501	northern Bangladesh
+T38	GeographicalLocation 1506 1522	south-east Assam
+T39	GeographicalLocation 1624 1640	north-west Assam
+T40	GeographicalLocation 1642 1647	India
+T41	Taxon 1806 1815	Pygmy Hog
+T42	GeographicalLocation 1828 1844	north-west Assam
+T43	Taxon 2138 2147	Pygmy Hog
+T44	GeographicalLocation 2202 2214	near Barnadi
+T45	Taxon 2516 2526	Anoplurans
+T46	Taxon 3174 3182	Anoplura
+T47	TemporalExpression 3353 3362	two weeks
+T48	Taxon 3388 3397	Pygmy Hog
+T49	Habitat 3411 3439	unburnt thatch-scrub savanna
+T50	Habitat 3453 3464	mixed scrub
+T51	Habitat 3469 3481	tall grasses
+T52	Habitat 3316 3326	host hairs

@@ -1,0 +1,35 @@
+T1	GeographicalLocation 452 461	Indonesia
+T2	Taxon 709 731	Eretmochelys imbricata
+T3	Taxon 826 846	Dermochelys coriacea
+T4	Taxon 2303 2317	Chelonia mydas
+T5	Taxon 2356 2378	Eretmochelys imbricata
+T6	Taxon 2419 2439	Dermochelys coriacea
+T7	Taxon 55 69	MARINE TURTLES
+T8	Taxon 382 396	marine turtles
+T9	GeographicalLocation 420 438	Philippine Islands
+T10	GeographicalLocation 440 446	Ceylon
+T11	Taxon 542 556	Marine Turtles
+T12	Taxon 586 602	Green Sea Turtle
+T13	Taxon 604 619	Chelonia my das
+T14	Taxon 604 630	Chelonia my das (Linnaeus)
+T15	Habitat 660 668;685 689	tropical seas
+T16	Habitat 673 689	subtropical seas
+T17	Taxon 691 707	Hawksbill Turtle
+T18	Taxon 709 742	Eretmochelys imbricata (Linnaeus)
+T19	Habitat 775 783;800 804	tropical seas
+T20	Habitat 788 804	subtropical seas
+T21	Taxon 806 824	Leatherback Turtle
+T22	Taxon 826 857	Dermochelys coriacea (Linnaeus)
+T23	Habitat 885 899	circumtropical
+T24	Habitat 927 943	temperate waters
+T25	TemporalExpression 998 1007	few hours
+T26	TemporalExpression 1011 1023	several days
+T27	Taxon 1895 1909	marine turtles
+T28	Taxon 2046 2060	Marine turtles
+T29	GeographicalLocation 2077 2089	Indo-pacific
+T30	Taxon 2285 2301	Green Sea Turtle
+T31	Taxon 2303 2328	Chelonia mydas (Linnaeus)
+T32	Taxon 2338 2354	Hawksbill Turtle
+T33	Taxon 2399 2410	Leatherback
+T34	Taxon 2357 2389	retmochelys imbricata (Linnaeus)
+T35	Taxon 2419 2450	Dermochelys coriacea (Linnaeus)

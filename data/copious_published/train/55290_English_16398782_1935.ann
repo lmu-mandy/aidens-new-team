@@ -1,0 +1,65 @@
+T1	GeographicalLocation 172 182	Woods Hole
+T2	Person 462 481	Picado T. Feliciano
+T3	GeographicalLocation 615 625	Woods Hole
+T4	TemporalExpression 790 798	August 7
+T5	GeographicalLocation 973 980	England
+T6	GeographicalLocation 986 1008	Scandinavian countries
+T7	GeographicalLocation 1017 1024	Holland
+T8	GeographicalLocation 1149 1157	New York
+T9	Person 1367 1383	Paul S. Galtsoff
+T10	GeographicalLocation 1578 1594	Hawaiian Islands
+T11	GeographicalLocation 2203 2214	Nobska Road
+T12	Person 2379 2390	W. E. Allen
+T13	GeographicalLocation 2738 2748	California
+T14	Person 2885 2897	C. E. Zobell
+T15	GeographicalLocation 3169 3188	Southern California
+T16	Person 3206 3217	W. E. Allen
+T17	GeographicalLocation 3954 3962	Java Sea
+T18	Person 3996 4006	E. E. Cupp
+T19	GeographicalLocation 4464 4476	South Indian
+T20	TemporalExpression 4644 4652	November
+T21	TemporalExpression 0 15	August 17, 1935
+T22	Person 52 65	Elmer Higgins
+T23	Person 321 326	Sette
+T24	Person 672 694	George Perkins Clinton
+T25	Person 867 874	Clinton
+T26	Person 4773 4778	Allen
+T27	Person 4350 4361	Sundara Raj
+T28	Person 240 248	E. Sette
+T29	GeographicalLocation 270 288	Woods Hole Station
+T30	GeographicalLocation 590 603	United States
+T31	GeographicalLocation 780 786	Europe
+T32	TemporalExpression 709 717	33 years
+T33	GeographicalLocation 835 844	Amsterdam
+T34	GeographicalLocation 850 861	Netherlands
+T35	GeographicalLocation 932 952	State of Connecticut
+T36	GeographicalLocation 1197 1208	Connecticut
+T37	GeographicalLocation 1134 1144	New Jersey
+T38	Person 1214 1229	Roy Waldo Miner
+T39	GeographicalLocation 1313 1323	Woods Hole
+T40	Habitat 1416 1426	coral reef
+T41	GeographicalLocation 1459 1467	New  ork
+T42	Person 1479 1484	Miner
+T43	Taxon 1504 1525	American pearl oyster
+T44	GeographicalLocation 1773 1783	Woods Hole
+T45	Person 1826 1836	Pop Hilton
+T46	TemporalExpression 2001 2013	Friday night
+T47	GeographicalLocation 2059 2066	Wareham
+T48	GeographicalLocation 2107 2114	Taunton
+T49	GeographicalLocation 2116 2120	Mass
+T50	Person 2186 2198	Jeff Whitney
+T51	Person 2449 2464	Esther C. Allen
+T52	GeographicalLocation 2728 2736	La Jolla
+T53	TemporalExpression 2589 2606	forty eight hours
+T54	TemporalExpression 2574 2585;2601 2606	twenty four hours
+T55	Person 3734 3739	Allen
+T56	Person 3855 3867	Irom Batavia
+T57	GeographicalLocation 3869 3873	Java
+T58	Taxon 3930 3946	Plankton Diatoms
+T59	Person 3885 3890	Allen
+T60	TemporalExpression 4031 4037	summer
+T61	Person 4295 4300	Allen
+T62	Person 4401 4406	Allen
+T63	Taxon 4477 4493	Plankton diatoms
+T64	Taxon 3110 3123	phytoplankton
+T65	TemporalExpression 3153 3161	ten ears

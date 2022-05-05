@@ -1,0 +1,56 @@
+T1	Person 6 12	Heaney
+T2	Person 15 22	Rickart
+T3	Habitat 227 247	Primary forest cover
+T4	GeographicalLocation 255 266	Philippines
+T5	TemporalExpression 379 383	1988
+T6	TemporalExpression 846 861	5 November 1991
+T7	GeographicalLocation 914 928	northern Leyte
+T8	Habitat 1154 1170	interior forests
+T9	GeographicalLocation 1274 1310	islands in the central Visayan group
+T10	GeographicalLocation 1312 1317	Leyte
+T11	GeographicalLocation 1380 1387	Biliran
+T12	GeographicalLocation 1392 1400	Maripipi
+T13	GeographicalLocation 1432 1446	north of Leyte
+T14	GeographicalLocation 1484 1510	island of Greater Mindanao
+T15	TemporalExpression 1553 1569	late Pleistocene
+T16	TemporalExpression 1595 1611	10,000 years ago
+T17	GeographicalLocation 1655 1663	Mindanao
+T18	GeographicalLocation 1695 1700	Leyte
+T19	GeographicalLocation 1715 1722	Biliran
+T20	GeographicalLocation 1739 1747	Maripipi
+T21	Habitat 1951 1965	lowland forest
+T22	Habitat 1967 1981	montane forest
+T23	Habitat 1987 1999	mossy forest
+T24	Habitat 2004 2015	dipterocarp
+T25	Habitat 2017 2030	lower montane
+T26	Habitat 2036 2061	upper montane rain forest
+T27	GeographicalLocation 2570 2575	Leyte
+T28	TemporalExpression 2688 2692	1963
+T29	Person 2694 2707	D. P. Empress
+T30	GeographicalLocation 2773 2795	Cathedral Cave complex
+T31	GeographicalLocation 2801 2809	Inopacan
+T32	GeographicalLocation 2811 2831	Hindang Municipality
+T33	GeographicalLocation 2833 2838	Leyte
+T34	Person 2904 2917	G. L. Alcasid
+T35	Person 2922 2934	M. Celestino
+T36	Person 2973 2984	D. S. Rabor
+T37	GeographicalLocation 3045 3053;3066 3071	northern Leyte
+T38	GeographicalLocation 3058 3071	central Leyte
+T39	Person 3231 3237	Parkes
+T40	GeographicalLocation 3480 3487	Biliran
+T41	GeographicalLocation 3491 3499	Maripipi
+T42	Person 3587 3593	Heaney
+T43	TemporalExpression 3674 3678	1987
+T44	GeographicalLocation 3849 3854	Leyte
+T45	TemporalExpression 4012 4014;4021 4029	23 May 1984
+T46	TemporalExpression 4018 4029	28 May 1984
+T47	TemporalExpression 4145 4158	13 April 1987
+T48	GeographicalLocation 4386 4398	Leyte Island
+T49	GeographicalLocation 4434 4441	Biliran
+T50	GeographicalLocation 4446 4462	Maripipi islands
+T51	GeographicalLocation 4484 4489	Leyte
+T52	GeographicalLocation 4581 4595	mt. Pangasugan
+T53	GeographicalLocation 4359 4370	Western Aus
+T54	TemporalExpression 3428 3432	1981
+T55	TemporalExpression 3433 3437	1987
+T56	TemporalExpression 4134 4141;4154 4158	2 March 1987

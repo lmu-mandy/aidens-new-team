@@ -1,0 +1,39 @@
+T1	GeographicalLocation 75 85	New Guinea
+T2	GeographicalLocation 158 169	Philippines
+T3	Taxon 189 209	Hemidactylus tristis
+T4	Taxon 302 310	Frenatus
+T5	GeographicalLocation 463 473	New Guinea
+T6	GeographicalLocation 980 986	Borneo
+T7	Taxon 1040 1064	Hemidactylus craspedotus
+T8	GeographicalLocation 3 9	Flores
+T9	Person 15 23	Bastaard
+T10	GeographicalLocation 25 30	Sumba
+T11	GeographicalLocation 32 36	Savu
+T12	GeographicalLocation 38 49	Kei Islands
+T13	GeographicalLocation 51 62	Aru Islands
+T14	GeographicalLocation 64 73	Halmahera
+T15	GeographicalLocation 87 93	Sorong
+T16	GeographicalLocation 98 105	Malacca
+T17	GeographicalLocation 107 112	Burma
+T18	GeographicalLocation 114 123	Himalayas
+T19	GeographicalLocation 125 131	Ceylon
+T20	GeographicalLocation 133 144	South China
+T21	GeographicalLocation 146 156	Indo-china
+T22	Person 224 231	Sauvage
+T23	Taxon 435 447	H. frenatiis
+T24	Taxon 435 449	H. frenatiis D
+T25	Taxon 478 488	Mimetozoon
+T26	Taxon 478 498	Mimetozoon Boulenger
+T27	Person 501 510	BOULENGER
+T28	TemporalExpression 544 548	1896
+T29	GeographicalLocation 972 978	Penang
+T30	Taxon 1009 1031	Mimetozoon craspedotus
+T31	Taxon 1009 1038	Mimetozoon craspedotus (Mocq)
+T32	Taxon 1040 1073	Hemidactylus craspedotus Mocquard
+T33	TemporalExpression 1108 1111	Nov
+T34	TemporalExpression 1131 1135	1890
+T35	GeographicalLocation 1180 1185	Paris
+T36	Taxon 1208 1226	Mimetozoon floweri
+T37	Taxon 1208 1236	Mimetozoon floweri Boulenger
+T38	GeographicalLocation 1255 1261	London
+T39	TemporalExpression 1262 1266	1896

@@ -1,0 +1,46 @@
+T1	GeographicalLocation 1753 1764	Philippines
+T2	GeographicalLocation 2579 2586	Diliman
+T3	GeographicalLocation 2763 2772	Los Banos
+T4	GeographicalLocation 3123 3134	Philippines
+T5	Person 3586 3593	Revilla
+T6	GeographicalLocation 4230 4242	Sierra Madre
+T7	GeographicalLocation 4276 4289	Central Samar
+T8	GeographicalLocation 4312 4321	Mt Ragang
+T9	GeographicalLocation 4353 4361	Mindanao
+T10	GeographicalLocation 4403 4410	Palawan
+T11	Habitat 4578 4585	montane
+T12	GeographicalLocation 4630 4637	Palawan
+T13	TemporalExpression 4792 4796	1972
+T14	TemporalExpression 4844 4848	1970
+T15	Habitat 4956 4976	tropical rain forest
+T16	TemporalExpression 5083 5087	1920
+T17	TemporalExpression 5225 5229	1978
+T18	TemporalExpression 5286 5290	1990
+T19	GeographicalLocation 0 11	Philippines
+T20	TemporalExpression 1094 1098	1977
+T21	GeographicalLocation 2915 2924	Los Banos
+T22	Habitat 3030 3046	Tropical forests
+T23	TemporalExpression 3595 3599	1986
+T24	TemporalExpression 3812 3824	9,840 sq. km
+T25	TemporalExpression 3888 3892	1987
+T26	TemporalExpression 3893 3897	1988
+T27	Habitat 4156 4174	lowland vegetation
+T28	GeographicalLocation 4247 4274	Cordillera Central in Luzon
+T29	Habitat 4590 4614	low quality scrub forest
+T30	TemporalExpression 4641 4645	2010
+T31	TemporalExpression 4801 4805	1982
+T32	TemporalExpression 4854 4857	979
+T33	TemporalExpression 5002 5020	end of the century
+T34	Habitat 5037 5046	Mangroves
+T35	TemporalExpression 5151 5164	last 60 years
+T36	Habitat 5203 5212	mangroves
+T37	Habitat 5452 5459	wetland
+T38	Habitat 5477 5486	estuaries
+T39	Habitat 5486 5494	mudflats
+T40	Habitat 5496 5509	seagrass beds
+T41	Habitat 5511 5516	lakes
+T42	Habitat 5518 5535	freshwater swamps
+T43	Habitat 5540 5547	marshes
+T44	Habitat 5576 5584	wetlands
+T45	Person 5641 5647	Davies
+T46	TemporalExpression 5656 5660	1990

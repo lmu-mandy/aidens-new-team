@@ -1,0 +1,19 @@
+T1	GeographicalLocation 1999 2005	Alaska
+T2	GeographicalLocation 2038 2044	Alaska
+T3	TemporalExpression 2197 2209	July 1, 1911
+T4	GeographicalLocation 2423 2429	Alaska
+T5	Taxon 218 227	Albatross
+T6	TemporalExpression 260 264	1907
+T7	TemporalExpression 265 269	1910
+T8	GeographicalLocation 486 496	Woods Hole
+T9	GeographicalLocation 498 502	Mass
+T10	GeographicalLocation 508 516	Beaufort
+T11	TemporalExpression 565 571	summer
+T12	TemporalExpression 576 580	fall
+T13	TemporalExpression 584 588	1910
+T14	TemporalExpression 640 644	June
+T15	TemporalExpression 646 650	1911
+T16	GeographicalLocation 1786 1792	ALASKA
+T17	TemporalExpression 1843 1856	March 4, 1911
+T18	GeographicalLocation 1896 1902	Alaska
+T19	TemporalExpression 2291 2295	1912

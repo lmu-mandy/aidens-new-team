@@ -1,0 +1,67 @@
+T1	Person 191 203	G. F. Becker
+T2	Person 400 406	Abella
+T3	GeographicalLocation 459 467	Mindanao
+T4	GeographicalLocation 678 686	Mindanao
+T5	GeographicalLocation 800 808	Mindanao
+T6	Person 1084 1090	Becker
+T7	GeographicalLocation 1271 1275	Sulu
+T8	GeographicalLocation 1321 1325	Sulu
+T9	GeographicalLocation 1530 1538	Mindanao
+T10	GeographicalLocation 1594 1612	Island of Mindanao
+T11	GeographicalLocation 1745 1753	Canmahat
+T12	GeographicalLocation 1761 1777	Misamis Province
+T13	GeographicalLocation 1781 1787	Pigtao
+T14	Person 1793 1800	Centeno
+T15	GeographicalLocation 1957 1964	Surigao
+T16	GeographicalLocation 2082 2101	mountains of Canton
+T17	GeographicalLocation 2115 2123	Canmahat
+T18	GeographicalLocation 2169 2176	Surigao
+T19	Person 2256 2262	Semper
+T20	GeographicalLocation 2339 2346	Surigao
+T21	Person 2595 2604	Ashburner
+T22	GeographicalLocation 2720 2727	Surigao
+T23	GeographicalLocation 2754 2768	Cansuran River
+T24	GeographicalLocation 2869 2885	eastern Mindanao
+T25	GeographicalLocation 3054 3064	Butuan Bay
+T26	GeographicalLocation 27 35	MINDANAO
+T27	GeographicalLocation 40 44	SULU
+T28	Person 352 368	Sainz de Baranda
+T29	Person 370 377	Centeno
+T30	Person 379 386	Montano
+T31	Person 388 394	Espina
+T32	Person 711 717	Semper
+T33	Person 719 729	Richthofen
+T34	Person 731 737	Minard
+T35	Person 743 749	Renard
+T36	Person 754 760	Martin
+T37	Person 813 820	Oebbeke
+T38	Person 871 877	Martin
+T39	Person 882 889	Oebbeke
+T40	Person 921 925	Dana
+T41	Person 927 936	Ashburner
+T42	Person 942 949	Nichols
+T43	GeographicalLocation 977 985	Mindanao
+T44	TemporalExpression 1117 1121	1898
+T45	Person 1177 1187	Guillemard
+T46	GeographicalLocation 1310 1317	Cagayan
+T47	Person 1462 1468	Becker
+T48	Person 1657 1673	Sainz de Baranda
+T49	GeographicalLocation 1816 1826	Pigholugan
+T50	GeographicalLocation 1833 1840	Cagayan
+T51	GeographicalLocation 1849 1868	Province of Misamis
+T52	GeographicalLocation 2022 2038	Misamis district
+T53	GeographicalLocation 2280 2286	Mantis
+T54	GeographicalLocation 2323 2335	Agusan River
+T55	Person 2518 2525	Oebbeke
+T56	Person 2582 2589	Montano
+T57	Person 2815 2822	Montano
+T58	GeographicalLocation 2921 2934	Bay of Butuan
+T59	GeographicalLocation 2976 2982	Bislig
+T60	GeographicalLocation 2987 2992	Catel
+T61	GeographicalLocation 3106 3119	Gulf of Davao
+T62	GeographicalLocation 3163 3170	Montana
+T63	Taxon 3181 3186	Sahug
+T64	GeographicalLocation 2103 2109	Ington
+T65	GeographicalLocation 3125 3130	river
+T66	GeographicalLocation 3317 3335	Philippine Islands
+T67	GeographicalLocation 3447 3452	Bigat

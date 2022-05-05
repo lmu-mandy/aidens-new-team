@@ -1,0 +1,25 @@
+T1	Taxon 0 6	Shorea
+T2	Taxon 10 26	Dipterocarpacece
+T3	GeographicalLocation 502 512	Eknaligoda
+T4	GeographicalLocation 515 523	Hiniduma
+T5	GeographicalLocation 526 537	Singhe Raja
+T6	GeographicalLocation 540 548	Moragala
+T7	GeographicalLocation 551 561	Avisawella
+T8	GeographicalLocation 564 572	Labugama
+T9	TemporalExpression 578 583	April
+T10	TemporalExpression 584 588	June
+T11	Taxon 633 646	S. Ttimbugaia
+T12	Taxon 633 653	S. Ttimbugaia, Roxb.
+T13	GeographicalLocation 658 666	S. India
+T14	Taxon 727 743	Doona cordifolia
+T15	Taxon 754 757	Dun
+T16	GeographicalLocation 763 771	W. Prov.
+T17	Taxon 775 784	S. Dyerii
+T18	Taxon 775 790	S. Dyerii, Thw.
+T19	Person 1478 1486	Thwaites
+T20	Taxon 1640 1653	S. reticulata
+T21	Taxon 1640 1659	S. reticulata, Thw.
+T22	GeographicalLocation 2082 2096	Morowak Korale
+T23	TemporalExpression 2098 2108	Sept. 1865
+T24	Taxon 2113 2127	S. lissophylla
+T25	Taxon 2113 2133	S. lissophylla, Thw.

@@ -1,0 +1,55 @@
+T1	Taxon 35 55	Poisonous Sea Snakes
+T2	Taxon 586 597	Acrochordus
+T3	GeographicalLocation 1156 1163	Oceania
+T4	GeographicalLocation 1177 1192	Gillhmt islands
+T5	GeographicalLocation 1329 1336;1347 1354	Central America
+T6	GeographicalLocation 1341 1354	South America
+T7	GeographicalLocation 1436 1444	Atlantic
+T8	GeographicalLocation 1516 1528	Panama Canal
+T9	GeographicalLocation 1559 1568	Caribbean
+T10	Habitat 1718 1733	mangrove swamps
+T11	GeographicalLocation 2138 2149	Philippines
+T12	GeographicalLocation 2569 2580	Arabian Sea
+T13	GeographicalLocation 3539 3544	Japan
+T14	GeographicalLocation 3559 3568	Polynesia
+T15	Taxon 73 83	sea snakes
+T16	Taxon 427 437	sea snakes
+T17	Taxon 544 554	sea snakes
+T18	Taxon 563 584	elephant-trunk snakes
+T19	Taxon 607 619	river snakes
+T20	Taxon 620 629	E7ihydris
+T21	Taxon 701 722	elephant-trunk snakes
+T22	Taxon 769 779	sea snakes
+T23	Taxon 794 804	sea snakes
+T24	Taxon 841 862	elephant-trunk snakes
+T25	Taxon 898 902	Eels
+T26	Taxon 932 942	sea snakes
+T27	Taxon 956 965	sea snake
+T28	Taxon 1036 1046	Sea snakes
+T29	GeographicalLocation 1091 1116	Australian coastal waters
+T30	GeographicalLocation 1075 1086;1102 1116	south Asian coastal waters
+T31	GeographicalLocation 1165 1172	Society
+T32	Taxon 1212 1229	pelagic sea snake
+T33	Taxon 1231 1239	Pejamj-s
+T34	GeographicalLocation 1296 1303	Pacific
+T35	GeographicalLocation 1359 1379	south to New Zealand
+T36	GeographicalLocation 1388 1405	Case of Good Hope
+T37	Taxon 1407 1419	Xo sea snake
+T38	Taxon 1459 1476	pelagic sea snake
+T39	Habitat 1637 1656	warm shallow waters
+T40	Habitat 1690 1706	Mouths of rivers
+T41	Habitat 1708 1712	bays
+T42	Taxon 1774 1784	sea snakes
+T43	Habitat 1803 1814	fresh water
+T44	Habitat 1791 1799;1809 1814	brackish water
+T45	Habitat 1859 1864	lakes
+T46	Taxon 1881 1891	sea snakes
+T47	TemporalExpression 1994 1999	hours
+T48	TemporalExpression 2642 2648	winter
+T49	Habitat 2673 2696	coastal mangrove swamps
+T50	Habitat 2754 2760	swamps
+T51	Taxon 2762 2772	Sea snakes
+T52	Taxon 2797 2801	Eels
+T53	Taxon 2912 2922	Sea snakes
+T54	Taxon 3482 3492	sea snakes
+T55	GeographicalLocation 3532 3537	China

@@ -1,0 +1,46 @@
+T1	Taxon 554 563	Salvadori
+T2	GeographicalLocation 611 618	Calayan
+T3	GeographicalLocation 690 708	Philippine Islands
+T4	Taxon 996 1019	Leucotreron leclancheri
+T5	GeographicalLocation 1047 1054	Calayan
+T6	GeographicalLocation 1076 1081	Luzon
+T7	Taxon 1124 1143	Carpophaga nuchalis
+T8	GeographicalLocation 1301 1305	Fuga
+T9	Taxon 1324 1335	C. miliaris
+T10	GeographicalLocation 1366 1370	Fuga
+T11	GeographicalLocation 1375 1382	Cagayan
+T12	GeographicalLocation 1542 1546	Fuga
+T13	GeographicalLocation 1563 1570	Calayan
+T14	GeographicalLocation 1902 1909	Calayan
+T15	Taxon 1918 1939	COLUMBA GRISEIGULARIS
+T16	Taxon 2144 2159	M. tenuirostris
+T17	GeographicalLocation 2356 2370	Calayan Island
+T18	Person 2421 2435	R. C. McGregor
+T19	Person 2440 2452	A. Celestino
+T20	Taxon 481 493	Luzon Turnix
+T21	Taxon 524 544	Sphexocercus FOIIMOS
+T22	Taxon 524 550	Sphexocercus FOIIMOS Swinh
+T23	Taxon 640 646	pu-nai
+T24	Taxon 664 674	Osmotreron
+T25	Taxon 745 760	Formosa species
+T26	Habitat 792 801	mountains
+T27	GeographicalLocation 1086 1093	Mindoro
+T28	Taxon 1124 1147	Carpophaga nuchalis Cab
+T29	Person 1149 1154	Grant
+T30	Person 1156 1160	Ibis
+T31	Person 1184 1193	Whitehead
+T32	Person 1195 1199	Ibis
+T33	TemporalExpression 1201 1205	1899
+T34	Person 1221 1226	Grant
+T35	Person 1231 1240	Whitehead
+T36	TemporalExpression 1162 1166	1896
+T37	GeographicalLocation 1339 1344	Luzon
+T38	GeographicalLocation 1439 1444	Luzon
+T39	Taxon 1515 1523	nuchalis
+T40	TemporalExpression 1582 1600	middle of November
+T41	Taxon 1912 1916	balu
+T42	Taxon 1918 1958	COLUMBA GRISEIGULARIS (Wald. and Layard)
+T43	Habitat 1983 2010	tops of the heaviest timber
+T44	Taxon 2070 2086	MACROPYGIA PIILA
+T45	GeographicalLocation 2372 2381	Babuyanes
+T46	TemporalExpression 2399 2416	November 18, 1903

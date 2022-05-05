@@ -1,0 +1,44 @@
+T1	Taxon 5 21	Dipterocarpaceae
+T2	Taxon 24 29	Doona
+T3	Habitat 31 48	Moist low country
+T4	GeographicalLocation 94 106	Navalapitiya
+T5	GeographicalLocation 109 119	Ambagamuwa
+T6	GeographicalLocation 122 140	Singhe Raja Forest
+T7	GeographicalLocation 143 157	Morowak Korale
+T8	Person 165 171	Walker
+T9	GeographicalLocation 175 185	Pelmadulla
+T10	Person 190 195	Lewis
+T11	TemporalExpression 202 207	April
+T12	Taxon 318 326	Yakahalu
+T13	GeographicalLocation 408 423	South of Ceylon
+T14	Taxon 442 458	BeraliyaYakahalu
+T15	GeographicalLocation 464 472	S. Prov.
+T16	GeographicalLocation 610 620	Ambagamuwa
+T17	GeographicalLocation 884 892	S. Prov.
+T18	TemporalExpression 896 900	1887
+T19	Taxon 907 923	D. congestiflora
+T20	Taxon 907 929	D. congestiflora, Thw.
+T21	TemporalExpression 940 945	i8i;8
+T22	Taxon 948 954	Tiniya
+T23	Habitat 1539 1557	Moist low countr)'
+T24	GeographicalLocation 1565 1573	Hiniduma
+T25	GeographicalLocation 1575 1582	Hewesse
+T26	GeographicalLocation 1584 1595	Singhe Raja
+T27	GeographicalLocation 1598 1611	Bambarabotuwa
+T28	GeographicalLocation 1614 1622	Gilimale
+T29	GeographicalLocation 1624 1636	Sabaragamuwa
+T30	TemporalExpression 1654 1660	August
+T31	TemporalExpression 1662 1667	Sept.
+T32	Taxon 1751 1764	D. cordifolia
+T33	Taxon 1751 1770	D. cordifolia, Thw.
+T34	Taxon 1788 1796	Beraliya
+T35	Habitat 2147 2164	Moist low country
+T36	GeographicalLocation 2180 2192	Sabaragamuwa
+T37	GeographicalLocation 2194 2204	Lihinigala
+T38	GeographicalLocation 2206 2213	Hewesse
+T39	GeographicalLocation 2226 2234	Lunugala
+T40	GeographicalLocation 2237 2240	Uva
+T41	GeographicalLocation 2252 2258	Matara
+T42	Person 2261 2267	Walker
+T43	TemporalExpression 2274 2278	Feb.
+T44	TemporalExpression 2362 2366	1887

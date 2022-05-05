@@ -1,0 +1,64 @@
+T1	Taxon 152 171	Dendrocygna viduata
+T2	Taxon 222 239	LAEMOBOTHRIONIDAE
+T3	Taxon 390 405	Haliastur Indus
+T4	GeographicalLocation 462 476	Liguasan Marsh
+T5	GeographicalLocation 478 495	Cotabato Province
+T6	GeographicalLocation 497 505	Mindanao
+T7	GeographicalLocation 603 610	Bugasan
+T8	GeographicalLocation 612 629	Cotabato Province
+T9	GeographicalLocation 631 639	Mindanao
+T10	Taxon 718 737	Docophorus pachypus
+T11	Taxon 789 816	Haliastur indus intermedius
+T12	GeographicalLocation 856 862	Manila
+T13	Taxon 871 891	Craspedorrhynchus sp
+T14	Taxon 924 951	Spilornis cheela holospilus
+T15	GeographicalLocation 995 1009	Davao Province
+T16	GeographicalLocation 1011 1019	Mindanao
+T17	Taxon 1021 1045	Cuclotogaster acuminatus
+T18	Taxon 1055 1074	Lipeurus acuminatus
+T19	Taxon 1151 1177	Coturnix chinensis lineata
+T20	Taxon 1179 1186	Scopoli
+T21	Taxon 1235 1249	Degeeriella sp
+T22	Taxon 1281 1308	Haliastur indus intermedius
+T23	GeographicalLocation 1353 1367	Liguasan Marsh
+T24	GeographicalLocation 1369 1386	Cotabato Province
+T25	GeographicalLocation 1451 1457	Manila
+T26	Taxon 650 660	ISCHNOCERA
+T27	Person 0 7	EMERSON
+T28	Person 12 16	WARD
+T29	Taxon 18 39	PHILIPPINE MALLOPHAGA
+T30	Taxon 152 182	Dendrocygna viduata (Linnaeus)
+T31	Taxon 240 262	Laemobothrion mjobergi
+T32	Taxon 240 270	Laemobothrion mjobergi Eichler
+T33	Taxon 271 293	Laemobothrion mjobergi
+T34	Taxon 271 301	Laemobothrion mjobergi Eichler
+T35	TemporalExpression 303 307	1944
+T36	Person 323 331	Zeitschr
+T37	TemporalExpression 333 337	1943
+T38	Taxon 390 417	Haliastur Indus intermedius
+T39	Taxon 390 423	Haliastur Indus intermedius Blyth
+T40	Taxon 425 438	Brahminy kite
+T41	Taxon 507 520	Laemobothrion
+T42	Taxon 539 555	Butastur indicus
+T43	Taxon 539 564	Butastur indicus (Gmelin)
+T44	Taxon 566 584	gray-faced buzzard
+T45	Taxon 682 708	Craspedorrhynchus pachypus
+T46	Taxon 682 717	Craspedorrhynchus pachypus (Giebel)
+T47	Taxon 668 681	PHILOPTERIDAE
+T48	Taxon 718 744	Docophorus pachypus Giebel
+T49	TemporalExpression 746 750	1874
+T50	Taxon 789 822	Haliastur indus intermedius Blyth
+T51	Taxon 824 837	Brahminy kite
+T52	GeographicalLocation 864 869	Luzon
+T53	Taxon 924 960	Spilornis cheela holospilus (Vigors)
+T54	Taxon 962 975	serpent eagle
+T55	Taxon 1021 1054	Cuclotogaster acuminatus (Piaget)
+T56	Taxon 1055 1081	Lipeurus acuminatus Piaget
+T57	TemporalExpression 1083 1087	1885
+T58	Taxon 1151 1187	Coturnix chinensis lineata (Scopoli)
+T59	Taxon 1189 1202	painted quail
+T60	GeographicalLocation 1221 1225	Naic
+T61	GeographicalLocation 1227 1233	Cavite
+T62	Taxon 1281 1314	Haliastur indus intermedius Blyth
+T63	Taxon 1316 1329	Brahminy kite
+T64	GeographicalLocation 1459 1464	Luzon

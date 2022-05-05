@@ -1,0 +1,113 @@
+T1	Taxon 308 321	Ram pastinaca
+T2	GeographicalLocation 368 372	Tana
+T3	Taxon 444 461	Gymnura poecilura
+T4	Taxon 1014 1023	gymnurids
+T5	GeographicalLocation 1039 1046	Red Sea
+T6	GeographicalLocation 1051 1071	east coast of Africa
+T7	GeographicalLocation 1084 1089	Japan
+T8	GeographicalLocation 1108 1119	Philippines
+T9	Taxon 1167 1176	gymnurids
+T10	GeographicalLocation 1182 1192	New Guinea
+T11	Person 1391 1400	Schroeder
+T12	GeographicalLocation 1468 1477	Polynesia
+T13	Taxon 1494 1503	gymnurids
+T14	Taxon 1505 1515	Haemulidae
+T15	GeographicalLocation 1939 1955	eastern Atlantic
+T16	GeographicalLocation 2190 2206	eastern Atlantic
+T17	Taxon 2213 2222	Diagramma
+T18	GeographicalLocation 2271 2284	Pacific Plate
+T19	Taxon 2292 2307	Parapns diploma
+T20	GeographicalLocation 2321 2337	eastern Atlantic
+T21	GeographicalLocation 2377 2390	Pacific Plate
+T22	Taxon 2402 2416	Plectorhynchus
+T23	GeographicalLocation 2440 2456	eastern Atlantic
+T24	GeographicalLocation 2519 2535	Hawaiian Islands
+T25	Taxon 2695 2708	Harpadontidae
+T26	Taxon 2713 2725	Bombay ducks
+T27	Taxon 3132 3144	Synodontidae
+T28	Taxon 3175 3188	Harpadontinae
+T29	Taxon 3197 3209	Synodontidae
+T30	GeographicalLocation 3380 3405	northwest coasts of India
+T31	GeographicalLocation 3430 3444	southern India
+T32	GeographicalLocation 3521 3527	Borneo
+T33	GeographicalLocation 3529 3539	New Guinea
+T34	GeographicalLocation 3561 3572	Philippines
+T35	GeographicalLocation 3636 3641	Korea
+T36	Taxon 3693 3701	Harpadon
+T37	GeographicalLocation 3891 3899	Zanzibar
+T38	GeographicalLocation 181 194	Pacific Plate
+T39	Taxon 260 272	elasmobranch
+T40	Taxon 444 468	Gymnura poecilura (Shaw)
+T41	Person 281 287	Fowler
+T42	TemporalExpression 289 293	1928
+T43	TemporalExpression 295 299	1941
+T44	Person 339 346	Forster
+T45	Person 352 360	Linnaeus
+T46	GeographicalLocation 374 386	New Hebrides
+T47	GeographicalLocation 408 421	Pacific Plate
+T48	GeographicalLocation 473 490	Indo-west Pacific
+T49	Person 500 506	Fowler
+T50	Person 677 683	Forste
+T51	Taxon 607 611	Tana
+T52	GeographicalLocation 619 634	Society Islands
+T53	GeographicalLocation 662 675	Pacific Plate
+T54	TemporalExpression 688 692	1844
+T55	Person 776 783	Forster
+T56	Taxon 913 922	Gymnurids
+T57	Person 944 952	Forster'
+T58	Taxon 978 986	dasyatid
+T59	GeographicalLocation 995 1012	Indo-West Pacific
+T60	GeographicalLocation 1124 1141	eastern Australia
+T61	GeographicalLocation 1224 1264	southwestern margin of the Pacific Plate
+T62	Taxon 1318 1327	gymnurids
+T63	GeographicalLocation 1341 1353	New Hebrides
+T64	GeographicalLocation 1364 1377	Pacific Plate
+T65	Person 1379 1386	Bigelow
+T66	Person 1429 1435	Fowler
+T67	TemporalExpression 1437 1441	1928
+T68	TemporalExpression 1443 1447	1941
+T69	TemporalExpression 1449 1453	1944
+T70	Habitat 1707 1718	coral reefs
+T71	Habitat 1722 1727	rocks
+T72	Taxon 1817 1826	Pomadasys
+T73	GeographicalLocation 1889 1904	eastern Pacific
+T74	GeographicalLocation 1906 1922	western Atlantic
+T75	GeographicalLocation 1924 1937	Mediterranean
+T76	GeographicalLocation 1976 2002	tropical Indo-west Pacific
+T77	GeographicalLocation 2013 2042	western margin of the Pacific
+T78	GeographicalLocation 2066 2079	Pacific Plate
+T79	Taxon 2110 2118	haemulid
+T80	GeographicalLocation 2236 2253	Indo-west Pacific
+T81	GeographicalLocation 2342 2359	Indo-west Pacific
+T82	GeographicalLocation 2425 2438	Mediterranean
+T83	GeographicalLocation 2485 2497	Indo-pacific
+T84	GeographicalLocation 2583 2596	Pacific Plate
+T85	GeographicalLocation 2680 2693	Pacific Plate
+T86	Taxon 2751 2759	Harpadon
+T87	Habitat 2885 2903	close-shore waters
+T88	Habitat 2905 2914	estuaries
+T89	Habitat 2931 2960	deep continental shelf waters
+T90	Person 2962 2974	R.K. Johnson
+T91	GeographicalLocation 2995 3012	Indo-west Pacific
+T92	GeographicalLocation 3052 3065	Pacific Plate
+T93	Person 3067 3072	Sulak
+T94	Taxon 3087 3093	Sandal
+T95	Taxon 3150 3158	Harpadon
+T96	Taxon 3295 3303	Harpadon
+T97	GeographicalLocation 3366 3375;3390 3405	northeast coasts of India
+T98	GeographicalLocation 3449 3455	Ceylon
+T99	GeographicalLocation 3489 3502	Bay of Bengal
+T100	GeographicalLocation 3515 3519	Java
+T101	GeographicalLocation 3506 3513	Sumatra
+T102	GeographicalLocation 3541 3559	northern Australia
+T103	GeographicalLocation 3598 3625	northward to the Yellow Sea
+T104	GeographicalLocation 3668 3676	Zanzibar
+T105	Person 3746 3753	Bleeker
+T106	Taxon 3877 3885	Harpadon
+T107	Person 3833 3841	Playfair
+T108	Person 3846 3854	Giinther
+T109	TemporalExpression 3755 3759	1866
+T110	TemporalExpression 3760 3764	1872
+T111	TemporalExpression 3856 3860	1866
+T112	GeographicalLocation 3961 3969	Zanzibar
+T113	Taxon 3982 3990	Harpadon

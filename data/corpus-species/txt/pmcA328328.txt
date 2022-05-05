@@ -1,0 +1,222 @@
+Mapping irradiation hybrids to cosmid and yeast artificial chromosome libraries by direct hybridization of Alu-PCR products.
+Abstract
+A direct hybridization protocol is described for screening cosmid and yeast artificial chromosome libraries with pools of Alu-PCR products from somatic cell or irradiation hybrids. This method eliminates purification, cloning and analysis of each individual Alu-PCR product before library screening. A series of human X chromosome irradiation hybrids were mapped by this method, using a cosmid reference library for comparisons between overlapping hybrids to identify interesting clones for further analysis.Images
+
+
+
+
+
+
+ Nucleic Acids Research, Vol. 19, No. 12 3315 
+
+ Mapping irradiation hybrids to cosmid and yeast artificial chromosome libraries by direct hybridization of Alu-PCR products 
+
+ Anthony P.Monaco*, Veronica M.S.Lam2, Gunther Zehetner, Gregory G.Lennon, Christal Douglas, Dean Nizetic, Peter N.Goodfellow1 and Hans Lehrach 
+
+ Genome Analysis Laboratory and 'Molecular Human Genetics Laboratory, Imperial Cancer Research Fund, 44 Lincoln's Inn Fields, London WC2A 3PX, UK and 2Department of Biochemistry, Li Shu Fan Building, Sassoon Road, University of Hong Kong, Hong Kong 
+
+ Received March 12, 1991; Revised and Accepted May 16, 1991 
+
+ ABSTRACT 
+
+ A direct hybridization protocol is described for screening cosmid and yeast artificial chromosome libraries with pools of Alu-PCR products from somatic cell or irradiation hybrids. This method eliminates purification, cloning and analysis of each individual AluPCR product before library screening. A series of human X chromosome irradiation hybrids were mapped by this method, using a cosmid reference library for comparisons between overlapping hybrids to identify interesting clones for further analysis. 
+
+ INTRODUCTION 
+
+ The generation of human DNA probes specific for individual chromosomes and subregions of chromosomes has been advanced with Alu-sequence primed polymerase chain reaction amplification (Alu-PCR, 1-3). This method specifically amplifies sequences between Alu repeats from human DNA in somatic cell hybrids and yeast artificial chromosomes (YACs, 4). Individual Alu-PCR products can be purified from agarose gels or ligated into plasmid vectors to screen for single copy sequences. Unique Alu-PCR products are then localized to certain chromosome regions using DNA blots of somatic cell hybrid panels. Once localized, Alu-PCR fragments can be screened against genomic libraries to isolate longer DNA fragments from the region of interest. As an alternative to this multistep process we have developed a hybridization protocol for screening of cosmid and YAC libraries directly with pools of Alu-PCR products. 
+
+ Two new human specific Alu primers were used to generate DNA probes from a series of irradiation-reduced hybrids containing multiple human X chromosome fragments of 1-2000 kb on a hamster chromosome background (5; P.N.G., unpublished). The Alu-PCR products were hybridized as a pool of probes to X-specific cosmid and YAC libraries, after 
+
+ competitive reassociation with an excess of human DNA to both the library filters and radioactively labelled Alu-PCR products. Comparisons were made between clones identified by overlapping irradiation hybrids and single copy DNA probes hybridized to the cosmid and YAC libraries. 
+
+ METHODS 
+
+ Two human Alu sequence primers were generated which were shown to be human specific; 3144 from the 3' end of Alu: 5'-GAGCGAGACTCCGTCTCAAA-3' and 2729 from the 5' end of Alu: 5'-GTGGATCACCTGAGGTCAGGAGTTC-3'. All PCR reactions were carried out with 100 ng of hybrid DNA and 0.7 ,^g of a single Alu primer in 100 d41 of 0.01 M Tris-HCl pH 8.3, 0.0015 M MgCl2, 0.05 M KCI, 200 AtM each of dNTPs, 10% dimethlysulfoxide, and 2.5 units of Cetus Taq polymerase. Reactions were 30 cycles of 94?C for 2 min, 57?C for 2 min, and 74?C for 4 min followed by a final extension time at 74?C for 9 min. Reactions products were analyzed on 1 % agarose gels and shown to contain between five and twenty fragments, with sizes ranging from 0.1 to 2.0 kb. Chinese hamster DNA and no DNA PCR reactions were done to control for non-human products (data not shown). 
+
+ Alu-PCR products were separated from Alu oligomers over Qiagen columns, and approximately 50-100 ng were labelled by random hexamer priming (6). The radioactively labelled pool of fragments was prehybridized with 37.5 ,^g of total human DNA and 12.5 tsg of hamster DNA immobilized on a cellulose support matrix, prepared as previously described (7). Reactions were at 65?C in 1 ml of 0.75M NaCl, 0.05M sodium phosphate pH 7.2, 0.005M  EDTA, 0.1 % sodium dodecyl sulphate (SDS), 0.5 mg/ml heparin, and 100 jig/ml denatured salmon sperm DNA. The cellulose was pelleted and the supernatant boiled for 2 min every 12-16 hours (three times in two days). 
+
+ Cosmid and YAC library filters (Hybond N+, Amersham) were prehybridized at 42?C for 16 hours with 100 jig/ml 
+
+ * To whom correspondence should be addressed at Human Genetics Laboratory, Imperial Cancer Research Fund, Institute of Molecular Medicine, John Radcliffe Hospital, Headington, Oxford OX3 9DU, UK 
+
+ 1991 Oxford University Press 
+
+ 3316 Nucleic Acids Research, Vol. 19, No. 12 
+
+ Chromosome X 
+
+ .,.., ., < 
+
+ _ ., . < ., 
+
+ *2.' 1- 7-_ 
+
+ _-_ 1. J 
+
+ ,.1 .. - 1 , _ i - _ 1 . 1 
+
+ 1 ' 4 - -1 + 
+
+ 1 1 L L . i 
+
+ . 1 . _ 1  
+
+ 1 1 s. 1 i 
+
+ 1 i ;. --r' F 1 -
+
+ 1 -1-l 
+
+ j i-_1. 1 
+
+ -   _ 1 .. 
+
+ s- S . i n -. 
+
+ .. : ,1' ,. -1 _ E I i ? 
+
+ ,. . _ _ _ 
+
+ G-
+
+ . 
+
+ *.-.,., z 
+
+ _ 
+
+ _ , 
+
+ z ;- [X1 
+
+ 21 , In 
+
+ 27  38 45   48  54  74   86 
+
+ I  1      I 
+
+ I 
+
+ I 
+
+ 107 
+
+ MD 
+
+ I 
+
+ :I                                                       I  
+
+ I        I 
+
+ I I 
+
+ Figur 2a and 2b: Hybridization of Alu-PCR products generated with Alu primer 3144 from irradiation hybrid 48 to duplicate copies of 22 x22cm filters containing 9216 human X chromosome cosmids (8). 2c: Hybridization of Alu-PCR products generated with Alu primer 3144 from an independent hybrid (54) to a third identical cosmid filter. 
+
+ Figure 1: A schematic diagram of the human X chromosome alongside the approximate cytogenetic location of fragments identified in nine irradiation hybrids (numbers across the top). The human X fragments were identified by hybridization of 27 known DNA markers (indicated by a black line; P.N.G, unpublished) or by cosmids in common with unique X chromosome probes in the reference library database (open boxes and Table 1). The size of the lines and boxes relate to the best cytogenetic location of the probes used according to Human Gene Mapping 10.5 (14) and does not indicate the physical extent of the irradiation hybrid fragments. 
+
+ denatured and sheared total human DNA in 50% formamide, 4XSSC, 0.05 M sodium phosphate pH 7.2, 0.001 M EDTA, 10% dextran sulphate, 1.0% SDS, 50 isg/ml denatured salmon sperm DNA and OxDenhardt's solution. The radioactively labelled Alu-PCR products were denatured and added to fresh 
+
+ hybridization solution without human DNA competitor at 1 x 106 
+
+ cpm/ml and hybridized at 42?C for 16 hours. Filters were washed in 0.1 xSSC and 1.0% SDS, twice at room temperature and twice at 65?C for 30 min each and exposed to Kodak X-OMAT film for 2-3 days at -70?C with an intensifying screen. 
+
+ For each hybridization, two sets of duplicate cosmid filters were used from the ICRF reference library system (8), each containing 9216 flow-sorted human X chromosome cosmid clones or approximately 2 chromosome equivalents on a 22 x 22 cm filter (9). The coordinates of signals positive on duplicate cosmid filters were entered into the reference library database (G. Z, unpublished) using a digitizing tablet. For the X chromosome specific YAC library (A.P.M. and H.L., unpublished), about 420 YAC colonies were spotted manually onto filters from 96 well microtiter dishes using a 96 prong device. After growth on selective media for 3 days, YAC filters were processed for hybridization as previously described (10). 
+
+ RESULTS 
+
+ A panel of 195 X chromosome irradiation hybrids was constructed (50,000 rads) and characterized by DNA hybridization using 27 X chromosome markers and flourescence in situ hybridization using total human DNA as probe (Benham et al., 1989; P.N.G., unpublished). This analysis indicated that the hybrids contained multiple small fragments (4-10 fragments of 1000-5000 kb each) with a preferential retaining of centromere sequences (90%). From this panel, nine irradiation hybrids were chosen that contained less than five different regions by DNA probe hybridizations, mostly from the short arm of the X chromosome (Fig 1). All nine hybrids were used in PCR reactions with 3'-Alu primer 3144 and two were used with 5'-Alu 
+
+ Figure 3: Hybridization of Alu-PCR products generated with Alu primer 3144 from irradiation hybrid 54 to a filter containing 420 YAC clones from the human X chromosome. The positive YAC was also identified in a separate hybridization with the DMD probe P20 (12). 
+
+ primer 2729. Example hybridizations to a human X chromosome cosmid filter in Fig 2 shows the intensity and reliability of positive clones identified on duplicate filters with Alu-PCR products from the same irradiation hybrid (48) and the independence of clones identified with Alu-PCR products from a different hybrid (54). Fig 3 shows a single positive YAC clone after hybridization of Alu-PCR products from irradiation hybrid 54 to a filter containing about 420 YAC clones specific for the human X chromosome. 
+
+ The total number of cosmids identified with each pool of AluPCR products for each hybrid is shown in Table 1. From the average number of cosmids identified (24) in four chromosome equivalents screened and the estimated average DNA content in each hybrid (3000-15000 kb), the Alu-PCR products generated by a single primer were calculated on average to be 300-1500 kb apart, similar to published estimates for this method (1,2). Only 3-4 cosmids were identified in common using Alu-PCR products generated with either 3' or 5' Alu primers (3144 or 2729) from two hybrids (38 and 45). This shows that separate products were amplified with the two Alu primers since they prime synthesis from opposite ends of the Alu consensus sequence and Alu sequences are oriented in the genome either head to head, 
+
+ A 
+
+ B 
+
+ C 
+
+ El 
+
+ I0 
+
+ Nucleic Acids Research, Vol. 19, No. 12 3317 
+
+ Table 1. Cosmids identified by hybrids and unique probes 
+
+ hybrids       21    27     38    38    45    45    48     54    74    86     107   unique 
+
+ primer 3144  3144  3144  2729  3144  2729   3144  3144  3144  33144 3144   probes 
+
+ 21     3144  59                                                                   1 27     3144   7    14                                                             2 38     3144   3     1    28                                                       2 38     2729   0     0     4     25                                                0 45     3144  13     2      2     0    32                                          3 45     2729   1     0      0     0     3    31                                    0 48     3144  10     2      4     0     2     0    28                              3 54     3144  11     3     0      0     5     0     5     30                       2 74     3144   5     0     0      0     4     0     5     12    20                 3 86     3144   3     1     0      0     4     1     3      4     3    17           0 107     3144   1     0      1     1     0     0     3     0      0     0    13    0 
+
+ tail to tail or head to tail relative to each other. Therefore, by using the 3'- and 5'-Alu primers in separate PCR reactions with the same hybrid DNA, the total number of products and cosmid clones identified was almost doubled. 
+
+ Table 1 also indicates how many cosmids were identified by Alu-PCR products from other hybrids, and 16 cosmids previously identified with unique DNA probes in the reference library database. As can be seen in Fig 1 and previous irradiation hybrid analysis, there is a preferential retention of centromere sequences (2,11). However, there were no cosmids identified in common from all the hybrids positive with centromere sequences. This is probably due to a paucity of Alu repeats in the correct orientation in alphoid centromere sequences and thus few or no Alu-PCR products would be amplified from the centromere. 
+
+ Cosmids identified in common by several irradiation hybrids (Table 1) were most likely from regions of overlap outside the centromere area as shown by the previous DNA probe characterization (Fig 1). The overlap regions between hybrids were also seen by 16 cosmids (Table 1, Fig 1) that were hybridization targets of unique DNA markers in the reference library database that mapped in independent experiments to the overlap region. At least for several cosmids this showed that the Alu-PCR products identified target cosmids that were definitely from the expected region contained in the hybrids. For example, hybrids 21 and 54 were both shown to contain part of the Duchenne muscular dystrophy (DMD) locus (Fig 1; P.N.G., unpublished) and had 11 cosmids in common, including one identified by the probe P20 from the deletion hotspot region of the DMD gene (12). In Fig 3 the hybridization of Alu-PCR products from hybrid 54 identified a YAC clone which was also positive for the DMD probe P20 (data not shown). This method also identified fragments in the hybrids that were not seen in the initial DNA characterization (Fig 1 and Table 1). Since the 27 DNA probes were not close enough to each other along the chromosome to detect all possible hybrid fragments (1000-5000 kb), many regions would have been untested. For example, AluPCR products from hybrids 45 and 48 identified several cosmids, also seen by the cDNA for chronic granulomatous disease gene (CYBB, 13) in Xp2 1.1, although this region was not tested in the original hybrid characterization. 
+
+ DISCUSSION 
+
+ The direct hybridization of Alu-PCR products from somatic cell hybrids to genomic libraries can bypass gel purification or ligation of fragments into plasmid vectors and individual analysis for single copy sequences. Hybridization of Alu-PCR products as 
+
+ a pool to ordered array libraries such as the flow-sorted X chromosome cosmid library (9), allows the direct comparison of overlapping hybrids to pinpoint cosmids most likely to be from the region of interest. In conjunction with the reference library database (G.Z, unpublished) with 183 X chromosome probe hybridization entries, cosmids identified with both Alu-PCR products and uniquely mapped X probes immediately map them to the region of interest and proove that the method has worked. Similar hybridization experiments using Alu-PCR products from four overlapping irradiation hybrids identified four cosmids in common that mapped to the region of overlap by independent experiments (F.Muscatelli, A.P.M., P.N.G., H.L. and M.Fontes, in preparation). Since only 27 probes from the X chromosome were used to initially characterize the hybrids and the length of individual human fragments in the irradiation hybrids is about 1000-5000 kb, many regions could have been undetected in the original analysis. The direct hybridization of Alu-PCR products to the cosmid reference library detected such fragments since they identified cosmids in common with uniquely mapped probes in regions not tested originally (Table 1 and Fig 1). This should prove to be a sensitive and efficient method to determine content and overlap of irradiation hybrids in conjunction with DNA blot hybridization. However, since the exact length of the human DNA fragments for each hybrid and the spacing of Alu-PCR products along the chromosome is not known, it is difficult to directly correlate the number of target cosmids to the DNA content of the hybrids. 
+
+ The direct hybridization of Alu-PCR products from irradiation or somatic cell hybrids to total genomic YAC libraries will be especially useful to construct long range YAC contigs from specific subregions of chromosomes. The dissection of a total genomic YAC library by this method may be more efficient than generating chromosome specific YAC libraries from somatic cell hybrids (usually a haploid human chromosome on a diploid or greater rodent background) or flow-sorted chromosomes, because of the low transformation efficiency of yeast. 
+
+ ACKNOWLEDGEMENTS 
+
+ We would like to thank Gert-Jan Van Ommen for the probe P20 and Stuart Orkin for the CYBB cDNA probe. A.P.M is supported in part by a research fellowship from the Muscular Dystrophy Association of America. V.M.S.L. is supported in part by the Medical Research Grant of the University of Hong Kong. Reference library filters and cosmids identified by Alu-PCR products can be requested from the Reference Library Database, ICRF, 44 Lincoln's Inn Fields, London WC2A 3PX, U.K. 
+
+ 3318 Nucleic Acids Research, Vol. 19, No. 12 
+
+ REFERENCES 
+
+ 1. Nelson, D.L., Ledbetter, S.A., Corbo, L., Victoria, M.F., Ramirez-Solis, 
+
+ R., Webster, T.D., Ledbetter, D.H., and Caskey, C.T. (1989) Proc. Natl. Acad. Sci. USA, 86:6686-6690. 
+
+ 2. Ledbetter, S.A., Nelson, D.L., Warren, S.T., and Ledbetter, D.H. (1990) 
+
+ Genomics, 6:475-481. 
+
+ 3. Cotter, F.E., Hampton, G.M., Nasipuri, S., Bodmer, W.F., and Young 
+
+ B.D. (1990) Genomics, 7:257-263. 
+
+ 4. Burke, D.T., Carle, G.F., and Olson, M.V. (1987) Science, 236:806-812. 5. Benham, F., Hart, K., Crolla, J., Bobrow, M., Francavilla, M., and 
+
+ Goodfellow, P.N. (1989) Genomics, 4:509-517. 
+
+ 6. Feinberg, A.P., and Vogelstein, B. (1984) Anal. Biochem., 137:266-267. 7. Hochgeschwender, U., Sutciffe, J.G., and Brennan, M.B. (1989) Proc. Natl. 
+
+ Acad. Sci. USA, 86:8482-8486. 
+
+ 8. Lehrach, H., Drmanac, R., Hoheisel, J., Larin, Z., Lennon, G., Monaco, 
+
+ A.P., Nizetic, D., Zehetner, G., and Poustka, A. (1990) In Davies, K.E. & Tilghman, S.M. (eds.), Genome Analysis Volume 1: Genetic and Physical Mapping. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, pp. 39-81. 
+
+ 9. Nizetic, D., Zehetner, G., Monaco, A.P., Gellen, L., Young, B.D., and 
+
+ Lehrach, H. (1991) Proc. Natl. Acad. Sci. USA, 88:3233-3237. 
+
+ 10. Larin, Z. and Lehrach, H. (1990) Genet. Res. Camb., 56:203-208. 
+
+ 11. Cox, D,R., Pritchard, C.A., Uglum, E., Casher, D., Koborl. J. and Myers, 
+
+ R.M. (1989) Genomics, 4:397-407. 
+
+ 12. Wapenaar, M.C., Kievits, T., Hart, K.A., Abbs S., Blonden, L.A.J., 
+
+ denDunnen, J.T., Grootscholten, P.M., Bakker, E., Verellen-Dumoulin, C., Bobrow, M., vanOmmen, G.J.B., and Pearson, P.L. (1988) Genomics, 2:101-108. 
+
+ 13. Royer-Pokora, B., Kunkel, L.M., Monaco, A.P., Goff, S.C., Newburger, 
+
+ P.E., Baehner, R.L., Cole F.S., Curnette J.T., and Orkin, S.A. (1986) Nature, 322: 32-38. 
+
+ 14. Davies, K.E., Mandel, J.L., Monaco, A.P., Nussbaum, R.L. and Willard, 
+
+ H.F. (1990) Cytogenet. Cell Genet. 55: 254-313. 

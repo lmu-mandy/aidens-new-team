@@ -1,0 +1,67 @@
+T1	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T2	GeographicalLocation 114 132	Philippine Islands
+T3	Taxon 202 222	Pithecus mindanensis
+T4	Taxon 240 252	P. suluensis
+T5	Taxon 254 266	P. cagayanus
+T6	Taxon 268 285	Pteropus lanensis
+T7	Taxon 302 320	Urogale cylindrura
+T8	Taxon 322 339	Podogymnura truei
+T9	Taxon 341 360	Epimys tagulayensis
+T10	Taxon 362 376	E. albigularis
+T11	Taxon 378 393	E. magnirostris
+T12	Taxon 395 409	E. mindanensis
+T13	Taxon 411 424	E. zamboangae
+T14	Taxon 426 436	E. kelleri
+T15	Taxon 438 451	E. todayensis
+T16	Taxon 453 463	E. vulcani
+T17	Taxon 465 477	E. v. apicis
+T18	Taxon 479 493	E. pantarensis
+T19	Taxon 514 530	Bullimus bagobus
+T20	Taxon 532 549	Limnomys sibuanus
+T21	Taxon 551 568	Tarsomys apoensis
+T22	Taxon 570 587	Apomys hylocoetes
+T23	Taxon 589 599	A. petrels
+T24	Taxon 605 616	A. insignis
+T25	GeographicalLocation 670 688	Philippine Islands
+T26	Taxon 755 768	Sciurus cagsi
+T27	Taxon 905 925	Tarsius philippensis
+T28	Taxon 1064 1087	Crateromys schadenbergi
+T29	Taxon 1705 1726	Odontonycteris meyeri
+T30	GeographicalLocation 1817 1829	Cagayan Sulu
+T31	Person 1867 1871	E. A
+T32	GeographicalLocation 2106 2124	Philippine Islands
+T33	Taxon 2217 2235	Crocidura halconus
+T34	Taxon 2237 2246	C. beatus
+T35	Taxon 2248 2259	C. mindorus
+T36	Taxon 2261 2271	C. grandis
+T37	Taxon 2273 2287	Tupaia cuyonis
+T38	Taxon 2289 2305	Pteropus pumilus
+T39	Taxon 2307 2326	Chilophylla hirsuta
+T40	Taxon 2328 2343	Taphozous pluto
+T41	Taxon 2345 2360	Epimys tyrannus
+T42	Taxon 2362 2369	E. gala
+T43	Taxon 2371 2388	Tryphomys adustus
+T44	Taxon 2390 2406	Batomys dentatus
+T45	Taxon 2408 2421	Apomys bardus
+T46	Taxon 2433 2444	A. musculus
+T47	Taxon 2450 2469	Tarsius fraterculus
+T48	GeographicalLocation 2613 2618	Luzon
+T49	Person 38 53	Mearns, Edgar A
+T50	Taxon 224 238	P. m. apoensis
+T51	Taxon 287 300	Pt. cagayanus
+T52	Taxon 495 512	Mus commissar ius
+T53	Taxon 618 626	Meyer, A
+T54	Taxon 652 660	Squirrel
+T55	GeographicalLocation 707 713	London
+T56	TemporalExpression 715 719	1890
+T57	TemporalExpression 1224 1239	August 25, 1895
+T58	TemporalExpression 1881 1885	1904
+T59	Taxon 1920 1924	Bats
+T60	Taxon 2019 2023	bats
+T61	TemporalExpression 2181 2190	August 19
+T62	Taxon 2423 2431	A. major
+T63	Taxon 2489 2505	Mus commissarius
+T64	GeographicalLocation 2509 2515	Mearns
+T65	GeographicalLocation 2534 2544	Washington
+T66	TemporalExpression 2546 2550	1911
+T67	TemporalExpression 2561 2572	February 24

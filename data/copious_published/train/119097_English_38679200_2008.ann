@@ -1,0 +1,88 @@
+T1	Taxon 571 589	American crocodile
+T2	GeographicalLocation 1164 1174	Micronesia
+T3	GeographicalLocation 1359 1368	Caribbean
+T4	GeographicalLocation 1595 1604	Caribbean
+T5	GeographicalLocation 1741 1751	Micronesia
+T6	GeographicalLocation 1891 1901	Micronesia
+T7	GeographicalLocation 1973 1983	Micronesia
+T8	GeographicalLocation 2052 2063	Philippines
+T9	GeographicalLocation 2223 2232	Caribbean
+T10	GeographicalLocation 184 189	Samoa
+T11	TemporalExpression 239 243	2010
+T12	GeographicalLocation 244 253	Australia
+T13	GeographicalLocation 255 261	Soutin
+T14	GeographicalLocation 262 271	Australia
+T15	GeographicalLocation 288 295	Bahamas
+T16	TemporalExpression 283 287	2010
+T17	Habitat 392 398	marine
+T18	Habitat 403 410	coastal
+T19	TemporalExpression 439 443	2020
+T20	GeographicalLocation 627 633	Brazil
+T21	TemporalExpression 657 661	2012
+T22	GeographicalLocation 662 667	Chile
+T23	TemporalExpression 697 701	2010
+T24	TemporalExpression 767 771	2015
+T25	GeographicalLocation 772 780	Colombia
+T26	GeographicalLocation 782 804	San Andres Archipelago
+T27	GeographicalLocation 842 846	Cuba
+T28	TemporalExpression 1058 1062	2020
+T29	Habitat 1011 1017	marine
+T30	Habitat 1022 1029	coastal
+T31	GeographicalLocation 1064 1073	Caribbean
+T32	TemporalExpression 1158 1162	2020
+T33	Habitat 1117 1144	nearshore marine ecosystems
+T34	TemporalExpression 1217 1221	2015
+T35	GeographicalLocation 445 454	Caribbean
+T36	GeographicalLocation 672 683	marine area
+T37	GeographicalLocation 985 1003	Dominican Republic
+T38	TemporalExpression 1266 1270	2020
+T39	GeographicalLocation 1085 1109	Fed States of Micronesia
+T40	GeographicalLocation 1186 1190	Fiji
+T41	GeographicalLocation 1271 1278	Germany
+T42	GeographicalLocation 1301 1308	Grenada
+T43	GeographicalLocation 1380 1384	Guam
+T44	TemporalExpression 1353 1357	2020
+T45	TemporalExpression 1430 1434	2020
+T46	GeographicalLocation 1436 1446	Micronesia
+T47	GeographicalLocation 1458 1467	Indonesia
+T48	TemporalExpression 1492 1496	2010
+T49	TemporalExpression 1522 1526	2020
+T50	GeographicalLocation 1527 1534	Jamaica
+T51	Habitat 1542 1548	marine
+T52	Habitat 1553 1560	coastal
+T53	GeographicalLocation 1616 1626	Madagascar
+T54	Habitat 1638 1651	marine waters
+T55	TemporalExpression 1665 1669	2012
+T56	TemporalExpression 1589 1593	2020
+T57	GeographicalLocation 1670 1686	Marshall Islands
+T58	Habitat 1694 1721	nearshore marine ecosystems
+T59	TemporalExpression 1735 1739	2020
+T60	GeographicalLocation 1763 1774	New Zealand
+T61	Habitat 1782 1788	marine
+T62	TemporalExpression 1814 1818	2010
+T63	GeographicalLocation 1819 1836	Northern Marianas
+T64	Habitat 1844 1871	nearshore marine ecosystems
+T65	TemporalExpression 1885 1889	2020
+T66	Habitat 1926 1953	nearshore marine ecosystems
+T67	TemporalExpression 1967 1971	2020
+T68	TemporalExpression 2047 2051	2015
+T69	GeographicalLocation 1995 1999	Peru
+T70	GeographicalLocation 1913 1918	Palau
+T71	TemporalExpression 2097 2101	2020
+T72	GeographicalLocation 2102 2109	Senegal
+T73	GeographicalLocation 2137 2162	St Vincent and Grenadines
+T74	Habitat 2170 2176	marine
+T75	Habitat 2181 2188	coastal
+T76	TemporalExpression 2217 2221	2020
+T77	GeographicalLocation 2244 2252	Tanzania
+T78	GeographicalLocation 2302 2316	United Kingdom
+T79	TemporalExpression 2277 2281	2010
+T80	TemporalExpression 2297 2301	2025
+T81	TemporalExpression 2382 2386	2020
+T82	GeographicalLocation 2387 2390	USA
+T83	GeographicalLocation 2392 2410	Central California
+T84	Habitat 2441 2455	coastal waters
+T85	Habitat 1389 1416	nearshore marine ecosystems
+T86	Habitat 1313 1329	nearshore marine
+T87	Habitat 933 943	coral reef
+T88	Habitat 1198 1203	reefs

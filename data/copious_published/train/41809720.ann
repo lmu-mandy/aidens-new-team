@@ -1,0 +1,60 @@
+T1	Taxon 42 58	TERNSTROEMIACEAE
+T2	Taxon 60 76	Adinandra dumosa
+T3	Taxon 60 82	Adinandra dumosa, Jack
+T4	GeographicalLocation 103 110	Sumatra
+T5	GeographicalLocation 167 180	Malay Islands
+T6	Taxon 214 234	Adinandra sylvestris
+T7	Taxon 214 240	Adinandra sylvestris, Jack
+T8	GeographicalLocation 327 336	Moeo-moco
+T9	GeographicalLocation 338 345	Sumatra
+T10	Taxon 347 364	Saurauja tristyla
+T11	Taxon 347 368	Saurauja tristyla, DC
+T12	Person 387 391	Jack
+T13	GeographicalLocation 397 403	Penang
+T14	Taxon 407 431	Ternstroemia pentdpetdla
+T15	Taxon 465 477	Saurauja sp.
+T16	GeographicalLocation 497 504	Salumah
+T17	GeographicalLocation 506 513	Sumatra
+T18	Taxon 518 540	Ternstroemia cuspidata
+T19	Taxon 574 594	Ternstroemia serrata
+T20	Taxon 574 600	Ternstroemia serrata, Jack
+T21	GeographicalLocation 618 628	Pulau Xias
+T22	Taxon 708 721	Ternstroemias
+T23	Taxon 758 780	Ternstroemia acuminata
+T24	Taxon 758 786	Ternstroemia acuminata, Jack
+T25	GeographicalLocation 807 815	Tapanuli
+T26	Taxon 908 926	Cleyera rubiginosa
+T27	Person 945 949	Jack
+T28	GeographicalLocation 955 962	Sumatra
+T29	Taxon 966 989	Ternstroemia rubiginosa
+T30	Taxon 1022 1038	Archytaea Vahlii
+T31	Taxon 1022 1046	Archytaea Vahlii, Choisy
+T32	Person 1065 1069	Jack
+T33	GeographicalLocation 1073 1077	Rhio
+T34	Person 1134 1138	Jack
+T35	GeographicalLocation 1146 1152	Penang
+T36	Taxon 1198 1214	DIPTEROCARPACEAE
+T37	Taxon 1216 1237	Dryobalanops Camphora
+T38	Taxon 1216 1246	Dryobalanops Camphora, Gaertn.
+T39	GeographicalLocation 1266 1274	Tapanuli
+T40	GeographicalLocation 1276 1283	Sumatra
+T41	Person 1300 1306	Prince
+T42	Person 1359 1367	Roxburgh
+T43	TemporalExpression 1544 1548	1816
+T44	TemporalExpression 1588 1592	1819
+T45	Person 1597 1603	Prince
+T46	Person 1637 1644	Raffles
+T47	Person 1662 1666	Jack
+T48	Person 1662 1666	Jack
+T49	Taxon 1838 1847	MALVACEAE
+T50	Taxon 1849 1870	Gossypium brasiliense
+T51	Taxon 1849 1877	Gossypium brasiliense, Macf.
+T52	Taxon 1883 1900	Pernambuco cotton
+T53	GeographicalLocation 1946 1952	Penang
+T54	Taxon 1975 1988	STERCULIACEAE
+T55	Taxon 1990 2006	Sterculia laevis
+T56	Taxon 1990 2013	Sterculia laevis, Wall.
+T57	Person 2030 2034	Jack
+T58	GeographicalLocation 2059 2065	Penang
+T59	Taxon 2095 2106	S. coccinea
+T60	Taxon 2095 2113	S. coccinea, Roxb.

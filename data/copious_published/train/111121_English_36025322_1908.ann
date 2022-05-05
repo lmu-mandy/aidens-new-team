@@ -1,0 +1,32 @@
+T1	GeographicalLocation 101 116	Sinauilan Creek
+T2	GeographicalLocation 295 300	Digos
+T3	GeographicalLocation 333 343	Davao Gulf
+T4	GeographicalLocation 1529 1534	Davao
+T5	GeographicalLocation 1909 1914	Davao
+T6	GeographicalLocation 1928 1937	Zamboanga
+T7	GeographicalLocation 2082 2095	Gulf of Davao
+T8	GeographicalLocation 2223 2229	Manila
+T9	GeographicalLocation 2371 2389	Philippine Islands
+T10	GeographicalLocation 27 35	MINDANAO
+T11	GeographicalLocation 40 44	SULU
+T12	TemporalExpression 183 200	December 19, 1907
+T13	TemporalExpression 465 482	December 20, 1907
+T14	GeographicalLocation 523 528	Davao
+T15	GeographicalLocation 563 570	Bolinao
+T16	TemporalExpression 603 607	noon
+T17	GeographicalLocation 623 628	Davao
+T18	TemporalExpression 635 638	7 p
+T19	GeographicalLocation 741 746	Digos
+T20	GeographicalLocation 787 790	Apo
+T21	TemporalExpression 717 736	morning of the 21st
+T22	Habitat 1095 1107	dense Jungle
+T23	Taxon 1266 1277	blueberries
+T24	GeographicalLocation 1310 1313	Apo
+T25	Person 1883 1890	Caffery
+T26	GeographicalLocation 2004 2009	Davao
+T27	GeographicalLocation 2051 2056	Daron
+T28	GeographicalLocation 2138 2147	Mount Apo
+T29	Person 2177 2182	Ickis
+T30	Person 2188 2195	Goodman
+T31	GeographicalLocation 2235 2241	Messrs
+T32	GeographicalLocation 2277 2286	Mount Apo

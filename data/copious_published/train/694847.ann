@@ -1,0 +1,19 @@
+T1	Taxon 297 312	D. vernicifluus
+T2	Taxon 355 368	D. marginatus
+T3	Taxon 459 474	D. grandiflorus
+T4	Taxon 459 481	D. grandiflorus Blanco
+T5	GeographicalLocation 595 600	Luzon
+T6	GeographicalLocation 602 617	Bataan Province
+T7	GeographicalLocation 619 634	Mount Mariveles
+T8	Person 652 658	Curran
+T9	Person 661 668	Merritt
+T10	TemporalExpression 670 681	August 1908
+T11	Taxon 1134 1159	DIPTEROCARPUS ORBICULARIS
+T12	Taxon 2347 2362	D. grandiflorus
+T13	Taxon 2347 2369	D. grandiflorus Blanco
+T14	GeographicalLocation 2371 2376	Luzon
+T15	GeographicalLocation 2378 2396	Camarines Province
+T16	Person 2414 2419	Penas
+T17	Person 2421 2428	Soriano
+T18	Person 2433 2443	Abellanosa
+T19	TemporalExpression 2445 2459	April 26, 1914

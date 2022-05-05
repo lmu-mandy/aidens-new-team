@@ -1,0 +1,46 @@
+T1	Taxon 0 10	Anisoptera
+T2	Taxon 17 33	dipterocarpaceae
+T3	Habitat 518 525	Forests
+T4	GeographicalLocation 527 532	Perak
+T5	GeographicalLocation 534 548	Thaiping Hills
+T6	GeographicalLocation 550 558	Bindings
+T7	GeographicalLocation 560 567	Pangkor
+T8	Person 569 575	Curtis
+T9	GeographicalLocation 578 584	Penang
+T10	GeographicalLocation 586 595	Muka Head
+T11	GeographicalLocation 600 615	Government Hill
+T12	GeographicalLocation 646 653	Disirih
+T13	GeographicalLocation 655 661	Borneo
+T14	Taxon 677 685	Rengkong
+T15	Taxon 693 705	A. marginata
+T16	Taxon 693 712	A. marginata Korth.
+T17	GeographicalLocation 1384 1390	Pahang
+T18	GeographicalLocation 1392 1403	Tanjong Api
+T19	GeographicalLocation 1405 1412	Kwantan
+T20	Person 1414 1423	Foxworthy
+T21	GeographicalLocation 1435 1441	Bangka
+T22	GeographicalLocation 1443 1449	Borneo
+T23	Taxon 1464 1471	Mersawa
+T24	Taxon 1475 1480	Sanai
+T25	Taxon 1488 1497	A. laevis
+T26	Taxon 1488 1503	A. laevis Ridl.
+T27	Habitat 1957 1964	Forests
+T28	GeographicalLocation 1966 1975	Singapore
+T29	GeographicalLocation 1977 1990	Garden Jungle
+T30	GeographicalLocation 1992 1999	Malacca
+T31	GeographicalLocation 2001 2009	Selandor
+T32	GeographicalLocation 2012 2020	Merlimau
+T33	Person 2022 2029	Cantley
+T34	GeographicalLocation 2033 2039	Machap
+T35	Person 2041 2046	Derry
+T36	GeographicalLocation 2049 2055	Pahang
+T37	GeographicalLocation 2057 2075	Bukit Sungei Nilam
+T38	GeographicalLocation 2077 2084	Bentong
+T39	Person 2086 2095	Foxworthy
+T40	Taxon 2114 2121	Mersawa
+T41	Taxon 2124 2127	Lah
+T42	Taxon 2130 2144	Meranti Jamang
+T43	Taxon 2167 2176	A. glabra
+T44	Person 2180 2184	Kurz
+T45	Taxon 2329 2341	A. thurifera
+T46	Taxon 2329 2347	A. thurifera Blume

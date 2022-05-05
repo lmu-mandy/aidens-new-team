@@ -1,0 +1,74 @@
+T1	Taxon 61 70	fergusoni
+T2	GeographicalLocation 108 114	Mexico
+T3	GeographicalLocation 123 133	Turtle Bay
+T4	GeographicalLocation 138 151	Magdalena Bay
+T5	GeographicalLocation 207 213	Mexico
+T6	GeographicalLocation 228 245	Galapagos Islands
+T7	GeographicalLocation 379 393	Santa Inez Bay
+T8	GeographicalLocation 553 567	Clarion Island
+T9	GeographicalLocation 594 605	Chamela Bay
+T10	GeographicalLocation 643 654	Port Parker
+T11	GeographicalLocation 890 905	Santa Maria Bay
+T12	GeographicalLocation 907 920	Magdalena Bay
+T13	GeographicalLocation 925 939	Cape San Lucas
+T14	GeographicalLocation 958 972	Clarion Island
+T15	Taxon 1518 1528	C. terebra
+T16	GeographicalLocation 1606 1617	Philippines
+T17	GeographicalLocation 1904 1913	Mauritius
+T18	Taxon 2237 2249	C. xanthicus
+T19	GeographicalLocation 2461 2474	Magdalena Bay
+T20	Person 8 13	HANNA
+T21	GeographicalLocation 72 78	Panama
+T22	Taxon 84 93	xanthicus
+T23	GeographicalLocation 99 106	Guaymas
+T24	GeographicalLocation 167 171	Baja
+T25	GeographicalLocation 172 182	California
+T26	GeographicalLocation 187 205	Gulf of California
+T27	GeographicalLocation 250 257	Mancora
+T28	GeographicalLocation 259 263	Peru
+T29	GeographicalLocation 302 308	Mexico
+T30	Person 265 278	D. L.frizzell
+T31	GeographicalLocation 310 320	Arena Bank
+T32	GeographicalLocation 322 326	Baja
+T33	GeographicalLocation 327 337	California
+T34	GeographicalLocation 395 399	Baja
+T35	GeographicalLocation 400 410	California
+T36	GeographicalLocation 466 477	Gorda Banks
+T37	GeographicalLocation 479 483	Baja
+T38	GeographicalLocation 484 494	California
+T39	GeographicalLocation 539 551	Pyramid Rock
+T40	GeographicalLocation 631 641	Costa Rica
+T41	GeographicalLocation 687 695	Judas Pt
+T42	GeographicalLocation 737 743	Panama
+T43	GeographicalLocation 745 758	Hannibal Bank
+T44	GeographicalLocation 796 832	New York Zoological Society Stations
+T45	GeographicalLocation 878 888	Turtle Bay
+T46	GeographicalLocation 941 945	Baja
+T47	GeographicalLocation 946 956	California
+T48	TemporalExpression 1091 1095	1873
+T49	Person 1216 1220	Dall
+T50	Taxon 1288 1297	fergusoni
+T51	Taxon 1236 1243	C comes
+T52	Taxon 1236 1249	C comes Hinds
+T53	Person 1312 1317	Hinds
+T54	Person 1336 1341	Reeve
+T55	Taxon 1427 1439	C terebellum
+T56	Person 1447 1452	Tryon
+T57	Person 1482 1487	Reeve
+T58	Person 1530 1547	De Barros e Cunha
+T59	Person 1573 1578	Tryon
+T60	Taxon 1589 1596	terebra
+T61	GeographicalLocation 1622 1637	North Australia
+T62	Person 1639 1644	Hinds
+T63	Habitat 1691 1706	Fiji coral reef
+T64	Taxon 1751 1772	Conus quercinus Hwass
+T65	Taxon 1751 1766	Conus quercinus
+T66	GeographicalLocation 1776 1785	Bruguiere
+T67	Taxon 1831 1840	fergusoni
+T68	Taxon 1944 1955	Conus virgo
+T69	Taxon 1944 1962	Conus virgo Gmelin
+T70	Taxon 2137 2151	Conus cingulum
+T71	Taxon 2137 2158	Conus cingulum Martyn
+T72	Taxon 2237 2254	C. xanthicus Dall
+T73	Taxon 2271 2280	fergusoni
+T74	Taxon 2610 2619	xanthicus

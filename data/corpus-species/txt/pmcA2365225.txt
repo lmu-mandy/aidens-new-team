@@ -1,0 +1,196 @@
+Synthesis, Characterization and Antitumour Activity of Some Butyltin(IV) Cysteaminates and N,N-Dimethylcysteaminates
+Abstract
+The synthesis and characterization of four di- and tri-n-butyltin cysteaminates and N,N-dimethylcysteaminates and three protonated / quaternized derivatives are reported. They all exhibit moderate or high in vitro cytotoxic activity. Six of seven compounds presented in this work are more active than cisplatin, etoposide and 5-fluorouracil, but less active than methotrexate and doxorubicin.
+Metal Based Drugs 
+
+ Vol. 7, Nr. 5, 2000 
+
+ SYNTHESIS, CHARACTERIZATION AND ANTITUMOUR ACTITY OF SOME BUTYLTIN(IV) CYSTEAMINATES AND N,N-DIMETHYLCYSTEAMINATES Marcel Gielen Karel Handlir.2, Martin Hollein and Dick de Vos 2 3 
+
+ Departement of General and Organic Chemistry AOSC, Faculty of Applied Sciences, Free University of Brussels VUV, Pleinlaan 2, B-1050 Brussels, Belgium Departement of General and Inorganic Chemistry, Faculty of Chemical Technology, University of Pafdubice, Nam. Cs. legii 565, 53210 Pardubice, Czech Republic Pharmachemie B. V., Haarlem, the Netherlands Abstract. The synthesis and characterization of four di- and tri-n-butyltin cysteaminates and_ N,N-dimethylcysteaminates and three protonated / quaternized derivatives are reported. They all exhibit moderate or high in vitro cytotoxic activity. Six of seven compounds presented in this work are more active than cisplatin, etoposide and 5-fluorouracil, but less active than methotrexate and doxorubiein. Introduction. 
+
+ Several organotin cysteaminates (aminoethylthiolates) have been studied 1-4 as compounds with potentially high biological activity, but little is known about their cytotoxic effect. The present paper reports the synthesis and characterization of di- and tri-n-butyltin cysteaminates and their N,N-dimethyl analogues and their in vitro cytotoxicity. It is shown that a correct evaluation of the biological activity of organotin compounds remains 5 often hampered by their low water solubility. Therefore, we focused on the synthesis of derivatives with potentially higher water solubility by introducing ionic groups into the molecule by protonation or quatemization of a nitrogen atom. Results and discussion. 3 
+
+ 2 
+
+ 4 
+
+ (n-Bu)n Sn [SCH2-CH2-NHm(CH3)2-m]4-n 
+
+ n=3, n=3, n=2, n=2, 
+
+ m=2 m=O m=2 m=O 
+
+ (1) (2) (3) (4) 
+
+ 3 
+
+ 2 
+
+ 4 
+
+ (n-Bu)3 Sn S-CH2-CH2-NHm(CH3)3.m X 
+
+ m=3, x=cn3so3 (5) m 1, X=CH3SO3 (6) m 0, X I (7) 
+
+ n-Bu CH3-CH2-CH2-CH2 
+
+ (2), di-nTri-n-butyltin cysteaminate (1), tri-n-butyltin N,N-dimethylcysteaminate butyltin bis(cysteaminate) (3) and di-n-butyltin bis(N,N-dimethylcysteaminate) (4) were prepared by the reaction of the sodium cysteaminate (prepared in situ by the reaction of sodium methylate with the hydrochloride of eysteamine) with the suitable di-or tri-n-butyltin chloride in chloroform following reference by the reactions of the The methanesulphonates 5 and 6 were respectively synthesized equimolar amount of methane sulphonic acid in unprotonated analogs 1 and 2 with an chloroform. After purification on a short column of alumina and evaporation of the solvent, colourless viscous oils were obtained. The quaternized methyl derivative of 2, the methiodide (7), was prepared by its reaction with methyl iodide in benzene and purified by recrystalization from chloroform. 233 
+
+ M. Gielen, K. Handlir, M. Hollein and D. de Vos Synthesis, Characterization and Antitumor Activity ofSome Butyltin(IV) Cysteaminates and N,N-Dimethylcysteaminates 
+
+ 86 77 85 3 (C4H9)2Sn(SCH2CH2NH2)2 90 4 (C4Hg)zSn(SCH2CHzN(CH3)2)2 92 oil 5 (C4H9)3 SnSCH2CH2NH3 CH3SO3 94 6 oil (C4H9)3 SnSCH2CH2NH(CH3)2 CH3SO3 118-120 74 7 (C4H9).SnSCH.CH.N(CH3)31 The elemental analyses (C, H, N, Sn) agree satisfactorily with the proposed formul 
+
+ Table 1. Melting points and yields for..c0mP0unds 1 ()rmula ,2 comp. 1 (C4H9)3SnSCHzCH2NH2 2 (C4H9)3SnSCHzCH2N(CH3)2 
+
+ 7. 
+
+ m.p., ..b.p.., .C 120-123/40 Pa 129-131/35 Pa 167-169/35 Pa 172-174/40 Pa 
+
+ 'o' 
+
+ yield,.% 
+
+ Compounds 1- 4, and 7, are poorly soluble in aqueous solutions (< mg/mL). Compounds 5 and 6 exhibit higher water solubilities (ca. 2 mg/mL). Compounds 1 7 are soluble in a therapeutic solution (0,103 M solution of NaCl in water/DMSO 1/9). A white turbidity appears in these solutions only after several hours due to slow hydrolysis. Compounds 1 7 were characterized by multinuclear NMR spectroscopy. The NMR parameters are given in Table 2. Table 2. Resonances of 13C, (ca 20% sol. v/v) 1' compound 
+
+ SN and ll9Sn NMR spectra of 2 
+
+ the compounds 1-7 in CDCI3 5 86.3 13.45 
+
+ 6' 'S'n), "ppm 6(3c)a, ppm 
+
+ x 
+
+ 77.6 12.3 
+
+ 77.5 12.75 
+
+ 3 -28.9 22.38 
+
+ 38.' 18.78 
+
+ 4 
+
+ 6' '89.5 13.45 
+
+ 7 93.2 13.60 
+
+ (332) 27.93 
+
+ (331) 27.97 
+
+ (495) 28.27 
+
+ (438) 27.51 
+
+ (322) 28.30 
+
+ (350) 28.34 
+
+ (339) 28.47 
+
+ (21.3) 26.32 
+
+ (21.1 ) 26.38 
+
+ (28.4) 26.42 
+
+ (26.4) 25.90 
+
+ (21.4) 26.85 
+
+ (21.3) 26.81 
+
+ (22.0) 26.91 
+
+ (59.6) 12.89 
+
+ (59.8) 12.95 
+
+ (87.1) 13.35 
+
+ (83.8) 12.82 
+
+ (62.7) 13.45 
+
+ (61.4) 13.58 
+
+ 62.2) 14.00 
+
+ (-) 30.31 45.02 
+
+ (-) 23.59 63.12 44.71 
+
+ (-) 30.04 44.44 
+
+ (-) 23.84 61.84 44.46 
+
+ (-) 23.92 43.08 
+
+ (-; 
+
+ (-) 
+
+ 20.94 19.70 60.94 69.49 43.42 54.18 39.15 39.16 -360.4 -354.0 -355.3 -354.4 -349.4 -344.2 -325.8 1.1 6.2 1.5 1.5 12.7 11.7 30.1 13 a'values of nJ(n J 9 Sn, ,C) c0uplihg constants in Hz'for Carbon ato]ns in parentlee's difference btween (N) for the organo.i compound and free cysteamine, 6(N) 361.5 ppm; N,N-dimethylcysteamine, 5(N) -355.9 ppm) not observed 
+
+ C resonances were assigned on the basis of the values of n J( 119 Sn, 13 C) coupling constants and standard 13 C- APT techniques utilization in agreement with ref.. The values of 119 Sn chemical shifts are found in the interval characteristic for fourcoordinated tin 6,7. The values of the coupling constants j(1 lqSn,13C) agree with the structure proposed. Compound 3 is characterized by a somewhat larger upfield shift, close to the upper limit of the above mentioned interval, together with a high value of 1j(l lqSn,13C) (495 Hz). 67 The C-Sn-C angle, est'mated, from this value of coupling constant is 124 According to ref. this behaviour can be due to intermolecular association increasing the coordinatitn number of tin in concentrated solutions, as suggested by the concentration dependence of tS( Sn) and cryoscopic measurements in benzene. The values of the 6(SN)chemical shifts of compounds 1, 2 and 4 only slightly differ from the (15N) values of the free cysteamine. The significantly larger i(15N) chemical shift of compound 3 is however much lower than those of compounds 5, 6 and 7 containing a N interaction in compounds 1 tetracoordinated nitrogen atom. It can be stated that the Sn 4 is negligible or only very weak in chlorofom solutions. This conclusion is not in contradiction with the proved Sn N interaction found in the solid state 8. 13 
+
+ . 
+
+ , 
+
+ 
+
+ 
+
+ 234 
+
+ Metal Based Drugs 
+
+ Vol. 7, Nr. 5, 2000 
+
+ Antitumour activity. 
+
+ The results of the in vitro antitumour tests of compounds 1 7 are given in Table 3 as the inhibition doses IDs0 observed against a panel of seven human tumour cell lines, MCF-7 and EVSA-T, two breast cancers, WiDr, a colon cancer, IGROV, an ovarian cancer, M19 MEL, a melanoma, A248, a renal cancer, and H226, a non-small cell lung cancer. The antitumour tests results are compared with those obtained for clinically used reference compounds9 like cisplatin, doxorubicin, etoposide, 5-fluorouracil and methotrexate. Table 3. Inhibition doses 
+
+ comp. 1 2 3 4 5 6 7 
+
+ MF-7 41 41 51 78 30 90 385 699 10 2 594 750 18 
+
+ EVSA-T 33 35 45 65 <3 57 367 
+
+ IDs0 of compounds WiDr 39 39 211 331 19 40 339 
+
+ 1- 7 and of five reference compounds. IGROV M19MEL A498 H226 67 44 85 39 46 78 88 39 68 70 118 72 110 129 108 112 31 29 36 42 83 133 77 111 327 758 576 411 169 60 580 297 7 558 16 505 442 23 
+
+ cisplatin doxorubicin 
+
+ etoposide 5-fluorouracil 
+
+ 422 8 317 475 5 
+
+ methotrexate 
+
+ 967 11 150 225 <3 
+
+ 2 253 90 314 143 37 
+
+ 3 369 199 3 934 340 2 287 
+
+ It is evident from Table 3 that all studied compounds exhibit excellent cytostatic activities, except compound 7 showing only moderate activity. Compounds 1 6 are more active than cisplatin and, in most cases, than etoposide and 5-fluorouracil. Their activity is lower than that of doxorubicin and methotrexate in most cases for the studied cancer cell lines. The very limited set of acquired activity values show that the activity of tri-n-butyltin are higher than those of di-n-butyl analogues (1>3, 2>4) for all cell lines, especially compounds against WiDr. The N,N-dimethyl derivatives exhibit an activity comparable to or somewhat higher than that of unmethylated compounds. Compound 8, with a quaternized nitrogen, exhibits the lowest cytotoxic activities, approximatively 9 times lower than compound 2. It might be underlined that the ionic more water-soluble compounds 5 and 6 are not more active than the uncharged analogs 1-4, whereas the hydrophilic organotin polyoxacarboxylates exhibit much higher in vitro activities than other organotin carxylates 51 Compounds 5 and 6 (with a protonated nitrogen) exhibit activities comparable or even considerably higher (compound 5)against EVSA-T than the corresponding unprotonated compounds. Compound 7 (with a quaternized nitrogen) exhibits the lowest cytostatic activities, approximately 9 times should however be mentioned that another ionic organotin lower than compound 2. It compound, bis(dicyclohexyl)ammonium bis(2,6-pyridinecarboxyla,to)di-n-butylstannate, where the organotin moiety is this time anionic, is also as active as the uncharged analog l. All NMR spectra were recorded on a Bruker AMX 360 instrument using a 5 mm multinuclear tuneable probe. The residual CHCI3 resonance at 7.24 ppm was used as reference for the H soectra and the central 13CDCI3 resonance at 77.0 ppm, for the 13C spectra. The 119 Sn chemical shifts were refered to the external tetramethyltin [6( 119 Sn) 0.0]. The 15N NMR spectra were measur;l using the INEPT technique or in inverse-gated mode. (reference: Instrumentation. 
+
+ external nitromethane, [5('N) 0.0]). The protocol followed for the in vitro antitumour screenings has been already reported 10. 
+
+ Acknowledgements. K. H. and M H. thank the Grant Agency of the Czech Republic (Grant No. 203/00/0920) and the Ministry o" Education, Youth and Sport of the Czech republic, associated with EU in the COST 8.20 program for financial support of this work. We are grateful to Mr. R. G. Experimental Oostrum, Dr. J. verweij, Prof. Dr. G. Stoter, r.K. Nooter, Laboratory of Chemotherapy and Pharmacology, Department of Medical Oncology, Rotterdam Cancer 235 
+
+ M. Gielen, K. Handlir, M. HoHein and D. de Vos Synthesis, Characterization and Antitumor Activity ofSome Butyltin(IV) Cysteaminates and N,N-Dimethylcysteaminates 
+
+ Institute, NL 3008 AE, Rotterdam, The Netherlands, for performing the in vitro tests. This research was supported by the Fund for Scientific Research Flanders (Belgium), grant nr G.0074.00, M. G.). 
+
+ References. 1. B.S. Saraswat, J. Mason, Polyhedron(9), 5 (1986), 1449. 2. G. Domazetis, R. J. Magee, B. D. James, J. Organomet. Chem, 162 (1978), 239. 3. J.D. Cashion, G. Domazetis, B. D. James, J. Organomet. Chem, 185 (1980), 433. 4. G. Domazetis, R. J. Magee, B. D. James, J. Organomet. Chem, 148 (1978), 339. 5. G. Atassi, Rev. Si Ge Sn Pb Cpds, 8 (1985), 219; M. Kemmer, M. Gielen, M. Biesemans, D. de Vos, R. Willem, Metal-Based Drugs 5 (1998), 189; M. Gielen, M. Biesemans, D. de Vos, R. Willem, J. Inorg. Biochem., 79 (2000), 139. 6. J. Holecek, A. Lycka, Inorg. Chim. Acta, 118 (1986), L 15. 7. J. Holecek, M. Nadvomik, K. Handlir, A. Lycka, J. Organomet. Chem., 315 (1986), 299. 8. B.D. James, R. J. Magee, W. C. Patalinghug, B. W. Skelton, A. H. White, J. Organomet. Chem, 467 (1994), 51 9. P. Skehan, R. Storeng, D. Scudiero, A. Monks, J. McMahon, D. Vistica, J. T. Warren, H. Bokesh, S. Kenney, M. R. Boyd, J.. Natl. Cancer lnst., 82 (1990), 1107. 10. Y. P. Kepers, G. J. Peters, J. Van Ark-Otte, B. Winograd, H. M. Pinedo, Eur. J. Cancer, 27 (1991), 897. 11. M. Kemmer, L. Ghys, M. Gielen, M. Biesemans, E. R. T. Tiekink, R. Willem, J. Organomet. Chem. 582 (1999), 195. 12. S. W. Ng, V. G. Kumar Das, J. Holecek, A. Lycka, M. Gielen, M. G. B. Drew, Appl. Organomet. Chem. 11 (1997), 3 9. 
+
+ Received" September 22, 2000 Accepted- October 19, 2000 Received in revised camera-ready format- October 20, 2000 
+
+ 236 
+
+  

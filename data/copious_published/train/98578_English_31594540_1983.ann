@@ -1,0 +1,64 @@
+T1	Taxon 23 50	brachiopod-coralline sponge
+T2	GeographicalLocation 68 77	Caribbean
+T3	Habitat 232 237	caves
+T4	Taxon 355 376	Sphenarina ezogremena
+T5	Taxon 381 407	Septicollarina hemichinata
+T6	GeographicalLocation 478 486	Bali Sea
+T7	GeographicalLocation 588 604	San Juan Islands
+T8	GeographicalLocation 606 622	Washington State
+T9	GeographicalLocation 643 677	southern coast of British Columbia
+T10	GeographicalLocation 679 685	Canada
+T11	Taxon 840 850	Lingulidae
+T12	Taxon 855 865	Discinidae
+T13	Taxon 938 948	Lingulidae
+T14	GeographicalLocation 1028 1041	east Atlantic
+T15	Taxon 1079 1088	Glottidia
+T16	Taxon 1156 1166	Discinidae
+T17	Taxon 1268 1277	Craniidae
+T18	Taxon 2576 2588	Inarticulata
+T19	Taxon 3055 3063	crinoids
+T20	GeographicalLocation 3772 3777	Japan
+T21	GeographicalLocation 3788 3799	Philippines
+T22	GeographicalLocation 3808 3816	Thailand
+T23	GeographicalLocation 79 86	Jamaica
+T24	GeographicalLocation 88 95	Curasao
+T25	GeographicalLocation 98 105	Red Sea
+T26	GeographicalLocation 110 117	Pacific
+T27	Habitat 207 228	interiors of crevices
+T28	Habitat 186 195	overhangs
+T29	Habitat 151 182	undersides of foliaceous corals
+T30	Taxon 514 524	brachiopod
+T31	GeographicalLocation 564 575	Puget Sound
+T32	GeographicalLocation 624 629	U.S.A
+T33	Taxon 692 703	Brachiopods
+T34	Habitat 738 747	sea shore
+T35	Taxon 811 835	inarticulate brachiopods
+T36	Habitat 875 883;900 907	tropical regions
+T37	Habitat 888 907	subtropical regions
+T38	Taxon 978 985	Lingula
+T39	Habitat 998 1020	shallow inshore waters
+T40	GeographicalLocation 1046 1071	Indo-west Pacific regions
+T41	GeographicalLocation 1123 1131	Americas
+T42	Habitat 1185 1197	shelf waters
+T43	Habitat 1309 1331	temperate shelf waters
+T44	Taxon 1448 1459	brachiopods
+T45	Habitat 1644 1670	aggregated sediment grains
+T46	Habitat 1681 1696	soft substrates
+T47	Taxon 1725 1733	plankton
+T48	Habitat 1946 1974	areas of soft, fine sediment
+T49	Taxon 2590 2599	lingulids
+T50	Habitat 2623 2658	vertical burrows in sandy sediments
+T51	Taxon 2763 2771	Craniids
+T52	Taxon 2824 2833	discinids
+T53	Taxon 3020 3029	lingulids
+T54	Taxon 3034 3043	discinids
+T55	Taxon 3254 3264	brachiopod
+T56	Habitat 3295 3315	fossil-bearing rocks
+T57	Taxon 3348 3359	Brachiopods
+T58	TemporalExpression 3447 3464	550 million years
+T59	Taxon 3541 3548	Lingula
+T60	TemporalExpression 3660 3677	500 million years
+T61	Taxon 3709 3719	brachiopod
+T62	Taxon 3728 3735	Lingula
+T63	GeographicalLocation 3801 3806	Burma
+T64	Taxon 3852 3861	discinids

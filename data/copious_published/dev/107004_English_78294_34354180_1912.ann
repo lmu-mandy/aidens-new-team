@@ -1,0 +1,66 @@
+T1	Taxon 20 37	EPIMYS Trouessart
+T2	Taxon 45 62	Epimys Trouessart
+T3	Taxon 113 123	Mus rattus
+T4	Taxon 113 132	Mus rattus Linnaeus
+T5	Taxon 139 143	rats
+T6	Taxon 262 272	Norway rat
+T7	Taxon 355 359	Tail
+T8	Taxon 410 416	Molars
+T9	Taxon 469 487	Epimys albigularis
+T10	Taxon 504 519	Mus albigularis
+T11	GeographicalLocation 576 585	Mount Apo
+T12	GeographicalLocation 587 595	Mindanao
+T13	GeographicalLocation 611 619	Mindanao
+T14	Taxon 630 643	Epimys calcis
+T15	Taxon 661 674	Epimys calcis
+T16	GeographicalLocation 748 763	Limestone Hills
+T17	GeographicalLocation 770 779	Lime Kiln
+T18	GeographicalLocation 781 787	Baguio
+T19	GeographicalLocation 789 796	Benguet
+T20	GeographicalLocation 798 803	Luzon
+T21	GeographicalLocation 805 810	Luzon
+T22	Taxon 824 836	Epimys datae
+T23	GeographicalLocation 968 978	Mount Data
+T24	GeographicalLocation 980 994	northern Luzon
+T25	GeographicalLocation 996 1001	Luzon
+T26	Taxon 1011 1027	Epimys ephippium
+T27	Taxon 1045 1058	Mus ephippium
+T28	Taxon 1104 1120	Epimys ephippium
+T29	GeographicalLocation 1184 1191	Sumatra
+T30	GeographicalLocation 1193 1200	Palawan
+T31	Taxon 1215 1230	Epimys everetti
+T32	Taxon 1249 1261	Mus everetti
+T33	GeographicalLocation 1288 1294	London
+T34	Taxon 1306 1321	Epimys everetti
+T35	GeographicalLocation 1389 1407	Philippine Islands
+T36	GeographicalLocation 1409 1414	Luzon
+T37	GeographicalLocation 1430 1438	Mindanao
+T38	Taxon 1448 1459	Epimys gala
+T39	Taxon 1474 1485	Epimys gala
+T40	GeographicalLocation 1553 1563	Alag River
+T41	GeographicalLocation 1565 1572	Mindoro
+T42	GeographicalLocation 1574 1581	Mindoro
+T43	Taxon 1592 1606	Epimys kelleri
+T44	Taxon 1623 1634	Mus kelleri
+T45	GeographicalLocation 1691 1696	Davao
+T46	GeographicalLocation 1698 1706	Mindanao
+T47	GeographicalLocation 1708 1716	Mindanao
+T48	Taxon 1045 1066	Mus ephippium JENTINK
+T49	Taxon 630 653	Epimys calcis Hollister
+T50	Taxon 661 684	Epimys calcis Hollister
+T51	Taxon 1011 1037	Epimys ephippium (Jentink)
+T52	Taxon 469 496	Epimys albigularis (Mearns)
+T53	Taxon 1104 1125	Epimys ephippium LYON
+T54	Taxon 1215 1241	Epimys everetti (Giinther)
+T55	Taxon 1306 1328	Epimys everetti MILLER
+T56	Taxon 1474 1492	Epimys gala Miller
+T57	Taxon 1448 1466	Epimys gala Miller
+T58	Taxon 1623 1641	Mus kelleri MEARNS
+T59	Taxon 1592 1615	Epimys kelleri (Mearns)
+T60	Taxon 45 68	Epimys Trouessart, Bull
+T61	Taxon 504 526	Mus albigularis Mearns
+T62	Taxon 824 844	Epimys datae (Meyer)
+T63	Taxon 852 861	Mus datae
+T64	Taxon 852 867	Mus datae Meyer
+T65	Person 1079 1085	Leyden
+T66	Taxon 1249 1269	Mus everetti Gunther

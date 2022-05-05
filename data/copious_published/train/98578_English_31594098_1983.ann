@@ -1,0 +1,67 @@
+T1	GeographicalLocation 204 213	Indonesia
+T2	Taxon 320 339	Culcita novaeguinea
+T3	Taxon 359 376	Linckia laevigata
+T4	Taxon 402 420	Acanthaster planci
+T5	GeographicalLocation 924 941	South Sea islands
+T6	GeographicalLocation 943 952	Indonesia
+T7	GeographicalLocation 1134 1145	Philippines
+T8	GeographicalLocation 1211 1228	Queensland waters
+T9	TemporalExpression 1361 1366	1950s
+T10	GeographicalLocation 1455 1470	Thursday Island
+T11	GeographicalLocation 1478 1492	Torres Straits
+T12	GeographicalLocation 1558 1566	Marianas
+T13	GeographicalLocation 1571 1580	Carolines
+T14	TemporalExpression 1588 1593	1960s
+T15	TemporalExpression 1718 1722	1971
+T16	GeographicalLocation 1776 1788	Manus Island
+T17	GeographicalLocation 1790 1806	Papua New Guinea
+T18	TemporalExpression 1862 1867	1970s
+T19	TemporalExpression 1882 1886	1971
+T20	GeographicalLocation 2022 2033	Philippines
+T21	Taxon 2084 2095	C. tritonis
+T22	Taxon 2483 2494	C. tritonis
+T23	Taxon 2669 2680	C. tritonis
+T24	Taxon 2772 2783	C. tritonis
+T25	GeographicalLocation 3210 3234	southern Japanese waters
+T26	GeographicalLocation 3266 3277	Philippines
+T27	TemporalExpression 3326 3330	1981
+T28	Taxon 3361 3372	C. tritonis
+T29	GeographicalLocation 3402 3407	Palau
+T30	GeographicalLocation 3492 3501	Caribbean
+T31	Taxon 3872 3883	C. tritonis
+T32	Taxon 4 16	Giant Triton
+T33	Habitat 54 65	coral reefs
+T34	Habitat 44 50	corals
+T35	GeographicalLocation 74 92	Great Barrier Reef
+T36	Habitat 114 128	seaward slopes
+T37	Habitat 135 161	coral pinnacles in lagoons
+T38	Habitat 237 252	sand near coral
+T39	Taxon 345 358	blue starfish
+T40	Taxon 385 400	Crown-of-thorns
+T41	Taxon 490 499	A. planci
+T42	TemporalExpression 598 607	six years
+T43	Habitat 719 741	under protective rocks
+T44	GeographicalLocation 954 960	Hawaii
+T45	GeographicalLocation 969 979	Seychelles
+T46	TemporalExpression 984 993	centuries
+T47	GeographicalLocation 1331 1349	Great Barrier Reef
+T48	Taxon 1430 1437	trochus
+T49	TemporalExpression 1603 1607	1970
+T50	GeographicalLocation 1650 1661	Suva market
+T51	GeographicalLocation 1663 1667	Fiji
+T52	GeographicalLocation 1872 1878	Hawaii
+T53	TemporalExpression 1937 1941	1978
+T54	TemporalExpression 2000 2004	1981
+T55	Habitat 2124 2134	coral reef
+T56	Taxon 2167 2191	Crown-of-thorns Starfish
+T57	Taxon 2324 2335	Acanthaster
+T58	GeographicalLocation 2353 2370	Indo-west Pacific
+T59	Taxon 2561 2570	A. planci
+T60	Taxon 2838 2853	Crown-of-thorns
+T61	GeographicalLocation 3136 3147	Guam waters
+T62	Taxon 3287 3300	Giant Tritons
+T63	TemporalExpression 3344 3360	end of the 1960s
+T64	GeographicalLocation 3412 3416	Rota
+T65	GeographicalLocation 3424 3431	Pacific
+T66	Taxon 3526 3543	Variegated Triton
+T67	Taxon 3544 3556	C. variegata

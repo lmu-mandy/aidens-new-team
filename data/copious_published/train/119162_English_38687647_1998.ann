@@ -1,0 +1,56 @@
+T1	GeographicalLocation 1650 1659	Australia
+T2	GeographicalLocation 2274 2288	Atlantic Ocean
+T3	TemporalExpression 2871 2875	1990
+T4	TemporalExpression 3084 3088	1988
+T5	GeographicalLocation 3175 3183	Sulu Sea
+T6	GeographicalLocation 3185 3196	Philippines
+T7	TemporalExpression 3223 3233	late 1980s
+T8	TemporalExpression 3373 3377	1989
+T9	GeographicalLocation 3454 3465	Philippines
+T10	TemporalExpression 3516 3520	1994
+T11	TemporalExpression 3639 3643	1988
+T12	TemporalExpression 3733 3737	1997
+T13	TemporalExpression 3831 3835	1998
+T14	TemporalExpression 4156 4160	1989
+T15	GeographicalLocation 4274 4285	Philippines
+T16	TemporalExpression 4312 4322	late 1970s
+T17	GeographicalLocation 4435 4450	Central Visayas
+T18	TemporalExpression 5050 5054	1992
+T19	GeographicalLocation 5209 5219	Apo Island
+T20	Habitat 398 402	reef
+T21	Habitat 537 541	reef
+T22	Habitat 653 657	reef
+T23	Habitat 721 731	coral reef
+T24	Habitat 957 961	reef
+T25	Habitat 1013 1017	reef
+T26	Habitat 1144 1148	reef
+T27	Habitat 1223 1228	reefs
+T28	Habitat 1310 1315	Reefs
+T29	Habitat 1397 1401	reef
+T30	Habitat 1712 1723	coral reefs
+T31	Habitat 2092 2102	coral reef
+T32	Habitat 2182 2187	Reefs
+T33	GeographicalLocation 2234 2254	BERMUDAS CORAL REEFS
+T34	GeographicalLocation 2265 2272	Bermuda
+T35	Taxon 2324 2331	grouper
+T36	Taxon 2336 2343	snapper
+T37	TemporalExpression 2405 2414	mid-1970s
+T38	Taxon 2456 2463	grouper
+T39	Habitat 2522 2526	reef
+T40	TemporalExpression 2573 2577	1975
+T41	TemporalExpression 2582 2586	1985
+T42	Habitat 2723 2727	reef
+T43	Person 2956 2963	Bermuda
+T44	Habitat 3108 3112	reef
+T45	GeographicalLocation 3150 3164	TUBBATAHA REEF
+T46	TemporalExpression 3346 3362	five-year period
+T47	Habitat 4077 4082	reefs
+T48	Habitat 4105 4115	coral reef
+T49	Habitat 4426 4431	reefs
+T50	GeographicalLocation 4216 4219;4234 4246	APO ISLAND REEFS
+T51	GeographicalLocation 4224 4246	BALICASAG ISLAND REEFS
+T52	GeographicalLocation 4257 4272	Central Visayas
+T53	TemporalExpression 4527 4536	mid-1980s
+T54	TemporalExpression 4564 4568	1997
+T55	Habitat 4780 4784	reef
+T56	Habitat 5224 5229	REEFS

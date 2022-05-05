@@ -1,0 +1,71 @@
+T1	GeographicalLocation 15 33	PHILIPPINE ISLANDS
+T2	Taxon 38 58	Pithecus mindanensis
+T3	Taxon 38 70	Pithecus mindanensis mindanensis
+T4	Taxon 87 109	Cynomolgus mindanensis
+T5	Taxon 87 116	Cynomolgus mindanensis Mearns
+T6	GeographicalLocation 166 172	Pantar
+T7	GeographicalLocation 174 182	Mindanao
+T8	GeographicalLocation 196 203	Basilan
+T9	GeographicalLocation 214 222	Mindanao
+T10	Taxon 233 253	Pithecus mindanensis
+T11	Taxon 233 262	Pithecus mindanensis apoensis
+T12	Taxon 279 301	Cynomolgus mindanensis
+T13	Taxon 279 310	Cynomolgus mindanensis apoensis
+T14	GeographicalLocation 367 376	Mount Apo
+T15	GeographicalLocation 378 386	Mindanao
+T16	GeographicalLocation 402 410	Mindanao
+T17	Taxon 421 439	Pithecus suluensis
+T18	Taxon 456 476	Cynomolgus suluensis
+T19	Taxon 456 483	Cynomolgus suluensis Mearns
+T20	GeographicalLocation 533 553	Crater Lake Mountain
+T21	GeographicalLocation 555 559	Sulu
+T22	GeographicalLocation 561 565	Sulu
+T23	Taxon 575 592	Pithecus syrichta
+T24	Taxon 611 625	Simia syrichta
+T25	Taxon 666 688	Macacus philippinensis
+T26	GeographicalLocation 762 768	Manila
+T27	GeographicalLocation 770 775	Luzon
+T28	Taxon 783 802	Macacus palpebrosus
+T29	GeographicalLocation 840 846	Manila
+T30	GeographicalLocation 848 853	Luzon
+T31	Taxon 861 872	Macacus fur
+T32	GeographicalLocation 925 930	Luzon
+T33	Taxon 938 956	Macacus cynomolgus
+T34	Taxon 982 986	Monk
+T35	Taxon 861 878	Macacus fur Slack
+T36	Taxon 988 994	Lemurs
+T37	Taxon 1000 1017	Fruit-eating Bats
+T38	GeographicalLocation 1024 1042	Philippine Islands
+T39	GeographicalLocation 1061 1066	Luzon
+T40	GeographicalLocation 1068 1073	Leyte
+T41	GeographicalLocation 1085 1090	Luzon
+T42	GeographicalLocation 1102 1109	Mindoro
+T43	GeographicalLocation 1121 1127	Negros
+T44	GeographicalLocation 1139 1146	Palawan
+T45	GeographicalLocation 1158 1163	Samar
+T46	Taxon 1180 1192	CYNOPITHECUS
+T47	Taxon 1211 1223	Cynopithecus
+T48	Taxon 1343 1361	Cynopithecus niger
+T49	Taxon 1343 1373	Cynopithecus niger (Desmarest)
+T50	Taxon 1379 1399	black ape of Celebes
+T51	Taxon 1418 1426	Pithecus
+T52	Taxon 1458 1476	Cynopithecus niger
+T53	Taxon 1458 1488	Cynopithecus niger (Desmarest)
+T54	Taxon 1496 1514	Cynocephalus niger
+T55	Taxon 1496 1524	Cynocephalus niger Desmarest
+T56	Taxon 1563 1581	Cynopithecus niger
+T57	GeographicalLocation 1653 1671	Indian Archipelago
+T58	GeographicalLocation 1682 1689	Celebes
+T59	GeographicalLocation 1691 1697	Negros
+T60	GeographicalLocation 1708 1712	Sulu
+T61	Person 1755 1762	Sanchez
+T62	Taxon 38 79	Pithecus mindanensis mindanensis (Mearns)
+T63	Taxon 233 271	Pithecus mindanensis apoensis (Mearns)
+T64	Taxon 279 317	Cynomolgus mindanensis apoensis Mearns
+T65	Taxon 575 603	Pithecus syrichta (Linnaeus)
+T66	Taxon 611 633	Simia syrichta LINN^US
+T67	Taxon 938 970	Macacus cynomolgus var. cumingii
+T68	Taxon 938 975	Macacus cynomolgus var. cumingii Gray
+T69	Taxon 1211 1235	Cynopithecus I. Geoffroy
+T70	Taxon 1180 1203	CYNOPITHECUS L Geoffroy
+T71	Taxon 1563 1588	Cynopithecus niger Lesson

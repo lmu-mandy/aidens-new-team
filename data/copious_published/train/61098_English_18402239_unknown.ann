@@ -1,0 +1,20 @@
+T1	GeographicalLocation 32 43	PHILIPPINES
+T2	Habitat 1098 1103;1114 1120	shady places
+T3	Habitat 1108 1120	moist places
+T4	TemporalExpression 1132 1136	July
+T5	Taxon 1138 1159	Carum copticum, Benth
+T6	Taxon 1162 1175	C. ajowan, DC
+T7	Taxon 1177 1190	Ammi copticum
+T8	Taxon 1195 1218	A. glaucifolium, Blanco
+T9	Taxon 1221 1241	Daucus opticus, Pers
+T10	Taxon 1243 1264	D. anisodorus, Blanco
+T11	Taxon 1279 1286	Lamudio
+T12	Taxon 1288 1294	Damoro
+T13	Taxon 1301 1308	Lamudio
+T14	Taxon 1315 1322	Caraway
+T15	Taxon 1391 1396	anise
+T16	Taxon 1138 1152	Carum copticum
+T17	Taxon 1162 1171	C. ajowan
+T18	Taxon 1195 1210	A. glaucifolium
+T19	Taxon 1221 1235	Daucus opticus
+T20	Taxon 1243 1256	D. anisodorus
